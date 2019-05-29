@@ -1,0 +1,1 @@
+How does Weblate work?
