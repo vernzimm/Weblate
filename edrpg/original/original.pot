@@ -1,0 +1,11283 @@
+msgid "DC2-JB01"
+msgstr ""
+
+msgid "DC2-JB02"
+msgstr ""
+
+msgid "DC2-JB03"
+msgstr ""
+
+msgid "DC2-JB04"
+msgstr ""
+
+msgid "DC2-JB05"
+msgstr ""
+
+msgid "DC2-JB06"
+msgstr ""
+
+msgid "DC2-JB07"
+msgstr ""
+
+msgid "DC2-JB08"
+msgstr ""
+
+msgid "DC2-JB09"
+msgstr ""
+
+msgid "DC2-JB10"
+msgstr ""
+
+msgid "DC2-JB11"
+msgstr ""
+
+msgid "DC2-JB12"
+msgstr ""
+
+msgid "DC2-JB13"
+msgstr ""
+
+msgid "DC2-JB14"
+msgstr ""
+
+msgid "DC2-JB15"
+msgstr ""
+
+msgid "DC2-JB16"
+msgstr ""
+
+msgid "DC2-JB17"
+msgstr ""
+
+msgid "DC2-JB18"
+msgstr ""
+
+msgid "DC2-JB19"
+msgstr ""
+
+msgid "DC2-JB20"
+msgstr ""
+
+msgid "DC3-JB01"
+msgstr ""
+
+msgid "DC3-JB02"
+msgstr ""
+
+msgid "DC3-JB03"
+msgstr ""
+
+msgid "DC3-JB04"
+msgstr ""
+
+msgid "DC3-JB05"
+msgstr ""
+
+msgid "DC3-JB06"
+msgstr ""
+
+msgid "DC3-JB07"
+msgstr ""
+
+msgid "DC3-JB08"
+msgstr ""
+
+msgid "DC3-JB09"
+msgstr ""
+
+msgid "DC3-JB10"
+msgstr ""
+
+msgid "DC3-JB11"
+msgstr ""
+
+msgid "DC3-JB12"
+msgstr ""
+
+msgid "DC3-JB13"
+msgstr ""
+
+msgid "DC3-JB14"
+msgstr ""
+
+msgid "DC3-JB15"
+msgstr ""
+
+msgid "DC3-JB16"
+msgstr ""
+
+msgid "DC3-JB17"
+msgstr ""
+
+msgid "DC3-JB18"
+msgstr ""
+
+msgid "DC3-JB19"
+msgstr ""
+
+msgid "DC3-JB20"
+msgstr ""
+
+msgid "DC-ABL00001"
+msgstr ""
+
+msgid "DC-ABL00002"
+msgstr ""
+
+msgid "DC-ABL00003"
+msgstr ""
+
+msgid "DC-ABL00004"
+msgstr ""
+
+msgid "DC-ABL00005"
+msgstr ""
+
+msgid "DC-ABL00006"
+msgstr ""
+
+msgid "DC-ABL00007"
+msgstr ""
+
+msgid "DC-ABL00008"
+msgstr ""
+
+msgid "DC-ABL00009"
+msgstr ""
+
+msgid "DC-ABL00010"
+msgstr ""
+
+msgid "DC-ABL00011"
+msgstr ""
+
+msgid "DC-ABL00012"
+msgstr ""
+
+msgid "DC-ABL00013"
+msgstr ""
+
+msgid "DC-ABL00014"
+msgstr ""
+
+msgid "DC-ABL00015"
+msgstr ""
+
+msgid "DC-ABL00016"
+msgstr ""
+
+msgid "DC-ABL00017"
+msgstr ""
+
+msgid "DC-ABL00018"
+msgstr ""
+
+msgid "DC-ABL00019"
+msgstr ""
+
+msgid "DC-ABL00020"
+msgstr ""
+
+msgid "DC-ABL99999"
+msgstr ""
+
+msgid "DC-About-PrepareItems"
+msgstr ""
+
+msgid "DC-AddGift"
+msgstr ""
+
+msgid "DC-AdvResult-Abandon"
+msgstr ""
+
+msgid "DC-AdvResult-Gameover"
+msgstr ""
+
+msgid "DC-AdvResult-Satan"
+msgstr ""
+
+msgid "DC-AdvResult-Timeout"
+msgstr ""
+
+msgid "DC-AdvResult-TrueSatan"
+msgstr ""
+
+msgid "DC-Already-Buy"
+msgstr ""
+
+msgid "DC-Alt-Appear-TrueSatan"
+msgstr ""
+
+msgid "DC-Alt-Buy"
+msgstr ""
+
+msgid "DC-Alt-CantWorkNow"
+msgstr ""
+
+msgid "DC-Alt-Clear-Infiniter"
+msgstr ""
+
+msgid "DC-Alt-EarnAbility"
+msgstr ""
+
+msgid "DC-Alt-EarnPotential"
+msgstr ""
+
+msgid "DC-Alt-LinkQuestAchive"
+msgstr ""
+
+msgid "DC-Alt-NoMaterialOnAttach"
+msgstr ""
+
+msgid "DC-Alt-Plz-Restart"
+msgstr ""
+
+msgid "DC-Alt-Reset"
+msgstr ""
+
+msgid "DC-Alt-Rest-1day"
+msgstr ""
+
+msgid "DC-Alt-RivalFindGain"
+msgstr ""
+
+msgid "DC-Alt-UsedFieldSkill"
+msgstr ""
+
+msgid "DC-Alt-UsedItem"
+msgstr ""
+
+msgid "DC-Alt-UsedMinion"
+msgstr ""
+
+msgid "DC-AnyTrade"
+msgstr ""
+
+msgid "DC-AR01"
+msgstr ""
+
+msgid "DC-AR02"
+msgstr ""
+
+msgid "DC-AR03"
+msgstr ""
+
+msgid "DC-AR04"
+msgstr ""
+
+msgid "DC-AR05"
+msgstr ""
+
+msgid "DC-AR06"
+msgstr ""
+
+msgid "DC-AR07"
+msgstr ""
+
+msgid "DC-AR08"
+msgstr ""
+
+msgid "DC-AR09"
+msgstr ""
+
+msgid "DC-AR10"
+msgstr ""
+
+msgid "DC-AR11"
+msgstr ""
+
+msgid "DC-AR12"
+msgstr ""
+
+msgid "DC-AR13"
+msgstr ""
+
+msgid "DC-AR14"
+msgstr ""
+
+msgid "DC-AR15"
+msgstr ""
+
+msgid "DC-AR16"
+msgstr ""
+
+msgid "DC-AreYouOK"
+msgstr ""
+
+msgid "DC-AutoEscape"
+msgstr ""
+
+msgid "DC-Bounty-Sheet"
+msgstr ""
+
+msgid "DC-Btn-MassReceive"
+msgstr ""
+
+msgid "DC-Btn-Rival-Battle"
+msgstr ""
+
+msgid "DC-Btn-Rival-Penalty"
+msgstr ""
+
+msgid "DC-Btn-Rival-Secret"
+msgstr ""
+
+msgid "DC-Btn-SelectThisGear"
+msgstr ""
+
+msgid "DC-Btn-Sup-Quests"
+msgstr ""
+
+msgid "DC-Btn-Sup-Trade"
+msgstr ""
+
+msgid "DC-BuffedByPartner"
+msgstr ""
+
+msgid "DC-BuffPartner"
+msgstr ""
+
+msgid "DC-CanNotCamp"
+msgstr ""
+
+msgid "DC-CanNotTrade"
+msgstr ""
+
+msgid "DC-CanReadAfterSatan"
+msgstr ""
+
+msgid "DC-CanReadAfterTrueSatan"
+msgstr ""
+
+msgid "DC-CantUseAtThisItem"
+msgstr ""
+
+msgid "DC-CCE01"
+msgstr ""
+
+msgid "DC-Cfm-ChestReset"
+msgstr ""
+
+msgid "DC-Cfm-Escape"
+msgstr ""
+
+msgid "DC-Cfm-UnityAds"
+msgstr ""
+
+msgid "DC-ChronoShard"
+msgstr ""
+
+msgid "DC-ClearArea1"
+msgstr ""
+
+msgid "DC-ClearArea2"
+msgstr ""
+
+msgid "DC-Clear-DragonValley1"
+msgstr ""
+
+msgid "DC-Clear-DragonValley2"
+msgstr ""
+
+msgid "DC-Clear-Dungeon1"
+msgstr ""
+
+msgid "DC-Clear-Dungeon2"
+msgstr ""
+
+msgid "DC-ClearDungeonNum"
+msgstr ""
+
+msgid "DC-ClearSameAreaDungeon"
+msgstr ""
+
+msgid "DC-CloseInvasion"
+msgstr ""
+
+msgid "DC-CloseSecret"
+msgstr ""
+
+msgid "DC-Cond-SupRank"
+msgstr ""
+
+msgid "DC-Cond-UsedAbilityPoint"
+msgstr ""
+
+msgid "DC-Confirm-Abandon"
+msgstr ""
+
+msgid "DC-Confirm-Any-Use"
+msgstr ""
+
+msgid "DC-Confirm-Any-Use-No-Target"
+msgstr ""
+
+msgid "DC-Confirm-Buy-Common"
+msgstr ""
+
+msgid "DC-Confirm-BuyItem"
+msgstr ""
+
+msgid "DC-Confirm-Camp"
+msgstr ""
+
+msgid "DC-Confirm-Enter-SatanCastle"
+msgstr ""
+
+msgid "DC-Confirm-GoSuddenEvent"
+msgstr ""
+
+msgid "DC-Confirm-KillRival"
+msgstr ""
+
+msgid "DC-Confirm-Learn-Ability"
+msgstr ""
+
+msgid "DC-Confirm-Learn-Potential"
+msgstr ""
+
+msgid "DC-Confirm-MinionDragonValley"
+msgstr ""
+
+msgid "DC-Confirm-MinionTreasureMap"
+msgstr ""
+
+msgid "DC-Current-GoldBoost"
+msgstr ""
+
+msgid "DC-DeadPartner"
+msgstr ""
+
+msgid "DC-DG0001"
+msgstr ""
+
+msgid "DC-DG0002"
+msgstr ""
+
+msgid "DC-DG0003"
+msgstr ""
+
+msgid "DC-DG0004"
+msgstr ""
+
+msgid "DC-DG0005"
+msgstr ""
+
+msgid "DC-DG0006"
+msgstr ""
+
+msgid "DC-DG0007"
+msgstr ""
+
+msgid "DC-DG0008"
+msgstr ""
+
+msgid "DC-DG0009"
+msgstr ""
+
+msgid "DC-DG0010"
+msgstr ""
+
+msgid "DC-DG0011"
+msgstr ""
+
+msgid "DC-DG0012"
+msgstr ""
+
+msgid "DC-DG0013"
+msgstr ""
+
+msgid "DC-DG0014"
+msgstr ""
+
+msgid "DC-DG0015"
+msgstr ""
+
+msgid "DC-DG0016"
+msgstr ""
+
+msgid "DC-DG0017"
+msgstr ""
+
+msgid "DC-DG0018"
+msgstr ""
+
+msgid "DC-DG0019"
+msgstr ""
+
+msgid "DC-DG0020"
+msgstr ""
+
+msgid "DC-DG0021"
+msgstr ""
+
+msgid "DC-DG0022"
+msgstr ""
+
+msgid "DC-DG0023"
+msgstr ""
+
+msgid "DC-DG0024"
+msgstr ""
+
+msgid "DC-DG0025"
+msgstr ""
+
+msgid "DC-DG0026"
+msgstr ""
+
+msgid "DC-DG0027"
+msgstr ""
+
+msgid "DC-DG0028"
+msgstr ""
+
+msgid "DC-DG0029"
+msgstr ""
+
+msgid "DC-DG0030"
+msgstr ""
+
+msgid "DC-DG0031"
+msgstr ""
+
+msgid "DC-DG0032"
+msgstr ""
+
+msgid "DC-DG0033"
+msgstr ""
+
+msgid "DC-DG0034"
+msgstr ""
+
+msgid "DC-DG0035"
+msgstr ""
+
+msgid "DC-DG0036"
+msgstr ""
+
+msgid "DC-DG0037"
+msgstr ""
+
+msgid "DC-DG0038"
+msgstr ""
+
+msgid "DC-DG0039"
+msgstr ""
+
+msgid "DC-DG0040"
+msgstr ""
+
+msgid "DC-DG0041"
+msgstr ""
+
+msgid "DC-DG0042"
+msgstr ""
+
+msgid "DC-DG0043"
+msgstr ""
+
+msgid "DC-DoingDelete"
+msgstr ""
+
+msgid "DC-EnterHome"
+msgstr ""
+
+msgid "DC-EnterSameArea"
+msgstr ""
+
+msgid "DC-Err-AP-Usage-Max"
+msgstr ""
+
+msgid "DC-Err-CantDoInThisVersion"
+msgstr ""
+
+msgid "DC-Err-CantResetChest"
+msgstr ""
+
+msgid "DC-Err-CantUseDirect"
+msgstr ""
+
+msgid "DC-Err-CantUseInCooldown"
+msgstr ""
+
+msgid "DC-Err-EnterAreaToDoIt"
+msgstr ""
+
+msgid "DC-Err-NoAbilityPoint"
+msgstr ""
+
+msgid "DC-Err-NoPotentialPoint"
+msgstr ""
+
+msgid "DC-Err-NotEnoughAnyCost"
+msgstr ""
+
+msgid "DC-Err-NotEnoughBrave"
+msgstr ""
+
+msgid "DC-Err-NotEnoughMinion"
+msgstr ""
+
+msgid "DC-Err-NotEnoughOracle"
+msgstr ""
+
+msgid "DC-Err-NotOpenedAbility0"
+msgstr ""
+
+msgid "DC-ERR-ONLY-USED-IN-MAP"
+msgstr ""
+
+msgid "DC-Err-RivalKilled"
+msgstr ""
+
+msgid "DC-Err-RivalNotFound"
+msgstr ""
+
+msgid "DC-FindRival"
+msgstr ""
+
+msgid "DC-FinishDelete"
+msgstr ""
+
+msgid "DC-FinishLoaded"
+msgstr ""
+
+msgid "DC-FinishRegister"
+msgstr ""
+
+msgid "DC-GainGold"
+msgstr ""
+
+msgid "DC-GainLegendary"
+msgstr ""
+
+msgid "DC-GainTreasure"
+msgstr ""
+
+msgid "DC-Gold"
+msgstr ""
+
+msgid "DC-GRAL16"
+msgstr ""
+
+msgid "DC-GRAL17"
+msgstr ""
+
+msgid "DC-GRAL18"
+msgstr ""
+
+msgid "DC-GRAL19"
+msgstr ""
+
+msgid "DC-GRAL20"
+msgstr ""
+
+msgid "DC-GRAL21"
+msgstr ""
+
+msgid "DC-GRAL22"
+msgstr ""
+
+msgid "DC-GRAL23"
+msgstr ""
+
+msgid "DC-GRAL24"
+msgstr ""
+
+msgid "DC-GRAL25"
+msgstr ""
+
+msgid "DC-GRBL45"
+msgstr ""
+
+msgid "DC-GRBL46"
+msgstr ""
+
+msgid "DC-GRBL47"
+msgstr ""
+
+msgid "DC-GRBL48"
+msgstr ""
+
+msgid "DC-GRBL49"
+msgstr ""
+
+msgid "DC-GRBL50"
+msgstr ""
+
+msgid "DC-GRBL51"
+msgstr ""
+
+msgid "DC-GRBL52"
+msgstr ""
+
+msgid "DC-GRBL53"
+msgstr ""
+
+msgid "DC-GRBL54"
+msgstr ""
+
+msgid "DC-GROL16"
+msgstr ""
+
+msgid "DC-GROL17"
+msgstr ""
+
+msgid "DC-GROL18"
+msgstr ""
+
+msgid "DC-GROL19"
+msgstr ""
+
+msgid "DC-GROL20"
+msgstr ""
+
+msgid "DC-GROL21"
+msgstr ""
+
+msgid "DC-GROL22"
+msgstr ""
+
+msgid "DC-GROL23"
+msgstr ""
+
+msgid "DC-GROL24"
+msgstr ""
+
+msgid "DC-GROL25"
+msgstr ""
+
+msgid "DC-GROL26"
+msgstr ""
+
+msgid "DC-GROL27"
+msgstr ""
+
+msgid "DC-GROL28"
+msgstr ""
+
+msgid "DC-GROL29"
+msgstr ""
+
+msgid "DC-GROL30"
+msgstr ""
+
+msgid "DC-GROL31"
+msgstr ""
+
+msgid "DC-GRWL16"
+msgstr ""
+
+msgid "DC-GRWL17"
+msgstr ""
+
+msgid "DC-GRWL18"
+msgstr ""
+
+msgid "DC-GRWL19"
+msgstr ""
+
+msgid "DC-GRWL20"
+msgstr ""
+
+msgid "DC-GRWL21"
+msgstr ""
+
+msgid "DC-GRWL22"
+msgstr ""
+
+msgid "DC-GRWL23"
+msgstr ""
+
+msgid "DC-GRWL24"
+msgstr ""
+
+msgid "DC-GRWL25"
+msgstr ""
+
+msgid "DC-Haggle"
+msgstr ""
+
+msgid "DC-HealedByPartner"
+msgstr ""
+
+msgid "DC-HealPartner"
+msgstr ""
+
+msgid "DC-Help-Amulet"
+msgstr ""
+
+msgid "DC-Help-Camp-Brave"
+msgstr ""
+
+msgid "DC-Help-Camp-HP"
+msgstr ""
+
+msgid "DC-Help-Escape"
+msgstr ""
+
+msgid "DC-Help-FieldSkills"
+msgstr ""
+
+msgid "DC-Help-Gold"
+msgstr ""
+
+msgid "DC-Help-HowToRivalFind"
+msgstr ""
+
+msgid "DC-Help-Item"
+msgstr ""
+
+msgid "DC-Help-Log"
+msgstr ""
+
+msgid "DC-Help-Minion"
+msgstr ""
+
+msgid "DC-Help-PastDay"
+msgstr ""
+
+msgid "DC-Help-Point-AP"
+msgstr ""
+
+msgid "DC-Help-Screen-Bounty"
+msgstr ""
+
+msgid "DC-Help-Screen-Invasion"
+msgstr ""
+
+msgid "DC-Help-Screen-Treasure"
+msgstr ""
+
+msgid "DC-Help-Search"
+msgstr ""
+
+msgid "DC-Help-SeasonEvent"
+msgstr ""
+
+msgid "DC-Help-SubQuest"
+msgstr ""
+
+msgid "DC-Help-SuddenEventIsRandom"
+msgstr ""
+
+msgid "DC-Help-Village"
+msgstr ""
+
+msgid "DC-IAP-Thanks"
+msgstr ""
+
+msgid "DC-Invasion-LastDay-0"
+msgstr ""
+
+msgid "DC-Invasion-LastDay-1"
+msgstr ""
+
+msgid "DC-Invasion-LastDay-2"
+msgstr ""
+
+msgid "DC-Invasion-LastDay-3"
+msgstr ""
+
+msgid "DC-Invasion-LastDay-4"
+msgstr ""
+
+msgid "DC-ITAD01"
+msgstr ""
+
+msgid "DC-ITAD04"
+msgstr ""
+
+msgid "DC-ITAD05"
+msgstr ""
+
+msgid "DC-ITAP01"
+msgstr ""
+
+msgid "DC-ITAP02"
+msgstr ""
+
+msgid "DC-ITAP03"
+msgstr ""
+
+msgid "DC-ITAS01"
+msgstr ""
+
+msgid "DC-ItemGain1"
+msgstr ""
+
+msgid "DC-ItemGain2"
+msgstr ""
+
+msgid "DC-ITPA01"
+msgstr ""
+
+msgid "DC-ITPA02"
+msgstr ""
+
+msgid "DC-ITPA03"
+msgstr ""
+
+msgid "DC-ITPA04"
+msgstr ""
+
+msgid "DC-ITPA05"
+msgstr ""
+
+msgid "DC-ITPA06"
+msgstr ""
+
+msgid "DC-ITPA07"
+msgstr ""
+
+msgid "DC-ITPA08"
+msgstr ""
+
+msgid "DC-ITPA09"
+msgstr ""
+
+msgid "DC-ITPR01"
+msgstr ""
+
+msgid "DC-ITPR02"
+msgstr ""
+
+msgid "DC-ITPS01"
+msgstr ""
+
+msgid "DC-ITPS02"
+msgstr ""
+
+msgid "DC-ITPS03"
+msgstr ""
+
+msgid "DC-ITPS04"
+msgstr ""
+
+msgid "DC-ITPS05"
+msgstr ""
+
+msgid "DC-ITPS06"
+msgstr ""
+
+msgid "DC-ITPS07"
+msgstr ""
+
+msgid "DC-ITPS08"
+msgstr ""
+
+msgid "DC-ITPS09"
+msgstr ""
+
+msgid "DC-ITPS10"
+msgstr ""
+
+msgid "DC-ITPS11"
+msgstr ""
+
+msgid "DC-ITPS12"
+msgstr ""
+
+msgid "DC-ITPS13"
+msgstr ""
+
+msgid "DC-ITPS18"
+msgstr ""
+
+msgid "DC-ITPS19"
+msgstr ""
+
+msgid "DC-ITPS20"
+msgstr ""
+
+msgid "DC-ITPS21"
+msgstr ""
+
+msgid "DC-ITPS23"
+msgstr ""
+
+msgid "DC-ITPS24"
+msgstr ""
+
+msgid "DC-ITPS25"
+msgstr ""
+
+msgid "DC-ITPS26"
+msgstr ""
+
+msgid "DC-ITPS27"
+msgstr ""
+
+msgid "DC-ITPS28"
+msgstr ""
+
+msgid "DC-ITPS29"
+msgstr ""
+
+msgid "DC-ITPS30"
+msgstr ""
+
+msgid "DC-ITPS31"
+msgstr ""
+
+msgid "DC-ITPS32"
+msgstr ""
+
+msgid "DC-ITPS33"
+msgstr ""
+
+msgid "DC-ITPS34"
+msgstr ""
+
+msgid "DC-ITPS35"
+msgstr ""
+
+msgid "DC-ITPS36"
+msgstr ""
+
+msgid "DC-ITPS37"
+msgstr ""
+
+msgid "DC-ITPS38"
+msgstr ""
+
+msgid "DC-ITPS39"
+msgstr ""
+
+msgid "DC-ITPS40"
+msgstr ""
+
+msgid "DC-ITPS41"
+msgstr ""
+
+msgid "DC-ITPS42"
+msgstr ""
+
+msgid "DC-ITPS43"
+msgstr ""
+
+msgid "DC-ITPS44"
+msgstr ""
+
+msgid "DC-ITPS45"
+msgstr ""
+
+msgid "DC-ITPS46"
+msgstr ""
+
+msgid "DC-ITPS47"
+msgstr ""
+
+msgid "DC-ITPS48"
+msgstr ""
+
+msgid "DC-ITPS49"
+msgstr ""
+
+msgid "DC-ITPS50"
+msgstr ""
+
+msgid "DC-ITPS51"
+msgstr ""
+
+msgid "DC-ITPS52"
+msgstr ""
+
+msgid "DC-ITPS53"
+msgstr ""
+
+msgid "DC-ITPS54"
+msgstr ""
+
+msgid "DC-ITPS55"
+msgstr ""
+
+msgid "DC-ITPS56"
+msgstr ""
+
+msgid "DC-ITPS57"
+msgstr ""
+
+msgid "DC-ITPS58"
+msgstr ""
+
+msgid "DC-ITPS59"
+msgstr ""
+
+msgid "DC-ITPS60"
+msgstr ""
+
+msgid "DC-ITPS61"
+msgstr ""
+
+msgid "DC-ITPS62"
+msgstr ""
+
+msgid "DC-ITPS63"
+msgstr ""
+
+msgid "DC-ITPS64"
+msgstr ""
+
+msgid "DC-ITPS65"
+msgstr ""
+
+msgid "DC-ITSS00"
+msgstr ""
+
+msgid "DC-ITSS01"
+msgstr ""
+
+msgid "DC-JB01"
+msgstr ""
+
+msgid "DC-JB02"
+msgstr ""
+
+msgid "DC-JB03"
+msgstr ""
+
+msgid "DC-JB04"
+msgstr ""
+
+msgid "DC-JB05"
+msgstr ""
+
+msgid "DC-JB06"
+msgstr ""
+
+msgid "DC-JB07"
+msgstr ""
+
+msgid "DC-JB08"
+msgstr ""
+
+msgid "DC-JB09"
+msgstr ""
+
+msgid "DC-JB10"
+msgstr ""
+
+msgid "DC-JB11"
+msgstr ""
+
+msgid "DC-JB12"
+msgstr ""
+
+msgid "DC-JB13"
+msgstr ""
+
+msgid "DC-JB14"
+msgstr ""
+
+msgid "DC-JB15"
+msgstr ""
+
+msgid "DC-JB16"
+msgstr ""
+
+msgid "DC-JB17"
+msgstr ""
+
+msgid "DC-JB18"
+msgstr ""
+
+msgid "DC-JB19"
+msgstr ""
+
+msgid "DC-JB20"
+msgstr ""
+
+msgid "DC-Kill1"
+msgstr ""
+
+msgid "DC-Kill2"
+msgstr ""
+
+msgid "DC-KillBounty"
+msgstr ""
+
+msgid "DC-KillEnemy"
+msgstr ""
+
+msgid "DC-KillRival"
+msgstr ""
+
+msgid "DC-KillSatan"
+msgstr ""
+
+msgid "DC-KillTrueSatan"
+msgstr ""
+
+msgid "DC-Last-Days"
+msgstr ""
+
+msgid "DC-LevelMin"
+msgstr ""
+
+msgid "DC-LinkLevel"
+msgstr ""
+
+msgid "DC-LocalNotice-UnderAdventure"
+msgstr ""
+
+msgid "DC-LocalNotice-UseChara"
+msgstr ""
+
+msgid "DC-Log-AP"
+msgstr ""
+
+msgid "DC-Log-Dungeon"
+msgstr ""
+
+msgid "DC-Log-Event"
+msgstr ""
+
+msgid "DC-Log-Infinite"
+msgstr ""
+
+msgid "DC-Log-Invasion"
+msgstr ""
+
+msgid "DC-Log-PvP"
+msgstr ""
+
+msgid "DC-Log-Rival"
+msgstr ""
+
+msgid "DC-Log-Road"
+msgstr ""
+
+msgid "DC-Log-SatanCastle"
+msgstr ""
+
+msgid "DC-Log-Secret"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENDB22-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENDR01-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENRB03-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENRB04-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENRB05-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENRB06-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENRB07-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENRB08-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Init-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-OuterSupport-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Village-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB06"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB08"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB12"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB13"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENDB22-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENDR01-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENLS01-Echo"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENRB03-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENRB04-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENRB05-JB16"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENRB06-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENRB07-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENRB08-JB15"
+msgstr ""
+
+msgid "DC-LongTouchToDelete"
+msgstr ""
+
+msgid "DC-MaterialAnalysis"
+msgstr ""
+
+msgid "DC-MaxNum"
+msgstr ""
+
+msgid "DC-Minion-Use-DragonValley"
+msgstr ""
+
+msgid "DC-Minion-Use-Invasion"
+msgstr ""
+
+msgid "DC-Minion-Use-Road"
+msgstr ""
+
+msgid "DC-Minion-Use-Secret"
+msgstr ""
+
+msgid "DC-Minion-Use-Treasure"
+msgstr ""
+
+msgid "DC-MinSupRank"
+msgstr ""
+
+msgid "DC-MissionAchive"
+msgstr ""
+
+msgid "DC-New-Character"
+msgstr ""
+
+msgid "DC-News-DragonValley"
+msgstr ""
+
+msgid "DC-News-FieldSkillUsable"
+msgstr ""
+
+msgid "DC-News-Find-AP"
+msgstr ""
+
+msgid "DC-News-FindInvasion"
+msgstr ""
+
+msgid "DC-News-FindRival"
+msgstr ""
+
+msgid "DC-News-Find-Village"
+msgstr ""
+
+msgid "DC-News-FinishSupQuest"
+msgstr ""
+
+msgid "DC-News-Rival"
+msgstr ""
+
+msgid "DC-News-Road"
+msgstr ""
+
+msgid "DC-News-Secret"
+msgstr ""
+
+msgid "DC-News-SecretAffected-Penalty"
+msgstr ""
+
+msgid "DC-News-SecretAffected-Satan"
+msgstr ""
+
+msgid "DC-News-SecretStart"
+msgstr ""
+
+msgid "DC-News-SupRankUp"
+msgstr ""
+
+msgid "DC-News-Timeout-Dungeon"
+msgstr ""
+
+msgid "DC-News-Timeout-Invasion"
+msgstr ""
+
+msgid "DC-News-Treaure"
+msgstr ""
+
+msgid "DC-News-Troop"
+msgstr ""
+
+msgid "DC-New-SubQuest"
+msgstr ""
+
+msgid "DC-Next-GoldBoost"
+msgstr ""
+
+msgid "DC-Note-Appear-TrueSatan"
+msgstr ""
+
+msgid "DC-Note-Clear-Infiniter"
+msgstr ""
+
+msgid "DC-NP01"
+msgstr ""
+
+msgid "DC-NP02"
+msgstr ""
+
+msgid "DC-NP03"
+msgstr ""
+
+msgid "DC-NP04"
+msgstr ""
+
+msgid "DC-NP05"
+msgstr ""
+
+msgid "DC-NP06"
+msgstr ""
+
+msgid "DC-NP07"
+msgstr ""
+
+msgid "DC-NP08"
+msgstr ""
+
+msgid "DC-NW0001"
+msgstr ""
+
+msgid "DC-NW0002"
+msgstr ""
+
+msgid "DC-NW0003"
+msgstr ""
+
+msgid "DC-NW0004"
+msgstr ""
+
+msgid "DC-Open"
+msgstr ""
+
+msgid "DC-OpenAllArea"
+msgstr ""
+
+msgid "DC-OpenAreaNum"
+msgstr ""
+
+msgid "DC-Open-Chest-Job"
+msgstr ""
+
+msgid "DC-Open-Chest-NPC"
+msgstr ""
+
+msgid "DC-Open-Chest-Rival"
+msgstr ""
+
+msgid "DC-OpenVillage"
+msgstr ""
+
+msgid "DC-OutOfSeason"
+msgstr ""
+
+msgid "DC-PARAM-1"
+msgstr ""
+
+msgid "DC-PARAM-2"
+msgstr ""
+
+msgid "DC-PARAM-3"
+msgstr ""
+
+msgid "DC-PARAM-4"
+msgstr ""
+
+msgid "DC-Partner-State"
+msgstr ""
+
+msgid "DC-Play"
+msgstr ""
+
+msgid "DC-PlsInputName"
+msgstr ""
+
+msgid "DC-PrismOrb"
+msgstr ""
+
+msgid "DC-RandEvent"
+msgstr ""
+
+msgid "DC-ReceiveGift"
+msgstr ""
+
+msgid "DC-Recommend-Publish-BKCode"
+msgstr ""
+
+msgid "DC-Result-Failed"
+msgstr ""
+
+msgid "DC-Result-Success"
+msgstr ""
+
+msgid "DC-RivalSlain1"
+msgstr ""
+
+msgid "DC-RivalSlain2"
+msgstr ""
+
+msgid "DC-RS0101"
+msgstr ""
+
+msgid "DC-RS0102"
+msgstr ""
+
+msgid "DC-RS0103"
+msgstr ""
+
+msgid "DC-RS0201"
+msgstr ""
+
+msgid "DC-RS0202"
+msgstr ""
+
+msgid "DC-RS0203"
+msgstr ""
+
+msgid "DC-RS0301"
+msgstr ""
+
+msgid "DC-RS0302"
+msgstr ""
+
+msgid "DC-RS0303"
+msgstr ""
+
+msgid "DC-RS0401"
+msgstr ""
+
+msgid "DC-RS0402"
+msgstr ""
+
+msgid "DC-RS0403"
+msgstr ""
+
+msgid "DC-RS0501"
+msgstr ""
+
+msgid "DC-RS0502"
+msgstr ""
+
+msgid "DC-RS0503"
+msgstr ""
+
+msgid "DC-RS0601"
+msgstr ""
+
+msgid "DC-RS0602"
+msgstr ""
+
+msgid "DC-RS0603"
+msgstr ""
+
+msgid "DC-RS0701"
+msgstr ""
+
+msgid "DC-RS0702"
+msgstr ""
+
+msgid "DC-RS0703"
+msgstr ""
+
+msgid "DC-RS0801"
+msgstr ""
+
+msgid "DC-RS0802"
+msgstr ""
+
+msgid "DC-RS0803"
+msgstr ""
+
+msgid "DC-RV01"
+msgstr ""
+
+msgid "DC-RV02"
+msgstr ""
+
+msgid "DC-RV03"
+msgstr ""
+
+msgid "DC-RV04"
+msgstr ""
+
+msgid "DC-RV05"
+msgstr ""
+
+msgid "DC-RV06"
+msgstr ""
+
+msgid "DC-RV07"
+msgstr ""
+
+msgid "DC-RV08"
+msgstr ""
+
+msgid "DC-Screen-Clear-Dungeons-InArea"
+msgstr ""
+
+msgid "DC-Screen-DragonValley"
+msgstr ""
+
+msgid "DC-Screen-Dungeon"
+msgstr ""
+
+msgid "DC-Screen-EarnItem"
+msgstr ""
+
+msgid "DC-Screen-EarnItemNum"
+msgstr ""
+
+msgid "DC-Screen-Event-AddHiddenInvasion"
+msgstr ""
+
+msgid "DC-Screen-Event-AddShop"
+msgstr ""
+
+msgid "DC-Screen-Event-AddState"
+msgstr ""
+
+msgid "DC-Screen-Event-AddStateOnRival"
+msgstr ""
+
+msgid "DC-Screen-Event-AddStateOnSatan"
+msgstr ""
+
+msgid "DC-Screen-Event-AddSubQuest"
+msgstr ""
+
+msgid "DC-Screen-Event-Bounty0"
+msgstr ""
+
+msgid "DC-Screen-Event-Bounty1"
+msgstr ""
+
+msgid "DC-Screen-Event-DungeonChest0"
+msgstr ""
+
+msgid "DC-Screen-Event-DungeonChest1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainAP0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainAP1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainGearLv0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainGearLv1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainGearPrm0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainLink0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainLink1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainMinion0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainMinion1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainResist0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainResist1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainRivalLv0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainRivalLv1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainSkillLv0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainSkillLv1"
+msgstr ""
+
+msgid "DC-Screen-Event-GainSupLv0"
+msgstr ""
+
+msgid "DC-Screen-Event-GainSupLv1"
+msgstr ""
+
+msgid "DC-Screen-Event-Gold0"
+msgstr ""
+
+msgid "DC-Screen-Event-Gold1"
+msgstr ""
+
+msgid "DC-Screen-Event-Heal0"
+msgstr ""
+
+msgid "DC-Screen-Event-Heal1"
+msgstr ""
+
+msgid "DC-Screen-Event-Invasion0"
+msgstr ""
+
+msgid "DC-Screen-Event-Invasion1"
+msgstr ""
+
+msgid "DC-Screen-Event-MaxBrave0"
+msgstr ""
+
+msgid "DC-Screen-Event-MaxBrave1"
+msgstr ""
+
+msgid "DC-Screen-Event-MoreFind"
+msgstr ""
+
+msgid "DC-Screen-Event-PowerUp0"
+msgstr ""
+
+msgid "DC-Screen-Event-PowerUp1"
+msgstr ""
+
+msgid "DC-Screen-Event-RandShop0"
+msgstr ""
+
+msgid "DC-Screen-Event-RandShop1"
+msgstr ""
+
+msgid "DC-Screen-Event-Road0"
+msgstr ""
+
+msgid "DC-Screen-Event-Secret0"
+msgstr ""
+
+msgid "DC-Screen-Event-Secret1"
+msgstr ""
+
+msgid "DC-Screen-Event-TakeDamage"
+msgstr ""
+
+msgid "DC-Screen-Event-TreasureMap0"
+msgstr ""
+
+msgid "DC-Screen-Event-TreasureMap1"
+msgstr ""
+
+msgid "DC-Screen-Event-Troop0"
+msgstr ""
+
+msgid "DC-Screen-Event-Troop1"
+msgstr ""
+
+msgid "DC-Screen-FindInvasion"
+msgstr ""
+
+msgid "DC-Screen-FindRival"
+msgstr ""
+
+msgid "DC-Screen-Gain-AbiSet"
+msgstr ""
+
+msgid "DC-Screen-Invasion"
+msgstr ""
+
+msgid "DC-Screen-KillRival"
+msgstr ""
+
+msgid "DC-Screen-ResetLineup"
+msgstr ""
+
+msgid "DC-Screen-Road"
+msgstr ""
+
+msgid "DC-Screen-Secret"
+msgstr ""
+
+msgid "DC-Screen-Village"
+msgstr ""
+
+msgid "DC-SE0001"
+msgstr ""
+
+msgid "DC-SE00011"
+msgstr ""
+
+msgid "DC-SE00012"
+msgstr ""
+
+msgid "DC-SE00013"
+msgstr ""
+
+msgid "DC-SE0001-Sel1"
+msgstr ""
+
+msgid "DC-SE0001-Sel2"
+msgstr ""
+
+msgid "DC-SE0001-Sel3"
+msgstr ""
+
+msgid "DC-SE0002"
+msgstr ""
+
+msgid "DC-SE00021"
+msgstr ""
+
+msgid "DC-SE00022"
+msgstr ""
+
+msgid "DC-SE00023"
+msgstr ""
+
+msgid "DC-SE0002-Sel1"
+msgstr ""
+
+msgid "DC-SE0002-Sel2"
+msgstr ""
+
+msgid "DC-SE0002-Sel3"
+msgstr ""
+
+msgid "DC-SE0003"
+msgstr ""
+
+msgid "DC-SE00031"
+msgstr ""
+
+msgid "DC-SE00032"
+msgstr ""
+
+msgid "DC-SE00033"
+msgstr ""
+
+msgid "DC-SE0003-Sel1"
+msgstr ""
+
+msgid "DC-SE0003-Sel2"
+msgstr ""
+
+msgid "DC-SE0003-Sel3"
+msgstr ""
+
+msgid "DC-SE0004"
+msgstr ""
+
+msgid "DC-SE00041"
+msgstr ""
+
+msgid "DC-SE00042"
+msgstr ""
+
+msgid "DC-SE00043"
+msgstr ""
+
+msgid "DC-SE0004-Sel1"
+msgstr ""
+
+msgid "DC-SE0004-Sel2"
+msgstr ""
+
+msgid "DC-SE0004-Sel3"
+msgstr ""
+
+msgid "DC-SE0005"
+msgstr ""
+
+msgid "DC-SE00051"
+msgstr ""
+
+msgid "DC-SE00052"
+msgstr ""
+
+msgid "DC-SE00053"
+msgstr ""
+
+msgid "DC-SE0005-Sel1"
+msgstr ""
+
+msgid "DC-SE0005-Sel2"
+msgstr ""
+
+msgid "DC-SE0005-Sel3"
+msgstr ""
+
+msgid "DC-SE0006"
+msgstr ""
+
+msgid "DC-SE00061"
+msgstr ""
+
+msgid "DC-SE00062"
+msgstr ""
+
+msgid "DC-SE00063"
+msgstr ""
+
+msgid "DC-SE0006-Sel1"
+msgstr ""
+
+msgid "DC-SE0006-Sel2"
+msgstr ""
+
+msgid "DC-SE0006-Sel3"
+msgstr ""
+
+msgid "DC-SE0007"
+msgstr ""
+
+msgid "DC-SE00071"
+msgstr ""
+
+msgid "DC-SE00072"
+msgstr ""
+
+msgid "DC-SE00073"
+msgstr ""
+
+msgid "DC-SE0007-Sel1"
+msgstr ""
+
+msgid "DC-SE0007-Sel2"
+msgstr ""
+
+msgid "DC-SE0007-Sel3"
+msgstr ""
+
+msgid "DC-SE0008"
+msgstr ""
+
+msgid "DC-SE00081"
+msgstr ""
+
+msgid "DC-SE00082"
+msgstr ""
+
+msgid "DC-SE00083"
+msgstr ""
+
+msgid "DC-SE0008-Sel1"
+msgstr ""
+
+msgid "DC-SE0008-Sel2"
+msgstr ""
+
+msgid "DC-SE0008-Sel3"
+msgstr ""
+
+msgid "DC-SE0009"
+msgstr ""
+
+msgid "DC-SE00091"
+msgstr ""
+
+msgid "DC-SE00092"
+msgstr ""
+
+msgid "DC-SE00093"
+msgstr ""
+
+msgid "DC-SE0009-Sel1"
+msgstr ""
+
+msgid "DC-SE0009-Sel2"
+msgstr ""
+
+msgid "DC-SE0009-Sel3"
+msgstr ""
+
+msgid "DC-SE0010"
+msgstr ""
+
+msgid "DC-SE00101"
+msgstr ""
+
+msgid "DC-SE00102"
+msgstr ""
+
+msgid "DC-SE00103"
+msgstr ""
+
+msgid "DC-SE0010-Sel1"
+msgstr ""
+
+msgid "DC-SE0010-Sel2"
+msgstr ""
+
+msgid "DC-SE0010-Sel3"
+msgstr ""
+
+msgid "DC-SER011"
+msgstr ""
+
+msgid "DC-SER0111"
+msgstr ""
+
+msgid "DC-SER0112"
+msgstr ""
+
+msgid "DC-SER0113"
+msgstr ""
+
+msgid "DC-SER011-Sel1"
+msgstr ""
+
+msgid "DC-SER011-Sel2"
+msgstr ""
+
+msgid "DC-SER011-Sel3"
+msgstr ""
+
+msgid "DC-SER021"
+msgstr ""
+
+msgid "DC-SER0211"
+msgstr ""
+
+msgid "DC-SER0212"
+msgstr ""
+
+msgid "DC-SER0213"
+msgstr ""
+
+msgid "DC-SER021-Sel1"
+msgstr ""
+
+msgid "DC-SER021-Sel2"
+msgstr ""
+
+msgid "DC-SER021-Sel3"
+msgstr ""
+
+msgid "DC-SER031"
+msgstr ""
+
+msgid "DC-SER0311"
+msgstr ""
+
+msgid "DC-SER0312"
+msgstr ""
+
+msgid "DC-SER0313"
+msgstr ""
+
+msgid "DC-SER031-Sel1"
+msgstr ""
+
+msgid "DC-SER031-Sel2"
+msgstr ""
+
+msgid "DC-SER031-Sel3"
+msgstr ""
+
+msgid "DC-SER041"
+msgstr ""
+
+msgid "DC-SER0411"
+msgstr ""
+
+msgid "DC-SER0412"
+msgstr ""
+
+msgid "DC-SER0413"
+msgstr ""
+
+msgid "DC-SER041-Sel1"
+msgstr ""
+
+msgid "DC-SER041-Sel2"
+msgstr ""
+
+msgid "DC-SER041-Sel3"
+msgstr ""
+
+msgid "DC-SER051"
+msgstr ""
+
+msgid "DC-SER0511"
+msgstr ""
+
+msgid "DC-SER0512"
+msgstr ""
+
+msgid "DC-SER0513"
+msgstr ""
+
+msgid "DC-SER051-Sel1"
+msgstr ""
+
+msgid "DC-SER051-Sel2"
+msgstr ""
+
+msgid "DC-SER051-Sel3"
+msgstr ""
+
+msgid "DC-SER061"
+msgstr ""
+
+msgid "DC-SER0611"
+msgstr ""
+
+msgid "DC-SER0612"
+msgstr ""
+
+msgid "DC-SER0613"
+msgstr ""
+
+msgid "DC-SER061-Sel1"
+msgstr ""
+
+msgid "DC-SER061-Sel2"
+msgstr ""
+
+msgid "DC-SER061-Sel3"
+msgstr ""
+
+msgid "DC-SER071"
+msgstr ""
+
+msgid "DC-SER0711"
+msgstr ""
+
+msgid "DC-SER0712"
+msgstr ""
+
+msgid "DC-SER0713"
+msgstr ""
+
+msgid "DC-SER071-Sel1"
+msgstr ""
+
+msgid "DC-SER071-Sel2"
+msgstr ""
+
+msgid "DC-SER071-Sel3"
+msgstr ""
+
+msgid "DC-SER081"
+msgstr ""
+
+msgid "DC-SER0811"
+msgstr ""
+
+msgid "DC-SER0812"
+msgstr ""
+
+msgid "DC-SER0813"
+msgstr ""
+
+msgid "DC-SER081-Sel1"
+msgstr ""
+
+msgid "DC-SER081-Sel2"
+msgstr ""
+
+msgid "DC-SER081-Sel3"
+msgstr ""
+
+msgid "DC-Serif-NP01-1"
+msgstr ""
+
+msgid "DC-Serif-NP01-2"
+msgstr ""
+
+msgid "DC-Serif-NP01-3"
+msgstr ""
+
+msgid "DC-Serif-NP01-4"
+msgstr ""
+
+msgid "DC-Serif-NP01-5"
+msgstr ""
+
+msgid "DC-Serif-NP02-1"
+msgstr ""
+
+msgid "DC-Serif-NP02-2"
+msgstr ""
+
+msgid "DC-Serif-NP02-3"
+msgstr ""
+
+msgid "DC-Serif-NP02-4"
+msgstr ""
+
+msgid "DC-Serif-NP02-5"
+msgstr ""
+
+msgid "DC-Serif-NP03-1"
+msgstr ""
+
+msgid "DC-Serif-NP03-2"
+msgstr ""
+
+msgid "DC-Serif-NP03-3"
+msgstr ""
+
+msgid "DC-Serif-NP03-4"
+msgstr ""
+
+msgid "DC-Serif-NP03-5"
+msgstr ""
+
+msgid "DC-Serif-NP04-1"
+msgstr ""
+
+msgid "DC-Serif-NP04-2"
+msgstr ""
+
+msgid "DC-Serif-NP04-3"
+msgstr ""
+
+msgid "DC-Serif-NP04-4"
+msgstr ""
+
+msgid "DC-Serif-NP04-5"
+msgstr ""
+
+msgid "DC-Serif-NP05-1"
+msgstr ""
+
+msgid "DC-Serif-NP05-2"
+msgstr ""
+
+msgid "DC-Serif-NP05-3"
+msgstr ""
+
+msgid "DC-Serif-NP05-4"
+msgstr ""
+
+msgid "DC-Serif-NP05-5"
+msgstr ""
+
+msgid "DC-Serif-NP06-1"
+msgstr ""
+
+msgid "DC-Serif-NP06-2"
+msgstr ""
+
+msgid "DC-Serif-NP06-3"
+msgstr ""
+
+msgid "DC-Serif-NP06-4"
+msgstr ""
+
+msgid "DC-Serif-NP06-5"
+msgstr ""
+
+msgid "DC-Serif-NP07-1"
+msgstr ""
+
+msgid "DC-Serif-NP07-2"
+msgstr ""
+
+msgid "DC-Serif-NP07-3"
+msgstr ""
+
+msgid "DC-Serif-NP07-4"
+msgstr ""
+
+msgid "DC-Serif-NP07-5"
+msgstr ""
+
+msgid "DC-Serif-NP08-1"
+msgstr ""
+
+msgid "DC-Serif-NP08-2"
+msgstr ""
+
+msgid "DC-Serif-NP08-3"
+msgstr ""
+
+msgid "DC-Serif-NP08-4"
+msgstr ""
+
+msgid "DC-Serif-NP08-5"
+msgstr ""
+
+msgid "DC-Serif-RV01-1"
+msgstr ""
+
+msgid "DC-Serif-RV01-2"
+msgstr ""
+
+msgid "DC-Serif-RV01-3"
+msgstr ""
+
+msgid "DC-Serif-RV01-4"
+msgstr ""
+
+msgid "DC-Serif-RV01-5"
+msgstr ""
+
+msgid "DC-Serif-RV02-1"
+msgstr ""
+
+msgid "DC-Serif-RV02-2"
+msgstr ""
+
+msgid "DC-Serif-RV02-3"
+msgstr ""
+
+msgid "DC-Serif-RV02-4"
+msgstr ""
+
+msgid "DC-Serif-RV02-5"
+msgstr ""
+
+msgid "DC-Serif-RV03-1"
+msgstr ""
+
+msgid "DC-Serif-RV03-2"
+msgstr ""
+
+msgid "DC-Serif-RV03-3"
+msgstr ""
+
+msgid "DC-Serif-RV03-4"
+msgstr ""
+
+msgid "DC-Serif-RV03-5"
+msgstr ""
+
+msgid "DC-Serif-RV04-1"
+msgstr ""
+
+msgid "DC-Serif-RV04-2"
+msgstr ""
+
+msgid "DC-Serif-RV04-3"
+msgstr ""
+
+msgid "DC-Serif-RV04-4"
+msgstr ""
+
+msgid "DC-Serif-RV04-5"
+msgstr ""
+
+msgid "DC-Serif-RV05-1"
+msgstr ""
+
+msgid "DC-Serif-RV05-2"
+msgstr ""
+
+msgid "DC-Serif-RV05-3"
+msgstr ""
+
+msgid "DC-Serif-RV05-4"
+msgstr ""
+
+msgid "DC-Serif-RV05-5"
+msgstr ""
+
+msgid "DC-Serif-RV06-1"
+msgstr ""
+
+msgid "DC-Serif-RV06-2"
+msgstr ""
+
+msgid "DC-Serif-RV06-3"
+msgstr ""
+
+msgid "DC-Serif-RV06-4"
+msgstr ""
+
+msgid "DC-Serif-RV06-5"
+msgstr ""
+
+msgid "DC-Serif-RV07-1"
+msgstr ""
+
+msgid "DC-Serif-RV07-2"
+msgstr ""
+
+msgid "DC-Serif-RV07-3"
+msgstr ""
+
+msgid "DC-Serif-RV07-4"
+msgstr ""
+
+msgid "DC-Serif-RV07-5"
+msgstr ""
+
+msgid "DC-Serif-RV08-1"
+msgstr ""
+
+msgid "DC-Serif-RV08-2"
+msgstr ""
+
+msgid "DC-Serif-RV08-3"
+msgstr ""
+
+msgid "DC-Serif-RV08-4"
+msgstr ""
+
+msgid "DC-Serif-RV08-5"
+msgstr ""
+
+msgid "DC-SES011"
+msgstr ""
+
+msgid "DC-SES0111"
+msgstr ""
+
+msgid "DC-SES0112"
+msgstr ""
+
+msgid "DC-SES0113"
+msgstr ""
+
+msgid "DC-SES011-Sel1"
+msgstr ""
+
+msgid "DC-SES011-Sel2"
+msgstr ""
+
+msgid "DC-SES011-Sel3"
+msgstr ""
+
+msgid "DC-SES012"
+msgstr ""
+
+msgid "DC-SES0121"
+msgstr ""
+
+msgid "DC-SES0122"
+msgstr ""
+
+msgid "DC-SES0123"
+msgstr ""
+
+msgid "DC-SES012-Sel1"
+msgstr ""
+
+msgid "DC-SES012-Sel2"
+msgstr ""
+
+msgid "DC-SES012-Sel3"
+msgstr ""
+
+msgid "DC-SES021"
+msgstr ""
+
+msgid "DC-SES0211"
+msgstr ""
+
+msgid "DC-SES0212"
+msgstr ""
+
+msgid "DC-SES0213"
+msgstr ""
+
+msgid "DC-SES021-Sel1"
+msgstr ""
+
+msgid "DC-SES021-Sel2"
+msgstr ""
+
+msgid "DC-SES021-Sel3"
+msgstr ""
+
+msgid "DC-SES022"
+msgstr ""
+
+msgid "DC-SES0221"
+msgstr ""
+
+msgid "DC-SES0222"
+msgstr ""
+
+msgid "DC-SES0223"
+msgstr ""
+
+msgid "DC-SES022-Sel1"
+msgstr ""
+
+msgid "DC-SES022-Sel2"
+msgstr ""
+
+msgid "DC-SES022-Sel3"
+msgstr ""
+
+msgid "DC-SES031"
+msgstr ""
+
+msgid "DC-SES0311"
+msgstr ""
+
+msgid "DC-SES0312"
+msgstr ""
+
+msgid "DC-SES0313"
+msgstr ""
+
+msgid "DC-SES031-Sel1"
+msgstr ""
+
+msgid "DC-SES031-Sel2"
+msgstr ""
+
+msgid "DC-SES031-Sel3"
+msgstr ""
+
+msgid "DC-SES032"
+msgstr ""
+
+msgid "DC-SES0321"
+msgstr ""
+
+msgid "DC-SES0322"
+msgstr ""
+
+msgid "DC-SES0323"
+msgstr ""
+
+msgid "DC-SES032-Sel1"
+msgstr ""
+
+msgid "DC-SES032-Sel2"
+msgstr ""
+
+msgid "DC-SES032-Sel3"
+msgstr ""
+
+msgid "DC-SES041"
+msgstr ""
+
+msgid "DC-SES0411"
+msgstr ""
+
+msgid "DC-SES0412"
+msgstr ""
+
+msgid "DC-SES0413"
+msgstr ""
+
+msgid "DC-SES041-Sel1"
+msgstr ""
+
+msgid "DC-SES041-Sel2"
+msgstr ""
+
+msgid "DC-SES041-Sel3"
+msgstr ""
+
+msgid "DC-SES042"
+msgstr ""
+
+msgid "DC-SES0421"
+msgstr ""
+
+msgid "DC-SES0422"
+msgstr ""
+
+msgid "DC-SES0423"
+msgstr ""
+
+msgid "DC-SES042-Sel1"
+msgstr ""
+
+msgid "DC-SES042-Sel2"
+msgstr ""
+
+msgid "DC-SES042-Sel3"
+msgstr ""
+
+msgid "DC-SES051"
+msgstr ""
+
+msgid "DC-SES0511"
+msgstr ""
+
+msgid "DC-SES0512"
+msgstr ""
+
+msgid "DC-SES0513"
+msgstr ""
+
+msgid "DC-SES051-Sel1"
+msgstr ""
+
+msgid "DC-SES051-Sel2"
+msgstr ""
+
+msgid "DC-SES051-Sel3"
+msgstr ""
+
+msgid "DC-SES052"
+msgstr ""
+
+msgid "DC-SES0521"
+msgstr ""
+
+msgid "DC-SES0522"
+msgstr ""
+
+msgid "DC-SES0523"
+msgstr ""
+
+msgid "DC-SES052-Sel1"
+msgstr ""
+
+msgid "DC-SES052-Sel2"
+msgstr ""
+
+msgid "DC-SES052-Sel3"
+msgstr ""
+
+msgid "DC-SES061"
+msgstr ""
+
+msgid "DC-SES0611"
+msgstr ""
+
+msgid "DC-SES0612"
+msgstr ""
+
+msgid "DC-SES0613"
+msgstr ""
+
+msgid "DC-SES061-Sel1"
+msgstr ""
+
+msgid "DC-SES061-Sel2"
+msgstr ""
+
+msgid "DC-SES061-Sel3"
+msgstr ""
+
+msgid "DC-SES062"
+msgstr ""
+
+msgid "DC-SES0621"
+msgstr ""
+
+msgid "DC-SES0622"
+msgstr ""
+
+msgid "DC-SES0623"
+msgstr ""
+
+msgid "DC-SES062-Sel1"
+msgstr ""
+
+msgid "DC-SES062-Sel2"
+msgstr ""
+
+msgid "DC-SES062-Sel3"
+msgstr ""
+
+msgid "DC-SES071"
+msgstr ""
+
+msgid "DC-SES0711"
+msgstr ""
+
+msgid "DC-SES0712"
+msgstr ""
+
+msgid "DC-SES0713"
+msgstr ""
+
+msgid "DC-SES071-Sel1"
+msgstr ""
+
+msgid "DC-SES071-Sel2"
+msgstr ""
+
+msgid "DC-SES071-Sel3"
+msgstr ""
+
+msgid "DC-SES072"
+msgstr ""
+
+msgid "DC-SES0721"
+msgstr ""
+
+msgid "DC-SES0722"
+msgstr ""
+
+msgid "DC-SES0723"
+msgstr ""
+
+msgid "DC-SES072-Sel1"
+msgstr ""
+
+msgid "DC-SES072-Sel2"
+msgstr ""
+
+msgid "DC-SES072-Sel3"
+msgstr ""
+
+msgid "DC-SES081"
+msgstr ""
+
+msgid "DC-SES0811"
+msgstr ""
+
+msgid "DC-SES0812"
+msgstr ""
+
+msgid "DC-SES0813"
+msgstr ""
+
+msgid "DC-SES081-Sel1"
+msgstr ""
+
+msgid "DC-SES081-Sel2"
+msgstr ""
+
+msgid "DC-SES081-Sel3"
+msgstr ""
+
+msgid "DC-SES082"
+msgstr ""
+
+msgid "DC-SES0821"
+msgstr ""
+
+msgid "DC-SES0822"
+msgstr ""
+
+msgid "DC-SES0823"
+msgstr ""
+
+msgid "DC-SES082-Sel1"
+msgstr ""
+
+msgid "DC-SES082-Sel2"
+msgstr ""
+
+msgid "DC-SES082-Sel3"
+msgstr ""
+
+msgid "DC-Shop-JB05"
+msgstr ""
+
+msgid "DC-Shop-Rest"
+msgstr ""
+
+msgid "DC-SkillHiding"
+msgstr ""
+
+msgid "DC-SkillNode-Acid"
+msgstr ""
+
+msgid "DC-SkillNode-Attack"
+msgstr ""
+
+msgid "DC-SkillNode-Brave-"
+msgstr ""
+
+msgid "DC-SkillNode-Brave+"
+msgstr ""
+
+msgid "DC-SkillNode-Brave++"
+msgstr ""
+
+msgid "DC-SkillNode-CD-"
+msgstr ""
+
+msgid "DC-SkillNode-CD+"
+msgstr ""
+
+msgid "DC-SkillNode-CD+All"
+msgstr ""
+
+msgid "DC-SkillNode-CD-All"
+msgstr ""
+
+msgid "DC-SkillNode-Cure"
+msgstr ""
+
+msgid "DC-SkillNode-CureAll"
+msgstr ""
+
+msgid "DC-SkillNode-GainGold"
+msgstr ""
+
+msgid "DC-SkillNode-GainItem"
+msgstr ""
+
+msgid "DC-SkillNode-GainMinion"
+msgstr ""
+
+msgid "DC-SkillNode-Heal"
+msgstr ""
+
+msgid "DC-SkillNode-HP-"
+msgstr ""
+
+msgid "DC-SkillNode-Passive*"
+msgstr ""
+
+msgid "DC-SkillNode-Passive+"
+msgstr ""
+
+msgid "DC-SkillNode-Refresh"
+msgstr ""
+
+msgid "DC-SkillNode-RemovePassive"
+msgstr ""
+
+msgid "DC-SkillNode-RemoveState"
+msgstr ""
+
+msgid "DC-SkillNode-Revive"
+msgstr ""
+
+msgid "DC-SkillNode-Shield-"
+msgstr ""
+
+msgid "DC-SkillNode-Shield+"
+msgstr ""
+
+msgid "DC-SkillNode-State*"
+msgstr ""
+
+msgid "DC-SkillNode-State+"
+msgstr ""
+
+msgid "DC-SkillNode-StateLast+"
+msgstr ""
+
+msgid "DC-SkillNode-Temp-"
+msgstr ""
+
+msgid "DC-SM0001"
+msgstr ""
+
+msgid "DC-SM0002"
+msgstr ""
+
+msgid "DC-SM0003"
+msgstr ""
+
+msgid "DC-SM0004"
+msgstr ""
+
+msgid "DC-SM0005"
+msgstr ""
+
+msgid "DC-SM0006"
+msgstr ""
+
+msgid "DC-SM0007"
+msgstr ""
+
+msgid "DC-SM0008"
+msgstr ""
+
+msgid "DC-SM0009"
+msgstr ""
+
+msgid "DC-SM0010"
+msgstr ""
+
+msgid "DC-SM0011"
+msgstr ""
+
+msgid "DC-SM0012"
+msgstr ""
+
+msgid "DC-SM0013"
+msgstr ""
+
+msgid "DC-SM0014"
+msgstr ""
+
+msgid "DC-SM0015"
+msgstr ""
+
+msgid "DC-Special-In-Chronochest"
+msgstr ""
+
+msgid "DC-StartAdventure"
+msgstr ""
+
+msgid "DC-StayTunedNextSeason"
+msgstr ""
+
+msgid "DC-STC001"
+msgstr ""
+
+msgid "DC-STC002"
+msgstr ""
+
+msgid "DC-STC003"
+msgstr ""
+
+msgid "DC-STC004"
+msgstr ""
+
+msgid "DC-STC005"
+msgstr ""
+
+msgid "DC-STC006"
+msgstr ""
+
+msgid "DC-STC007"
+msgstr ""
+
+msgid "DC-STC008"
+msgstr ""
+
+msgid "DC-STC009"
+msgstr ""
+
+msgid "DC-STC010"
+msgstr ""
+
+msgid "DC-STC011"
+msgstr ""
+
+msgid "DC-STC012"
+msgstr ""
+
+msgid "DC-STC013"
+msgstr ""
+
+msgid "DC-STC014"
+msgstr ""
+
+msgid "DC-STC015"
+msgstr ""
+
+msgid "DC-STC016"
+msgstr ""
+
+msgid "DC-STC017"
+msgstr ""
+
+msgid "DC-STC018"
+msgstr ""
+
+msgid "DC-STC019"
+msgstr ""
+
+msgid "DC-STC020"
+msgstr ""
+
+msgid "DC-STC021"
+msgstr ""
+
+msgid "DC-STC022"
+msgstr ""
+
+msgid "DC-STC023"
+msgstr ""
+
+msgid "DC-STC024"
+msgstr ""
+
+msgid "DC-STC025"
+msgstr ""
+
+msgid "DC-STC026"
+msgstr ""
+
+msgid "DC-STC027"
+msgstr ""
+
+msgid "DC-STC028"
+msgstr ""
+
+msgid "DC-STC029"
+msgstr ""
+
+msgid "DC-STC030"
+msgstr ""
+
+msgid "DC-STC031"
+msgstr ""
+
+msgid "DC-STC032"
+msgstr ""
+
+msgid "DC-STC033"
+msgstr ""
+
+msgid "DC-STC034"
+msgstr ""
+
+msgid "DC-STC035"
+msgstr ""
+
+msgid "DC-STC036"
+msgstr ""
+
+msgid "DC-STG001"
+msgstr ""
+
+msgid "DC-STG002"
+msgstr ""
+
+msgid "DC-STG003"
+msgstr ""
+
+msgid "DC-STG004"
+msgstr ""
+
+msgid "DC-STG005"
+msgstr ""
+
+msgid "DC-STG006"
+msgstr ""
+
+msgid "DC-STG007"
+msgstr ""
+
+msgid "DC-STG008"
+msgstr ""
+
+msgid "DC-STG009"
+msgstr ""
+
+msgid "DC-STG010"
+msgstr ""
+
+msgid "DC-STG011"
+msgstr ""
+
+msgid "DC-STG012"
+msgstr ""
+
+msgid "DC-STG013"
+msgstr ""
+
+msgid "DC-STG014"
+msgstr ""
+
+msgid "DC-STG015"
+msgstr ""
+
+msgid "DC-STG016"
+msgstr ""
+
+msgid "DC-STG017"
+msgstr ""
+
+msgid "DC-STG018"
+msgstr ""
+
+msgid "DC-STG019"
+msgstr ""
+
+msgid "DC-STG020"
+msgstr ""
+
+msgid "DC-STG021"
+msgstr ""
+
+msgid "DC-STG022"
+msgstr ""
+
+msgid "DC-STG023"
+msgstr ""
+
+msgid "DC-STG024"
+msgstr ""
+
+msgid "DC-STG025"
+msgstr ""
+
+msgid "DC-STG026"
+msgstr ""
+
+msgid "DC-STG027"
+msgstr ""
+
+msgid "DC-STG028"
+msgstr ""
+
+msgid "DC-STG029"
+msgstr ""
+
+msgid "DC-STG030"
+msgstr ""
+
+msgid "DC-STG031"
+msgstr ""
+
+msgid "DC-STG032"
+msgstr ""
+
+msgid "DC-STG034"
+msgstr ""
+
+msgid "DC-STG035"
+msgstr ""
+
+msgid "DC-STG036"
+msgstr ""
+
+msgid "DC-STG037"
+msgstr ""
+
+msgid "DC-STG038"
+msgstr ""
+
+msgid "DC-STG039"
+msgstr ""
+
+msgid "DC-STG040"
+msgstr ""
+
+msgid "DC-STG041"
+msgstr ""
+
+msgid "DC-STG042"
+msgstr ""
+
+msgid "DC-STG043"
+msgstr ""
+
+msgid "DC-STG045"
+msgstr ""
+
+msgid "DC-STG046"
+msgstr ""
+
+msgid "DC-STG047"
+msgstr ""
+
+msgid "DC-STG048"
+msgstr ""
+
+msgid "DC-STG049"
+msgstr ""
+
+msgid "DC-STG050"
+msgstr ""
+
+msgid "DC-STG051"
+msgstr ""
+
+msgid "DC-STG052"
+msgstr ""
+
+msgid "DC-STG053"
+msgstr ""
+
+msgid "DC-STG054"
+msgstr ""
+
+msgid "DC-STG055"
+msgstr ""
+
+msgid "DC-STG056"
+msgstr ""
+
+msgid "DC-STG057"
+msgstr ""
+
+msgid "DC-STG058"
+msgstr ""
+
+msgid "DC-STG059"
+msgstr ""
+
+msgid "DC-STG060"
+msgstr ""
+
+msgid "DC-STG061"
+msgstr ""
+
+msgid "DC-STG062"
+msgstr ""
+
+msgid "DC-STG063"
+msgstr ""
+
+msgid "DC-STG064"
+msgstr ""
+
+msgid "DC-STG065"
+msgstr ""
+
+msgid "DC-STG066"
+msgstr ""
+
+msgid "DC-STG067"
+msgstr ""
+
+msgid "DC-STG068"
+msgstr ""
+
+msgid "DC-STG069"
+msgstr ""
+
+msgid "DC-STG070"
+msgstr ""
+
+msgid "DC-STG071"
+msgstr ""
+
+msgid "DC-STG072"
+msgstr ""
+
+msgid "DC-STG073"
+msgstr ""
+
+msgid "DC-STG074"
+msgstr ""
+
+msgid "DC-STG075"
+msgstr ""
+
+msgid "DC-STG076"
+msgstr ""
+
+msgid "DC-STG077"
+msgstr ""
+
+msgid "DC-STG078"
+msgstr ""
+
+msgid "DC-STG079"
+msgstr ""
+
+msgid "DC-STG080"
+msgstr ""
+
+msgid "DC-STG081"
+msgstr ""
+
+msgid "DC-STG082"
+msgstr ""
+
+msgid "DC-STG083"
+msgstr ""
+
+msgid "DC-STG084"
+msgstr ""
+
+msgid "DC-STG085"
+msgstr ""
+
+msgid "DC-STG086"
+msgstr ""
+
+msgid "DC-STG087"
+msgstr ""
+
+msgid "DC-STG088"
+msgstr ""
+
+msgid "DC-STG089"
+msgstr ""
+
+msgid "DC-STG090"
+msgstr ""
+
+msgid "DC-STG091"
+msgstr ""
+
+msgid "DC-STG092"
+msgstr ""
+
+msgid "DC-STG093"
+msgstr ""
+
+msgid "DC-STG094"
+msgstr ""
+
+msgid "DC-STG095"
+msgstr ""
+
+msgid "DC-STG096"
+msgstr ""
+
+msgid "DC-STG097"
+msgstr ""
+
+msgid "DC-STG098"
+msgstr ""
+
+msgid "DC-STG099"
+msgstr ""
+
+msgid "DC-STG100"
+msgstr ""
+
+msgid "DC-STG101"
+msgstr ""
+
+msgid "DC-STG102"
+msgstr ""
+
+msgid "DC-STG103"
+msgstr ""
+
+msgid "DC-STG104"
+msgstr ""
+
+msgid "DC-STG105"
+msgstr ""
+
+msgid "DC-STG106"
+msgstr ""
+
+msgid "DC-STG107"
+msgstr ""
+
+msgid "DC-STG108"
+msgstr ""
+
+msgid "DC-STG109"
+msgstr ""
+
+msgid "DC-STG110"
+msgstr ""
+
+msgid "DC-STG111"
+msgstr ""
+
+msgid "DC-STG112"
+msgstr ""
+
+msgid "DC-STG113"
+msgstr ""
+
+msgid "DC-STG114"
+msgstr ""
+
+msgid "DC-STG115"
+msgstr ""
+
+msgid "DC-STG116"
+msgstr ""
+
+msgid "DC-STG117"
+msgstr ""
+
+msgid "DC-STG118"
+msgstr ""
+
+msgid "DC-STG119"
+msgstr ""
+
+msgid "DC-STG120"
+msgstr ""
+
+msgid "DC-STG121"
+msgstr ""
+
+msgid "DC-STG122"
+msgstr ""
+
+msgid "DC-STG123"
+msgstr ""
+
+msgid "DC-STG124"
+msgstr ""
+
+msgid "DC-STG125"
+msgstr ""
+
+msgid "DC-STG126"
+msgstr ""
+
+msgid "DC-STG127"
+msgstr ""
+
+msgid "DC-STG128"
+msgstr ""
+
+msgid "DC-STG129"
+msgstr ""
+
+msgid "DC-STG130"
+msgstr ""
+
+msgid "DC-STG131"
+msgstr ""
+
+msgid "DC-STG132"
+msgstr ""
+
+msgid "DC-STG133"
+msgstr ""
+
+msgid "DC-STG134"
+msgstr ""
+
+msgid "DC-STG135"
+msgstr ""
+
+msgid "DC-STG136"
+msgstr ""
+
+msgid "DC-STG137"
+msgstr ""
+
+msgid "DC-STG138"
+msgstr ""
+
+msgid "DC-STG139"
+msgstr ""
+
+msgid "DC-STG140"
+msgstr ""
+
+msgid "DC-STG141"
+msgstr ""
+
+msgid "DC-STG142"
+msgstr ""
+
+msgid "DC-STG143"
+msgstr ""
+
+msgid "DC-STG144"
+msgstr ""
+
+msgid "DC-STG145"
+msgstr ""
+
+msgid "DC-STG146"
+msgstr ""
+
+msgid "DC-STG147"
+msgstr ""
+
+msgid "DC-STG148"
+msgstr ""
+
+msgid "DC-STG149"
+msgstr ""
+
+msgid "DC-STG150"
+msgstr ""
+
+msgid "DC-STG151"
+msgstr ""
+
+msgid "DC-STG152"
+msgstr ""
+
+msgid "DC-STG153"
+msgstr ""
+
+msgid "DC-STG154"
+msgstr ""
+
+msgid "DC-STG155"
+msgstr ""
+
+msgid "DC-STG156"
+msgstr ""
+
+msgid "DC-STG157"
+msgstr ""
+
+msgid "DC-STG158"
+msgstr ""
+
+msgid "DC-STG159"
+msgstr ""
+
+msgid "DC-STG160"
+msgstr ""
+
+msgid "DC-STG161"
+msgstr ""
+
+msgid "DC-STG162"
+msgstr ""
+
+msgid "DC-STG163"
+msgstr ""
+
+msgid "DC-STG164"
+msgstr ""
+
+msgid "DC-STG165"
+msgstr ""
+
+msgid "DC-STG166"
+msgstr ""
+
+msgid "DC-STG167"
+msgstr ""
+
+msgid "DC-STG168"
+msgstr ""
+
+msgid "DC-STG169"
+msgstr ""
+
+msgid "DC-STG170"
+msgstr ""
+
+msgid "DC-STG171"
+msgstr ""
+
+msgid "DC-STG172"
+msgstr ""
+
+msgid "DC-STG173"
+msgstr ""
+
+msgid "DC-STG174"
+msgstr ""
+
+msgid "DC-STG175"
+msgstr ""
+
+msgid "DC-STG176"
+msgstr ""
+
+msgid "DC-STG177"
+msgstr ""
+
+msgid "DC-STG178"
+msgstr ""
+
+msgid "DC-STG179"
+msgstr ""
+
+msgid "DC-STG180"
+msgstr ""
+
+msgid "DC-STG181"
+msgstr ""
+
+msgid "DC-STG182"
+msgstr ""
+
+msgid "DC-STG183"
+msgstr ""
+
+msgid "DC-STG184"
+msgstr ""
+
+msgid "DC-STG185"
+msgstr ""
+
+msgid "DC-STG186"
+msgstr ""
+
+msgid "DC-STG187"
+msgstr ""
+
+msgid "DC-STG188"
+msgstr ""
+
+msgid "DC-STG191"
+msgstr ""
+
+msgid "DC-STG192"
+msgstr ""
+
+msgid "DC-STG193"
+msgstr ""
+
+msgid "DC-STG194"
+msgstr ""
+
+msgid "DC-STG195"
+msgstr ""
+
+msgid "DC-STG196"
+msgstr ""
+
+msgid "DC-STG197"
+msgstr ""
+
+msgid "DC-STG198"
+msgstr ""
+
+msgid "DC-STG199"
+msgstr ""
+
+msgid "DC-STG200"
+msgstr ""
+
+msgid "DC-STG201"
+msgstr ""
+
+msgid "DC-STG202"
+msgstr ""
+
+msgid "DC-STG203"
+msgstr ""
+
+msgid "DC-STG204"
+msgstr ""
+
+msgid "DC-STG205"
+msgstr ""
+
+msgid "DC-STG206"
+msgstr ""
+
+msgid "DC-STG207"
+msgstr ""
+
+msgid "DC-STG208"
+msgstr ""
+
+msgid "DC-STG209"
+msgstr ""
+
+msgid "DC-STG210"
+msgstr ""
+
+msgid "DC-STG211"
+msgstr ""
+
+msgid "DC-STG212"
+msgstr ""
+
+msgid "DC-STG213"
+msgstr ""
+
+msgid "DC-STG214"
+msgstr ""
+
+msgid "DC-STG215"
+msgstr ""
+
+msgid "DC-STG216"
+msgstr ""
+
+msgid "DC-STG217"
+msgstr ""
+
+msgid "DC-STG218"
+msgstr ""
+
+msgid "DC-STG219"
+msgstr ""
+
+msgid "DC-STG220"
+msgstr ""
+
+msgid "DC-STG221"
+msgstr ""
+
+msgid "DC-STG222"
+msgstr ""
+
+msgid "DC-STG223"
+msgstr ""
+
+msgid "DC-STG224"
+msgstr ""
+
+msgid "DC-STG225"
+msgstr ""
+
+msgid "DC-STG226"
+msgstr ""
+
+msgid "DC-STG227"
+msgstr ""
+
+msgid "DC-STG228"
+msgstr ""
+
+msgid "DC-STG229"
+msgstr ""
+
+msgid "DC-STG230"
+msgstr ""
+
+msgid "DC-STG231"
+msgstr ""
+
+msgid "DC-STG232"
+msgstr ""
+
+msgid "DC-STG233"
+msgstr ""
+
+msgid "DC-STG234"
+msgstr ""
+
+msgid "DC-STG240"
+msgstr ""
+
+msgid "DC-STG241"
+msgstr ""
+
+msgid "DC-STG242"
+msgstr ""
+
+msgid "DC-STG243"
+msgstr ""
+
+msgid "DC-STG244"
+msgstr ""
+
+msgid "DC-STG245"
+msgstr ""
+
+msgid "DC-STG246"
+msgstr ""
+
+msgid "DC-STG247"
+msgstr ""
+
+msgid "DC-STG248"
+msgstr ""
+
+msgid "DC-STG249"
+msgstr ""
+
+msgid "DC-STG250"
+msgstr ""
+
+msgid "DC-STG251"
+msgstr ""
+
+msgid "DC-STG252"
+msgstr ""
+
+msgid "DC-STG253"
+msgstr ""
+
+msgid "DC-STG254"
+msgstr ""
+
+msgid "DC-STG255"
+msgstr ""
+
+msgid "DC-STG256"
+msgstr ""
+
+msgid "DC-STG257"
+msgstr ""
+
+msgid "DC-STG258"
+msgstr ""
+
+msgid "DC-STG259"
+msgstr ""
+
+msgid "DC-STG260"
+msgstr ""
+
+msgid "DC-STG261"
+msgstr ""
+
+msgid "DC-STG262"
+msgstr ""
+
+msgid "DC-STG263"
+msgstr ""
+
+msgid "DC-STG264"
+msgstr ""
+
+msgid "DC-STG265"
+msgstr ""
+
+msgid "DC-STG266"
+msgstr ""
+
+msgid "DC-STG267"
+msgstr ""
+
+msgid "DC-STG268"
+msgstr ""
+
+msgid "DC-STG269"
+msgstr ""
+
+msgid "DC-STG270"
+msgstr ""
+
+msgid "DC-STG271"
+msgstr ""
+
+msgid "DC-STG272"
+msgstr ""
+
+msgid "DC-STG273"
+msgstr ""
+
+msgid "DC-STG274"
+msgstr ""
+
+msgid "DC-STG275"
+msgstr ""
+
+msgid "DC-STG276"
+msgstr ""
+
+msgid "DC-STG277"
+msgstr ""
+
+msgid "DC-STL001"
+msgstr ""
+
+msgid "DC-STL002"
+msgstr ""
+
+msgid "DC-STL003"
+msgstr ""
+
+msgid "DC-STL004"
+msgstr ""
+
+msgid "DC-STL005"
+msgstr ""
+
+msgid "DC-STL006"
+msgstr ""
+
+msgid "DC-STL007"
+msgstr ""
+
+msgid "DC-STL008"
+msgstr ""
+
+msgid "DC-STL009"
+msgstr ""
+
+msgid "DC-STL010"
+msgstr ""
+
+msgid "DC-STL011"
+msgstr ""
+
+msgid "DC-STL012"
+msgstr ""
+
+msgid "DC-STL013"
+msgstr ""
+
+msgid "DC-STL014"
+msgstr ""
+
+msgid "DC-STL015"
+msgstr ""
+
+msgid "DC-STL016"
+msgstr ""
+
+msgid "DC-STL017"
+msgstr ""
+
+msgid "DC-STL018"
+msgstr ""
+
+msgid "DC-STL019"
+msgstr ""
+
+msgid "DC-STL020"
+msgstr ""
+
+msgid "DC-STL021"
+msgstr ""
+
+msgid "DC-STL022"
+msgstr ""
+
+msgid "DC-STL023"
+msgstr ""
+
+msgid "DC-STL024"
+msgstr ""
+
+msgid "DC-STL025"
+msgstr ""
+
+msgid "DC-STL026"
+msgstr ""
+
+msgid "DC-STL027"
+msgstr ""
+
+msgid "DC-STL028"
+msgstr ""
+
+msgid "DC-STL029"
+msgstr ""
+
+msgid "DC-STL030"
+msgstr ""
+
+msgid "DC-STL031"
+msgstr ""
+
+msgid "DC-STL032"
+msgstr ""
+
+msgid "DC-STL033"
+msgstr ""
+
+msgid "DC-STL034"
+msgstr ""
+
+msgid "DC-STL035"
+msgstr ""
+
+msgid "DC-STL036"
+msgstr ""
+
+msgid "DC-STL037"
+msgstr ""
+
+msgid "DC-STL038"
+msgstr ""
+
+msgid "DC-STL039"
+msgstr ""
+
+msgid "DC-STL040"
+msgstr ""
+
+msgid "DC-STL042"
+msgstr ""
+
+msgid "DC-STL043"
+msgstr ""
+
+msgid "DC-STL044"
+msgstr ""
+
+msgid "DC-STL045"
+msgstr ""
+
+msgid "DC-STL046"
+msgstr ""
+
+msgid "DC-STL047"
+msgstr ""
+
+msgid "DC-STL048"
+msgstr ""
+
+msgid "DC-STL049"
+msgstr ""
+
+msgid "DC-STL050"
+msgstr ""
+
+msgid "DC-STL051"
+msgstr ""
+
+msgid "DC-STL052"
+msgstr ""
+
+msgid "DC-STL053"
+msgstr ""
+
+msgid "DC-STL054"
+msgstr ""
+
+msgid "DC-STL055"
+msgstr ""
+
+msgid "DC-STL056"
+msgstr ""
+
+msgid "DC-STL057"
+msgstr ""
+
+msgid "DC-STL058"
+msgstr ""
+
+msgid "DC-STL059"
+msgstr ""
+
+msgid "DC-STL060"
+msgstr ""
+
+msgid "DC-STL061"
+msgstr ""
+
+msgid "DC-STL062"
+msgstr ""
+
+msgid "DC-STL063"
+msgstr ""
+
+msgid "DC-STL064"
+msgstr ""
+
+msgid "DC-STL065"
+msgstr ""
+
+msgid "DC-STL066"
+msgstr ""
+
+msgid "DC-STL067"
+msgstr ""
+
+msgid "DC-STL068"
+msgstr ""
+
+msgid "DC-STL069"
+msgstr ""
+
+msgid "DC-STL070"
+msgstr ""
+
+msgid "DC-STL071"
+msgstr ""
+
+msgid "DC-STL072"
+msgstr ""
+
+msgid "DC-STL073"
+msgstr ""
+
+msgid "DC-STL074"
+msgstr ""
+
+msgid "DC-STL075"
+msgstr ""
+
+msgid "DC-STL076"
+msgstr ""
+
+msgid "DC-STL077"
+msgstr ""
+
+msgid "DC-STL078"
+msgstr ""
+
+msgid "DC-STL079"
+msgstr ""
+
+msgid "DC-STL080"
+msgstr ""
+
+msgid "DC-STL081"
+msgstr ""
+
+msgid "DC-STL082"
+msgstr ""
+
+msgid "DC-STL083"
+msgstr ""
+
+msgid "DC-STL084"
+msgstr ""
+
+msgid "DC-STL085"
+msgstr ""
+
+msgid "DC-STL086"
+msgstr ""
+
+msgid "DC-STL087"
+msgstr ""
+
+msgid "DC-STL088"
+msgstr ""
+
+msgid "DC-STL089"
+msgstr ""
+
+msgid "DC-STL090"
+msgstr ""
+
+msgid "DC-STL091"
+msgstr ""
+
+msgid "DC-STL092"
+msgstr ""
+
+msgid "DC-SupLvMax"
+msgstr ""
+
+msgid "DC-SupLvMin"
+msgstr ""
+
+msgid "DC-Tips-0"
+msgstr ""
+
+msgid "DC-Tips-1"
+msgstr ""
+
+msgid "DC-Tips-10"
+msgstr ""
+
+msgid "DC-Tips-11"
+msgstr ""
+
+msgid "DC-Tips-12"
+msgstr ""
+
+msgid "DC-Tips-13"
+msgstr ""
+
+msgid "DC-Tips-14"
+msgstr ""
+
+msgid "DC-Tips-15"
+msgstr ""
+
+msgid "DC-Tips-16"
+msgstr ""
+
+msgid "DC-Tips-17"
+msgstr ""
+
+msgid "DC-Tips-18"
+msgstr ""
+
+msgid "DC-Tips-19"
+msgstr ""
+
+msgid "DC-Tips-2"
+msgstr ""
+
+msgid "DC-Tips-3"
+msgstr ""
+
+msgid "DC-Tips-4"
+msgstr ""
+
+msgid "DC-Tips-5"
+msgstr ""
+
+msgid "DC-Tips-6"
+msgstr ""
+
+msgid "DC-Tips-7"
+msgstr ""
+
+msgid "DC-Tips-8"
+msgstr ""
+
+msgid "DC-Tips-9"
+msgstr ""
+
+msgid "DC-TradeWith"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Chara-0"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Chara-1"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Chara-2"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Chara-3"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-0"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-1"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-10"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-11"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-12"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-13"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-14"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-15"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-16"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-17"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-18"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-19"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-2"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-20"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-21"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-23"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-24"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-25"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-26"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-28"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-3"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-5"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-6"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-7"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-8"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Main-9"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-0"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-1"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-2"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-3"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-4"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-5"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-6"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-7-1"
+msgstr ""
+
+msgid "DC-Tutorial-Serif-Prepare-7-2"
+msgstr ""
+
+msgid "DC-TweetBody"
+msgstr ""
+
+msgid "DC-UnderAdventure"
+msgstr ""
+
+msgid "DC-UseItem"
+msgstr ""
+
+msgid "DC-UseMinion"
+msgstr ""
+
+msgid "NM-ABC00101"
+msgstr ""
+
+msgid "NM-ABC00102"
+msgstr ""
+
+msgid "NM-ABC00103"
+msgstr ""
+
+msgid "NM-ABC00104"
+msgstr ""
+
+msgid "NM-ABC00105"
+msgstr ""
+
+msgid "NM-ABC00201"
+msgstr ""
+
+msgid "NM-ABC00202"
+msgstr ""
+
+msgid "NM-ABC00203"
+msgstr ""
+
+msgid "NM-ABC00204"
+msgstr ""
+
+msgid "NM-ABC00205"
+msgstr ""
+
+msgid "NM-ABC00301"
+msgstr ""
+
+msgid "NM-ABC00302"
+msgstr ""
+
+msgid "NM-ABC00303"
+msgstr ""
+
+msgid "NM-ABC00304"
+msgstr ""
+
+msgid "NM-ABC00305"
+msgstr ""
+
+msgid "NM-ABC00401"
+msgstr ""
+
+msgid "NM-ABC00402"
+msgstr ""
+
+msgid "NM-ABC00403"
+msgstr ""
+
+msgid "NM-ABC00404"
+msgstr ""
+
+msgid "NM-ABC00405"
+msgstr ""
+
+msgid "NM-ABC00501"
+msgstr ""
+
+msgid "NM-ABC00502"
+msgstr ""
+
+msgid "NM-ABC00503"
+msgstr ""
+
+msgid "NM-ABC00504"
+msgstr ""
+
+msgid "NM-ABC00505"
+msgstr ""
+
+msgid "NM-ABC00601"
+msgstr ""
+
+msgid "NM-ABC00602"
+msgstr ""
+
+msgid "NM-ABC00603"
+msgstr ""
+
+msgid "NM-ABC00604"
+msgstr ""
+
+msgid "NM-ABC00605"
+msgstr ""
+
+msgid "NM-ABC00701"
+msgstr ""
+
+msgid "NM-ABC00702"
+msgstr ""
+
+msgid "NM-ABC00703"
+msgstr ""
+
+msgid "NM-ABC00704"
+msgstr ""
+
+msgid "NM-ABC00705"
+msgstr ""
+
+msgid "NM-ABC00801"
+msgstr ""
+
+msgid "NM-ABC00802"
+msgstr ""
+
+msgid "NM-ABC00803"
+msgstr ""
+
+msgid "NM-ABC00804"
+msgstr ""
+
+msgid "NM-ABC00805"
+msgstr ""
+
+msgid "NM-ABC00901"
+msgstr ""
+
+msgid "NM-ABC00902"
+msgstr ""
+
+msgid "NM-ABC00903"
+msgstr ""
+
+msgid "NM-ABC00904"
+msgstr ""
+
+msgid "NM-ABC00905"
+msgstr ""
+
+msgid "NM-ABC01001"
+msgstr ""
+
+msgid "NM-ABC01002"
+msgstr ""
+
+msgid "NM-ABC01003"
+msgstr ""
+
+msgid "NM-ABC01004"
+msgstr ""
+
+msgid "NM-ABC01005"
+msgstr ""
+
+msgid "NM-ABC01101"
+msgstr ""
+
+msgid "NM-ABC01102"
+msgstr ""
+
+msgid "NM-ABC01103"
+msgstr ""
+
+msgid "NM-ABC01104"
+msgstr ""
+
+msgid "NM-ABC01105"
+msgstr ""
+
+msgid "NM-ABC01201"
+msgstr ""
+
+msgid "NM-ABC01202"
+msgstr ""
+
+msgid "NM-ABC01203"
+msgstr ""
+
+msgid "NM-ABC01204"
+msgstr ""
+
+msgid "NM-ABC01205"
+msgstr ""
+
+msgid "NM-ABC01301"
+msgstr ""
+
+msgid "NM-ABC01302"
+msgstr ""
+
+msgid "NM-ABC01303"
+msgstr ""
+
+msgid "NM-ABC01304"
+msgstr ""
+
+msgid "NM-ABC01305"
+msgstr ""
+
+msgid "NM-ABC01401"
+msgstr ""
+
+msgid "NM-ABC01402"
+msgstr ""
+
+msgid "NM-ABC01403"
+msgstr ""
+
+msgid "NM-ABC01404"
+msgstr ""
+
+msgid "NM-ABC01405"
+msgstr ""
+
+msgid "NM-ABC01501"
+msgstr ""
+
+msgid "NM-ABC01502"
+msgstr ""
+
+msgid "NM-ABC01503"
+msgstr ""
+
+msgid "NM-ABC01504"
+msgstr ""
+
+msgid "NM-ABC01505"
+msgstr ""
+
+msgid "NM-ABC01601"
+msgstr ""
+
+msgid "NM-ABC01602"
+msgstr ""
+
+msgid "NM-ABC01603"
+msgstr ""
+
+msgid "NM-ABC01604"
+msgstr ""
+
+msgid "NM-ABC01605"
+msgstr ""
+
+msgid "NM-ABC01701"
+msgstr ""
+
+msgid "NM-ABC01702"
+msgstr ""
+
+msgid "NM-ABC01703"
+msgstr ""
+
+msgid "NM-ABC01704"
+msgstr ""
+
+msgid "NM-ABC01705"
+msgstr ""
+
+msgid "NM-ABC01801"
+msgstr ""
+
+msgid "NM-ABC01802"
+msgstr ""
+
+msgid "NM-ABC01803"
+msgstr ""
+
+msgid "NM-ABC01804"
+msgstr ""
+
+msgid "NM-ABC01805"
+msgstr ""
+
+msgid "NM-ABC01901"
+msgstr ""
+
+msgid "NM-ABC01902"
+msgstr ""
+
+msgid "NM-ABC01903"
+msgstr ""
+
+msgid "NM-ABC01904"
+msgstr ""
+
+msgid "NM-ABC01905"
+msgstr ""
+
+msgid "NM-ABC02001"
+msgstr ""
+
+msgid "NM-ABC02002"
+msgstr ""
+
+msgid "NM-ABC02003"
+msgstr ""
+
+msgid "NM-ABC02004"
+msgstr ""
+
+msgid "NM-ABC02005"
+msgstr ""
+
+msgid "NM-AbilityPoint"
+msgstr ""
+
+msgid "NM-ABJ00101"
+msgstr ""
+
+msgid "NM-ABJ00102"
+msgstr ""
+
+msgid "NM-ABJ00103"
+msgstr ""
+
+msgid "NM-ABJ00104"
+msgstr ""
+
+msgid "NM-ABJ00105"
+msgstr ""
+
+msgid "NM-ABJ00201"
+msgstr ""
+
+msgid "NM-ABJ00202"
+msgstr ""
+
+msgid "NM-ABJ00203"
+msgstr ""
+
+msgid "NM-ABJ00204"
+msgstr ""
+
+msgid "NM-ABJ00205"
+msgstr ""
+
+msgid "NM-ABJ00301"
+msgstr ""
+
+msgid "NM-ABJ00302"
+msgstr ""
+
+msgid "NM-ABJ00303"
+msgstr ""
+
+msgid "NM-ABJ00304"
+msgstr ""
+
+msgid "NM-ABJ00305"
+msgstr ""
+
+msgid "NM-ABJ00401"
+msgstr ""
+
+msgid "NM-ABJ00402"
+msgstr ""
+
+msgid "NM-ABJ00403"
+msgstr ""
+
+msgid "NM-ABJ00404"
+msgstr ""
+
+msgid "NM-ABJ00405"
+msgstr ""
+
+msgid "NM-ABJ00501"
+msgstr ""
+
+msgid "NM-ABJ00502"
+msgstr ""
+
+msgid "NM-ABJ00503"
+msgstr ""
+
+msgid "NM-ABJ00504"
+msgstr ""
+
+msgid "NM-ABJ00505"
+msgstr ""
+
+msgid "NM-ABJ00601"
+msgstr ""
+
+msgid "NM-ABJ00602"
+msgstr ""
+
+msgid "NM-ABJ00603"
+msgstr ""
+
+msgid "NM-ABJ00604"
+msgstr ""
+
+msgid "NM-ABJ00605"
+msgstr ""
+
+msgid "NM-ABJ00701"
+msgstr ""
+
+msgid "NM-ABJ00702"
+msgstr ""
+
+msgid "NM-ABJ00703"
+msgstr ""
+
+msgid "NM-ABJ00704"
+msgstr ""
+
+msgid "NM-ABJ00705"
+msgstr ""
+
+msgid "NM-ABJ00801"
+msgstr ""
+
+msgid "NM-ABJ00802"
+msgstr ""
+
+msgid "NM-ABJ00803"
+msgstr ""
+
+msgid "NM-ABJ00804"
+msgstr ""
+
+msgid "NM-ABJ00805"
+msgstr ""
+
+msgid "NM-ABJ00901"
+msgstr ""
+
+msgid "NM-ABJ00902"
+msgstr ""
+
+msgid "NM-ABJ00903"
+msgstr ""
+
+msgid "NM-ABJ00904"
+msgstr ""
+
+msgid "NM-ABJ00905"
+msgstr ""
+
+msgid "NM-ABJ01001"
+msgstr ""
+
+msgid "NM-ABJ01002"
+msgstr ""
+
+msgid "NM-ABJ01003"
+msgstr ""
+
+msgid "NM-ABJ01004"
+msgstr ""
+
+msgid "NM-ABJ01005"
+msgstr ""
+
+msgid "NM-ABJ01101"
+msgstr ""
+
+msgid "NM-ABJ01102"
+msgstr ""
+
+msgid "NM-ABJ01103"
+msgstr ""
+
+msgid "NM-ABJ01104"
+msgstr ""
+
+msgid "NM-ABJ01105"
+msgstr ""
+
+msgid "NM-ABJ01201"
+msgstr ""
+
+msgid "NM-ABJ01202"
+msgstr ""
+
+msgid "NM-ABJ01203"
+msgstr ""
+
+msgid "NM-ABJ01204"
+msgstr ""
+
+msgid "NM-ABJ01205"
+msgstr ""
+
+msgid "NM-ABJ01301"
+msgstr ""
+
+msgid "NM-ABJ01302"
+msgstr ""
+
+msgid "NM-ABJ01303"
+msgstr ""
+
+msgid "NM-ABJ01304"
+msgstr ""
+
+msgid "NM-ABJ01305"
+msgstr ""
+
+msgid "NM-ABJ01401"
+msgstr ""
+
+msgid "NM-ABJ01402"
+msgstr ""
+
+msgid "NM-ABJ01403"
+msgstr ""
+
+msgid "NM-ABJ01404"
+msgstr ""
+
+msgid "NM-ABJ01405"
+msgstr ""
+
+msgid "NM-ABJ01501"
+msgstr ""
+
+msgid "NM-ABJ01502"
+msgstr ""
+
+msgid "NM-ABJ01503"
+msgstr ""
+
+msgid "NM-ABJ01504"
+msgstr ""
+
+msgid "NM-ABJ01505"
+msgstr ""
+
+msgid "NM-ABJ01601"
+msgstr ""
+
+msgid "NM-ABJ01602"
+msgstr ""
+
+msgid "NM-ABJ01603"
+msgstr ""
+
+msgid "NM-ABJ01604"
+msgstr ""
+
+msgid "NM-ABJ01605"
+msgstr ""
+
+msgid "NM-ABJ01701"
+msgstr ""
+
+msgid "NM-ABJ01702"
+msgstr ""
+
+msgid "NM-ABJ01703"
+msgstr ""
+
+msgid "NM-ABJ01704"
+msgstr ""
+
+msgid "NM-ABJ01705"
+msgstr ""
+
+msgid "NM-ABJ01801"
+msgstr ""
+
+msgid "NM-ABJ01802"
+msgstr ""
+
+msgid "NM-ABJ01803"
+msgstr ""
+
+msgid "NM-ABJ01804"
+msgstr ""
+
+msgid "NM-ABJ01805"
+msgstr ""
+
+msgid "NM-ABJ01901"
+msgstr ""
+
+msgid "NM-ABJ01902"
+msgstr ""
+
+msgid "NM-ABJ01903"
+msgstr ""
+
+msgid "NM-ABJ01904"
+msgstr ""
+
+msgid "NM-ABJ01905"
+msgstr ""
+
+msgid "NM-ABJ02001"
+msgstr ""
+
+msgid "NM-ABJ02002"
+msgstr ""
+
+msgid "NM-ABJ02003"
+msgstr ""
+
+msgid "NM-ABJ02004"
+msgstr ""
+
+msgid "NM-ABJ02005"
+msgstr ""
+
+msgid "NM-ABJ02101"
+msgstr ""
+
+msgid "NM-ABJ02102"
+msgstr ""
+
+msgid "NM-ABJ02103"
+msgstr ""
+
+msgid "NM-ABJ02104"
+msgstr ""
+
+msgid "NM-ABJ02105"
+msgstr ""
+
+msgid "NM-ABJ02201"
+msgstr ""
+
+msgid "NM-ABJ02202"
+msgstr ""
+
+msgid "NM-ABJ02203"
+msgstr ""
+
+msgid "NM-ABJ02204"
+msgstr ""
+
+msgid "NM-ABJ02205"
+msgstr ""
+
+msgid "NM-ABJ02301"
+msgstr ""
+
+msgid "NM-ABJ02302"
+msgstr ""
+
+msgid "NM-ABJ02303"
+msgstr ""
+
+msgid "NM-ABJ02304"
+msgstr ""
+
+msgid "NM-ABJ02305"
+msgstr ""
+
+msgid "NM-ABJ02401"
+msgstr ""
+
+msgid "NM-ABJ02402"
+msgstr ""
+
+msgid "NM-ABJ02403"
+msgstr ""
+
+msgid "NM-ABJ02404"
+msgstr ""
+
+msgid "NM-ABJ02405"
+msgstr ""
+
+msgid "NM-ABJ02501"
+msgstr ""
+
+msgid "NM-ABJ02502"
+msgstr ""
+
+msgid "NM-ABJ02503"
+msgstr ""
+
+msgid "NM-ABJ02504"
+msgstr ""
+
+msgid "NM-ABJ02505"
+msgstr ""
+
+msgid "NM-ABJ02601"
+msgstr ""
+
+msgid "NM-ABJ02602"
+msgstr ""
+
+msgid "NM-ABJ02603"
+msgstr ""
+
+msgid "NM-ABJ02604"
+msgstr ""
+
+msgid "NM-ABJ02605"
+msgstr ""
+
+msgid "NM-ABJ02701"
+msgstr ""
+
+msgid "NM-ABJ02702"
+msgstr ""
+
+msgid "NM-ABJ02703"
+msgstr ""
+
+msgid "NM-ABJ02704"
+msgstr ""
+
+msgid "NM-ABJ02705"
+msgstr ""
+
+msgid "NM-ABJ02801"
+msgstr ""
+
+msgid "NM-ABJ02802"
+msgstr ""
+
+msgid "NM-ABJ02803"
+msgstr ""
+
+msgid "NM-ABJ02804"
+msgstr ""
+
+msgid "NM-ABJ02805"
+msgstr ""
+
+msgid "NM-ABJ02901"
+msgstr ""
+
+msgid "NM-ABJ02902"
+msgstr ""
+
+msgid "NM-ABJ02903"
+msgstr ""
+
+msgid "NM-ABJ02904"
+msgstr ""
+
+msgid "NM-ABJ02905"
+msgstr ""
+
+msgid "NM-ABJ03001"
+msgstr ""
+
+msgid "NM-ABJ03002"
+msgstr ""
+
+msgid "NM-ABJ03003"
+msgstr ""
+
+msgid "NM-ABJ03004"
+msgstr ""
+
+msgid "NM-ABJ03005"
+msgstr ""
+
+msgid "NM-ABL00001"
+msgstr ""
+
+msgid "NM-ABL00002"
+msgstr ""
+
+msgid "NM-ABL00003"
+msgstr ""
+
+msgid "NM-ABL00004"
+msgstr ""
+
+msgid "NM-ABL00005"
+msgstr ""
+
+msgid "NM-ABL00006"
+msgstr ""
+
+msgid "NM-ABL00007"
+msgstr ""
+
+msgid "NM-ABL00008"
+msgstr ""
+
+msgid "NM-ABL00009"
+msgstr ""
+
+msgid "NM-ABL00010"
+msgstr ""
+
+msgid "NM-ABL00011"
+msgstr ""
+
+msgid "NM-ABL00012"
+msgstr ""
+
+msgid "NM-ABL00013"
+msgstr ""
+
+msgid "NM-ABL00014"
+msgstr ""
+
+msgid "NM-ABL00015"
+msgstr ""
+
+msgid "NM-ABL00016"
+msgstr ""
+
+msgid "NM-ABL00017"
+msgstr ""
+
+msgid "NM-ABL00018"
+msgstr ""
+
+msgid "NM-ABL00019"
+msgstr ""
+
+msgid "NM-ABL00020"
+msgstr ""
+
+msgid "NM-ABL99999"
+msgstr ""
+
+msgid "NM-About-Beta-URL"
+msgstr ""
+
+msgid "NM-About-Chrono"
+msgstr ""
+
+msgid "NM-About-Payment"
+msgstr ""
+
+msgid "NM-ABP00001"
+msgstr ""
+
+msgid "NM-ABP00002"
+msgstr ""
+
+msgid "NM-ABP00003"
+msgstr ""
+
+msgid "NM-ABP00004"
+msgstr ""
+
+msgid "NM-ABP00005"
+msgstr ""
+
+msgid "NM-ABP00006"
+msgstr ""
+
+msgid "NM-ABP00007"
+msgstr ""
+
+msgid "NM-ABP00008"
+msgstr ""
+
+msgid "NM-ABP00009"
+msgstr ""
+
+msgid "NM-ABP00010"
+msgstr ""
+
+msgid "NM-ABP00011"
+msgstr ""
+
+msgid "NM-ABP00012"
+msgstr ""
+
+msgid "NM-ABP00013"
+msgstr ""
+
+msgid "NM-ABP00014"
+msgstr ""
+
+msgid "NM-ABP00015"
+msgstr ""
+
+msgid "NM-ABP00016"
+msgstr ""
+
+msgid "NM-ABP00017"
+msgstr ""
+
+msgid "NM-ABP00018"
+msgstr ""
+
+msgid "NM-ABP00019"
+msgstr ""
+
+msgid "NM-ABP00020"
+msgstr ""
+
+msgid "NM-ABP00021"
+msgstr ""
+
+msgid "NM-ABP00022"
+msgstr ""
+
+msgid "NM-ABP00023"
+msgstr ""
+
+msgid "NM-ABP00024"
+msgstr ""
+
+msgid "NM-ABP00025"
+msgstr ""
+
+msgid "NM-ABP00026"
+msgstr ""
+
+msgid "NM-ABP00027"
+msgstr ""
+
+msgid "NM-ABP00028"
+msgstr ""
+
+msgid "NM-ABP00029"
+msgstr ""
+
+msgid "NM-ABP00030"
+msgstr ""
+
+msgid "NM-ABP00031"
+msgstr ""
+
+msgid "NM-ABP00032"
+msgstr ""
+
+msgid "NM-ABP00033"
+msgstr ""
+
+msgid "NM-ABP00034"
+msgstr ""
+
+msgid "NM-ABP00035"
+msgstr ""
+
+msgid "NM-ABP00036"
+msgstr ""
+
+msgid "NM-ABP00037"
+msgstr ""
+
+msgid "NM-ABP00038"
+msgstr ""
+
+msgid "NM-ABP00039"
+msgstr ""
+
+msgid "NM-ABP00040"
+msgstr ""
+
+msgid "NM-ABS01001"
+msgstr ""
+
+msgid "NM-ABS01002"
+msgstr ""
+
+msgid "NM-ABS01003"
+msgstr ""
+
+msgid "NM-ABS01004"
+msgstr ""
+
+msgid "NM-ABS01005"
+msgstr ""
+
+msgid "NM-ABS01006"
+msgstr ""
+
+msgid "NM-ABS01007"
+msgstr ""
+
+msgid "NM-ABS01008"
+msgstr ""
+
+msgid "NM-ABS01009"
+msgstr ""
+
+msgid "NM-ABS01010"
+msgstr ""
+
+msgid "NM-ABS01011"
+msgstr ""
+
+msgid "NM-ABS01012"
+msgstr ""
+
+msgid "NM-ABS01013"
+msgstr ""
+
+msgid "NM-ABS01014"
+msgstr ""
+
+msgid "NM-ABS01015"
+msgstr ""
+
+msgid "NM-ABS01016"
+msgstr ""
+
+msgid "NM-ABS01017"
+msgstr ""
+
+msgid "NM-ABS01018"
+msgstr ""
+
+msgid "NM-ABS01019"
+msgstr ""
+
+msgid "NM-ABS01020"
+msgstr ""
+
+msgid "NM-ABSC0001"
+msgstr ""
+
+msgid "NM-ABSC0002"
+msgstr ""
+
+msgid "NM-ABSC0003"
+msgstr ""
+
+msgid "NM-ABSC0004"
+msgstr ""
+
+msgid "NM-ABSC0005"
+msgstr ""
+
+msgid "NM-ABSC0006"
+msgstr ""
+
+msgid "NM-ABSC0007"
+msgstr ""
+
+msgid "NM-ABSC0008"
+msgstr ""
+
+msgid "NM-ABSC0009"
+msgstr ""
+
+msgid "NM-ABSC0010"
+msgstr ""
+
+msgid "NM-ABSC0011"
+msgstr ""
+
+msgid "NM-ABSC0012"
+msgstr ""
+
+msgid "NM-ABSC0013"
+msgstr ""
+
+msgid "NM-ABSC0014"
+msgstr ""
+
+msgid "NM-ABSC0015"
+msgstr ""
+
+msgid "NM-ABSC0016"
+msgstr ""
+
+msgid "NM-ABSC0017"
+msgstr ""
+
+msgid "NM-ABSC0018"
+msgstr ""
+
+msgid "NM-ABSC0019"
+msgstr ""
+
+msgid "NM-ABSC0020"
+msgstr ""
+
+msgid "NM-ABSJ0001"
+msgstr ""
+
+msgid "NM-ABSJ0002"
+msgstr ""
+
+msgid "NM-ABSJ0003"
+msgstr ""
+
+msgid "NM-ABSJ0004"
+msgstr ""
+
+msgid "NM-ABSJ0005"
+msgstr ""
+
+msgid "NM-ABSJ0006"
+msgstr ""
+
+msgid "NM-ABSJ0007"
+msgstr ""
+
+msgid "NM-ABSJ0008"
+msgstr ""
+
+msgid "NM-ABSJ0009"
+msgstr ""
+
+msgid "NM-ABSJ0010"
+msgstr ""
+
+msgid "NM-ABSJ0011"
+msgstr ""
+
+msgid "NM-ABSJ0012"
+msgstr ""
+
+msgid "NM-ABSJ0013"
+msgstr ""
+
+msgid "NM-ABSJ0014"
+msgstr ""
+
+msgid "NM-ABSJ0015"
+msgstr ""
+
+msgid "NM-ABSJ0016"
+msgstr ""
+
+msgid "NM-ABSJ0017"
+msgstr ""
+
+msgid "NM-ABSJ0018"
+msgstr ""
+
+msgid "NM-ABSJ0019"
+msgstr ""
+
+msgid "NM-ABSJ0020"
+msgstr ""
+
+msgid "NM-ABSJ0021"
+msgstr ""
+
+msgid "NM-ABSJ0022"
+msgstr ""
+
+msgid "NM-ABSJ0023"
+msgstr ""
+
+msgid "NM-ABSJ0024"
+msgstr ""
+
+msgid "NM-ABSJ0025"
+msgstr ""
+
+msgid "NM-ABSJ0026"
+msgstr ""
+
+msgid "NM-ABSJ0027"
+msgstr ""
+
+msgid "NM-ABSJ0028"
+msgstr ""
+
+msgid "NM-ABSJ0029"
+msgstr ""
+
+msgid "NM-ABSJ0030"
+msgstr ""
+
+msgid "NM-ABSP0001"
+msgstr ""
+
+msgid "NM-ABSP0002"
+msgstr ""
+
+msgid "NM-ABSP0003"
+msgstr ""
+
+msgid "NM-ABSP0004"
+msgstr ""
+
+msgid "NM-ABSP0005"
+msgstr ""
+
+msgid "NM-ABSP0006"
+msgstr ""
+
+msgid "NM-ABSP0007"
+msgstr ""
+
+msgid "NM-ABSP0008"
+msgstr ""
+
+msgid "NM-ABSS0001"
+msgstr ""
+
+msgid "NM-ABSS0002"
+msgstr ""
+
+msgid "NM-ABSS0003"
+msgstr ""
+
+msgid "NM-ABSS0004"
+msgstr ""
+
+msgid "NM-ACHIVEMENT"
+msgstr ""
+
+msgid "NM-AM0001"
+msgstr ""
+
+msgid "NM-AM0002"
+msgstr ""
+
+msgid "NM-AM0003"
+msgstr ""
+
+msgid "NM-AM0004"
+msgstr ""
+
+msgid "NM-AM0005"
+msgstr ""
+
+msgid "NM-AM0006"
+msgstr ""
+
+msgid "NM-AM0007"
+msgstr ""
+
+msgid "NM-AM0008"
+msgstr ""
+
+msgid "NM-AM0009"
+msgstr ""
+
+msgid "NM-AM0010"
+msgstr ""
+
+msgid "NM-AM0011"
+msgstr ""
+
+msgid "NM-AM0012"
+msgstr ""
+
+msgid "NM-AM0013"
+msgstr ""
+
+msgid "NM-AM0014"
+msgstr ""
+
+msgid "NM-AM0015"
+msgstr ""
+
+msgid "NM-AM0016"
+msgstr ""
+
+msgid "NM-AM0017"
+msgstr ""
+
+msgid "NM-AM0018"
+msgstr ""
+
+msgid "NM-AM0019"
+msgstr ""
+
+msgid "NM-AM0020"
+msgstr ""
+
+msgid "NM-AM0021"
+msgstr ""
+
+msgid "NM-AM0022"
+msgstr ""
+
+msgid "NM-AM0023"
+msgstr ""
+
+msgid "NM-AM0024"
+msgstr ""
+
+msgid "NM-AM0025"
+msgstr ""
+
+msgid "NM-AM0026"
+msgstr ""
+
+msgid "NM-AM0027"
+msgstr ""
+
+msgid "NM-AM0028"
+msgstr ""
+
+msgid "NM-AM0029"
+msgstr ""
+
+msgid "NM-AM0030"
+msgstr ""
+
+msgid "NM-Amulet"
+msgstr ""
+
+msgid "NM-AR01"
+msgstr ""
+
+msgid "NM-AR02"
+msgstr ""
+
+msgid "NM-AR03"
+msgstr ""
+
+msgid "NM-AR04"
+msgstr ""
+
+msgid "NM-AR05"
+msgstr ""
+
+msgid "NM-AR06"
+msgstr ""
+
+msgid "NM-AR07"
+msgstr ""
+
+msgid "NM-AR08"
+msgstr ""
+
+msgid "NM-AR09"
+msgstr ""
+
+msgid "NM-AR10"
+msgstr ""
+
+msgid "NM-AR11"
+msgstr ""
+
+msgid "NM-AR12"
+msgstr ""
+
+msgid "NM-AR13"
+msgstr ""
+
+msgid "NM-AR14"
+msgstr ""
+
+msgid "NM-AR15"
+msgstr ""
+
+msgid "NM-AR16"
+msgstr ""
+
+msgid "NM-BeforeStone"
+msgstr ""
+
+msgid "NM-BOSS"
+msgstr ""
+
+msgid "NM-Bounty-Sheet"
+msgstr ""
+
+msgid "NM-Btn-CanISaveYou"
+msgstr ""
+
+msgid "NM-Btn-ChangePickGear"
+msgstr ""
+
+msgid "NM-Btn-Chest-About"
+msgstr ""
+
+msgid "NM-Btn-Chest-Help"
+msgstr ""
+
+msgid "NM-Btn-Chest-Inside"
+msgstr ""
+
+msgid "NM-Btn-Chest-Reset"
+msgstr ""
+
+msgid "NM-Btn-EventMissions"
+msgstr ""
+
+msgid "NM-Btn-EventShop"
+msgstr ""
+
+msgid "NM-Btn-FinishAdventure"
+msgstr ""
+
+msgid "NM-Btn-KeepNowGear"
+msgstr ""
+
+msgid "NM-Btn-Publish"
+msgstr ""
+
+msgid "NM-Btn-Remove"
+msgstr ""
+
+msgid "NM-Btn-SamePoint"
+msgstr ""
+
+msgid "NM-Btn-ShareResult"
+msgstr ""
+
+msgid "NM-CCB01"
+msgstr ""
+
+msgid "NM-CCB02"
+msgstr ""
+
+msgid "NM-CCE01"
+msgstr ""
+
+msgid "NM-CCE02"
+msgstr ""
+
+msgid "NM-CharaShort"
+msgstr ""
+
+msgid "NM-Chest"
+msgstr ""
+
+msgid "NM-ChronoShard"
+msgstr ""
+
+msgid "NM-ClearRate"
+msgstr ""
+
+msgid "NM-CondRelease"
+msgstr ""
+
+msgid "NM-Conquer"
+msgstr ""
+
+msgid "NM-CONQUEST-NUM"
+msgstr ""
+
+msgid "NM-Consumable"
+msgstr ""
+
+msgid "NM-DG0001"
+msgstr ""
+
+msgid "NM-DG0002"
+msgstr ""
+
+msgid "NM-DG0003"
+msgstr ""
+
+msgid "NM-DG0004"
+msgstr ""
+
+msgid "NM-DG0005"
+msgstr ""
+
+msgid "NM-DG0006"
+msgstr ""
+
+msgid "NM-DG0007"
+msgstr ""
+
+msgid "NM-DG0008"
+msgstr ""
+
+msgid "NM-DG0009"
+msgstr ""
+
+msgid "NM-DG0010"
+msgstr ""
+
+msgid "NM-DG0011"
+msgstr ""
+
+msgid "NM-DG0012"
+msgstr ""
+
+msgid "NM-DG0013"
+msgstr ""
+
+msgid "NM-DG0014"
+msgstr ""
+
+msgid "NM-DG0015"
+msgstr ""
+
+msgid "NM-DG0016"
+msgstr ""
+
+msgid "NM-DG0017"
+msgstr ""
+
+msgid "NM-DG0018"
+msgstr ""
+
+msgid "NM-DG0019"
+msgstr ""
+
+msgid "NM-DG0020"
+msgstr ""
+
+msgid "NM-DG0021"
+msgstr ""
+
+msgid "NM-DG0022"
+msgstr ""
+
+msgid "NM-DG0023"
+msgstr ""
+
+msgid "NM-DG0024"
+msgstr ""
+
+msgid "NM-DG0025"
+msgstr ""
+
+msgid "NM-DG0026"
+msgstr ""
+
+msgid "NM-DG0027"
+msgstr ""
+
+msgid "NM-DG0028"
+msgstr ""
+
+msgid "NM-DG0029"
+msgstr ""
+
+msgid "NM-DG0030"
+msgstr ""
+
+msgid "NM-DG0031"
+msgstr ""
+
+msgid "NM-DG0032"
+msgstr ""
+
+msgid "NM-DG0033"
+msgstr ""
+
+msgid "NM-DG0034"
+msgstr ""
+
+msgid "NM-DG0035"
+msgstr ""
+
+msgid "NM-DG0036"
+msgstr ""
+
+msgid "NM-DG0037"
+msgstr ""
+
+msgid "NM-DG0038"
+msgstr ""
+
+msgid "NM-DG0039"
+msgstr ""
+
+msgid "NM-DG0040"
+msgstr ""
+
+msgid "NM-DG0041"
+msgstr ""
+
+msgid "NM-DG0042"
+msgstr ""
+
+msgid "NM-DG0043"
+msgstr ""
+
+msgid "NM-Dict"
+msgstr ""
+
+msgid "NM-Disappear"
+msgstr ""
+
+msgid "NM-Done"
+msgstr ""
+
+msgid "NM-DragonValley"
+msgstr ""
+
+msgid "NM-DragonValleyCommon"
+msgstr ""
+
+msgid "NM-DUNGEON"
+msgstr ""
+
+msgid "NM-Earn"
+msgstr ""
+
+msgid "NM-Earn"
+msgstr ""
+
+msgid "NM-Echo"
+msgstr ""
+
+msgid "NM-EN0001"
+msgstr ""
+
+msgid "NM-EN0002"
+msgstr ""
+
+msgid "NM-EN0003"
+msgstr ""
+
+msgid "NM-EN0004"
+msgstr ""
+
+msgid "NM-EN0005"
+msgstr ""
+
+msgid "NM-EN0006"
+msgstr ""
+
+msgid "NM-EN0007"
+msgstr ""
+
+msgid "NM-EN0008"
+msgstr ""
+
+msgid "NM-EN0009"
+msgstr ""
+
+msgid "NM-EN0010"
+msgstr ""
+
+msgid "NM-EN0011"
+msgstr ""
+
+msgid "NM-EN0012"
+msgstr ""
+
+msgid "NM-EN0013"
+msgstr ""
+
+msgid "NM-EN0014"
+msgstr ""
+
+msgid "NM-EN0015"
+msgstr ""
+
+msgid "NM-EN0016"
+msgstr ""
+
+msgid "NM-EN0017"
+msgstr ""
+
+msgid "NM-EN0018"
+msgstr ""
+
+msgid "NM-EN0019"
+msgstr ""
+
+msgid "NM-EN0020"
+msgstr ""
+
+msgid "NM-EN0021"
+msgstr ""
+
+msgid "NM-EN0022"
+msgstr ""
+
+msgid "NM-EN0023"
+msgstr ""
+
+msgid "NM-EN0024"
+msgstr ""
+
+msgid "NM-EN0025"
+msgstr ""
+
+msgid "NM-EN0026"
+msgstr ""
+
+msgid "NM-EN0027"
+msgstr ""
+
+msgid "NM-EN0028"
+msgstr ""
+
+msgid "NM-EN0029"
+msgstr ""
+
+msgid "NM-EN0030"
+msgstr ""
+
+msgid "NM-EN0031"
+msgstr ""
+
+msgid "NM-EN0032"
+msgstr ""
+
+msgid "NM-EN0033"
+msgstr ""
+
+msgid "NM-EN0034"
+msgstr ""
+
+msgid "NM-EN0035"
+msgstr ""
+
+msgid "NM-EN0036"
+msgstr ""
+
+msgid "NM-EN0037"
+msgstr ""
+
+msgid "NM-EN0038"
+msgstr ""
+
+msgid "NM-EN0039"
+msgstr ""
+
+msgid "NM-EN0040"
+msgstr ""
+
+msgid "NM-EN0041"
+msgstr ""
+
+msgid "NM-EN0042"
+msgstr ""
+
+msgid "NM-EN0043"
+msgstr ""
+
+msgid "NM-EN0044"
+msgstr ""
+
+msgid "NM-EN0045"
+msgstr ""
+
+msgid "NM-EN0046"
+msgstr ""
+
+msgid "NM-EN0047"
+msgstr ""
+
+msgid "NM-EN0048"
+msgstr ""
+
+msgid "NM-EN0049"
+msgstr ""
+
+msgid "NM-EN0050"
+msgstr ""
+
+msgid "NM-EN0051"
+msgstr ""
+
+msgid "NM-EN0052"
+msgstr ""
+
+msgid "NM-EN0053"
+msgstr ""
+
+msgid "NM-EN0054"
+msgstr ""
+
+msgid "NM-EN0055"
+msgstr ""
+
+msgid "NM-EN0056"
+msgstr ""
+
+msgid "NM-EN0057"
+msgstr ""
+
+msgid "NM-EN0058"
+msgstr ""
+
+msgid "NM-EN0059"
+msgstr ""
+
+msgid "NM-EN0060"
+msgstr ""
+
+msgid "NM-EN0061"
+msgstr ""
+
+msgid "NM-EN0062"
+msgstr ""
+
+msgid "NM-EN0063"
+msgstr ""
+
+msgid "NM-EN0064"
+msgstr ""
+
+msgid "NM-EN0065"
+msgstr ""
+
+msgid "NM-EN0066"
+msgstr ""
+
+msgid "NM-EN0067"
+msgstr ""
+
+msgid "NM-EN0068"
+msgstr ""
+
+msgid "NM-EN0069"
+msgstr ""
+
+msgid "NM-EN0070"
+msgstr ""
+
+msgid "NM-EN0071"
+msgstr ""
+
+msgid "NM-EN0072"
+msgstr ""
+
+msgid "NM-EN0073"
+msgstr ""
+
+msgid "NM-EN0074"
+msgstr ""
+
+msgid "NM-EN0075"
+msgstr ""
+
+msgid "NM-EN0076"
+msgstr ""
+
+msgid "NM-EN0077"
+msgstr ""
+
+msgid "NM-EN0078"
+msgstr ""
+
+msgid "NM-EN0079"
+msgstr ""
+
+msgid "NM-EN0080"
+msgstr ""
+
+msgid "NM-ENDB01"
+msgstr ""
+
+msgid "NM-ENDB02"
+msgstr ""
+
+msgid "NM-ENDB03"
+msgstr ""
+
+msgid "NM-ENDB04"
+msgstr ""
+
+msgid "NM-ENDB05"
+msgstr ""
+
+msgid "NM-ENDB06"
+msgstr ""
+
+msgid "NM-ENDB07"
+msgstr ""
+
+msgid "NM-ENDB08"
+msgstr ""
+
+msgid "NM-ENDB09"
+msgstr ""
+
+msgid "NM-ENDB10"
+msgstr ""
+
+msgid "NM-ENDB11"
+msgstr ""
+
+msgid "NM-ENDB12"
+msgstr ""
+
+msgid "NM-ENDB13"
+msgstr ""
+
+msgid "NM-ENDB14"
+msgstr ""
+
+msgid "NM-ENDB15"
+msgstr ""
+
+msgid "NM-ENDB16"
+msgstr ""
+
+msgid "NM-ENDB17"
+msgstr ""
+
+msgid "NM-ENDB18"
+msgstr ""
+
+msgid "NM-ENDB19"
+msgstr ""
+
+msgid "NM-ENDB20"
+msgstr ""
+
+msgid "NM-ENDB21"
+msgstr ""
+
+msgid "NM-ENDB22"
+msgstr ""
+
+msgid "NM-ENDB23"
+msgstr ""
+
+msgid "NM-ENDB24"
+msgstr ""
+
+msgid "NM-ENDB25"
+msgstr ""
+
+msgid "NM-ENDB26"
+msgstr ""
+
+msgid "NM-ENDB27"
+msgstr ""
+
+msgid "NM-ENDB28"
+msgstr ""
+
+msgid "NM-ENDB29"
+msgstr ""
+
+msgid "NM-ENDB30"
+msgstr ""
+
+msgid "NM-ENDB31"
+msgstr ""
+
+msgid "NM-ENDB32"
+msgstr ""
+
+msgid "NM-ENDR01"
+msgstr ""
+
+msgid "NM-ENDR02"
+msgstr ""
+
+msgid "NM-ENDR03"
+msgstr ""
+
+msgid "NM-ENDR04"
+msgstr ""
+
+msgid "NM-ENDR05"
+msgstr ""
+
+msgid "NM-ENDR06"
+msgstr ""
+
+msgid "NM-ENDR07"
+msgstr ""
+
+msgid "NM-ENDR08"
+msgstr ""
+
+msgid "NM-ENIB01"
+msgstr ""
+
+msgid "NM-ENIB02"
+msgstr ""
+
+msgid "NM-ENIB03"
+msgstr ""
+
+msgid "NM-ENIB04"
+msgstr ""
+
+msgid "NM-ENIB05"
+msgstr ""
+
+msgid "NM-ENIB06"
+msgstr ""
+
+msgid "NM-ENIB07"
+msgstr ""
+
+msgid "NM-ENIB08"
+msgstr ""
+
+msgid "NM-ENIB09"
+msgstr ""
+
+msgid "NM-ENIB10"
+msgstr ""
+
+msgid "NM-ENLS01"
+msgstr ""
+
+msgid "NM-ENRB01"
+msgstr ""
+
+msgid "NM-ENRB02"
+msgstr ""
+
+msgid "NM-ENRB03"
+msgstr ""
+
+msgid "NM-ENRB04"
+msgstr ""
+
+msgid "NM-ENRB05"
+msgstr ""
+
+msgid "NM-ENRB06"
+msgstr ""
+
+msgid "NM-ENRB07"
+msgstr ""
+
+msgid "NM-ENRB08"
+msgstr ""
+
+msgid "NM-EnterArea"
+msgstr ""
+
+msgid "NM-EQ-Parts"
+msgstr ""
+
+msgid "NM-Equipments"
+msgstr ""
+
+msgid "NM-Event"
+msgstr ""
+
+msgid "NM-Failed"
+msgstr ""
+
+msgid "NM-Find"
+msgstr ""
+
+msgid "NM-Gear-Pos-0"
+msgstr ""
+
+msgid "NM-Gear-Pos-1"
+msgstr ""
+
+msgid "NM-Gear-Pos-2"
+msgstr ""
+
+msgid "NM-Gift"
+msgstr ""
+
+msgid "NM-Gold"
+msgstr ""
+
+msgid "NM-GRA001"
+msgstr ""
+
+msgid "NM-GRA002"
+msgstr ""
+
+msgid "NM-GRA003"
+msgstr ""
+
+msgid "NM-GRA004"
+msgstr ""
+
+msgid "NM-GRA005"
+msgstr ""
+
+msgid "NM-GRA006"
+msgstr ""
+
+msgid "NM-GRA007"
+msgstr ""
+
+msgid "NM-GRA008"
+msgstr ""
+
+msgid "NM-GRA009"
+msgstr ""
+
+msgid "NM-GRA010"
+msgstr ""
+
+msgid "NM-GRAL16"
+msgstr ""
+
+msgid "NM-GRAL17"
+msgstr ""
+
+msgid "NM-GRAL18"
+msgstr ""
+
+msgid "NM-GRAL19"
+msgstr ""
+
+msgid "NM-GRAL20"
+msgstr ""
+
+msgid "NM-GRAL21"
+msgstr ""
+
+msgid "NM-GRAL22"
+msgstr ""
+
+msgid "NM-GRAL23"
+msgstr ""
+
+msgid "NM-GRAL24"
+msgstr ""
+
+msgid "NM-GRAL25"
+msgstr ""
+
+msgid "NM-GRBL01"
+msgstr ""
+
+msgid "NM-GRBL02"
+msgstr ""
+
+msgid "NM-GRBL03"
+msgstr ""
+
+msgid "NM-GRBL04"
+msgstr ""
+
+msgid "NM-GRBL05"
+msgstr ""
+
+msgid "NM-GRBL06"
+msgstr ""
+
+msgid "NM-GRBL07"
+msgstr ""
+
+msgid "NM-GRBL08"
+msgstr ""
+
+msgid "NM-GRBL09"
+msgstr ""
+
+msgid "NM-GRBL10"
+msgstr ""
+
+msgid "NM-GRBL11"
+msgstr ""
+
+msgid "NM-GRBL12"
+msgstr ""
+
+msgid "NM-GRBL13"
+msgstr ""
+
+msgid "NM-GRBL14"
+msgstr ""
+
+msgid "NM-GRBL15"
+msgstr ""
+
+msgid "NM-GRBL16"
+msgstr ""
+
+msgid "NM-GRBL17"
+msgstr ""
+
+msgid "NM-GRBL18"
+msgstr ""
+
+msgid "NM-GRBL19"
+msgstr ""
+
+msgid "NM-GRBL20"
+msgstr ""
+
+msgid "NM-GRBL21"
+msgstr ""
+
+msgid "NM-GRBL22"
+msgstr ""
+
+msgid "NM-GRBL23"
+msgstr ""
+
+msgid "NM-GRBL24"
+msgstr ""
+
+msgid "NM-GRBL25"
+msgstr ""
+
+msgid "NM-GRBL26"
+msgstr ""
+
+msgid "NM-GRBL27"
+msgstr ""
+
+msgid "NM-GRBL28"
+msgstr ""
+
+msgid "NM-GRBL29"
+msgstr ""
+
+msgid "NM-GRBL30"
+msgstr ""
+
+msgid "NM-GRBL31"
+msgstr ""
+
+msgid "NM-GRBL32"
+msgstr ""
+
+msgid "NM-GRBL33"
+msgstr ""
+
+msgid "NM-GRBL34"
+msgstr ""
+
+msgid "NM-GRBL35"
+msgstr ""
+
+msgid "NM-GRBL36"
+msgstr ""
+
+msgid "NM-GRBL37"
+msgstr ""
+
+msgid "NM-GRBL38"
+msgstr ""
+
+msgid "NM-GRBL39"
+msgstr ""
+
+msgid "NM-GRBL40"
+msgstr ""
+
+msgid "NM-GRBL41"
+msgstr ""
+
+msgid "NM-GRBL42"
+msgstr ""
+
+msgid "NM-GRBL43"
+msgstr ""
+
+msgid "NM-GRBL44"
+msgstr ""
+
+msgid "NM-GRBL45"
+msgstr ""
+
+msgid "NM-GRBL46"
+msgstr ""
+
+msgid "NM-GRBL47"
+msgstr ""
+
+msgid "NM-GRBL48"
+msgstr ""
+
+msgid "NM-GRBL49"
+msgstr ""
+
+msgid "NM-GRBL50"
+msgstr ""
+
+msgid "NM-GRBL51"
+msgstr ""
+
+msgid "NM-GRBL52"
+msgstr ""
+
+msgid "NM-GRBL53"
+msgstr ""
+
+msgid "NM-GRBL54"
+msgstr ""
+
+msgid "NM-GRDL01"
+msgstr ""
+
+msgid "NM-GRDL02"
+msgstr ""
+
+msgid "NM-GRDL03"
+msgstr ""
+
+msgid "NM-GRDL04"
+msgstr ""
+
+msgid "NM-GRDL05"
+msgstr ""
+
+msgid "NM-GRDL06"
+msgstr ""
+
+msgid "NM-GRDL07"
+msgstr ""
+
+msgid "NM-GRDL08"
+msgstr ""
+
+msgid "NM-GRJD01"
+msgstr ""
+
+msgid "NM-GRJD02"
+msgstr ""
+
+msgid "NM-GRJD03"
+msgstr ""
+
+msgid "NM-GRJD04"
+msgstr ""
+
+msgid "NM-GRJD05"
+msgstr ""
+
+msgid "NM-GRJD06"
+msgstr ""
+
+msgid "NM-GRJD07"
+msgstr ""
+
+msgid "NM-GRJD08"
+msgstr ""
+
+msgid "NM-GRJD09"
+msgstr ""
+
+msgid "NM-GRJD10"
+msgstr ""
+
+msgid "NM-GRJD11"
+msgstr ""
+
+msgid "NM-GRJD12"
+msgstr ""
+
+msgid "NM-GRJD13"
+msgstr ""
+
+msgid "NM-GRJD14"
+msgstr ""
+
+msgid "NM-GRJD15"
+msgstr ""
+
+msgid "NM-GRJD16"
+msgstr ""
+
+msgid "NM-GRJD17"
+msgstr ""
+
+msgid "NM-GRJD18"
+msgstr ""
+
+msgid "NM-GRJD19"
+msgstr ""
+
+msgid "NM-GRJD20"
+msgstr ""
+
+msgid "NM-GRO001"
+msgstr ""
+
+msgid "NM-GRO002"
+msgstr ""
+
+msgid "NM-GRO003"
+msgstr ""
+
+msgid "NM-GRO004"
+msgstr ""
+
+msgid "NM-GRO005"
+msgstr ""
+
+msgid "NM-GRO006"
+msgstr ""
+
+msgid "NM-GRO007"
+msgstr ""
+
+msgid "NM-GRO008"
+msgstr ""
+
+msgid "NM-GRO009"
+msgstr ""
+
+msgid "NM-GRO010"
+msgstr ""
+
+msgid "NM-GROL16"
+msgstr ""
+
+msgid "NM-GROL17"
+msgstr ""
+
+msgid "NM-GROL18"
+msgstr ""
+
+msgid "NM-GROL19"
+msgstr ""
+
+msgid "NM-GROL20"
+msgstr ""
+
+msgid "NM-GROL21"
+msgstr ""
+
+msgid "NM-GROL22"
+msgstr ""
+
+msgid "NM-GROL23"
+msgstr ""
+
+msgid "NM-GROL24"
+msgstr ""
+
+msgid "NM-GROL25"
+msgstr ""
+
+msgid "NM-GROL26"
+msgstr ""
+
+msgid "NM-GROL27"
+msgstr ""
+
+msgid "NM-GROL28"
+msgstr ""
+
+msgid "NM-GROL29"
+msgstr ""
+
+msgid "NM-GROL30"
+msgstr ""
+
+msgid "NM-GROL31"
+msgstr ""
+
+msgid "NM-Growup"
+msgstr ""
+
+msgid "NM-GRW001"
+msgstr ""
+
+msgid "NM-GRW002"
+msgstr ""
+
+msgid "NM-GRW003"
+msgstr ""
+
+msgid "NM-GRW004"
+msgstr ""
+
+msgid "NM-GRW005"
+msgstr ""
+
+msgid "NM-GRW006"
+msgstr ""
+
+msgid "NM-GRW007"
+msgstr ""
+
+msgid "NM-GRW008"
+msgstr ""
+
+msgid "NM-GRW009"
+msgstr ""
+
+msgid "NM-GRW010"
+msgstr ""
+
+msgid "NM-GRWL16"
+msgstr ""
+
+msgid "NM-GRWL17"
+msgstr ""
+
+msgid "NM-GRWL18"
+msgstr ""
+
+msgid "NM-GRWL19"
+msgstr ""
+
+msgid "NM-GRWL20"
+msgstr ""
+
+msgid "NM-GRWL21"
+msgstr ""
+
+msgid "NM-GRWL22"
+msgstr ""
+
+msgid "NM-GRWL23"
+msgstr ""
+
+msgid "NM-GRWL24"
+msgstr ""
+
+msgid "NM-GRWL25"
+msgstr ""
+
+msgid "NM-Help"
+msgstr ""
+
+msgid "NM-Invasion"
+msgstr ""
+
+msgid "NM-ITAD01"
+msgstr ""
+
+msgid "NM-ITAD04"
+msgstr ""
+
+msgid "NM-ITAD05"
+msgstr ""
+
+msgid "NM-ITAP01"
+msgstr ""
+
+msgid "NM-ITAP02"
+msgstr ""
+
+msgid "NM-ITAP03"
+msgstr ""
+
+msgid "NM-ITAS01"
+msgstr ""
+
+msgid "NM-Item"
+msgstr ""
+
+msgid "NM-ITPA01"
+msgstr ""
+
+msgid "NM-ITPA02"
+msgstr ""
+
+msgid "NM-ITPA03"
+msgstr ""
+
+msgid "NM-ITPA04"
+msgstr ""
+
+msgid "NM-ITPA05"
+msgstr ""
+
+msgid "NM-ITPA06"
+msgstr ""
+
+msgid "NM-ITPA07"
+msgstr ""
+
+msgid "NM-ITPA08"
+msgstr ""
+
+msgid "NM-ITPA09"
+msgstr ""
+
+msgid "NM-ITPR01"
+msgstr ""
+
+msgid "NM-ITPR02"
+msgstr ""
+
+msgid "NM-ITPS01"
+msgstr ""
+
+msgid "NM-ITPS02"
+msgstr ""
+
+msgid "NM-ITPS03"
+msgstr ""
+
+msgid "NM-ITPS04"
+msgstr ""
+
+msgid "NM-ITPS05"
+msgstr ""
+
+msgid "NM-ITPS06"
+msgstr ""
+
+msgid "NM-ITPS07"
+msgstr ""
+
+msgid "NM-ITPS08"
+msgstr ""
+
+msgid "NM-ITPS09"
+msgstr ""
+
+msgid "NM-ITPS10"
+msgstr ""
+
+msgid "NM-ITPS11"
+msgstr ""
+
+msgid "NM-ITPS12"
+msgstr ""
+
+msgid "NM-ITPS13"
+msgstr ""
+
+msgid "NM-ITPS14"
+msgstr ""
+
+msgid "NM-ITPS15"
+msgstr ""
+
+msgid "NM-ITPS16"
+msgstr ""
+
+msgid "NM-ITPS17"
+msgstr ""
+
+msgid "NM-ITPS18"
+msgstr ""
+
+msgid "NM-ITPS19"
+msgstr ""
+
+msgid "NM-ITPS20"
+msgstr ""
+
+msgid "NM-ITPS21"
+msgstr ""
+
+msgid "NM-ITPS22"
+msgstr ""
+
+msgid "NM-ITPS23"
+msgstr ""
+
+msgid "NM-ITPS24"
+msgstr ""
+
+msgid "NM-ITPS25"
+msgstr ""
+
+msgid "NM-ITPS26"
+msgstr ""
+
+msgid "NM-ITPS27"
+msgstr ""
+
+msgid "NM-ITPS28"
+msgstr ""
+
+msgid "NM-ITPS29"
+msgstr ""
+
+msgid "NM-ITPS30"
+msgstr ""
+
+msgid "NM-ITPS31"
+msgstr ""
+
+msgid "NM-ITPS32"
+msgstr ""
+
+msgid "NM-ITPS33"
+msgstr ""
+
+msgid "NM-ITPS34"
+msgstr ""
+
+msgid "NM-ITPS35"
+msgstr ""
+
+msgid "NM-ITPS36"
+msgstr ""
+
+msgid "NM-ITPS37"
+msgstr ""
+
+msgid "NM-ITPS38"
+msgstr ""
+
+msgid "NM-ITPS39"
+msgstr ""
+
+msgid "NM-ITPS40"
+msgstr ""
+
+msgid "NM-ITPS41"
+msgstr ""
+
+msgid "NM-ITPS42"
+msgstr ""
+
+msgid "NM-ITPS43"
+msgstr ""
+
+msgid "NM-ITPS44"
+msgstr ""
+
+msgid "NM-ITPS45"
+msgstr ""
+
+msgid "NM-ITPS46"
+msgstr ""
+
+msgid "NM-ITPS47"
+msgstr ""
+
+msgid "NM-ITPS48"
+msgstr ""
+
+msgid "NM-ITPS49"
+msgstr ""
+
+msgid "NM-ITPS50"
+msgstr ""
+
+msgid "NM-ITPS51"
+msgstr ""
+
+msgid "NM-ITPS52"
+msgstr ""
+
+msgid "NM-ITPS53"
+msgstr ""
+
+msgid "NM-ITPS54"
+msgstr ""
+
+msgid "NM-ITPS55"
+msgstr ""
+
+msgid "NM-ITPS56"
+msgstr ""
+
+msgid "NM-ITPS57"
+msgstr ""
+
+msgid "NM-ITPS58"
+msgstr ""
+
+msgid "NM-ITPS59"
+msgstr ""
+
+msgid "NM-ITPS60"
+msgstr ""
+
+msgid "NM-ITPS61"
+msgstr ""
+
+msgid "NM-ITPS65"
+msgstr ""
+
+msgid "NM-ITSS00"
+msgstr ""
+
+msgid "NM-ITSS01"
+msgstr ""
+
+msgid "NM-JB01"
+msgstr ""
+
+msgid "NM-JB02"
+msgstr ""
+
+msgid "NM-JB03"
+msgstr ""
+
+msgid "NM-JB04"
+msgstr ""
+
+msgid "NM-JB05"
+msgstr ""
+
+msgid "NM-JB06"
+msgstr ""
+
+msgid "NM-JB07"
+msgstr ""
+
+msgid "NM-JB08"
+msgstr ""
+
+msgid "NM-JB09"
+msgstr ""
+
+msgid "NM-JB10"
+msgstr ""
+
+msgid "NM-JB11"
+msgstr ""
+
+msgid "NM-JB12"
+msgstr ""
+
+msgid "NM-JB13"
+msgstr ""
+
+msgid "NM-JB14"
+msgstr ""
+
+msgid "NM-JB15"
+msgstr ""
+
+msgid "NM-JB16"
+msgstr ""
+
+msgid "NM-JB17"
+msgstr ""
+
+msgid "NM-JB18"
+msgstr ""
+
+msgid "NM-JB19"
+msgstr ""
+
+msgid "NM-JB20"
+msgstr ""
+
+msgid "NM-KILL-NUM"
+msgstr ""
+
+msgid "NM-LegendaryItem"
+msgstr ""
+
+msgid "NM-Level"
+msgstr ""
+
+msgid "NM-LimitTime"
+msgstr ""
+
+msgid "NM-Link"
+msgstr ""
+
+msgid "NM-LinkLevelQuest"
+msgstr ""
+
+msgid "NM-Main"
+msgstr ""
+
+msgid "NM-Max"
+msgstr ""
+
+msgid "NM-MONSTER"
+msgstr ""
+
+msgid "NM-Multiple-Num"
+msgstr ""
+
+msgid "NM-NP01"
+msgstr ""
+
+msgid "NM-NP02"
+msgstr ""
+
+msgid "NM-NP03"
+msgstr ""
+
+msgid "NM-NP04"
+msgstr ""
+
+msgid "NM-NP05"
+msgstr ""
+
+msgid "NM-NP06"
+msgstr ""
+
+msgid "NM-NP07"
+msgstr ""
+
+msgid "NM-NP08"
+msgstr ""
+
+msgid "NM-Once-Only"
+msgstr ""
+
+msgid "NM-OPEN-ALL-AREA"
+msgstr ""
+
+msgid "NM-OPEN-AREA"
+msgstr ""
+
+msgid "NM-OpeningRoad"
+msgstr ""
+
+msgid "NM-OR0001"
+msgstr ""
+
+msgid "NM-OR0002"
+msgstr ""
+
+msgid "NM-OR0003"
+msgstr ""
+
+msgid "NM-OR0004"
+msgstr ""
+
+msgid "NM-OR0005"
+msgstr ""
+
+msgid "NM-OR0006"
+msgstr ""
+
+msgid "NM-OR0007"
+msgstr ""
+
+msgid "NM-OR0008"
+msgstr ""
+
+msgid "NM-OR0009"
+msgstr ""
+
+msgid "NM-OR0010"
+msgstr ""
+
+msgid "NM-OR0011"
+msgstr ""
+
+msgid "NM-OR0012"
+msgstr ""
+
+msgid "NM-OR0013"
+msgstr ""
+
+msgid "NM-OR0014"
+msgstr ""
+
+msgid "NM-OR0015"
+msgstr ""
+
+msgid "NM-Oracle"
+msgstr ""
+
+msgid "NM-Orb"
+msgstr ""
+
+msgid "NM-Passive"
+msgstr ""
+
+msgid "NM-Place-AP"
+msgstr ""
+
+msgid "NM-Place-Bounty"
+msgstr ""
+
+msgid "NM-Place-Camp"
+msgstr ""
+
+msgid "NM-Place-Invasion"
+msgstr ""
+
+msgid "NM-Place-Minion"
+msgstr ""
+
+msgid "NM-Place-RandShop"
+msgstr ""
+
+msgid "NM-Place-Rest"
+msgstr ""
+
+msgid "NM-Place-Road"
+msgstr ""
+
+msgid "NM-Place-Secret"
+msgstr ""
+
+msgid "NM-Place-Treasure"
+msgstr ""
+
+msgid "NM-Place-Village"
+msgstr ""
+
+msgid "NM-PlayNum"
+msgstr ""
+
+msgid "NM-Potential"
+msgstr ""
+
+msgid "NM-PreSetRegisterNum"
+msgstr ""
+
+msgid "NM-PrismOrb"
+msgstr ""
+
+msgid "NM-Ranking"
+msgstr ""
+
+msgid "NM-Ranking-Infinite"
+msgstr ""
+
+msgid "NM-Ranking-Satan"
+msgstr ""
+
+msgid "NM-Ranking-TrueSatan"
+msgstr ""
+
+msgid "NM-Recommend"
+msgstr ""
+
+msgid "NM-Reward"
+msgstr ""
+
+msgid "NM-RS0101"
+msgstr ""
+
+msgid "NM-RS0102"
+msgstr ""
+
+msgid "NM-RS0103"
+msgstr ""
+
+msgid "NM-RS0201"
+msgstr ""
+
+msgid "NM-RS0202"
+msgstr ""
+
+msgid "NM-RS0203"
+msgstr ""
+
+msgid "NM-RS0301"
+msgstr ""
+
+msgid "NM-RS0302"
+msgstr ""
+
+msgid "NM-RS0303"
+msgstr ""
+
+msgid "NM-RS0401"
+msgstr ""
+
+msgid "NM-RS0402"
+msgstr ""
+
+msgid "NM-RS0403"
+msgstr ""
+
+msgid "NM-RS0501"
+msgstr ""
+
+msgid "NM-RS0502"
+msgstr ""
+
+msgid "NM-RS0503"
+msgstr ""
+
+msgid "NM-RS0601"
+msgstr ""
+
+msgid "NM-RS0602"
+msgstr ""
+
+msgid "NM-RS0603"
+msgstr ""
+
+msgid "NM-RS0701"
+msgstr ""
+
+msgid "NM-RS0702"
+msgstr ""
+
+msgid "NM-RS0703"
+msgstr ""
+
+msgid "NM-RS0801"
+msgstr ""
+
+msgid "NM-RS0802"
+msgstr ""
+
+msgid "NM-RS0803"
+msgstr ""
+
+msgid "NM-RV01"
+msgstr ""
+
+msgid "NM-RV02"
+msgstr ""
+
+msgid "NM-RV03"
+msgstr ""
+
+msgid "NM-RV04"
+msgstr ""
+
+msgid "NM-RV05"
+msgstr ""
+
+msgid "NM-RV06"
+msgstr ""
+
+msgid "NM-RV07"
+msgstr ""
+
+msgid "NM-RV08"
+msgstr ""
+
+msgid "NMS-CCB01"
+msgstr ""
+
+msgid "NMS-CCB02"
+msgstr ""
+
+msgid "NMS-CCE01"
+msgstr ""
+
+msgid "NMS-CCE02"
+msgstr ""
+
+msgid "NM-SE0001"
+msgstr ""
+
+msgid "NM-SE0002"
+msgstr ""
+
+msgid "NM-SE0003"
+msgstr ""
+
+msgid "NM-SE0004"
+msgstr ""
+
+msgid "NM-SE0005"
+msgstr ""
+
+msgid "NM-SE0006"
+msgstr ""
+
+msgid "NM-SE0007"
+msgstr ""
+
+msgid "NM-SE0008"
+msgstr ""
+
+msgid "NM-SE0009"
+msgstr ""
+
+msgid "NM-SE0010"
+msgstr ""
+
+msgid "NM-SE0011"
+msgstr ""
+
+msgid "NM-SE0012"
+msgstr ""
+
+msgid "NM-SE0013"
+msgstr ""
+
+msgid "NM-SE0014"
+msgstr ""
+
+msgid "NM-SE0015"
+msgstr ""
+
+msgid "NM-SE0016"
+msgstr ""
+
+msgid "NM-SE0017"
+msgstr ""
+
+msgid "NM-SE0018"
+msgstr ""
+
+msgid "NM-SE0019"
+msgstr ""
+
+msgid "NM-SE0020"
+msgstr ""
+
+msgid "NM-SE0021"
+msgstr ""
+
+msgid "NM-SE0022"
+msgstr ""
+
+msgid "NM-SE0023"
+msgstr ""
+
+msgid "NM-SE0024"
+msgstr ""
+
+msgid "NM-SE0025"
+msgstr ""
+
+msgid "NM-SE0026"
+msgstr ""
+
+msgid "NM-SE0027"
+msgstr ""
+
+msgid "NM-SE0028"
+msgstr ""
+
+msgid "NM-Season"
+msgstr ""
+
+msgid "NM-Secret"
+msgstr ""
+
+msgid "NM-Shop-Rest"
+msgstr ""
+
+msgid "NM-ShopStock-0"
+msgstr ""
+
+msgid "NM-ShopStock-Inf"
+msgstr ""
+
+msgid "NM-Shortest-Days"
+msgstr ""
+
+msgid "NM-Shrine"
+msgstr ""
+
+msgid "NM-SK000000"
+msgstr ""
+
+msgid "NM-SK000001"
+msgstr ""
+
+msgid "NM-SK000002"
+msgstr ""
+
+msgid "NM-SK000003"
+msgstr ""
+
+msgid "NM-SK000004"
+msgstr ""
+
+msgid "NM-SK000005"
+msgstr ""
+
+msgid "NM-SK000006"
+msgstr ""
+
+msgid "NM-SK000007"
+msgstr ""
+
+msgid "NM-SK000008"
+msgstr ""
+
+msgid "NM-SK000009"
+msgstr ""
+
+msgid "NM-SK000010"
+msgstr ""
+
+msgid "NM-SK000011"
+msgstr ""
+
+msgid "NM-SK000012"
+msgstr ""
+
+msgid "NM-SK000013"
+msgstr ""
+
+msgid "NM-SK000014"
+msgstr ""
+
+msgid "NM-SK000015"
+msgstr ""
+
+msgid "NM-SK000016"
+msgstr ""
+
+msgid "NM-SK000017"
+msgstr ""
+
+msgid "NM-SK000018"
+msgstr ""
+
+msgid "NM-SK000019"
+msgstr ""
+
+msgid "NM-SK000020"
+msgstr ""
+
+msgid "NM-SK000021"
+msgstr ""
+
+msgid "NM-SK000022"
+msgstr ""
+
+msgid "NM-SK000023"
+msgstr ""
+
+msgid "NM-SK000024"
+msgstr ""
+
+msgid "NM-SK000025"
+msgstr ""
+
+msgid "NM-SK000026"
+msgstr ""
+
+msgid "NM-SK000027"
+msgstr ""
+
+msgid "NM-SK000028"
+msgstr ""
+
+msgid "NM-SK000029"
+msgstr ""
+
+msgid "NM-SK000030"
+msgstr ""
+
+msgid "NM-SK000031"
+msgstr ""
+
+msgid "NM-SK000032"
+msgstr ""
+
+msgid "NM-SK000033"
+msgstr ""
+
+msgid "NM-SK000034"
+msgstr ""
+
+msgid "NM-SK000035"
+msgstr ""
+
+msgid "NM-SK000036"
+msgstr ""
+
+msgid "NM-SK000037"
+msgstr ""
+
+msgid "NM-SK000038"
+msgstr ""
+
+msgid "NM-SK000039"
+msgstr ""
+
+msgid "NM-SK000040"
+msgstr ""
+
+msgid "NM-SK000041"
+msgstr ""
+
+msgid "NM-SK000042"
+msgstr ""
+
+msgid "NM-SK000043"
+msgstr ""
+
+msgid "NM-SK000044"
+msgstr ""
+
+msgid "NM-SK000045"
+msgstr ""
+
+msgid "NM-SK000046"
+msgstr ""
+
+msgid "NM-SK000047"
+msgstr ""
+
+msgid "NM-SK000048"
+msgstr ""
+
+msgid "NM-SK000049"
+msgstr ""
+
+msgid "NM-SK000050"
+msgstr ""
+
+msgid "NM-SK000051"
+msgstr ""
+
+msgid "NM-SK000052"
+msgstr ""
+
+msgid "NM-SK000053"
+msgstr ""
+
+msgid "NM-SK000054"
+msgstr ""
+
+msgid "NM-SK000055"
+msgstr ""
+
+msgid "NM-SK000056"
+msgstr ""
+
+msgid "NM-SK000057"
+msgstr ""
+
+msgid "NM-SK000058"
+msgstr ""
+
+msgid "NM-SK000059"
+msgstr ""
+
+msgid "NM-SK000060"
+msgstr ""
+
+msgid "NM-SK000061"
+msgstr ""
+
+msgid "NM-SK000062"
+msgstr ""
+
+msgid "NM-SK000063"
+msgstr ""
+
+msgid "NM-SK000064"
+msgstr ""
+
+msgid "NM-SK000065"
+msgstr ""
+
+msgid "NM-SK000066"
+msgstr ""
+
+msgid "NM-SK000067"
+msgstr ""
+
+msgid "NM-SK000068"
+msgstr ""
+
+msgid "NM-SK000069"
+msgstr ""
+
+msgid "NM-SK000070"
+msgstr ""
+
+msgid "NM-SK000071"
+msgstr ""
+
+msgid "NM-SK000072"
+msgstr ""
+
+msgid "NM-SK000073"
+msgstr ""
+
+msgid "NM-SK000074"
+msgstr ""
+
+msgid "NM-SK000075"
+msgstr ""
+
+msgid "NM-SK000076"
+msgstr ""
+
+msgid "NM-SK000077"
+msgstr ""
+
+msgid "NM-SK000078"
+msgstr ""
+
+msgid "NM-SK000079"
+msgstr ""
+
+msgid "NM-SK000080"
+msgstr ""
+
+msgid "NM-SK000081"
+msgstr ""
+
+msgid "NM-SK000082"
+msgstr ""
+
+msgid "NM-SK000083"
+msgstr ""
+
+msgid "NM-SK000084"
+msgstr ""
+
+msgid "NM-SK000085"
+msgstr ""
+
+msgid "NM-SK000086"
+msgstr ""
+
+msgid "NM-SK000087"
+msgstr ""
+
+msgid "NM-SK000088"
+msgstr ""
+
+msgid "NM-SK000089"
+msgstr ""
+
+msgid "NM-SK000090"
+msgstr ""
+
+msgid "NM-SK000091"
+msgstr ""
+
+msgid "NM-SK000092"
+msgstr ""
+
+msgid "NM-SK000093"
+msgstr ""
+
+msgid "NM-SK000094"
+msgstr ""
+
+msgid "NM-SK000095"
+msgstr ""
+
+msgid "NM-SK000096"
+msgstr ""
+
+msgid "NM-SK000097"
+msgstr ""
+
+msgid "NM-SK000098"
+msgstr ""
+
+msgid "NM-SK000099"
+msgstr ""
+
+msgid "NM-SK000100"
+msgstr ""
+
+msgid "NM-SK000101"
+msgstr ""
+
+msgid "NM-SK000102"
+msgstr ""
+
+msgid "NM-SK000103"
+msgstr ""
+
+msgid "NM-SK000104"
+msgstr ""
+
+msgid "NM-SK000105"
+msgstr ""
+
+msgid "NM-SK000106"
+msgstr ""
+
+msgid "NM-SK000107"
+msgstr ""
+
+msgid "NM-SK000108"
+msgstr ""
+
+msgid "NM-SK000109"
+msgstr ""
+
+msgid "NM-SK000110"
+msgstr ""
+
+msgid "NM-SK000111"
+msgstr ""
+
+msgid "NM-SK000112"
+msgstr ""
+
+msgid "NM-SK000113"
+msgstr ""
+
+msgid "NM-SK000114"
+msgstr ""
+
+msgid "NM-SK000115"
+msgstr ""
+
+msgid "NM-SK000116"
+msgstr ""
+
+msgid "NM-SK000117"
+msgstr ""
+
+msgid "NM-SK000118"
+msgstr ""
+
+msgid "NM-SK000119"
+msgstr ""
+
+msgid "NM-SK000120"
+msgstr ""
+
+msgid "NM-SK000121"
+msgstr ""
+
+msgid "NM-SK000122"
+msgstr ""
+
+msgid "NM-SK000123"
+msgstr ""
+
+msgid "NM-SK000124"
+msgstr ""
+
+msgid "NM-SK000125"
+msgstr ""
+
+msgid "NM-SK000126"
+msgstr ""
+
+msgid "NM-SK000127"
+msgstr ""
+
+msgid "NM-SK000128"
+msgstr ""
+
+msgid "NM-SK000129"
+msgstr ""
+
+msgid "NM-SK000130"
+msgstr ""
+
+msgid "NM-SK000131"
+msgstr ""
+
+msgid "NM-SK000132"
+msgstr ""
+
+msgid "NM-SK000133"
+msgstr ""
+
+msgid "NM-SK000134"
+msgstr ""
+
+msgid "NM-SK000135"
+msgstr ""
+
+msgid "NM-SK000136"
+msgstr ""
+
+msgid "NM-SK000137"
+msgstr ""
+
+msgid "NM-SK000138"
+msgstr ""
+
+msgid "NM-SK000139"
+msgstr ""
+
+msgid "NM-SK000140"
+msgstr ""
+
+msgid "NM-SK000141"
+msgstr ""
+
+msgid "NM-SK000142"
+msgstr ""
+
+msgid "NM-SK000143"
+msgstr ""
+
+msgid "NM-SK000144"
+msgstr ""
+
+msgid "NM-SK000145"
+msgstr ""
+
+msgid "NM-SK000146"
+msgstr ""
+
+msgid "NM-SK000147"
+msgstr ""
+
+msgid "NM-SK000148"
+msgstr ""
+
+msgid "NM-SK000149"
+msgstr ""
+
+msgid "NM-SK000150"
+msgstr ""
+
+msgid "NM-SKEB0001"
+msgstr ""
+
+msgid "NM-SKEB0002"
+msgstr ""
+
+msgid "NM-SKEB0003"
+msgstr ""
+
+msgid "NM-SKEB0004"
+msgstr ""
+
+msgid "NM-SKEB0005"
+msgstr ""
+
+msgid "NM-SKEB0006"
+msgstr ""
+
+msgid "NM-SKEB0007"
+msgstr ""
+
+msgid "NM-SKEB0008"
+msgstr ""
+
+msgid "NM-SKEB0009"
+msgstr ""
+
+msgid "NM-SKEB0010"
+msgstr ""
+
+msgid "NM-SKEB0011"
+msgstr ""
+
+msgid "NM-SKEB0012"
+msgstr ""
+
+msgid "NM-SKEB0013"
+msgstr ""
+
+msgid "NM-SKEB0014"
+msgstr ""
+
+msgid "NM-SKEB0015"
+msgstr ""
+
+msgid "NM-SKEB0016"
+msgstr ""
+
+msgid "NM-SKEB0017"
+msgstr ""
+
+msgid "NM-SKEB0018"
+msgstr ""
+
+msgid "NM-SKEB0019"
+msgstr ""
+
+msgid "NM-SKEB0020"
+msgstr ""
+
+msgid "NM-SKEB0021"
+msgstr ""
+
+msgid "NM-SKEB0022"
+msgstr ""
+
+msgid "NM-SKEB0023"
+msgstr ""
+
+msgid "NM-SKEB0024"
+msgstr ""
+
+msgid "NM-SKEB0025"
+msgstr ""
+
+msgid "NM-SKEB0026"
+msgstr ""
+
+msgid "NM-SKEB0027"
+msgstr ""
+
+msgid "NM-SKEB0028"
+msgstr ""
+
+msgid "NM-SKEB0029"
+msgstr ""
+
+msgid "NM-SKEB0030"
+msgstr ""
+
+msgid "NM-SKEB0031"
+msgstr ""
+
+msgid "NM-SKEB0032"
+msgstr ""
+
+msgid "NM-SKEB0033"
+msgstr ""
+
+msgid "NM-SKEB0034"
+msgstr ""
+
+msgid "NM-SKEB0035"
+msgstr ""
+
+msgid "NM-SKEB0036"
+msgstr ""
+
+msgid "NM-SKEB0037"
+msgstr ""
+
+msgid "NM-SKEB0038"
+msgstr ""
+
+msgid "NM-SKEB0039"
+msgstr ""
+
+msgid "NM-SKEB0040"
+msgstr ""
+
+msgid "NM-SKEB0045"
+msgstr ""
+
+msgid "NM-SKEB0046"
+msgstr ""
+
+msgid "NM-SKEB0047"
+msgstr ""
+
+msgid "NM-SKEB0048"
+msgstr ""
+
+msgid "NM-SKEB0049"
+msgstr ""
+
+msgid "NM-SKEB0050"
+msgstr ""
+
+msgid "NM-SKEB0051"
+msgstr ""
+
+msgid "NM-SKEB0052"
+msgstr ""
+
+msgid "NM-SKEB0053"
+msgstr ""
+
+msgid "NM-SKEB0054"
+msgstr ""
+
+msgid "NM-SKEB0055"
+msgstr ""
+
+msgid "NM-SKEB0056"
+msgstr ""
+
+msgid "NM-SKEB0057"
+msgstr ""
+
+msgid "NM-SKEB0058"
+msgstr ""
+
+msgid "NM-SKEB0059"
+msgstr ""
+
+msgid "NM-SKEB0060"
+msgstr ""
+
+msgid "NM-SKEB0061"
+msgstr ""
+
+msgid "NM-SKEB0062"
+msgstr ""
+
+msgid "NM-SKEB0063"
+msgstr ""
+
+msgid "NM-SKEC0001"
+msgstr ""
+
+msgid "NM-SKEC0002"
+msgstr ""
+
+msgid "NM-SKEC0003"
+msgstr ""
+
+msgid "NM-SKEN0001"
+msgstr ""
+
+msgid "NM-SKEN0002"
+msgstr ""
+
+msgid "NM-SKEN0003"
+msgstr ""
+
+msgid "NM-SKEN0004"
+msgstr ""
+
+msgid "NM-SKEN0005"
+msgstr ""
+
+msgid "NM-SKEN0006"
+msgstr ""
+
+msgid "NM-SKEN0007"
+msgstr ""
+
+msgid "NM-SKEN0008"
+msgstr ""
+
+msgid "NM-SKEN0009"
+msgstr ""
+
+msgid "NM-SKEN0010"
+msgstr ""
+
+msgid "NM-SKEN0011"
+msgstr ""
+
+msgid "NM-SKEN0012"
+msgstr ""
+
+msgid "NM-SKEN0013"
+msgstr ""
+
+msgid "NM-SKEN0014"
+msgstr ""
+
+msgid "NM-SKEN0015"
+msgstr ""
+
+msgid "NM-SKEN0016"
+msgstr ""
+
+msgid "NM-SKEN0017"
+msgstr ""
+
+msgid "NM-SKEN0018"
+msgstr ""
+
+msgid "NM-SKEN0019"
+msgstr ""
+
+msgid "NM-SKEN0020"
+msgstr ""
+
+msgid "NM-SKEN0021"
+msgstr ""
+
+msgid "NM-SKEN0022"
+msgstr ""
+
+msgid "NM-SKEN0023"
+msgstr ""
+
+msgid "NM-SKEN0024"
+msgstr ""
+
+msgid "NM-SKEN0025"
+msgstr ""
+
+msgid "NM-SKEN0026"
+msgstr ""
+
+msgid "NM-SKEN0027"
+msgstr ""
+
+msgid "NM-SKEN0028"
+msgstr ""
+
+msgid "NM-SKEN0029"
+msgstr ""
+
+msgid "NM-SKEN0030"
+msgstr ""
+
+msgid "NM-SKEN0031"
+msgstr ""
+
+msgid "NM-SKEN0032"
+msgstr ""
+
+msgid "NM-SKEN0033"
+msgstr ""
+
+msgid "NM-SKEN0034"
+msgstr ""
+
+msgid "NM-SKEN0035"
+msgstr ""
+
+msgid "NM-SKEN0036"
+msgstr ""
+
+msgid "NM-SKEN0037"
+msgstr ""
+
+msgid "NM-SKEN0038"
+msgstr ""
+
+msgid "NM-SKEN0039"
+msgstr ""
+
+msgid "NM-SKEN0040"
+msgstr ""
+
+msgid "NM-SKEN0041"
+msgstr ""
+
+msgid "NM-SKEN0042"
+msgstr ""
+
+msgid "NM-SKEN0043"
+msgstr ""
+
+msgid "NM-SKEN0044"
+msgstr ""
+
+msgid "NM-SKEN0045"
+msgstr ""
+
+msgid "NM-SKEN0046"
+msgstr ""
+
+msgid "NM-SKEN0047"
+msgstr ""
+
+msgid "NM-SKEN0048"
+msgstr ""
+
+msgid "NM-SKEN0049"
+msgstr ""
+
+msgid "NM-SKEN0050"
+msgstr ""
+
+msgid "NM-SKEN0051"
+msgstr ""
+
+msgid "NM-SKEN0052"
+msgstr ""
+
+msgid "NM-SKEN0053"
+msgstr ""
+
+msgid "NM-SKEN0054"
+msgstr ""
+
+msgid "NM-SKEN0055"
+msgstr ""
+
+msgid "NM-SKEN0056"
+msgstr ""
+
+msgid "NM-SKEN0057"
+msgstr ""
+
+msgid "NM-SKEN0058"
+msgstr ""
+
+msgid "NM-SKEN0059"
+msgstr ""
+
+msgid "NM-SKEN0060"
+msgstr ""
+
+msgid "NM-SKEN0061"
+msgstr ""
+
+msgid "NM-SKEN0062"
+msgstr ""
+
+msgid "NM-SKEN0063"
+msgstr ""
+
+msgid "NM-SKEN0064"
+msgstr ""
+
+msgid "NM-SKEN0065"
+msgstr ""
+
+msgid "NM-SKEN0066"
+msgstr ""
+
+msgid "NM-SKEN0067"
+msgstr ""
+
+msgid "NM-SKEN0068"
+msgstr ""
+
+msgid "NM-Skill"
+msgstr ""
+
+msgid "NM-Skill-Header-Battle"
+msgstr ""
+
+msgid "NM-Skill-Header-Field"
+msgstr ""
+
+msgid "NM-SkillMod"
+msgstr ""
+
+msgid "NM-SkillNode-Param-AddAP"
+msgstr ""
+
+msgid "NM-SkillNode-Param-AddMinion"
+msgstr ""
+
+msgid "NM-SkillNode-Param-AddRandomEvent"
+msgstr ""
+
+msgid "NM-SkillNode-Param-DragonValley"
+msgstr ""
+
+msgid "NM-SkillNode-Param-DupGear"
+msgstr ""
+
+msgid "NM-SkillNode-Param-DupOracle"
+msgstr ""
+
+msgid "NM-SkillNode-Param-FindBounty"
+msgstr ""
+
+msgid "NM-SkillNode-Param-FindHiddens"
+msgstr ""
+
+msgid "NM-SkillNode-Param-FindHiddenVillage"
+msgstr ""
+
+msgid "NM-SkillNode-Param-FindRival"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GainGold"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GainLevel"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GainLinkLv"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GainRandGear"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GainRandLegendGear"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GainRandomItem"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GainSupRank"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GearAdd2"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GearAdd4"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GearAddRand"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GearLvAdd"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GearRndPrmAdd"
+msgstr ""
+
+msgid "NM-SkillNode-Param-GoldBoost"
+msgstr ""
+
+msgid "NM-SkillNode-Param-Invasion"
+msgstr ""
+
+msgid "NM-SkillNode-Param-KillRival"
+msgstr ""
+
+msgid "NM-SkillNode-Param-OpenRoad"
+msgstr ""
+
+msgid "NM-SkillNode-Param-OpenShop"
+msgstr ""
+
+msgid "NM-SkillNode-Param-ProgInvasion"
+msgstr ""
+
+msgid "NM-SkillNode-Param-RandAbiSet"
+msgstr ""
+
+msgid "NM-SkillNode-Param-RerollGear"
+msgstr ""
+
+msgid "NM-SkillNode-Param-Road"
+msgstr ""
+
+msgid "NM-SkillNode-Param-SalvageAmulet"
+msgstr ""
+
+msgid "NM-SkillNode-Param-Secret"
+msgstr ""
+
+msgid "NM-SkillNode-Param-SkillLvAdd"
+msgstr ""
+
+msgid "NM-SkillNode-Param-TreasureMap"
+msgstr ""
+
+msgid "NM-SkillNode-Param-VolunteerArmy"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Atk"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Brave"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Day"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Grd"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-HP"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Hrt"
+msgstr ""
+
+msgid "NM-SkillNode-RelateIs"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Level"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-MaxHP"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-PartyAtk"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-PartyGrd"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-PartyHrt"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-PartySpl"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-SelfHP"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-SelfMaxHP"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-SelfShield"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Shield"
+msgstr ""
+
+msgid "NM-SkillNode-Relate-Spl"
+msgstr ""
+
+msgid "NM-SkillNode-Target-AllEnemy"
+msgstr ""
+
+msgid "NM-SkillNode-Target-DeadParty"
+msgstr ""
+
+msgid "NM-SkillNode-Target-LastTarget"
+msgstr ""
+
+msgid "NM-SkillNode-Target-OppoBack"
+msgstr ""
+
+msgid "NM-SkillNode-Target-OppoFront"
+msgstr ""
+
+msgid "NM-SkillNode-Target-Partner"
+msgstr ""
+
+msgid "NM-SkillNode-Target-Party"
+msgstr ""
+
+msgid "NM-SkillNode-Target-PartyBack"
+msgstr ""
+
+msgid "NM-SkillNode-Target-PartyFront"
+msgstr ""
+
+msgid "NM-SkillNode-Target-Random"
+msgstr ""
+
+msgid "NM-SkillNode-Target-Self"
+msgstr ""
+
+msgid "NM-SkillNode-Target-TargetPos"
+msgstr ""
+
+msgid "NM-SKLK0001"
+msgstr ""
+
+msgid "NM-SKLK0002"
+msgstr ""
+
+msgid "NM-SKLK0003"
+msgstr ""
+
+msgid "NM-SKLK0004"
+msgstr ""
+
+msgid "NM-SKLK0005"
+msgstr ""
+
+msgid "NM-SKLK0006"
+msgstr ""
+
+msgid "NM-SKLK0007"
+msgstr ""
+
+msgid "NM-SKLK0008"
+msgstr ""
+
+msgid "NM-SKLK0009"
+msgstr ""
+
+msgid "NM-SKLK0010"
+msgstr ""
+
+msgid "NM-SKP00001"
+msgstr ""
+
+msgid "NM-SKP00002"
+msgstr ""
+
+msgid "NM-SKP00003"
+msgstr ""
+
+msgid "NM-SKP00004"
+msgstr ""
+
+msgid "NM-SKP00005"
+msgstr ""
+
+msgid "NM-SKP00006"
+msgstr ""
+
+msgid "NM-SKP00007"
+msgstr ""
+
+msgid "NM-SKP00008"
+msgstr ""
+
+msgid "NM-SKP00009"
+msgstr ""
+
+msgid "NM-Slain"
+msgstr ""
+
+msgid "NM-SM0001"
+msgstr ""
+
+msgid "NM-SM0002"
+msgstr ""
+
+msgid "NM-SM0003"
+msgstr ""
+
+msgid "NM-SM0004"
+msgstr ""
+
+msgid "NM-SM0005"
+msgstr ""
+
+msgid "NM-SM0006"
+msgstr ""
+
+msgid "NM-SM0007"
+msgstr ""
+
+msgid "NM-SM0008"
+msgstr ""
+
+msgid "NM-SM0009"
+msgstr ""
+
+msgid "NM-SM0010"
+msgstr ""
+
+msgid "NM-SM0011"
+msgstr ""
+
+msgid "NM-SM0012"
+msgstr ""
+
+msgid "NM-SM0013"
+msgstr ""
+
+msgid "NM-SM0014"
+msgstr ""
+
+msgid "NM-SM0015"
+msgstr ""
+
+msgid "NM-Special"
+msgstr ""
+
+msgid "NM-SpecialCategory"
+msgstr ""
+
+msgid "NM-State"
+msgstr ""
+
+msgid "NM-STC001"
+msgstr ""
+
+msgid "NM-STC002"
+msgstr ""
+
+msgid "NM-STC003"
+msgstr ""
+
+msgid "NM-STC004"
+msgstr ""
+
+msgid "NM-STC005"
+msgstr ""
+
+msgid "NM-STC006"
+msgstr ""
+
+msgid "NM-STC007"
+msgstr ""
+
+msgid "NM-STC008"
+msgstr ""
+
+msgid "NM-STC009"
+msgstr ""
+
+msgid "NM-STC010"
+msgstr ""
+
+msgid "NM-STC011"
+msgstr ""
+
+msgid "NM-STC012"
+msgstr ""
+
+msgid "NM-STC013"
+msgstr ""
+
+msgid "NM-STC014"
+msgstr ""
+
+msgid "NM-STC015"
+msgstr ""
+
+msgid "NM-STC016"
+msgstr ""
+
+msgid "NM-STC017"
+msgstr ""
+
+msgid "NM-STC018"
+msgstr ""
+
+msgid "NM-STC019"
+msgstr ""
+
+msgid "NM-STC020"
+msgstr ""
+
+msgid "NM-STC021"
+msgstr ""
+
+msgid "NM-STC022"
+msgstr ""
+
+msgid "NM-STC023"
+msgstr ""
+
+msgid "NM-STC024"
+msgstr ""
+
+msgid "NM-STC025"
+msgstr ""
+
+msgid "NM-STC026"
+msgstr ""
+
+msgid "NM-STC027"
+msgstr ""
+
+msgid "NM-STC028"
+msgstr ""
+
+msgid "NM-STC029"
+msgstr ""
+
+msgid "NM-STC030"
+msgstr ""
+
+msgid "NM-STC031"
+msgstr ""
+
+msgid "NM-STC032"
+msgstr ""
+
+msgid "NM-STC033"
+msgstr ""
+
+msgid "NM-STC034"
+msgstr ""
+
+msgid "NM-STC035"
+msgstr ""
+
+msgid "NM-STC036"
+msgstr ""
+
+msgid "NM-STG001"
+msgstr ""
+
+msgid "NM-STG002"
+msgstr ""
+
+msgid "NM-STG003"
+msgstr ""
+
+msgid "NM-STG004"
+msgstr ""
+
+msgid "NM-STG005"
+msgstr ""
+
+msgid "NM-STG006"
+msgstr ""
+
+msgid "NM-STG007"
+msgstr ""
+
+msgid "NM-STG008"
+msgstr ""
+
+msgid "NM-STG009"
+msgstr ""
+
+msgid "NM-STG010"
+msgstr ""
+
+msgid "NM-STG011"
+msgstr ""
+
+msgid "NM-STG012"
+msgstr ""
+
+msgid "NM-STG013"
+msgstr ""
+
+msgid "NM-STG014"
+msgstr ""
+
+msgid "NM-STG015"
+msgstr ""
+
+msgid "NM-STG016"
+msgstr ""
+
+msgid "NM-STG017"
+msgstr ""
+
+msgid "NM-STG018"
+msgstr ""
+
+msgid "NM-STG019"
+msgstr ""
+
+msgid "NM-STG020"
+msgstr ""
+
+msgid "NM-STG021"
+msgstr ""
+
+msgid "NM-STG022"
+msgstr ""
+
+msgid "NM-STG023"
+msgstr ""
+
+msgid "NM-STG024"
+msgstr ""
+
+msgid "NM-STG025"
+msgstr ""
+
+msgid "NM-STG026"
+msgstr ""
+
+msgid "NM-STG027"
+msgstr ""
+
+msgid "NM-STG028"
+msgstr ""
+
+msgid "NM-STG029"
+msgstr ""
+
+msgid "NM-STG030"
+msgstr ""
+
+msgid "NM-STG031"
+msgstr ""
+
+msgid "NM-STG032"
+msgstr ""
+
+msgid "NM-STG034"
+msgstr ""
+
+msgid "NM-STG035"
+msgstr ""
+
+msgid "NM-STG036"
+msgstr ""
+
+msgid "NM-STG037"
+msgstr ""
+
+msgid "NM-STG038"
+msgstr ""
+
+msgid "NM-STG039"
+msgstr ""
+
+msgid "NM-STG040"
+msgstr ""
+
+msgid "NM-STG041"
+msgstr ""
+
+msgid "NM-STG042"
+msgstr ""
+
+msgid "NM-STG043"
+msgstr ""
+
+msgid "NM-STG045"
+msgstr ""
+
+msgid "NM-STG046"
+msgstr ""
+
+msgid "NM-STG047"
+msgstr ""
+
+msgid "NM-STG048"
+msgstr ""
+
+msgid "NM-STG049"
+msgstr ""
+
+msgid "NM-STG050"
+msgstr ""
+
+msgid "NM-STG051"
+msgstr ""
+
+msgid "NM-STG052"
+msgstr ""
+
+msgid "NM-STG053"
+msgstr ""
+
+msgid "NM-STG054"
+msgstr ""
+
+msgid "NM-STG055"
+msgstr ""
+
+msgid "NM-STG056"
+msgstr ""
+
+msgid "NM-STG057"
+msgstr ""
+
+msgid "NM-STG058"
+msgstr ""
+
+msgid "NM-STG059"
+msgstr ""
+
+msgid "NM-STG060"
+msgstr ""
+
+msgid "NM-STG061"
+msgstr ""
+
+msgid "NM-STG062"
+msgstr ""
+
+msgid "NM-STG063"
+msgstr ""
+
+msgid "NM-STG064"
+msgstr ""
+
+msgid "NM-STG065"
+msgstr ""
+
+msgid "NM-STG066"
+msgstr ""
+
+msgid "NM-STG067"
+msgstr ""
+
+msgid "NM-STG068"
+msgstr ""
+
+msgid "NM-STG069"
+msgstr ""
+
+msgid "NM-STG070"
+msgstr ""
+
+msgid "NM-STG071"
+msgstr ""
+
+msgid "NM-STG072"
+msgstr ""
+
+msgid "NM-STG073"
+msgstr ""
+
+msgid "NM-STG074"
+msgstr ""
+
+msgid "NM-STG075"
+msgstr ""
+
+msgid "NM-STG076"
+msgstr ""
+
+msgid "NM-STG077"
+msgstr ""
+
+msgid "NM-STG078"
+msgstr ""
+
+msgid "NM-STG079"
+msgstr ""
+
+msgid "NM-STG080"
+msgstr ""
+
+msgid "NM-STG081"
+msgstr ""
+
+msgid "NM-STG082"
+msgstr ""
+
+msgid "NM-STG083"
+msgstr ""
+
+msgid "NM-STG084"
+msgstr ""
+
+msgid "NM-STG085"
+msgstr ""
+
+msgid "NM-STG086"
+msgstr ""
+
+msgid "NM-STG087"
+msgstr ""
+
+msgid "NM-STG088"
+msgstr ""
+
+msgid "NM-STG089"
+msgstr ""
+
+msgid "NM-STG090"
+msgstr ""
+
+msgid "NM-STG091"
+msgstr ""
+
+msgid "NM-STG092"
+msgstr ""
+
+msgid "NM-STG093"
+msgstr ""
+
+msgid "NM-STG094"
+msgstr ""
+
+msgid "NM-STG095"
+msgstr ""
+
+msgid "NM-STG096"
+msgstr ""
+
+msgid "NM-STG097"
+msgstr ""
+
+msgid "NM-STG098"
+msgstr ""
+
+msgid "NM-STG099"
+msgstr ""
+
+msgid "NM-STG100"
+msgstr ""
+
+msgid "NM-STG101"
+msgstr ""
+
+msgid "NM-STG102"
+msgstr ""
+
+msgid "NM-STG103"
+msgstr ""
+
+msgid "NM-STG104"
+msgstr ""
+
+msgid "NM-STG105"
+msgstr ""
+
+msgid "NM-STG106"
+msgstr ""
+
+msgid "NM-STG107"
+msgstr ""
+
+msgid "NM-STG108"
+msgstr ""
+
+msgid "NM-STG109"
+msgstr ""
+
+msgid "NM-STG110"
+msgstr ""
+
+msgid "NM-STG111"
+msgstr ""
+
+msgid "NM-STG112"
+msgstr ""
+
+msgid "NM-STG113"
+msgstr ""
+
+msgid "NM-STG114"
+msgstr ""
+
+msgid "NM-STG115"
+msgstr ""
+
+msgid "NM-STG116"
+msgstr ""
+
+msgid "NM-STG117"
+msgstr ""
+
+msgid "NM-STG118"
+msgstr ""
+
+msgid "NM-STG119"
+msgstr ""
+
+msgid "NM-STG120"
+msgstr ""
+
+msgid "NM-STG121"
+msgstr ""
+
+msgid "NM-STG122"
+msgstr ""
+
+msgid "NM-STG123"
+msgstr ""
+
+msgid "NM-STG124"
+msgstr ""
+
+msgid "NM-STG125"
+msgstr ""
+
+msgid "NM-STG126"
+msgstr ""
+
+msgid "NM-STG127"
+msgstr ""
+
+msgid "NM-STG128"
+msgstr ""
+
+msgid "NM-STG129"
+msgstr ""
+
+msgid "NM-STG130"
+msgstr ""
+
+msgid "NM-STG131"
+msgstr ""
+
+msgid "NM-STG132"
+msgstr ""
+
+msgid "NM-STG133"
+msgstr ""
+
+msgid "NM-STG134"
+msgstr ""
+
+msgid "NM-STG135"
+msgstr ""
+
+msgid "NM-STG136"
+msgstr ""
+
+msgid "NM-STG137"
+msgstr ""
+
+msgid "NM-STG138"
+msgstr ""
+
+msgid "NM-STG139"
+msgstr ""
+
+msgid "NM-STG140"
+msgstr ""
+
+msgid "NM-STG141"
+msgstr ""
+
+msgid "NM-STG142"
+msgstr ""
+
+msgid "NM-STG143"
+msgstr ""
+
+msgid "NM-STG144"
+msgstr ""
+
+msgid "NM-STG145"
+msgstr ""
+
+msgid "NM-STG146"
+msgstr ""
+
+msgid "NM-STG147"
+msgstr ""
+
+msgid "NM-STG148"
+msgstr ""
+
+msgid "NM-STG149"
+msgstr ""
+
+msgid "NM-STG150"
+msgstr ""
+
+msgid "NM-STG151"
+msgstr ""
+
+msgid "NM-STG152"
+msgstr ""
+
+msgid "NM-STG153"
+msgstr ""
+
+msgid "NM-STG154"
+msgstr ""
+
+msgid "NM-STG155"
+msgstr ""
+
+msgid "NM-STG156"
+msgstr ""
+
+msgid "NM-STG157"
+msgstr ""
+
+msgid "NM-STG158"
+msgstr ""
+
+msgid "NM-STG159"
+msgstr ""
+
+msgid "NM-STG160"
+msgstr ""
+
+msgid "NM-STG161"
+msgstr ""
+
+msgid "NM-STG162"
+msgstr ""
+
+msgid "NM-STG163"
+msgstr ""
+
+msgid "NM-STG164"
+msgstr ""
+
+msgid "NM-STG165"
+msgstr ""
+
+msgid "NM-STG166"
+msgstr ""
+
+msgid "NM-STG167"
+msgstr ""
+
+msgid "NM-STG168"
+msgstr ""
+
+msgid "NM-STG169"
+msgstr ""
+
+msgid "NM-STG170"
+msgstr ""
+
+msgid "NM-STG171"
+msgstr ""
+
+msgid "NM-STG172"
+msgstr ""
+
+msgid "NM-STG173"
+msgstr ""
+
+msgid "NM-STG174"
+msgstr ""
+
+msgid "NM-STG175"
+msgstr ""
+
+msgid "NM-STG176"
+msgstr ""
+
+msgid "NM-STG177"
+msgstr ""
+
+msgid "NM-STG178"
+msgstr ""
+
+msgid "NM-STG179"
+msgstr ""
+
+msgid "NM-STG180"
+msgstr ""
+
+msgid "NM-STG181"
+msgstr ""
+
+msgid "NM-STG182"
+msgstr ""
+
+msgid "NM-STG183"
+msgstr ""
+
+msgid "NM-STG184"
+msgstr ""
+
+msgid "NM-STG185"
+msgstr ""
+
+msgid "NM-STG186"
+msgstr ""
+
+msgid "NM-STG187"
+msgstr ""
+
+msgid "NM-STG188"
+msgstr ""
+
+msgid "NM-STG189"
+msgstr ""
+
+msgid "NM-STG191"
+msgstr ""
+
+msgid "NM-STG192"
+msgstr ""
+
+msgid "NM-STG193"
+msgstr ""
+
+msgid "NM-STG194"
+msgstr ""
+
+msgid "NM-STG195"
+msgstr ""
+
+msgid "NM-STG196"
+msgstr ""
+
+msgid "NM-STG197"
+msgstr ""
+
+msgid "NM-STG198"
+msgstr ""
+
+msgid "NM-STG199"
+msgstr ""
+
+msgid "NM-STG200"
+msgstr ""
+
+msgid "NM-STG201"
+msgstr ""
+
+msgid "NM-STG202"
+msgstr ""
+
+msgid "NM-STG203"
+msgstr ""
+
+msgid "NM-STG204"
+msgstr ""
+
+msgid "NM-STG205"
+msgstr ""
+
+msgid "NM-STG206"
+msgstr ""
+
+msgid "NM-STG207"
+msgstr ""
+
+msgid "NM-STG208"
+msgstr ""
+
+msgid "NM-STG209"
+msgstr ""
+
+msgid "NM-STG210"
+msgstr ""
+
+msgid "NM-STG211"
+msgstr ""
+
+msgid "NM-STG212"
+msgstr ""
+
+msgid "NM-STG213"
+msgstr ""
+
+msgid "NM-STG214"
+msgstr ""
+
+msgid "NM-STG215"
+msgstr ""
+
+msgid "NM-STG216"
+msgstr ""
+
+msgid "NM-STG217"
+msgstr ""
+
+msgid "NM-STG218"
+msgstr ""
+
+msgid "NM-STG219"
+msgstr ""
+
+msgid "NM-STG220"
+msgstr ""
+
+msgid "NM-STG221"
+msgstr ""
+
+msgid "NM-STG222"
+msgstr ""
+
+msgid "NM-STG223"
+msgstr ""
+
+msgid "NM-STG224"
+msgstr ""
+
+msgid "NM-STG225"
+msgstr ""
+
+msgid "NM-STG226"
+msgstr ""
+
+msgid "NM-STG227"
+msgstr ""
+
+msgid "NM-STG228"
+msgstr ""
+
+msgid "NM-STG229"
+msgstr ""
+
+msgid "NM-STG230"
+msgstr ""
+
+msgid "NM-STG231"
+msgstr ""
+
+msgid "NM-STG232"
+msgstr ""
+
+msgid "NM-STG233"
+msgstr ""
+
+msgid "NM-STG234"
+msgstr ""
+
+msgid "NM-STG235"
+msgstr ""
+
+msgid "NM-STG236"
+msgstr ""
+
+msgid "NM-STG237"
+msgstr ""
+
+msgid "NM-STG238"
+msgstr ""
+
+msgid "NM-STG239"
+msgstr ""
+
+msgid "NM-STG240"
+msgstr ""
+
+msgid "NM-STG241"
+msgstr ""
+
+msgid "NM-STG242"
+msgstr ""
+
+msgid "NM-STG243"
+msgstr ""
+
+msgid "NM-STG244"
+msgstr ""
+
+msgid "NM-STG245"
+msgstr ""
+
+msgid "NM-STG246"
+msgstr ""
+
+msgid "NM-STG247"
+msgstr ""
+
+msgid "NM-STG248"
+msgstr ""
+
+msgid "NM-STG249"
+msgstr ""
+
+msgid "NM-STG250"
+msgstr ""
+
+msgid "NM-STG251"
+msgstr ""
+
+msgid "NM-STG252"
+msgstr ""
+
+msgid "NM-STG253"
+msgstr ""
+
+msgid "NM-STG254"
+msgstr ""
+
+msgid "NM-STG255"
+msgstr ""
+
+msgid "NM-STG256"
+msgstr ""
+
+msgid "NM-STG257"
+msgstr ""
+
+msgid "NM-STG258"
+msgstr ""
+
+msgid "NM-STG259"
+msgstr ""
+
+msgid "NM-STG260"
+msgstr ""
+
+msgid "NM-STG261"
+msgstr ""
+
+msgid "NM-STG262"
+msgstr ""
+
+msgid "NM-STG263"
+msgstr ""
+
+msgid "NM-STG264"
+msgstr ""
+
+msgid "NM-STG265"
+msgstr ""
+
+msgid "NM-STG266"
+msgstr ""
+
+msgid "NM-STG267"
+msgstr ""
+
+msgid "NM-STG268"
+msgstr ""
+
+msgid "NM-STG269"
+msgstr ""
+
+msgid "NM-STG270"
+msgstr ""
+
+msgid "NM-STG271"
+msgstr ""
+
+msgid "NM-STG272"
+msgstr ""
+
+msgid "NM-STG273"
+msgstr ""
+
+msgid "NM-STG274"
+msgstr ""
+
+msgid "NM-STG275"
+msgstr ""
+
+msgid "NM-STG276"
+msgstr ""
+
+msgid "NM-STG277"
+msgstr ""
+
+msgid "NM-STL001"
+msgstr ""
+
+msgid "NM-STL002"
+msgstr ""
+
+msgid "NM-STL003"
+msgstr ""
+
+msgid "NM-STL004"
+msgstr ""
+
+msgid "NM-STL005"
+msgstr ""
+
+msgid "NM-STL006"
+msgstr ""
+
+msgid "NM-STL007"
+msgstr ""
+
+msgid "NM-STL008"
+msgstr ""
+
+msgid "NM-STL009"
+msgstr ""
+
+msgid "NM-STL010"
+msgstr ""
+
+msgid "NM-STL011"
+msgstr ""
+
+msgid "NM-STL012"
+msgstr ""
+
+msgid "NM-STL013"
+msgstr ""
+
+msgid "NM-STL014"
+msgstr ""
+
+msgid "NM-STL015"
+msgstr ""
+
+msgid "NM-STL016"
+msgstr ""
+
+msgid "NM-STL017"
+msgstr ""
+
+msgid "NM-STL018"
+msgstr ""
+
+msgid "NM-STL019"
+msgstr ""
+
+msgid "NM-STL020"
+msgstr ""
+
+msgid "NM-STL021"
+msgstr ""
+
+msgid "NM-STL022"
+msgstr ""
+
+msgid "NM-STL023"
+msgstr ""
+
+msgid "NM-STL024"
+msgstr ""
+
+msgid "NM-STL025"
+msgstr ""
+
+msgid "NM-STL026"
+msgstr ""
+
+msgid "NM-STL027"
+msgstr ""
+
+msgid "NM-STL028"
+msgstr ""
+
+msgid "NM-STL029"
+msgstr ""
+
+msgid "NM-STL030"
+msgstr ""
+
+msgid "NM-STL031"
+msgstr ""
+
+msgid "NM-STL032"
+msgstr ""
+
+msgid "NM-STL033"
+msgstr ""
+
+msgid "NM-STL034"
+msgstr ""
+
+msgid "NM-STL035"
+msgstr ""
+
+msgid "NM-STL036"
+msgstr ""
+
+msgid "NM-STL037"
+msgstr ""
+
+msgid "NM-STL038"
+msgstr ""
+
+msgid "NM-STL039"
+msgstr ""
+
+msgid "NM-STL040"
+msgstr ""
+
+msgid "NM-STL041"
+msgstr ""
+
+msgid "NM-STL042"
+msgstr ""
+
+msgid "NM-STL043"
+msgstr ""
+
+msgid "NM-STL044"
+msgstr ""
+
+msgid "NM-STL045"
+msgstr ""
+
+msgid "NM-STL046"
+msgstr ""
+
+msgid "NM-STL047"
+msgstr ""
+
+msgid "NM-STL048"
+msgstr ""
+
+msgid "NM-STL049"
+msgstr ""
+
+msgid "NM-STL050"
+msgstr ""
+
+msgid "NM-STL051"
+msgstr ""
+
+msgid "NM-STL052"
+msgstr ""
+
+msgid "NM-STL053"
+msgstr ""
+
+msgid "NM-STL054"
+msgstr ""
+
+msgid "NM-STL055"
+msgstr ""
+
+msgid "NM-STL056"
+msgstr ""
+
+msgid "NM-STL057"
+msgstr ""
+
+msgid "NM-STL058"
+msgstr ""
+
+msgid "NM-STL059"
+msgstr ""
+
+msgid "NM-STL060"
+msgstr ""
+
+msgid "NM-STL061"
+msgstr ""
+
+msgid "NM-STL062"
+msgstr ""
+
+msgid "NM-STL063"
+msgstr ""
+
+msgid "NM-STL064"
+msgstr ""
+
+msgid "NM-STL065"
+msgstr ""
+
+msgid "NM-STL066"
+msgstr ""
+
+msgid "NM-STL067"
+msgstr ""
+
+msgid "NM-STL068"
+msgstr ""
+
+msgid "NM-STL069"
+msgstr ""
+
+msgid "NM-STL070"
+msgstr ""
+
+msgid "NM-STL071"
+msgstr ""
+
+msgid "NM-STL072"
+msgstr ""
+
+msgid "NM-STL073"
+msgstr ""
+
+msgid "NM-STL074"
+msgstr ""
+
+msgid "NM-STL075"
+msgstr ""
+
+msgid "NM-STL076"
+msgstr ""
+
+msgid "NM-STL077"
+msgstr ""
+
+msgid "NM-STL078"
+msgstr ""
+
+msgid "NM-STL079"
+msgstr ""
+
+msgid "NM-STL080"
+msgstr ""
+
+msgid "NM-STL081"
+msgstr ""
+
+msgid "NM-STL082"
+msgstr ""
+
+msgid "NM-STL083"
+msgstr ""
+
+msgid "NM-STL084"
+msgstr ""
+
+msgid "NM-STL085"
+msgstr ""
+
+msgid "NM-STL086"
+msgstr ""
+
+msgid "NM-STL087"
+msgstr ""
+
+msgid "NM-STL088"
+msgstr ""
+
+msgid "NM-STL089"
+msgstr ""
+
+msgid "NM-STL090"
+msgstr ""
+
+msgid "NM-STL091"
+msgstr ""
+
+msgid "NM-STL092"
+msgstr ""
+
+msgid "NM-StopSecret"
+msgstr ""
+
+msgid "NM-SubQuest"
+msgstr ""
+
+msgid "NM-Success"
+msgstr ""
+
+msgid "NM-SuccessRate"
+msgstr ""
+
+msgid "NM-Support"
+msgstr ""
+
+msgid "NM-Supporter-Trade"
+msgstr ""
+
+msgid "NM-Total"
+msgstr ""
+
+msgid "NM-Treasure"
+msgstr ""
+
+msgid "NM-Troop"
+msgstr ""
+
+msgid "NM-True-Satan"
+msgstr ""
+
+msgid "NM-Understood"
+msgstr ""
+
+msgid "NM-Usable"
+msgstr ""
+
+msgid "NM-UseNextSkill"
+msgstr ""
+
+msgid "NM-Village"
+msgstr ""
+
+msgid "NM-Weekly"
+msgstr ""
+
+msgid "ShortName-JB01"
+msgstr ""
+
+msgid "ShortName-JB02"
+msgstr ""
+
+msgid "ShortName-JB03"
+msgstr ""
+
+msgid "ShortName-JB04"
+msgstr ""
+
+msgid "ShortName-JB05"
+msgstr ""
+
+msgid "ShortName-JB06"
+msgstr ""
+
+msgid "ShortName-JB07"
+msgstr ""
+
+msgid "ShortName-JB08"
+msgstr ""
+
+msgid "ShortName-JB09"
+msgstr ""
+
+msgid "ShortName-JB10"
+msgstr ""
+
+msgid "ShortName-JB11"
+msgstr ""
+
+msgid "ShortName-JB12"
+msgstr ""
+
+msgid "ShortName-JB13"
+msgstr ""
+
+msgid "ShortName-JB14"
+msgstr ""
+
+msgid "ShortName-JB15"
+msgstr ""
+
+msgid "ShortName-JB16"
+msgstr ""
+
+msgid "ShortName-JB17"
+msgstr ""
+
+msgid "ShortName-JB18"
+msgstr ""
+
+msgid "ShortName-JB19"
+msgstr ""
+
+msgid "ShortName-JB20"
+msgstr ""
+
+msgid "ShortName-NP01"
+msgstr ""
+
+msgid "ShortName-NP02"
+msgstr ""
+
+msgid "ShortName-NP03"
+msgstr ""
+
+msgid "ShortName-NP04"
+msgstr ""
+
+msgid "ShortName-NP05"
+msgstr ""
+
+msgid "ShortName-NP06"
+msgstr ""
+
+msgid "ShortName-NP07"
+msgstr ""
+
+msgid "ShortName-NP08"
+msgstr ""
+
+msgid "TEXT_MSG_FAILED_PURCHASE"
+msgstr ""
+
+msgid "TEXT_PURCHASE_HISTORY"
+msgstr ""
+
+msgid "WD-Area-Cleared"
+msgstr ""
+
+msgid "WD-Btn-Abandon"
+msgstr ""
+
+msgid "WD-Btn-BattleLog"
+msgstr ""
+
+msgid "WD-Btn-ChallengeBounty"
+msgstr ""
+
+msgid "WD-Btn-ChallengeDungeon"
+msgstr ""
+
+msgid "WD-Btn-ChallengeInvasion"
+msgstr ""
+
+msgid "WD-Btn-ChallengeRoad"
+msgstr ""
+
+msgid "WD-Btn-ChallengeSecret"
+msgstr ""
+
+msgid "WD-Btn-ChallengeTreasure"
+msgstr ""
+
+msgid "WD-Btn-ChallengeVillage"
+msgstr ""
+
+msgid "WD-Btn-Config"
+msgstr ""
+
+msgid "WD-Btn-Log"
+msgstr ""
+
+msgid "WD-Btn-Mission"
+msgstr ""
+
+msgid "WD-CastSet"
+msgstr ""
+
+msgid "WD-ChangeChara"
+msgstr ""
+
+msgid "WD-Consumed"
+msgstr ""
+
+msgid "WD-Escape"
+msgstr ""
+
+msgid "WD-GearPos0"
+msgstr ""
+
+msgid "WD-GearPos1"
+msgstr ""
+
+msgid "WD-GearPos2"
+msgstr ""
+
+msgid "WD-GearPos3"
+msgstr ""
+
+msgid "WD-Items"
+msgstr ""
+
+msgid "WD-Locked-Short"
+msgstr ""
+
+msgid "WD-Menu"
+msgstr ""
+
+msgid "WD-Minions"
+msgstr ""
+
+msgid "WD-ProgressNext"
+msgstr ""
+
+msgid "WD-Random"
+msgstr ""
+
+msgid "WD-Repeatable"
+msgstr ""
+
+msgid "WD-Search"
+msgstr ""
+
+msgid "WD-SetLoad"
+msgstr ""
+
+msgid "WD-SetSave"
+msgstr ""
+
+msgid "WD-ShopItem-Job"
+msgstr ""
+
+msgid "WD-ShopItem-NPC"
+msgstr ""
+
+msgid "WD-ShopItem-Rival"
+msgstr ""
+
+msgid "WD-StartAdventure"
+msgstr ""
+
+msgid "WD-State-Last-Act"
+msgstr ""
+
+msgid "WD-State-Last-Day"
+msgstr ""
+
+msgid "WD-State-Last-Death"
+msgstr ""
+
+msgid "WD-State-Last-Turn"
+msgstr ""
+
+msgid "WD-Unlocked-Short"
+msgstr ""
+
+msgid "WD-Used"
+msgstr ""
+
+msgid "WORD_IAP_CURRENCY"
+msgstr ""
+
+msgid "WD-Btn-Wiki"
+msgstr ""
+
+msgid "URL-Wiki"
+msgstr ""
+
+msgid "WD-Btn-Discord"
+msgstr ""
+
+msgid "WD-Btn-ReturnToPrepare"
+msgstr ""
+
+msgid "DC-Cfm-ReturnToPrepare"
+msgstr ""
+
+msgid "DC-NW0005"
+msgstr ""
+
+msgid "URL-Survey"
+msgstr ""
+
+msgid "DC-NW0006"
+msgstr ""
+
+msgid "WD-Btn-OpenDetail"
+msgstr ""
+
+msgid "DC-Err-AlreadyFinishedMapPoint"
+msgstr ""
+
+msgid "NM-STG278"
+msgstr ""
+
+msgid "DC-STG278"
+msgstr ""
+
+msgid "NM-STG152A"
+msgstr ""
+
+msgid "DC-STG152A"
+msgstr ""
+
+msgid "DC-Cfm-ChangeBattleSpeed"
+msgstr ""
+
+msgid "WD-Btn-ChangeSpeed"
+msgstr ""
+
+msgid "WD-Btn-KeepSpeed"
+msgstr ""
+
