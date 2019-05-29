@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-23 11:11+0000\n"
+"PO-Revision-Date: 2019-05-23 11:11+0000\n"
+"Last-Translator: chutianyun <8086496@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <http://translate.nussygame.com/projects/"
+"edrpg/edrpg-prepared/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "DC-Cfm-AgreeEULA"
+msgstr "请先确认用户服务协议。未成年人需要征得监护人的同意。"
+
+msgid "DC-Plz-Wait-Do-It"
+msgstr "请稍后重试。"
+
+msgid "DC-Prologue"
+msgstr "『世界の崩壊』の後、全てが終わり、人類は絶えた。____ただ一人生き延びた古代の守護者エコは、その永遠の命を糧に、無謀な戦いに身を投じる。____それは、地平線まで続く砂漠から、一粒のダイヤを拾い上げるがごとき愚行。____それでも少女は諦めない。____全ての運命に抗い、人類が残された”希望の未来”を探して…"
+
+msgid "Desc-INI-LPT-001"
+msgstr "请在mogera.jp上登录"
+
+msgid "Desc-INI-MNT-001"
+msgstr "游戏服务器正在维护中。"
+
+msgid "Desc-INI-WBI-001"
+msgstr ":@Desc-INI-LPT-001"
+
+msgid "Desc-INI-WBU-001"
+msgstr "请访问正确的游戏网址。"
+
+msgid "NM-BattleSpeed:0"
+msgstr "普通"
+
+msgid "NM-BattleSpeed:1"
+msgstr "慢"
+
+msgid "NM-BattleSpeed:-1"
+msgstr "快"
+
+msgid "TEXT_CONFIRM_DOWNLOAD_DATA"
+msgstr "您确定要从云服务器上下载游戏存档吗？"
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr "Opening URL…__{0}__{1}"
+
+msgid "TEXT_CONFIRM_UPLOAD_DATA"
+msgstr "您确定要将本机存档上传到云服务器吗（将会覆盖）？"
+
+msgid "TEXT_GUIDE_CONTACT"
+msgstr "如果问题仍然存在，请与我联系（请同时附上用户id）。"
+
+msgid "TEXT_MSG_AFTER_CLEAR_CACHE"
+msgstr "缓存已清除。"
+
+msgid "TEXT_MSG_FAIL_CONNECT"
+msgstr "连接服务器失败。"
+
+msgid "TEXT_MSG_FAIL_GET_DATA"
+msgstr "获取数据失败。"
+
+msgid "TEXT_MSG_FAIL_GET_SERVER_DATA"
+msgstr "服务器数据获取失败。"
+
+msgid "TEXT_MSG_FAIL_SAVE_DATA"
+msgstr "数据保存失败。"
+
+msgid "TEXT_MSG_FAIL_SEND_DATA"
+msgstr "发送信息至服务器失败。"
+
+msgid "TEXT_MSG_INPUT_NAME"
+msgstr "请输入您的名字。"
+
+msgid "TEXT_MSG_SEND_BUG_REPORT"
+msgstr "请详细描述您遇到的问题。"
+
+msgid "TEXT_MSG_SUCCESS_DOWNLOAD"
+msgstr "下载成功！"
+
+msgid "TEXT_MSG_SUCCESS_PUBLISH_BKCODE"
+msgstr "备份码发行成功！__使用备份码可以恢复您的账号。__请复制它并妥善保存。"
+
+msgid "TEXT_MSG_SUCCESS_SEND"
+msgstr "发送成功！"
+
+msgid "TEXT_MSG_SUCCESS_UPLOAD"
+msgstr "上传成功！"
+
+msgid "TEXT_MSG_USE_BKCODE"
+msgstr "请输入备份码。"
+
+msgid "TEXT_MSG_USE_BKCODE_SUCCESS"
+msgstr "账号恢复成功！"
+
+msgid "WD-Btn-Agreement"
+msgstr "同意"
+
+msgid "WD-Btn-OpenURL"
+msgstr "打开网址"
+
+msgid "WD-Version"
+msgstr "版本"
+
+msgid "WORD_BATTLE_SPEED"
+msgstr "战斗速度"
+
+msgid "WORD_BTN_CLEAR_CACHE"
+msgstr "清除缓存"
+
+msgid "WORD_BTN_CONFIG_LONG"
+msgstr "设定"
+
+msgid "WORD_BTN_DOWNLOAD"
+msgstr "下载"
+
+msgid "WORD_BTN_LOGIN"
+msgstr "登录"
+
+msgid "WORD_BTN_MENU"
+msgstr "菜单"
+
+msgid "WORD_BTN_NEWS"
+msgstr "公告"
+
+msgid "WORD_BTN_PROLOGUE"
+msgstr "序幕"
+
+msgid "WORD_BTN_PUBLISH_BACKUP_CODE"
+msgstr "发行备份码"
+
+msgid "WORD_BTN_RESTART_GAME"
+msgstr "重新启动游戏"
+
+msgid "WORD_BTN_RESTORE_DATA"
+msgstr "数据恢复"
+
+msgid "WORD_BTN_SEND_BUG_REPORT"
+msgstr "提交BUG"
+
+msgid "WORD_BTN_SPECIAL_THANKS"
+msgstr "特别鸣谢"
+
+msgid "WORD_BTN_SUPPORT"
+msgstr "帮助"
+
+msgid "WORD_BTN_UPLOAD"
+msgstr "上传"
+
+msgid "WORD_BTN_USE_BACKUP_CODE"
+msgstr "使用备份码"
+
+msgid "WORD_CANCEL"
+msgstr "取消"
+
+msgid "WORD_CLEAR_NUM"
+msgstr "Cleared"
+
+msgid "WORD_CLOSE"
+msgstr "关闭"
+
+msgid "WORD_CONFIRM"
+msgstr "确定"
+
+msgid "WORD_CURRENCY_CREDIT"
+msgstr "Gem"
+
+msgid "WORD_EULA"
+msgstr "用户服务协议"
+
+msgid "WORD_HEADER_DISP_NAME"
+msgstr "昵称"
+
+msgid "WORD_HEADER_OPEN_URL"
+msgstr "打开网址"
+
+msgid "WORD_HEADER_VIBE_DEVICE"
+msgstr "振动"
+
+msgid "WORD_HEADER_VIBE_SCREEN"
+msgstr "画面振动"
+
+msgid "WORD_HEADER_VIBRATION"
+msgstr "Vibration"
+
+msgid "WORD_LOADING_PURCHASE"
+msgstr "购买中..."
+
+msgid "WORD_OK"
+msgstr "确定"
+
+msgid "WORD_PURCHASE"
+msgstr "购买"
+
+msgid "WORD_QUALITY"
+msgstr "画面品质"
+
+msgid "WORD_QUALITY_0"
+msgstr "标准"
+
+msgid "WORD_QUALITY_1"
+msgstr "低清"
+
+msgid "WORD_QUALITY_-1"
+msgstr "高清"
+
+msgid "WORD_TOUCH_TO_START"
+msgstr "TOUCH TO START"
+
+msgid "TEXT_MSG_FAIL_NETWORK"
+msgstr "无法连接网络。"
+
+msgid "Desc-INI-GLI-001"
+msgstr ":@TEXT_MSG_FAIL_CONNECT"
+
+msgid "Desc-INI-PLY-001"
+msgstr "新版本已经发布。请升级。"
+
+msgid "Desc-INI-MNT-001"
+msgstr "目前，我们正在维持游戏服务器。"
+
+msgid "DC-Alt-OfflineMode"
+msgstr "开始在离线模式。 __ *服务器保存不可用。 __ *在应用程序内购买不能使用。 __ *网络功能，诸如排名不能使用。"

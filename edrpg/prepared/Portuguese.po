@@ -1,0 +1,284 @@
+msgid "DC-Cfm-AgreeEULA"
+msgstr "Please use the service after accepting the software license agreement.__If you are a minor, you need the consent of a legal representative."
+
+
+msgid "DC-Plz-Wait-Do-It"
+msgstr "Por favor, aguarde um pouco para fazê-lo."
+
+
+msgid "DC-Prologue"
+msgstr "『世界の崩壊』の後、全てが終わり、人類は絶えた。____ただ一人生き延びた古代の守護者エコは、その永遠の命を糧に、無謀な戦いに身を投じる。____それは、地平線まで続く砂漠から、一粒のダイヤを拾い上げるがごとき愚行。____それでも少女は諦めない。____全ての運命に抗い、人類が残された”希望の未来”を探して…"
+
+
+msgid "Desc-INI-LPT-001"
+msgstr "Por favor entre com o usuário mogera.jp."
+
+
+msgid "Desc-INI-MNT-001"
+msgstr "Atualmente servidor do jogo está em manutenção."
+
+
+msgid "Desc-INI-WBI-001"
+msgstr ":@Desc-INI-LPT-001"
+
+
+msgid "Desc-INI-WBU-001"
+msgstr "Favor acessar URL jogo correto."
+
+
+msgid "NM-BattleSpeed:0"
+msgstr "Normal"
+
+
+msgid "NM-BattleSpeed:1"
+msgstr "Slow"
+
+
+msgid "NM-BattleSpeed:-1"
+msgstr "Quick"
+
+
+msgid "TEXT_CONFIRM_DOWNLOAD_DATA"
+msgstr "Are you sure you download server save to override your client save?"
+
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr "Opening URL…__{0}__{1}"
+
+
+msgid "TEXT_CONFIRM_UPLOAD_DATA"
+msgstr "Are you sure you upload your local save to override server save?"
+
+
+msgid "TEXT_GUIDE_CONTACT"
+msgstr "Se os problemas persistirem, entre em contato comigo com o seu UserID."
+
+
+msgid "TEXT_MSG_AFTER_CLEAR_CACHE"
+msgstr "Limpar o cache de sucesso."
+
+
+msgid "TEXT_MSG_FAIL_CONNECT"
+msgstr "Failed to connect to game server."
+
+
+msgid "TEXT_MSG_FAIL_GET_DATA"
+msgstr "Failed to get data."
+
+
+msgid "TEXT_MSG_FAIL_GET_SERVER_DATA"
+msgstr "Failed to get server data."
+
+
+msgid "TEXT_MSG_FAIL_SAVE_DATA"
+msgstr "Failed to save data."
+
+
+msgid "TEXT_MSG_FAIL_SEND_DATA"
+msgstr "Failed to get server data."
+
+
+msgid "TEXT_MSG_INPUT_NAME"
+msgstr "Input your name."
+
+
+msgid "TEXT_MSG_SEND_BUG_REPORT"
+msgstr "Please describe problems you encountered in detail."
+
+
+msgid "TEXT_MSG_SUCCESS_DOWNLOAD"
+msgstr "Download successful!"
+
+
+msgid "TEXT_MSG_SUCCESS_PUBLISH_BKCODE"
+msgstr "Backup code publish successful!__You can restore your account by this code.__Please copy this code to keep secured."
+
+
+msgid "TEXT_MSG_SUCCESS_SEND"
+msgstr "Send successful!"
+
+
+msgid "TEXT_MSG_SUCCESS_UPLOAD"
+msgstr "Upload successful!"
+
+
+msgid "TEXT_MSG_USE_BKCODE"
+msgstr "Input your Backup code."
+
+
+msgid "TEXT_MSG_USE_BKCODE_SUCCESS"
+msgstr "Account restored successful!"
+
+
+msgid "WD-Btn-Agreement"
+msgstr "Concordo"
+
+
+msgid "WD-Btn-OpenURL"
+msgstr "Url aberta"
+
+
+msgid "WD-Version"
+msgstr "Version"
+
+
+msgid "WORD_BATTLE_SPEED"
+msgstr "Battle Speed"
+
+
+msgid "WORD_BTN_CLEAR_CACHE"
+msgstr "Clear Cache"
+
+
+msgid "WORD_BTN_CONFIG_LONG"
+msgstr "Configuration"
+
+
+msgid "WORD_BTN_DOWNLOAD"
+msgstr "Download"
+
+
+msgid "WORD_BTN_LOGIN"
+msgstr "Entrar"
+
+
+msgid "WORD_BTN_MENU"
+msgstr "Menu"
+
+
+msgid "WORD_BTN_NEWS"
+msgstr "News"
+
+
+msgid "WORD_BTN_PROLOGUE"
+msgstr "Prologue"
+
+
+msgid "WORD_BTN_PUBLISH_BACKUP_CODE"
+msgstr "Publish Backup Code"
+
+
+msgid "WORD_BTN_RESTART_GAME"
+msgstr "Reiniciar o jogo"
+
+
+msgid "WORD_BTN_RESTORE_DATA"
+msgstr "Restore data"
+
+
+msgid "WORD_BTN_SEND_BUG_REPORT"
+msgstr "Send bug report"
+
+
+msgid "WORD_BTN_SPECIAL_THANKS"
+msgstr "Special Thanks"
+
+
+msgid "WORD_BTN_SUPPORT"
+msgstr "Support"
+
+
+msgid "WORD_BTN_UPLOAD"
+msgstr "Uplaod"
+
+
+msgid "WORD_BTN_USE_BACKUP_CODE"
+msgstr "Use Backup Code"
+
+
+msgid "WORD_CANCEL"
+msgstr "Cancelar"
+
+
+msgid "WORD_CLEAR_NUM"
+msgstr "jogo claro"
+
+
+msgid "WORD_CLOSE"
+msgstr "Fechar"
+
+
+msgid "WORD_CONFIRM"
+msgstr "confirme"
+
+
+msgid "WORD_CURRENCY_CREDIT"
+msgstr "Gem"
+
+
+msgid "WORD_EULA"
+msgstr "End-User license agreements"
+
+
+msgid "WORD_HEADER_DISP_NAME"
+msgstr "Display Name"
+
+
+msgid "WORD_HEADER_OPEN_URL"
+msgstr "Abra a URL"
+
+
+msgid "WORD_HEADER_VIBE_DEVICE"
+msgstr "Device"
+
+
+msgid "WORD_HEADER_VIBE_SCREEN"
+msgstr "Screen"
+
+
+msgid "WORD_HEADER_VIBRATION"
+msgstr "Vibration"
+
+
+msgid "WORD_LOADING_PURCHASE"
+msgstr "Compras ..."
+
+
+msgid "WORD_OK"
+msgstr "Está bem"
+
+
+msgid "WORD_PURCHASE"
+msgstr "Compra"
+
+
+msgid "WORD_QUALITY"
+msgstr "Qualidade"
+
+
+msgid "WORD_QUALITY_0"
+msgstr "Boa"
+
+
+msgid "WORD_QUALITY_1"
+msgstr "confortável"
+
+
+msgid "WORD_QUALITY_-1"
+msgstr "Bonita"
+
+
+msgid "WORD_TOUCH_TO_START"
+msgstr "TOUCH TO START"
+
+
+msgid "TEXT_MSG_FAIL_NETWORK"
+msgstr "Falha na conexão de rede."
+
+
+msgid "Desc-INI-GLI-001"
+msgstr ":@TEXT_MSG_FAIL_CONNECT"
+
+
+msgid "Desc-INI-PLY-001"
+msgstr "A nova versão foi lançada. Por favor, atualize."
+
+
+msgid "Desc-INI-MNT-001"
+msgstr "No momento, estamos mantendo o servidor do jogo."
+
+
+msgid "DC-Alt-OfflineMode"
+msgstr "Iniciar no modo offline. __ * Server não salvar disponível. __ * compra no aplicativo não pode ser usado. __ * funções de rede, como a classificação não pode ser usado."
+
+

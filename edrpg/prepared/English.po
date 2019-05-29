@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-20 05:01+0000\n"
+"PO-Revision-Date: 2019-05-23 11:11+0000\n"
+"Last-Translator: Cirr <cirrusfruits@gmail.com>\n"
+"Language-Team: English <http://translate.nussygame.com/projects/edrpg/"
+"edrpg-prepared/en/>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "DC-Cfm-AgreeEULA"
+msgstr "Please use the service after accepting End-User license agreements.__If you are a minor, you need the consent of a legal representative."
+
+msgid "DC-Plz-Wait-Do-It"
+msgstr "Please try again after a while."
+
+msgid "DC-Prologue"
+msgstr "『世界の崩壊』の後、全てが終わり、人類は絶えた。____ただ一人生き延びた古代の守護者エコは、その永遠の命を糧に、無謀な戦いに身を投じる。____それは、地平線まで続く砂漠から、一粒のダイヤを拾い上げるがごとき愚行。____それでも少女は諦めない。____全ての運命に抗い、人類が残された”希望の未来”を探して…"
+
+msgid "Desc-INI-LPT-001"
+msgstr "Please login with a mogera.jp account."
+
+msgid "Desc-INI-MNT-001"
+msgstr "Game server is currently undergoing maintenance."
+
+msgid "Desc-INI-WBI-001"
+msgstr ":@Desc-INI-LPT-001"
+
+msgid "Desc-INI-WBU-001"
+msgstr "Please access correct game URL."
+
+msgid "NM-BattleSpeed:0"
+msgstr "Normal"
+
+msgid "NM-BattleSpeed:1"
+msgstr "Slow"
+
+msgid "NM-BattleSpeed:-1"
+msgstr "Quick"
+
+msgid "TEXT_CONFIRM_DOWNLOAD_DATA"
+msgstr ""
+"Are you sure you wish to download your server save data? This will overwrite "
+"your client save data!"
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr "Opening URL…__{0}__{1}"
+
+msgid "TEXT_CONFIRM_UPLOAD_DATA"
+msgstr ""
+"Are you sure you wish to upload your local save data? This will overwrite "
+"your server save data!"
+
+msgid "TEXT_GUIDE_CONTACT"
+msgstr "If problems still persist, please contact me with your UserID."
+
+msgid "TEXT_MSG_AFTER_CLEAR_CACHE"
+msgstr "Cache cleared successfully."
+
+msgid "TEXT_MSG_FAIL_CONNECT"
+msgstr "Failed to connect to game server."
+
+msgid "TEXT_MSG_FAIL_GET_DATA"
+msgstr "Failed to get data."
+
+msgid "TEXT_MSG_FAIL_GET_SERVER_DATA"
+msgstr "Failed to get server data."
+
+msgid "TEXT_MSG_FAIL_SAVE_DATA"
+msgstr "Failed to save data."
+
+msgid "TEXT_MSG_FAIL_SEND_DATA"
+msgstr "Failed to get server data."
+
+msgid "TEXT_MSG_INPUT_NAME"
+msgstr "Please input your name."
+
+msgid "TEXT_MSG_SEND_BUG_REPORT"
+msgstr ""
+"Please describe the problems you have encountered in detail. __(Bug reports "
+"are not sent individually. __If you require an individual reply, please "
+"contact us via support.)"
+
+msgid "TEXT_MSG_SUCCESS_DOWNLOAD"
+msgstr "Download successful!"
+
+msgid "TEXT_MSG_SUCCESS_PUBLISH_BKCODE"
+msgstr ""
+"Backup code published successfully!__You can restore your account with this "
+"code.__Please copy this code and keep it safe."
+
+msgid "TEXT_MSG_SUCCESS_SEND"
+msgstr "Sent successfully!"
+
+msgid "TEXT_MSG_SUCCESS_UPLOAD"
+msgstr "Upload successful!"
+
+msgid "TEXT_MSG_USE_BKCODE"
+msgstr "Please input your backup code."
+
+msgid "TEXT_MSG_USE_BKCODE_SUCCESS"
+msgstr "Account restored successfully!"
+
+msgid "WD-Btn-Agreement"
+msgstr "I Agree"
+
+msgid "WD-Btn-OpenURL"
+msgstr "Open URL"
+
+msgid "WD-Version"
+msgstr "Version"
+
+msgid "WORD_BATTLE_SPEED"
+msgstr "Battle Speed"
+
+msgid "WORD_BTN_CLEAR_CACHE"
+msgstr "Clear Cache"
+
+msgid "WORD_BTN_CONFIG_LONG"
+msgstr "Configuration"
+
+msgid "WORD_BTN_DOWNLOAD"
+msgstr "Download"
+
+msgid "WORD_BTN_LOGIN"
+msgstr "Login"
+
+msgid "WORD_BTN_MENU"
+msgstr "Menu"
+
+msgid "WORD_BTN_NEWS"
+msgstr "News"
+
+msgid "WORD_BTN_PROLOGUE"
+msgstr "Prologue"
+
+msgid "WORD_BTN_PUBLISH_BACKUP_CODE"
+msgstr "Publish Backup Code"
+
+msgid "WORD_BTN_RESTART_GAME"
+msgstr "Restart game"
+
+msgid "WORD_BTN_RESTORE_DATA"
+msgstr "Restore data"
+
+msgid "WORD_BTN_SEND_BUG_REPORT"
+msgstr "Report a bug"
+
+msgid "WORD_BTN_SPECIAL_THANKS"
+msgstr "Special Thanks"
+
+msgid "WORD_BTN_SUPPORT"
+msgstr "Support"
+
+msgid "WORD_BTN_UPLOAD"
+msgstr "Upload"
+
+msgid "WORD_BTN_USE_BACKUP_CODE"
+msgstr "Use Backup Code"
+
+msgid "WORD_CANCEL"
+msgstr "Cancel"
+
+msgid "WORD_CLEAR_NUM"
+msgstr "Cleared"
+
+msgid "WORD_CLOSE"
+msgstr "Close"
+
+msgid "WORD_CONFIRM"
+msgstr "Confirm"
+
+msgid "WORD_CURRENCY_CREDIT"
+msgstr "Gem"
+
+msgid "WORD_EULA"
+msgstr "End-user license agreement"
+
+msgid "WORD_HEADER_DISP_NAME"
+msgstr "Display Name"
+
+msgid "WORD_HEADER_OPEN_URL"
+msgstr "Open URL"
+
+msgid "WORD_HEADER_VIBE_DEVICE"
+msgstr "Device"
+
+msgid "WORD_HEADER_VIBE_SCREEN"
+msgstr "Screen"
+
+msgid "WORD_HEADER_VIBRATION"
+msgstr "Vibration"
+
+msgid "WORD_LOADING_PURCHASE"
+msgstr "Purchasing..."
+
+msgid "WORD_OK"
+msgstr "OK"
+
+msgid "WORD_PURCHASE"
+msgstr "Purchase"
+
+msgid "WORD_QUALITY"
+msgstr "Quality"
+
+msgid "WORD_QUALITY_0"
+msgstr "Good"
+
+msgid "WORD_QUALITY_1"
+msgstr "Comfortable"
+
+msgid "WORD_QUALITY_-1"
+msgstr "Beautiful"
+
+msgid "WORD_TOUCH_TO_START"
+msgstr "TOUCH TO START"
+
+msgid "TEXT_MSG_FAIL_NETWORK"
+msgstr "Failed to connect to the network."
+
+msgid "Desc-INI-GLI-001"
+msgstr ":@TEXT_MSG_FAIL_CONNECT"
+
+msgid "Desc-INI-PLY-001"
+msgstr "A new version has been released. Please update."
+
+msgid "Desc-INI-MNT-001"
+msgstr "We are currently maintaining the game server."
+
+msgid "DC-Alt-OfflineMode"
+msgstr ""
+"Start in offline mode. __* Server save not available. __* In-app purchases "
+"cannot be used. __* Network functions such as ranking can not be used."

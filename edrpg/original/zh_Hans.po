@@ -1,0 +1,11261 @@
+msgid "DC2-JB01"
+msgstr ""
+"哥哥亚伦被村民们誉为剑术达人，曾经在村里担任警卫队的工作。但在那命运之日，黑龙出现在了村子里。那可不是区区一位乡野英雄能与之匹敌的对手。他从此失去了住所、"
+"家人与梦想，取而代之的是那复仇的火焰。"
+
+msgid "DC2-JB02"
+msgstr ""
+"出生于富裕家庭的她因为兴趣专注于占卜。有一天，她心血来潮，给与她年龄相仿的乞丐女孩『艾琳』算了一卦…结果居然是「改变自己命运的人」，这令她十分不解，于是干"
+"脆让艾琳在自己家住了下来。"
+
+msgid "DC2-JB03"
+msgstr ""
+"他在成年之日本应继承从瓦尔茨传承下来的月雫之杖，但权杖拒绝了他的继承，莫大的屈辱向他袭来。为了得到瓦尔茨所没有的——『全灵』，他决定去旅行。如同瓦尔茨曾经"
+"做的。"
+
+msgid "DC2-JB04"
+msgstr ""
+"曾经只是村姑的她，有一次在街上偶然看到了公主的身影，她立刻被公主的美貌所吸引，立志要成为「守护公主的骑士」。后来，尽管她用尽各种手段想要成为骑士，却因为非"
+"法闯入城堡而被禁止入内。"
+
+msgid "DC2-JB05"
+msgstr ""
+"她原本是被幽禁在天界的死神的一个不完全的分身。虽然原本是用于散播死亡而在制作出的分身，却因为不够完全所以容易受到周围的影响，最终变得与人类极其相似。"
+
+msgid "DC2-JB06"
+msgstr "很少有谁知道贵族的背景。由刚性和自由世界的反感。避免社会活动和迷恋​​打猎，骑马，练剑，但品牌作为一个浪子女儿，甚至从她的父母六亲不认。"
+
+msgid "DC2-JB07"
+msgstr "成年人有困难和她交往，谁曾坑蒙拐骗的习惯，作为一个孤儿，但只有村后卫凯恩没有抛弃她。她的华丽姿态都来自他对她的英雄故事干。"
+
+msgid "DC2-JB08"
+msgstr "在Valonights状态的亚瑟王的创始人。他是战争的天才。胜利在战场上了一遍又一遍，甚至再次强制强10倍。他的座右铭是：“如果你要欺骗敌人，第一个欺骗你的盟友”，和所有人带来惊喜与奇怪的战术。"
+
+msgid "DC2-JB09"
+msgstr "作为一个人，她结婚30在寒冷的东部村庄后，并不顾她的配偶的家庭被折磨，度过了她的日子是无法逃脱。一天晚上，她迷路在山上，当她回来的时候，她已经放弃做人。"
+
+msgid "DC2-JB10"
+msgstr "他没有故障。然而，村长的女儿就开始看他，谁是一名普通的青年。又是谁一直是未婚夫被嫉妒驱动的人，他的包裹，并负责牲畜屠宰。不知道什么，他被送往火灾执行，本来是要离开这个世界。"
+
+msgid "DC2-JB11"
+msgstr "有一次，她的自尊已经深深被比她过于优越的姐姐受伤。通过充分利用魅幻和创造的追随者，尝试给予表扬和控制台，但有一天他们中的一个无法避免的结界的影响力，被一辆马车击中，身受重伤。"
+
+msgid "DC2-JB12"
+msgstr "一个贫苦农民的小女儿，她基本上是由她的父母虐待。在十二岁的时候，她的父亲在法律试图强迫自己对她的作为邪恶的欲望的出口。然而，作为一个结果，她离开她的家中孤独推一把水果刀到她的父亲在法律的后脖颈。"
+
+msgid "DC2-JB13"
+msgstr "贾拉在同样的地方为他放弃了。两个人在一起长大，超过人类兄弟之间的信任，他们能够携手一起共进步调一致。他是唯一一个谁能够理解哈基姆的背后无声降低眼睛的真实意愿。"
+
+msgid "DC2-JB14"
+msgstr "乐也融融，由他美丽的妻子和三个女儿包围，他被打的悲剧。说来也巧，当他不在，家里有一辆马车事故，每个人都失去了他们的生命。他决定利用自己的学术知识，为他的家庭的复活，并开始研究。"
+
+msgid "DC2-JB15"
+msgstr "一个穷小子，没有任何借口被抓获，并与动物融合。不久之后，该研究所被关闭，而当他去户外意外，他在那里出生和长大不再村存在。他逛同出一去的地方，他被一个节目舱接受。"
+
+msgid "DC2-JB16"
+msgstr "预计将活跃在魔法研究的主要研究员，但被迫离开学校，因为他是倾向对研究变得极端，进入与魔鬼的契约。当他被迫进入一个孤立的局面，他的偏见开始加速。"
+
+msgid "DC2-JB17"
+msgstr "意识到在崇拜的高层的腐败，他报的人，但这些指控导致血液十字架的崩溃和冲突，引发骚乱和无数人死亡一起。他所有的上司在血色十字是由于他的努力被执行。"
+
+msgid "DC2-JB18"
+msgstr "GAAP跟着一个牧师谁与圣灵，在她第一次尝试致电精神相互作用，成为渴望“听不到任何东西”，她也来到了真相。有在这片土地没有精神，他的祖先曾持续了隆重的谎言和表演出来的一场闹剧，这样不会伤害任何人。"
+
+msgid "DC2-JB19"
+msgstr "他深受教学人员接受，但不能习惯他这个年龄的男孩，造成麻烦之后，从学校被暂停。他不承认自己的错误，但他投出了反对票他的同行们的魔力是无法接受的。"
+
+msgid "DC2-JB20"
+msgstr "虽然可以通过吸家畜和恶魔的血活，但类似的食物上瘾，有人类血液的渴望。虽然极其痛苦抗拒，她并没有接受她的诅咒命运，并致力于保护她的理智。"
+
+msgid "DC3-JB01"
+msgstr "有踏上他的旅程只在搜索复仇，他注意到他已经开始跟随他的哥哥，并成为崇拜的人的主题。无论是追逐他的过去的激情和献身报复，他动摇了他的存在。"
+
+msgid "DC3-JB02"
+msgstr "面临着来自父母的反对后不久，两人就住在他们自己的，但没有办法入不敷出，钱很快就过去了，女孩离开了人世由于疫情。回不了家，卡米拉，遗憾，继续寻找什么，她可以做的旅程。"
+
+msgid "DC3-JB03"
+msgstr "总是担心她应该是什么，反复试验和错误。它是不可能从出生改变一个人的自我？她痛苦，但她还没有意识到，接受不尴尬或羞愧的是精神追求什么。"
+
+msgid "DC3-JB04"
+msgstr "她的剑技都没有那么糟糕随着她的魔法，她比一般不太熟练，但她与魔法剑真正的人才被布里吉注意到，她成为了卡斯尔顿白玫瑰三剑客的实习生。"
+
+msgid "DC3-JB05"
+msgstr "最后女孩的遭遇，在一个小房间里去世了，没有看到世界。她的灵魂已经转世，她决定打击和防止世界的崩溃百天后，让她可以享受一个幸福的未来和世界。"
+
+msgid "DC3-JB06"
+msgstr "不舒服的感觉不论走到哪里，她正在寻找她真正属于哪里。然而，没有什么困难吧，她可能会满足于只通过她要到哪里是花时间。"
+
+msgid "DC3-JB07"
+msgstr "“卢西亚诺英雄”的故事给了她勇气。当村被恶魔袭击，一个勇敢的努力已经作出，肇事者突然成了村民们的英雄。然而，她继续寻求卢西亚诺和有需要的人的旅程。"
+
+msgid "DC3-JB08"
+msgstr "他失去了他的许多在宪法战争的朋友，大大责备自己。他担心，“即使我伸出援助之手，我未必能拯救一切都无一例外。”不过，“如果我不延长我的手了，没有什么可以被保存。”"
+
+msgid "DC3-JB09"
+msgstr "她冰镇村，包括亲戚，一边想着让逃跑，他的话：“你的怪物！”激怒了她。当她独自成了，她是谁在心脏孤独，无法单独住一女。还在寻找一个她可以安心倚靠。"
+
+msgid "DC3-JB10"
+msgstr "该爆炸火焰吞没了村庄，和他谁应该被烧毁，重生为的仙禽的监护人。但火焰在村里烧毁一切，他失去了一切。为了重振一个女孩谁至少爱他，他仍然在探索如何自私使用仙禽的力量。"
+
+msgid "DC3-JB11"
+msgstr "你觉得遗憾对你做了什么，这意味着你是友善的。你将成为一个美妙的精灵。”她哭着从Rheinz总统接见了这句话的时候，她正要退出魔法学校的，这是因为这些都是恭维的第一个词，没有任何欺骗或虚假。"
+
+msgid "DC3-JB12"
+msgstr "如果我慌了，在下降举行的那一天可能到手的刀，我会一直在那里我会一直关死了更好的情况下被奴役被诅咒的未来。她是异常害怕别人的，和失败的。她能够单独作战，而是她只能孤军奋战。"
+
+msgid "DC3-JB13"
+msgstr "哈基姆只知道关于居住生活，涉及换取战斗赚钱。他从未离开过沙漠。他从来没有想过这样的事情生活和坏存在物的正确方法。他在不同的地方看到的不明物品已经开始刺激好奇心在他身上。"
+
+msgid "DC3-JB14"
+msgstr "这项研究的结果产生进一步的悲剧。他不得不放弃他的家庭成员的生活不完美，甚至没有一个自我。除了他的大女儿，凯瑟琳和她的狗，路德维希，谁突然消失了。"
+
+msgid "DC3-JB15"
+msgstr "他在那里遇到谁的美人鱼给他力所能及的爱。他真诚地希望成为一个快乐和舒适的人很像她。之后，他跑到离展在寻找她，谁被卖给了一个富有的人，消失了。"
+
+msgid "DC3-JB16"
+msgstr "在订立合同的时候，他完全失去了在他的右耳和远见在他的右眼听力。为了弥补这一点，他进行技术磨砺他的感觉，并具有极端的视听灵敏度，但它往往会紧张的环境中有很多的声音，人群，或信息。"
+
+msgid "DC3-JB17"
+msgstr "但是，这些东西仍然使出只不过是在崇拜与获得由邪教留下的财富的目的争夺一个新的状态。深失望使他疯狂和狂热。破坏新的邪教组织后，毫无疑问，他本人是正义和他离去在一个孤独的旅程，实现自己的理想。"
+
+msgid "DC3-JB18"
+msgstr "GAAP还选择谎言。与预期的人的目光让她这样做。 GAAP知道事实是不是让人高兴的嘛。机智的圣灵的引导下，人们的生活中没有发生冲突，不管是谁从中受益。"
+
+msgid "DC3-JB19"
+msgstr "在他的父母和学校校长的推荐下，他决定在暂停期间出行。即使有天赋，这是毫无意义的，如果错误与用其制成。它是由他仍需要时间让他了解周围人的认可。为了真正理解其含义，他决定在暂停期间出行。即使有天赋，这是毫无意义的，如果错误与用其制成。为了对这种青少年的真正了解，他周围的人意识到，被要求更多的时间。"
+
+msgid "DC3-JB20"
+msgstr "有一次，成为众神的使者之后，她试图融入人类社会，但在她所工作的豪宅，她劫杀一个女孩住在同一个房间。从那以后，她发誓永不与人参与，并继续寻找方法返回一个人。"
+
+msgid "DC-ABL00001"
+msgstr "有25%的概率替代后卫承受伤害"
+
+msgid "DC-ABL00002"
+msgstr "队友处于【死亡】状态时，自身受到的伤害降低50%。"
+
+msgid "DC-ABL00003"
+msgstr "队友受到伤害时也能触发反伤。"
+
+msgid "DC-ABL00004"
+msgstr "治疗队友时也会同时治疗自身，恢复量为治疗量的25%。"
+
+msgid "DC-ABL00005"
+msgstr "治疗队友时，也会消除目标身上的一个异常状态。"
+
+msgid "DC-ABL00006"
+msgstr "每当队友受到伤害时，Brave增加5点"
+
+msgid "DC-ABL00007"
+msgstr "队友处于【死亡】状态时，ATK+50%。"
+
+msgid "DC-ABL00008"
+msgstr "每当你使用技能时，队友的Spell上升"
+
+msgid "DC-ABL00009"
+msgstr "队友处于【死亡】状态时，Brave+25/每回合"
+
+msgid "DC-ABL00010"
+msgstr "降低队友受到的伤害20%"
+
+msgid "DC-ABL00011"
+msgstr "每当队友受到伤害时，增加造成的伤害"
+
+msgid "DC-ABL00012"
+msgstr "打倒敌人时，我方所有人Brave+10"
+
+msgid "DC-ABL00013"
+msgstr "队友不再会陷入【昏迷】状态"
+
+msgid "DC-ABL00014"
+msgstr "队友获得护盾时，自身也会获得其护盾量25%的护盾"
+
+msgid "DC-ABL00015"
+msgstr "使用技能时，队伍的【影响力】增加。"
+
+msgid "DC-ABL00016"
+msgstr "队友受到状态变化时，获得状态异常耐性"
+
+msgid "DC-ABL00017"
+msgstr "队友进行普通攻击时，自身获得攻击次数+％"
+
+msgid "DC-ABL00018"
+msgstr "打倒敌人时，我方全员恢复10%的HP"
+
+msgid "DC-ABL00019"
+msgstr "队友成为敌方技能目标时，他的闪避率会增加"
+
+msgid "DC-ABL00020"
+msgstr "当你带有【召唤伤害】增益效果时，队友受到的伤害降低10%"
+
+msgid "DC-ABL99999"
+msgstr "【羁绊奥义】的使用条件大幅降低"
+
+msgid "DC-About-PrepareItems"
+msgstr "你只能在冒险开始前调整你的护身符/神谕。冒险中无法进行装备和使用。"
+
+msgid "DC-AddGift"
+msgstr "报酬已经送达礼物箱。"
+
+msgid "DC-AdvResult-Abandon"
+msgstr "冒险者们没能实现他们的目标，消失在了历史的长河里。。。"
+
+msgid "DC-AdvResult-Gameover"
+msgstr "天{0}：冒险者们创业未半而中道崩殂了。。。"
+
+msgid "DC-AdvResult-Satan"
+msgstr "天{0}：击败了魔王。"
+
+msgid "DC-AdvResult-Timeout"
+msgstr "还没能击败魔王就迎来了命运来临之日。。。"
+
+msgid "DC-AdvResult-TrueSatan"
+msgstr "天{0}：击败了真・魔王。"
+
+msgid "DC-Already-Buy"
+msgstr "你已经买过了！"
+
+msgid "DC-Alt-Appear-TrueSatan"
+msgstr "魔王解开了自己真正的力量。"
+
+msgid "DC-Alt-Buy"
+msgstr "购买成功！"
+
+msgid "DC-Alt-CantWorkNow"
+msgstr "请确认异常状态/诡计。"
+
+msgid "DC-Alt-Clear-Infiniter"
+msgstr "无限回廊最深层通关！"
+
+msgid "DC-Alt-EarnAbility"
+msgstr "习得了新的能力：【{0}】"
+
+msgid "DC-Alt-EarnPotential"
+msgstr "获得了新的潜在能力：【{0}】"
+
+msgid "DC-Alt-LinkQuestAchive"
+msgstr "【羁绊等级任务】{0}完成！羁绊等级上升了！"
+
+msgid "DC-Alt-NoMaterialOnAttach"
+msgstr "对应材料不足。不消耗材料进行装配时，零件装配率会降低。"
+
+msgid "DC-Alt-Plz-Restart"
+msgstr "请重新启动应用程序以应用新设置。"
+
+msgid "DC-Alt-Reset"
+msgstr "重置成功！"
+
+msgid "DC-Alt-Rest-1day"
+msgstr "休息了一晚上！"
+
+msgid "DC-Alt-RivalFindGain"
+msgstr "所有恶魔头目的Find值+1！"
+
+msgid "DC-Alt-UsedFieldSkill"
+msgstr "使用了地图技能：【{0}】！"
+
+msgid "DC-Alt-UsedItem"
+msgstr "道具使用成功！"
+
+msgid "DC-Alt-UsedMinion"
+msgstr "使魔使用成功！"
+
+msgid "DC-AnyTrade"
+msgstr "与任意支援者进行{0}次交易"
+
+msgid "DC-AR01"
+msgstr "一旦一个蓬勃发展的多功能贸易中心躺在Legendaria的中心，这个城市是在死亡和荒凉的点点滴滴消耗后，撒旦的外观。"
+
+msgid "DC-AR02"
+msgstr "坐落危险的山谷和得天独厚的永久气候，这个山区充满梯田支持Valonights。"
+
+msgid "DC-AR03"
+msgstr "一个严寒的气候孕育了矫直精神。尽管是一个省会城市，这片土地是其强大的勇士们在世界各地享有盛名。"
+
+msgid "DC-AR04"
+msgstr "深受广大形成的湿地，这片土地是用独特的语言多种族的家，也是许多优秀的魔法师和巫师的发源地。"
+
+msgid "DC-AR05"
+msgstr "它的名字来自内海的监护人的名字来一次与商船出入繁荣，这片土地上看到了它的许多城市撒旦的外观后蹂躏。"
+
+msgid "DC-AR06"
+msgstr "这种高山区是拥有世界上最大的圣山，其基地每年欢迎许多游客。传说说这是其创建的风从山的顶峰吹灵魂居住在这里的气息。"
+
+msgid "DC-AR07"
+msgstr "与破落的渔村雀斑，这种荒凉，偏远地区被称为天堂逃逸罪犯和异端。"
+
+msgid "DC-AR08"
+msgstr "一个偏远地区接壤的西北部海面。传言说，一个古老的海盗船，地形变化前凹陷，是沉睡在巨大的湖楼在这里。"
+
+msgid "DC-AR09"
+msgstr "土地包括与扩大沼泽复合困扰的内陆地区，和悬崖沿海偎依洞穴钻出。"
+
+msgid "DC-AR10"
+msgstr "许多新发现的古遗址的家庭，不断扩大荒凉的沙漠中和冰冻荒地在这一地区几乎是无效的生活。"
+
+msgid "DC-AR11"
+msgstr "被称为Legendaria最冷的地方，并使用皇室成员作为避险逃离燃烧的热浪，这个区域充满了冷清的住宅中途上山。"
+
+msgid "DC-AR12"
+msgstr "由于与东方国家贸易前者前沿，这片土地是许多文化的联合。然而，由于异常电流，这里的人正在从参观东方国家禁止使用。"
+
+msgid "DC-AR13"
+msgstr "没有人没有准备好面对死亡会永远敢擅闯到这个不断扩大的树的海洋。这就是这个天堂小精灵和精灵如何保持与定居者手中毫发无损。"
+
+msgid "DC-AR14"
+msgstr "圣加拉太的出生地。这圣洁之地，然而，被侵犯而消失，因为亵渎神灵的行为。没有人知道圣谎言的地方遗迹。"
+
+msgid "DC-AR15"
+msgstr "世界上最古老的森林。这也是在那里接受生态新生活，并承担了从古代监护人传下来的呼唤。"
+
+msgid "DC-AR16"
+msgstr "躺在旁边的海区域躲在世界上唯一的深海，这重地开拓海洋研究是众多海爱好者的梦想目的地。"
+
+msgid "DC-AreYouOK"
+msgstr "你确定吗？"
+
+msgid "DC-AutoEscape"
+msgstr "因为你在战斗中关闭了游戏，自动逃跑了。"
+
+msgid "DC-Bounty-Sheet"
+msgstr "召唤一只悬赏怪物。"
+
+msgid "DC-Btn-MassReceive"
+msgstr "全部接收"
+
+msgid "DC-Btn-Rival-Battle"
+msgstr "揍他！"
+
+msgid "DC-Btn-Rival-Penalty"
+msgstr "从恶魔头目身上受到的惩罚"
+
+msgid "DC-Btn-Rival-Secret"
+msgstr "正在进行的诡计"
+
+#, fuzzy
+msgid "DC-Btn-SelectThisGear"
+msgstr "确认"
+
+msgid "DC-Btn-Sup-Quests"
+msgstr "支援者任务"
+
+msgid "DC-Btn-Sup-Trade"
+msgstr "交易"
+
+msgid "DC-BuffedByPartner"
+msgstr "从你的队友处获得任何BUFF {0}次"
+
+msgid "DC-BuffPartner"
+msgstr "对你的队友施加任何BUFF {0}次"
+
+msgid "DC-CanNotCamp"
+msgstr "无法使用！"
+
+msgid "DC-CanNotTrade"
+msgstr "现在无法与该支援者交易。"
+
+msgid "DC-CanReadAfterSatan"
+msgstr "击败魔王后可以阅读后续故事。"
+
+msgid "DC-CanReadAfterTrueSatan"
+msgstr "击败真・魔王后可以阅读后续故事。"
+
+msgid "DC-CantUseAtThisItem"
+msgstr "这个道具无法使用。"
+
+msgid "DC-CCE01"
+msgstr "【起源之花】可从通过限时挑战获得。__奖池内容可以随时重置。"
+
+msgid "DC-Cfm-ChestReset"
+msgstr "你将要重置这个奖池。__（重置后不包含已经获得的冒险者・支援者・恶魔头目）"
+
+msgid "DC-Cfm-Escape"
+msgstr "你将从战斗中逃跑。__（+ 1天惩罚）"
+
+msgid "DC-Cfm-UnityAds"
+msgstr "观看广告可以获得10个时之碎片。____大爷来看吗?__(请注意音量)"
+
+msgid "DC-ChronoShard"
+msgstr "可以从挑战获得，可以用于打开时之宝箱。"
+
+msgid "DC-ClearArea1"
+msgstr "通关区域【{0}】的所有地下城"
+
+msgid "DC-ClearArea2"
+msgstr "通关区域【{0}】的地牢{1}次"
+
+msgid "DC-Clear-DragonValley1"
+msgstr "通关任意龙之巢穴"
+
+msgid "DC-Clear-DragonValley2"
+msgstr "通关任意龙之谷{0}次。"
+
+msgid "DC-Clear-Dungeon1"
+msgstr "通关地下城 【{0}】"
+
+msgid "DC-Clear-Dungeon2"
+msgstr "通关地牢【{0}】{1}次"
+
+msgid "DC-ClearDungeonNum"
+msgstr "通关任意地下城{0}次"
+
+msgid "DC-ClearSameAreaDungeon"
+msgstr "通关同一个地区的地下城"
+
+msgid "DC-CloseInvasion"
+msgstr "支援王国军{0}次"
+
+msgid "DC-CloseSecret"
+msgstr "阻止诡计{0}次"
+
+msgid "DC-Cond-SupRank"
+msgstr "任何一名支援者等级到达{0}"
+
+msgid "DC-Cond-UsedAbilityPoint"
+msgstr "已使用的能力点：{0} 以上"
+
+msgid "DC-Confirm-Abandon"
+msgstr "确定要放弃这一场冒险吗？"
+
+msgid "DC-Confirm-Any-Use"
+msgstr "你确定你使用：____使用：{0} __目标：{1}"
+
+msgid "DC-Confirm-Any-Use-No-Target"
+msgstr "你确定你使用：____使用：{0}"
+
+msgid "DC-Confirm-Buy-Common"
+msgstr "你确定要购买吗？"
+
+msgid "DC-Confirm-BuyItem"
+msgstr "你确定要购买吗？"
+
+msgid "DC-Confirm-Camp"
+msgstr "你确定在这个营地休息吗？"
+
+msgid "DC-Confirm-Enter-SatanCastle"
+msgstr "魔王城堡充满了危险，在城堡最深处你将会遇到最后之战。__你确定要进入魔王的城堡吗？"
+
+msgid "DC-Confirm-GoSuddenEvent"
+msgstr "你确定要调查这个地点？"
+
+msgid "DC-Confirm-KillRival"
+msgstr "你确定要与{0}战斗吗？"
+
+msgid "DC-Confirm-Learn-Ability"
+msgstr "你确定要学习这个能力吗？"
+
+msgid "DC-Confirm-Learn-Potential"
+msgstr "你确定要学习潜在能力【{0}】吗？"
+
+msgid "DC-Confirm-MinionDragonValley"
+msgstr "你确定要消耗使魔寻找龙的巢穴吗？"
+
+msgid "DC-Confirm-MinionTreasureMap"
+msgstr "您确定要消耗藏宝图和使魔来寻找宝藏吗？"
+
+msgid "DC-Current-GoldBoost"
+msgstr "黄金收益加成生效中！（3倍）"
+
+msgid "DC-DeadPartner"
+msgstr "队友死亡{0}次"
+
+msgid "DC-DG0001"
+msgstr "曾经是萌新冒险者训练的地方。现在里面充满了危险的魔物，需要小心。"
+
+msgid "DC-DG0002"
+msgstr "世界毁灭不远了。所有黑暗的根源就在这里。你的最后一战的准备？"
+
+msgid "DC-DG0003"
+msgstr "在这条山脉隐藏着一个小妖精村。虽然不是那么危险孤军奋战的时候，如果单独留在家中这些怪物会殃及居民在附近。"
+
+msgid "DC-DG0004"
+msgstr "一步走错，你会失去你的生活。穿越这条狭窄的绳桥时，整个空间中大声咆哮回荡。什么是它真正的本质......？"
+
+msgid "DC-DG0005"
+msgstr "一旦作为一个迷宫惩罚罪犯。虽然有人说一个犯罪将被原谅他所有的犯罪行为，一旦他逃脱了，没有一个人活着出来。"
+
+msgid "DC-DG0006"
+msgstr "“我可以看到摇摇欲坠的雾背后一个巨大的影子。”看来，居民中的传闻这里不只是一个传闻..."
+
+msgid "DC-DG0007"
+msgstr "由一个年轻女孩的声音诱人神往，谁在他的生活做了一个死里逃生的男子告诉他的同伴：“有一个怪物。”"
+
+msgid "DC-DG0008"
+msgstr "在这种乌烟瘴气支配的森林里多的怪物筑巢时，扭动植物向往的营养与空灵香味引诱他们的猎物。"
+
+msgid "DC-DG0009"
+msgstr "这片广袤的湿地曾经是一片肥沃的高原。是不是它带来的变化的气候？抑或是从怪物发出的瘴气？"
+
+msgid "DC-DG0010"
+msgstr "在这个曾经繁荣的港口城市，一个可以听到误入非人类的生物，而从后巷爬出来的呻吟。"
+
+msgid "DC-DG0011"
+msgstr "具体的半幅人类物种选择基于这些标准筑巢的位置：“黑”，“潮湿”和“具有丰富的附近猎物”。"
+
+msgid "DC-DG0012"
+msgstr "风吹听起来像一个怪物的咆哮。不管如何捏造事实听起来，这是真的，一个怪物存在。"
+
+msgid "DC-DG0013"
+msgstr "一个神奇的设备中构建的塔尖，控制农田的气候。即使怪物使这个地方筑巢，在附近的天空万里无云保留。"
+
+msgid "DC-DG0014"
+msgstr "一个憎恨废墟，其中实验把人类变成侏儒用来进行。即使等到了这一天，合成生物仍然漫游在封闭隐藏的门后最深的部分。"
+
+msgid "DC-DG0015"
+msgstr "一个小神社建造祭拜神灵海。但是，居民担心，今天参拜靖国神社只是一个蹂躏废墟，只会招致神的愤怒。"
+
+msgid "DC-DG0016"
+msgstr "东方怪物都在这片土地上的东方武士密封。没有人想过解开封印，至少要等到今天？"
+
+msgid "DC-DG0017"
+msgstr "曾经被认为是大海变成了一个巨大的湖泊，因为地形的变化。在底面位于古老的冒险和荣誉的象征。"
+
+msgid "DC-DG0018"
+msgstr "有人说，这是人类灵魂接管了动物，变成了怪物的怨恨。还有什么比一个更坏的怪物朝通过亲人的损失反感增长。"
+
+msgid "DC-DG0019"
+msgstr "一龙的巢穴。据说黑龙的暴行超过他人的，而且许多人丧生龙的爪子。"
+
+msgid "DC-DG0020"
+msgstr "在这个下沉式墓地的刻骨怨恨只能招致更多的死亡，以满足自己。"
+
+msgid "DC-DG0021"
+msgstr "血液和这里埋下了悲剧发生后骨骼已形成成“湖”。除非它的黑暗之源是战败国这样的湖水永远不会从土地中消失。"
+
+msgid "DC-DG0022"
+msgstr "一龙的巢穴。尽管它的智慧和平静，龙从来没有信任的人。它在龙曾经被人类培育了几个世纪前的编年史说。"
+
+msgid "DC-DG0023"
+msgstr "王室的千年历史的墓。据说该墓曾一度抢了所有的珍品。然而，这些宝物的主人都达到一个神秘的结束，和所有的宝物都回到了坟墓。"
+
+msgid "DC-DG0024"
+msgstr "永恒的冰神秘仙人居住之内。"
+
+msgid "DC-DG0025"
+msgstr "一龙的巢穴。即使它的身体腐烂，只留下裸露的骨头，被诅咒的龙仍然剥开其对脆弱的存在物的獠牙。"
+
+msgid "DC-DG0026"
+msgstr "凤凰总是返回到它的发源地，当它的末日即将来临，还原成一个鸡蛋，并等待它能够再次看到了世界的那一天。"
+
+msgid "DC-DG0027"
+msgstr "据传闻，深深怨恨别人，萨满融合自己与一个怪物，在这里居住。至于为什么这样的怪物出生，从来没有人敢说话。"
+
+msgid "DC-DG0028"
+msgstr "一龙的巢穴。居住在这里是一种罕见的，奢侈的爱好龙。虽然如此，从来没有人成功地与他进行谈判，因为龙，奢侈是从别人掠夺"
+
+msgid "DC-DG0029"
+msgstr "靖国神社供奉风之神。但有一点应该不会忘记：神并不总是人类的盟友。"
+
+msgid "DC-DG0030"
+msgstr "不仅人类，精灵族的长老觉得他们的血液运行此冷讲“亡神的森林。”"
+
+msgid "DC-DG0031"
+msgstr "一龙的巢穴。一个人类永远无法达到的梦想这条巨龙，其位于一座活火山的最深部的巢。"
+
+msgid "DC-DG0032"
+msgstr "空气一口气在这里可以立即切断一个人的生命。究竟有多少怪物不正是一个需要产生如此强的瘴气？"
+
+msgid "DC-DG0033"
+msgstr "塔架导致所有人类的罪行被净化的炼狱。据传说，人类生活在步进这里可以看到死者的阴影。"
+
+msgid "DC-DG0034"
+msgstr "人类已经放弃了与龙共存。除少数。这些都是异端，谁希望与小龙连接的信徒。"
+
+msgid "DC-DG0035"
+msgstr "一龙的巢穴。用毒气填满，没有耐力没有生物能指望踏足这个地方。"
+
+msgid "DC-DG0036"
+msgstr "保护神圣土地的力量失去了在同一天圣人的遗体失踪。对于那些反对亵渎神，没有什么比能够步他们的脚到这个圣地更甜。"
+
+msgid "DC-DG0037"
+msgstr "你可以听到一个声音从海底喊你的名字。这是正确的，现在你是由神允许进入他们的神圣的宝座。这是正确的，在这个时刻，你可以赶上在这个世界上的真理的一瞥。"
+
+msgid "DC-DG0038"
+msgstr "一龙的巢穴。不会出现之前的人的眼中，这条龙将只允许真正的英雄，对他的测试自己的长处。"
+
+msgid "DC-DG0039"
+msgstr "世界上最古老的森林。每个这里的树木已经生活了几千年。衬在一起，树木看起来是一个难以接近城墙。"
+
+msgid "DC-DG0040"
+msgstr "上升或下降？没有人能告诉他们要的方向。就像在一个垂死的人的面前走马灯摇曳，很多可能性关闭的渗透。"
+
+msgid "DC-DG0041"
+msgstr "一个地下洞穴通往深海。即使是最高级的魔法研究无法解释为什么海水无法穿透这个地方。"
+
+msgid "DC-DG0042"
+msgstr "一龙的巢穴。从这里，人们可以通过蓝天像闪电般地看到湛蓝巨龙穿孔。"
+
+msgid "DC-DG0043"
+msgstr "召唤的痕迹都留在了荒地。这是这个地方的黑暗中开始。"
+
+msgid "DC-DoingDelete"
+msgstr "将要进行删除。"
+
+msgid "DC-EnterHome"
+msgstr "开始游戏"
+
+msgid "DC-EnterSameArea"
+msgstr "进入同一区域"
+
+msgid "DC-Err-AP-Usage-Max"
+msgstr "你对每个角色可以使用的能力点数是{0}点。"
+
+msgid "DC-Err-CantDoInThisVersion"
+msgstr "当前版本无法使用"
+
+msgid "DC-Err-CantResetChest"
+msgstr "你必须至少开过一次才能重置时之宝箱。"
+
+msgid "DC-Err-CantUseDirect"
+msgstr "这个道具无法直接使用。"
+
+msgid "DC-Err-CantUseInCooldown"
+msgstr "CD中无法使用。"
+
+msgid "DC-Err-EnterAreaToDoIt"
+msgstr "需要进入这个区域。"
+
+msgid "DC-Err-NoAbilityPoint"
+msgstr "能力点不足！你可以在神社获取能力点。"
+
+msgid "DC-Err-NoPotentialPoint"
+msgstr "没有潜力点！__你可以通过【记忆碎片】等道具来获得潜能点。"
+
+msgid "DC-Err-NotEnoughAnyCost"
+msgstr "费用不足。"
+
+msgid "DC-Err-NotEnoughBrave"
+msgstr "Brave不足！"
+
+msgid "DC-Err-NotEnoughMinion"
+msgstr "使魔不足！"
+
+msgid "DC-Err-NotEnoughOracle"
+msgstr "神谕不足！"
+
+msgid "DC-Err-NotOpenedAbility0"
+msgstr "你无法解锁这个能力"
+
+msgid "DC-ERR-ONLY-USED-IN-MAP"
+msgstr "你只能在大地图上使用它"
+
+msgid "DC-Err-RivalKilled"
+msgstr "这个恶魔头目已经被击败了。"
+
+msgid "DC-Err-RivalNotFound"
+msgstr "这个恶魔头目还未被发现。"
+
+msgid "DC-FindRival"
+msgstr "发现恶魔头目{0}次"
+
+msgid "DC-FinishDelete"
+msgstr "删除成功！"
+
+msgid "DC-FinishLoaded"
+msgstr "加载完毕！"
+
+msgid "DC-FinishRegister"
+msgstr "注册成功！"
+
+msgid "DC-GainGold"
+msgstr "获得{0}金币"
+
+msgid "DC-GainLegendary"
+msgstr "获得传说中的武具{0}次"
+
+msgid "DC-GainTreasure"
+msgstr "获得财宝{0}次"
+
+msgid "DC-Gold"
+msgstr "在冒险可以使用的通货。一次冒险最多可以带入10000。冒险结束时剩余的部分会返还到你的账户上。"
+
+msgid "DC-GRAL16"
+msgstr "文本准备..."
+
+msgid "DC-GRAL17"
+msgstr "文本准备..."
+
+msgid "DC-GRAL18"
+msgstr "文本准备..."
+
+msgid "DC-GRAL19"
+msgstr "文本准备..."
+
+msgid "DC-GRAL20"
+msgstr "文本准备..."
+
+msgid "DC-GRAL21"
+msgstr "文本准备..."
+
+msgid "DC-GRAL22"
+msgstr "文本准备..."
+
+msgid "DC-GRAL23"
+msgstr "文本准备..."
+
+msgid "DC-GRAL24"
+msgstr "文本准备..."
+
+msgid "DC-GRAL25"
+msgstr "文本准备..."
+
+msgid "DC-GRBL45"
+msgstr "文本准备..."
+
+msgid "DC-GRBL46"
+msgstr "文本准备..."
+
+msgid "DC-GRBL47"
+msgstr "文本准备..."
+
+msgid "DC-GRBL48"
+msgstr "文本准备..."
+
+msgid "DC-GRBL49"
+msgstr "文本准备..."
+
+msgid "DC-GRBL50"
+msgstr "如果是我，我会吃世界。"
+
+msgid "DC-GRBL51"
+msgstr "当你眼前一亮，你可以看到它爬行。"
+
+msgid "DC-GRBL52"
+msgstr "真正的主让敌人交朋友。"
+
+msgid "DC-GRBL53"
+msgstr "在哪里神死后去了？没有人能知道。"
+
+msgid "DC-GRBL54"
+msgstr "只有那些谁已经步入了神圣的世界将得到这个。"
+
+msgid "DC-GROL16"
+msgstr "文本准备..."
+
+msgid "DC-GROL17"
+msgstr "文本准备..."
+
+msgid "DC-GROL18"
+msgstr "文本准备..."
+
+msgid "DC-GROL19"
+msgstr "文本准备..."
+
+msgid "DC-GROL20"
+msgstr "文本准备..."
+
+msgid "DC-GROL21"
+msgstr "文本准备..."
+
+msgid "DC-GROL22"
+msgstr "文本准备..."
+
+msgid "DC-GROL23"
+msgstr "文本准备..."
+
+msgid "DC-GROL24"
+msgstr "文本准备..."
+
+msgid "DC-GROL25"
+msgstr "文本准备..."
+
+msgid "DC-GROL26"
+msgstr "文本准备..."
+
+msgid "DC-GROL27"
+msgstr "文本准备..."
+
+msgid "DC-GROL28"
+msgstr "文本准备..."
+
+msgid "DC-GROL29"
+msgstr "文本准备..."
+
+msgid "DC-GROL30"
+msgstr "文本准备..."
+
+msgid "DC-GROL31"
+msgstr "文本准备..."
+
+msgid "DC-GRWL16"
+msgstr "文本准备..."
+
+msgid "DC-GRWL17"
+msgstr "文本准备..."
+
+msgid "DC-GRWL18"
+msgstr "文本准备..."
+
+msgid "DC-GRWL19"
+msgstr "文本准备..."
+
+msgid "DC-GRWL20"
+msgstr "文本准备..."
+
+msgid "DC-GRWL21"
+msgstr "文本准备..."
+
+msgid "DC-GRWL22"
+msgstr "文本准备..."
+
+msgid "DC-GRWL23"
+msgstr "文本准备..."
+
+msgid "DC-GRWL24"
+msgstr "文本准备..."
+
+msgid "DC-GRWL25"
+msgstr "文本准备..."
+
+msgid "DC-Haggle"
+msgstr "讨价还价发动！本次消费免单了。"
+
+msgid "DC-HealedByPartner"
+msgstr "被队友治疗{0}次"
+
+msgid "DC-HealPartner"
+msgstr "治疗队友{0}次"
+
+msgid "DC-Help-Amulet"
+msgstr "追加职业__ {0} __"
+
+msgid "DC-Help-Camp-Brave"
+msgstr "Brave全回复"
+
+msgid "DC-Help-Camp-HP"
+msgstr "HP全回复"
+
+msgid "DC-Help-Escape"
+msgstr "从战斗中逃跑，作为惩罚将会直接跳过1天。"
+
+msgid "DC-Help-FieldSkills"
+msgstr "可以使用角色掌握的地图技能。使用地图技能不会使天数发生变化。"
+
+msgid "DC-Help-Gold"
+msgstr "金币可以在支援者那里购买道具。冒险结束后仍会保留，但是新的冒险开始时最多只能携带10000金币。"
+
+msgid "DC-Help-HowToRivalFind"
+msgstr "*进入同一区域__ *通关同一区域的地下城__ *阻止恶魔头目的诡计"
+
+msgid "DC-Help-Item"
+msgstr "可以使用道具，使用道具不会使天数发生变化。"
+
+msgid "DC-Help-Log"
+msgstr "可以确认冒险与战斗的记录。"
+
+msgid "DC-Help-Minion"
+msgstr "你可以消耗使魔来增加地图的调查点数。使用使魔不会使天数发生变化。"
+
+msgid "DC-Help-PastDay"
+msgstr "对地图上的资源点进行探索需要花费1天。100天后世界将会毁灭，游戏将迎来终局。"
+
+msgid "DC-Help-Point-AP"
+msgstr "你可以通过调查祠堂来能获得1点能力点和一些使魔。"
+
+msgid "DC-Help-Screen-Bounty"
+msgstr "在此徘徊的怪物对附近居民造成了很大的危害。__如果你能击败它，你将会获得很多的奖赏。"
+
+msgid "DC-Help-Screen-Invasion"
+msgstr ""
+"王国军正在对魔王的军团发起进攻！你可以参加进攻军来支援他们，进攻成功时你可以得到很多奖励。如果不参加的话，随着天数的推移，进攻军会被魔王军消灭。"
+
+msgid "DC-Help-Screen-Treasure"
+msgstr "使用藏宝图来寻找宝藏。__守护宝藏的魔物虽然很强，但回报也值得期待。"
+
+msgid "DC-Help-Search"
+msgstr "检查资源点。"
+
+msgid "DC-Help-SeasonEvent"
+msgstr "完成限时挑战，获取活动道具吧！__使用活动道具可以开启活动宝箱！"
+
+msgid "DC-Help-SubQuest"
+msgstr "你会在村落等地方遇到支线事件。支线事件每次冒险都会重置。"
+
+msgid "DC-Help-SuddenEventIsRandom"
+msgstr "没有人知道会发生什么！"
+
+msgid "DC-Help-Village"
+msgstr "人类生活的村落。__ *对应支援者的等级将会上升.__ *会开启一个随机的支线事件__ * HP /Brave全部回复。"
+
+msgid "DC-IAP-Thanks"
+msgstr "感谢您的购买!____如果有不明白的地方请随时联系客服。__https://nussygame.kayako.com/"
+
+msgid "DC-Invasion-LastDay-0"
+msgstr "已经接近极限了。崩溃只是时间的问题了吗"
+
+msgid "DC-Invasion-LastDay-1"
+msgstr "陷入了苦战。很显然他们需要支援。"
+
+msgid "DC-Invasion-LastDay-2"
+msgstr "现在还是五五开。不过谁知道还能坚持多久呢？"
+
+msgid "DC-Invasion-LastDay-3"
+msgstr "他们骁勇善战。还能坚持一段时间。"
+
+msgid "DC-Invasion-LastDay-4"
+msgstr "他们正在稳步推进，真可靠。"
+
+msgid "DC-ITAD01"
+msgstr "下次冒险将会获得3倍的金币。"
+
+msgid "DC-ITAD04"
+msgstr "复制你拥有的神谕，增加它们的数量。"
+
+msgid "DC-ITAD05"
+msgstr ":@NM-SkillNode-Param-SalvageAmulet"
+
+msgid "DC-ITAP01"
+msgstr "增加一名角色的潜力点数1点。（最多5点）"
+
+msgid "DC-ITAP02"
+msgstr "增加1名角色的潜力点数1点。（最多12点）"
+
+msgid "DC-ITAP03"
+msgstr "增加1名角色的潜力点数1点。（最多25点）"
+
+msgid "DC-ITAS01"
+msgstr "可以交换任意一名你喜欢的角色。__※在商店的『角色』标签里进行兑换。"
+
+msgid "DC-ItemGain1"
+msgstr "获得{0}"
+
+msgid "DC-ItemGain2"
+msgstr "获得{0} {1}个"
+
+msgid "DC-ITPA01"
+msgstr "火耐性提高1天"
+
+msgid "DC-ITPA02"
+msgstr "地耐性提高1天"
+
+msgid "DC-ITPA03"
+msgstr "天耐性提高1天"
+
+msgid "DC-ITPA04"
+msgstr "灵属性抗性提高1天"
+
+msgid "DC-ITPA05"
+msgstr "物理防御上升1天"
+
+msgid "DC-ITPA06"
+msgstr "魔法防御上升1天"
+
+msgid "DC-ITPA07"
+msgstr "运气属性上升1天"
+
+msgid "DC-ITPA08"
+msgstr "造成的伤害上升1天"
+
+msgid "DC-ITPA09"
+msgstr "任意技能等级提高3级。"
+
+msgid "DC-ITPR01"
+msgstr "重置1名角色的潜力点数。"
+
+msgid "DC-ITPR02"
+msgstr "指定护身符的第二种职业随机发生变化。"
+
+msgid "DC-ITPS01"
+msgstr "增加装备词条，最多2条。"
+
+msgid "DC-ITPS02"
+msgstr "增加装备词条，最多4条"
+
+msgid "DC-ITPS03"
+msgstr "增加装备词条，随机条数"
+
+msgid "DC-ITPS04"
+msgstr "装备等级提高1级。"
+
+msgid "DC-ITPS05"
+msgstr "任意技能等级提高1级。 （技能等级越高，触发『不消耗Brave』『不消耗CD』『技能效果发动2次』的几率也会越高)"
+
+msgid "DC-ITPS06"
+msgstr "获得1只使魔。"
+
+msgid "DC-ITPS07"
+msgstr "获得一个随机的传说装备。"
+
+msgid "DC-ITPS08"
+msgstr "队伍的HP/Brave全回复。"
+
+msgid "DC-ITPS09"
+msgstr "队伍的异常状态被驱散时，能在短时间内附加状态异常耐性。"
+
+msgid "DC-ITPS10"
+msgstr "能让你立即通过街道而不消耗天数。"
+
+msgid "DC-ITPS11"
+msgstr "提高装备上随机的数值"
+
+msgid "DC-ITPS12"
+msgstr "获得一个随机的职业。"
+
+msgid "DC-ITPS13"
+msgstr "获得一件随机的装备。"
+
+msgid "DC-ITPS18"
+msgstr "使装备的词条发生随机变化。"
+
+msgid "DC-ITPS19"
+msgstr "从装备上随机剥取一个词条制作成装备零件。"
+
+msgid "DC-ITPS20"
+msgstr "装配装备零件时消耗，可以让装配几率变为100%。__消耗的数量随着对象装备的词条数增加，如果你没有足够的数量，则装配的几率也会相应降低。"
+
+msgid "DC-ITPS21"
+msgstr "支援王国军"
+
+msgid "DC-ITPS23"
+msgstr "全队获得1点能力点"
+
+msgid "DC-ITPS24"
+msgstr "复制任意一键装备。"
+
+msgid "DC-ITPS25"
+msgstr "羁绊等级提高了1级。"
+
+msgid "DC-ITPS26"
+msgstr "发现一个龙之巢穴。"
+
+msgid "DC-ITPS27"
+msgstr "将装备上所有词条剥离，做成装备零件。"
+
+msgid "DC-ITPS28"
+msgstr "安装装备零件时消耗，可以提高装配几率至100%。__对象装备的词条数越多，需要消耗的材料也越多。如果你没有足够的材料，则装配几率也会对应降低。"
+
+msgid "DC-ITPS29"
+msgstr "任意恶魔头目的Find值上升1点。"
+
+msgid "DC-ITPS30"
+msgstr "提高任意支援者的等级1级。"
+
+msgid "DC-ITPS31"
+msgstr "给我方全员增加新的职业。"
+
+msgid "DC-ITPS32"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS33"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS34"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS35"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS36"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS37"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS38"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS39"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS40"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS41"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS42"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS43"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS44"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS45"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS46"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS47"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS48"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS49"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS50"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS51"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS52"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS53"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS54"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS55"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS56"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS57"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS58"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS59"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS60"
+msgstr ":@DC-ITPS31"
+
+msgid "DC-ITPS61"
+msgstr "消耗使魔调查这个地图，寻找宝藏。__（需要2个使魔）"
+
+msgid "DC-ITPS62"
+msgstr "获得10个使魔。"
+
+msgid "DC-ITPS63"
+msgstr "获得一件随机的装备。"
+
+msgid "DC-ITPS64"
+msgstr "获得一件随机的装备。"
+
+msgid "DC-ITPS65"
+msgstr "我方全员等级提高1级。"
+
+msgid "DC-ITSS00"
+msgstr "你可以使用它来交换任务报酬。（商店内，宝箱标签）"
+
+msgid "DC-ITSS01"
+msgstr ":@DC-ITSS00"
+
+msgid "DC-JB01"
+msgstr "为了报复他的哥哥谁是黑龙杀死，一个刚起步的冒险家去的旅程。 24岁。鲁莽，但勇敢，他成为著名作为一个年轻而可靠的冒险家。有时，他甚至没有工作报酬，导致朋友的批评。"
+
+msgid "DC-JB02"
+msgstr "一个女人谁通过引导人们用占星术，使她的生活。 28岁。"
+
+msgid "DC-JB03"
+msgstr "其中生活在森林精灵，是老伟大的哲学家华尔兹的孙女。她在人年龄为20岁左右。我不擅长的烦恼，喜欢以避免麻烦，擅长礼貌拒绝，精通奉承，并没有时间消失。善于交际，可以说是拥有领导者的素质。"
+
+msgid "DC-JB04"
+msgstr "魔术的战士在训练中。 18岁。很自我的节奏，一个不能告诉他在想什么。突然，他开始写在纸上“我，我已经想到了新的特殊动作”，但在实践中，他原来是相当强的。他的爱好是躲出去吃煎饼。"
+
+msgid "DC-JB05"
+msgstr "一个充当了有关生命的死亡导向的严峻收割者。作为一个神，年龄不详。假设最后遇到的女孩的身影，获得了角色类似于她，温暖和自学。想睡觉经常。然而，有大量的知识和坚定不移的精神。"
+
+msgid "DC-JB06"
+msgstr "剑侠谁与鹰传播。 21岁。鹰是女性，名字是吉尔。一旦属于卡斯尔敦白玫瑰三剑客同时认为，从她的能力超越了队长前途，离开了球队，现在旅行的自由冒险家。"
+
+msgid "DC-JB07"
+msgstr "通过城市的黑暗中运行，从富人偷黄金和给穷人匪。似乎是一个少年，但年龄不详。给出了一个通知，有爆炸的出现，击中一个华而不实的姿势，并留下一个装模作样的话。只是喜欢脱颖而出。"
+
+msgid "DC-JB08"
+msgstr "英雄与他放倒一个国家与一个单一的弓和箭一个传奇故事。 32岁。然而，尽管这样的传闻，在一个荒凉的小村庄的角落里，他活得像一个隐士致力于他的时间到农业。在附近的村民甚至不知道他的身份。"
+
+msgid "DC-JB09"
+msgstr "上一个雪夜会出现一个醉人的美。有没有人谁知道她的年龄。与表面现象相反，是充满激情的，一旦一个人被允许进入她的心脏，是专门的，但对对手可以这么不人道的残酷。"
+
+msgid "DC-JB10"
+msgstr "一位年轻的剑客吸引到仙禽。实际年龄接近50，但外表仍围绕20.那些谁成为仙禽的监护人得到一个永恒的身体，但有义务苏女士仙禽的重生。这种关系是由仙禽部分硬塞。"
+
+msgid "DC-JB11"
+msgstr "该向导女孩。 17岁。喜欢新事物和挑剔的时尚和可爱的东西。她分外美丽，但她经常假货一个微笑，不表达自己真实的感情。她对于她的妹妹，Illumina公司，谁是得天独厚的强大的魔法和人才复杂。"
+
+msgid "DC-JB12"
+msgstr "小偷专门在地牢和遗址的宝藏。 22岁。 “快快行动吧”是她最喜欢的一句话是对自己和他人严格。虽然她是好她的领域里知道，她不与团队合作。她也被她的同龄人担心，即使他们与她一起工作，他们将被抛弃。"
+
+msgid "DC-JB13"
+msgstr "一个支持在炎热的沙滩旷野大篷车雇佣兵。 26岁。他的搭档是沙狼“杰拉”。雇佣军拾起，并提出作为一个雇佣兵，他只知道如何生活的雇佣兵。他认为，只有靠自己的力量和保护人民的钱。"
+
+msgid "DC-JB14"
+msgstr "术士其终身追求的目标是完整的死人复活。 49岁。粗暴，但需要良好的照顾他人。谁似乎已经无关，与生活正常的人，没有欲望做任何无用的或额外的。通过他的冒险获得了回报是偷偷捐献给教会。"
+
+msgid "DC-JB15"
+msgstr "小矮人，动物和人的融合产生。它已经从诞生800年后。不太擅长的对话，经常花时间在发呆，而独自一人，但有时会记住一些痛苦和呻吟。没有人生多大的兴趣，不喜欢麻烦，和吃同样的食物。"
+
+msgid "DC-JB16"
+msgstr "女巫谁带来黑暗的一夜，人们担心。年龄不详。已知与目标履行她的求知欲，其中导致了无法挽回的事故作用。喜欢整洁和精致。该谁感到沮丧，如果书架不是在索引的顺序排列。"
+
+msgid "DC-JB17"
+msgstr "前者血液十字架的圣骑士。年龄不详。拥有丰富的知识和体贴。总是平静的，但同时它也可以被认为是对每个人都冰冷。导引头谁努力实现自己的理想。"
+
+msgid "DC-JB18"
+msgstr "谁在密林深处行进的深奥的牧师。 22岁。作为一个年轻的年龄渐渐熟悉了魔术。保守党和体贴的个性。然而，知识渊博，在仔细考虑的事情值得信赖。他有坏的餐桌礼仪的事实是，因为他在这样的文化长大的。"
+
+msgid "DC-JB19"
+msgstr "一个少年男孩谁在魔法学校跳过成绩。 14岁。尽管他的年龄，他平静而凝重采访了他的长辈没有犹豫，有礼貌的感谢。但是，里面他还是个孩子，想要吃油腻的食物，但是很惭愧，避免它们。"
+
+msgid "DC-JB20"
+msgstr "不幸的是，女孩变成了吸血鬼。 200年的历史或以上。相反，冷静外露面，当她成为一个吸血鬼她的内心已经没有太大的改变，因为16岁。她喜欢可爱的东西。更容易获取不熟悉的情况心慌。"
+
+msgid "DC-Kill1"
+msgstr "击败{0}"
+
+msgid "DC-Kill2"
+msgstr "击败{0} {1}只"
+
+msgid "DC-KillBounty"
+msgstr "打倒{0}次悬赏怪物"
+
+msgid "DC-KillEnemy"
+msgstr "打倒{0}个敌人"
+
+msgid "DC-KillRival"
+msgstr "打倒{0}次恶魔头目"
+
+msgid "DC-KillSatan"
+msgstr "打倒魔王{0}次"
+
+msgid "DC-KillTrueSatan"
+msgstr "打倒真・魔王{0}次"
+
+msgid "DC-Last-Days"
+msgstr "距离世界毁灭还有{0} 天"
+
+msgid "DC-LevelMin"
+msgstr "队伍中任意一人到达{0} 级"
+
+msgid "DC-LinkLevel"
+msgstr "羁绊等级到达{0} 级"
+
+msgid "DC-LocalNotice-UnderAdventure"
+msgstr "距离世界的终结还有{0}天"
+
+msgid "DC-LocalNotice-UseChara"
+msgstr "和{0}一起出去冒险？一起拯救世界吧！"
+
+msgid "DC-Log-AP"
+msgstr "祠堂"
+
+msgid "DC-Log-Dungeon"
+msgstr "进入地下城【{0}】{1}→{2} / {3}"
+
+msgid "DC-Log-Event"
+msgstr "遭遇事件【{0}】"
+
+msgid "DC-Log-Infinite"
+msgstr ":@DC-Log-Dungeon"
+
+msgid "DC-Log-Invasion"
+msgstr "参加王国军的进攻{0}→{1} / {2}"
+
+msgid "DC-Log-PvP"
+msgstr ":@DC-Log-Dungeon"
+
+msgid "DC-Log-Rival"
+msgstr "击败了恶魔头目 {0}"
+
+msgid "DC-Log-Road"
+msgstr "向着街道前进 『{0}』 {1}→{2}/{3}"
+
+msgid "DC-Log-SatanCastle"
+msgstr "挑战魔王城堡 {1}→{2}/{3}"
+
+msgid "DC-Log-Secret"
+msgstr "阻止{0}的诡计 {1}→{2}/{3}"
+
+msgid "DC-LongSerif-AfterWin-Echo"
+msgstr "耶！太厉害了！"
+
+msgid "DC-LongSerif-AfterWin-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB06"
+msgstr "我们不能打败它。节哀顺变！"
+
+msgid "DC-LongSerif-AfterWin-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB08"
+msgstr "这是一个过于夸张。这只是偶然。"
+
+msgid "DC-LongSerif-AfterWin-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB12"
+msgstr "... W，哪！我不摇晃，不！"
+
+msgid "DC-LongSerif-AfterWin-JB13"
+msgstr "贾拉，看你做了什么。吃这个。"
+
+msgid "DC-LongSerif-AfterWin-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB16"
+msgstr "通过 - E，再见到你，在未来的生活。开玩笑"
+
+msgid "DC-LongSerif-AfterWin-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-AfterWin-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-Echo"
+msgstr "Please, win ...!"
+
+msgid "DC-LongSerif-BattleSatan-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB06"
+msgstr "我不会让你把它拿走，绝对...！"
+
+msgid "DC-LongSerif-BattleSatan-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB08"
+msgstr "这个国家和人民的感情，我不会让再放下......！"
+
+msgid "DC-LongSerif-BattleSatan-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB12"
+msgstr "因为我会拿起末刀...！"
+
+msgid "DC-LongSerif-BattleSatan-JB13"
+msgstr "我没有有仇你，但你必须现在擦除。"
+
+msgid "DC-LongSerif-BattleSatan-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB16"
+msgstr "这种强大的魔法......如果我可以得到那个...？"
+
+msgid "DC-LongSerif-BattleSatan-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-BattleSatan-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-Echo"
+msgstr "Don't overdo, just ..."
+
+msgid "DC-LongSerif-BattleStartS-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB06"
+msgstr "......做好准备。它来了。"
+
+msgid "DC-LongSerif-BattleStartS-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB08"
+msgstr "…真奇怪。我很兴奋。"
+
+msgid "DC-LongSerif-BattleStartS-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB12"
+msgstr "你准备好了吗？冷静下来，就像我们练习..."
+
+msgid "DC-LongSerif-BattleStartS-JB13"
+msgstr "只要我们有麻烦了，我们是跑出来的，得到它？"
+
+msgid "DC-LongSerif-BattleStartS-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB16"
+msgstr "我们开始做吧。我反正赢了。"
+
+msgid "DC-LongSerif-BattleStartS-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartS-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-Echo"
+msgstr "Don't be off guard ...!"
+
+msgid "DC-LongSerif-BattleStartW-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB06"
+msgstr "什么，谁是下一个？吉尔可以休息，这将很快结束的！"
+
+msgid "DC-LongSerif-BattleStartW-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB08"
+msgstr "即使是狮子会尽力，竭力为杀死兔子。"
+
+msgid "DC-LongSerif-BattleStartW-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB12"
+msgstr "我们不能失败。绝对不。"
+
+msgid "DC-LongSerif-BattleStartW-JB13"
+msgstr "我会让它便宜。"
+
+msgid "DC-LongSerif-BattleStartW-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB16"
+msgstr "这样的人，应该见好就收了，直到支付城堡仆人... .. uugh"
+
+msgid "DC-LongSerif-BattleStartW-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-BattleStartW-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-BattleWith-ENDB22-JB10"
+msgstr "Shall we see who is the stronger one between us?"
+
+msgid "DC-LongSerif-BattleWith-ENDR01-JB01"
+msgstr "I will avenge my brother…!"
+
+msgid "DC-LongSerif-BattleWith-ENRB03-JB20"
+msgstr "Just now, I will beat you and be free...!"
+
+msgid "DC-LongSerif-BattleWith-ENRB04-JB17"
+msgstr "She also lived for her ideals and be betrayed by people. Same as me ..."
+
+msgid "DC-LongSerif-BattleWith-ENRB05-JB16"
+msgstr "I meet you again, ha? I'll be against you today!"
+
+msgid "DC-LongSerif-BattleWith-ENRB06-JB14"
+msgstr "Oh, Catherine ... In this way, it's all over ..."
+
+msgid "DC-LongSerif-BattleWith-ENRB07-JB05"
+msgstr "I knew that there is another god of death other than me in this world, though ..."
+
+msgid "DC-LongSerif-BattleWith-ENRB08-JB15"
+msgstr "I feel I have seen something similar to this somewhere..."
+
+msgid "DC-LongSerif-DiePartner-Echo"
+msgstr "Don't overdo it, run away and get ready again!"
+
+msgid "DC-LongSerif-DiePartner-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB06"
+msgstr "不要留下我一个人，了...！"
+
+msgid "DC-LongSerif-DiePartner-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB08"
+msgstr "那么，如何从搬到这里......？"
+
+msgid "DC-LongSerif-DiePartner-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB12"
+msgstr "哦，哦......不，我不希望死......我不希望死..."
+
+msgid "DC-LongSerif-DiePartner-JB13"
+msgstr "我想这是我应得..."
+
+msgid "DC-LongSerif-DiePartner-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB16"
+msgstr "嗯，我会回家..."
+
+msgid "DC-LongSerif-DiePartner-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-DiePartner-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Init-Echo"
+msgstr "I believe you can save the world ...!"
+
+msgid "DC-LongSerif-Init-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB06"
+msgstr "我真的不知道，但现在，让我们去的地方，我们可以走了！"
+
+msgid "DC-LongSerif-Init-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB08"
+msgstr "噢，看来我们需要下车我们的背后..."
+
+msgid "DC-LongSerif-Init-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB12"
+msgstr "快一点！只有100天吧！ ？"
+
+msgid "DC-LongSerif-Init-JB13"
+msgstr "这是哈基姆。这是贾拉。 ......我们最诚挚的问候。"
+
+msgid "DC-LongSerif-Init-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB16"
+msgstr "与我一起？您？冒险？你一定是在开玩笑......为什么？"
+
+msgid "DC-LongSerif-Init-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Init-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-Echo"
+msgstr "This result will surely affect this future..."
+
+msgid "DC-LongSerif-KillRival-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB06"
+msgstr "在回头看，一个可怜的家伙，他是。"
+
+msgid "DC-LongSerif-KillRival-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB08"
+msgstr "让我们把它退出历史舞台。"
+
+msgid "DC-LongSerif-KillRival-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB12"
+msgstr "我不会犯这样的错误"
+
+msgid "DC-LongSerif-KillRival-JB13"
+msgstr "很抱歉，不过这也是工作的一部分..."
+
+msgid "DC-LongSerif-KillRival-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB16"
+msgstr "而不是进入与魔鬼的合同，这将是更快地只是扭动他的周围。"
+
+msgid "DC-LongSerif-KillRival-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-KillRival-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-Echo"
+msgstr "Take it easy!"
+
+msgid "DC-LongSerif-Link2-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB06"
+msgstr "这些天来，它开始感觉恰到好处。"
+
+msgid "DC-LongSerif-Link2-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB08"
+msgstr "民族的英雄，这是令人尴尬的。这是一个古老的故事，从很久以前。"
+
+msgid "DC-LongSerif-Link2-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB12"
+msgstr "Huuh，不正确的。鸡蛋是在这里。你是如此缓慢。"
+
+msgid "DC-LongSerif-Link2-JB13"
+msgstr "我会完全按我收到的做我的工作。 ...是不是不够好？"
+
+msgid "DC-LongSerif-Link2-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB16"
+msgstr "毕竟，我只是充满借口和憎恨。虽然看起来你是几乎完全的借口了。"
+
+msgid "DC-LongSerif-Link2-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link2-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-Echo"
+msgstr "Trust is more powerful than any weapon!"
+
+msgid "DC-LongSerif-Link3-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB06"
+msgstr "我所到之处，我觉得我想去的地方，是不是在这里。"
+
+msgid "DC-LongSerif-Link3-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB08"
+msgstr "我的同伴死了。我活了下来。就这样。既不是英雄也不是什么。"
+
+msgid "DC-LongSerif-Link3-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB12"
+msgstr "我仍然是我杀了我的父亲在法律的一天噩梦困扰。也用于刺一刀的感觉..."
+
+msgid "DC-LongSerif-Link3-JB13"
+msgstr "是的，这很有趣。和你在一起的一切。这是第一。"
+
+msgid "DC-LongSerif-Link3-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB16"
+msgstr "触摸它......是的。我在我的右耳朵没有感觉，我的右眼，和它周围的所有皮肤。"
+
+msgid "DC-LongSerif-Link3-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link3-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-Echo"
+msgstr "I feel you will win against any opponent!"
+
+msgid "DC-LongSerif-Link4-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB06"
+msgstr "我现在知道了。你一定要成为你喜欢的地方，这就是属于你的地方。"
+
+msgid "DC-LongSerif-Link4-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB08"
+msgstr "看来，我指望那些可以当我伸出援助之手时也不能保存的数量。"
+
+msgid "DC-LongSerif-Link4-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB12"
+msgstr "我总是害怕失败。那一天的记忆绑我。"
+
+msgid "DC-LongSerif-Link4-JB13"
+msgstr "老实说，我很感激你。它是如此真实。"
+
+msgid "DC-LongSerif-Link4-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB16"
+msgstr "为什么你想成为我的身边吗？我完全不明白。"
+
+msgid "DC-LongSerif-Link4-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link4-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-Echo"
+msgstr "I wish I could stay at this time forever ..."
+
+msgid "DC-LongSerif-Link5-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB06"
+msgstr "我一直在寻找的是可能已经很近。这是很好的注意！"
+
+msgid "DC-LongSerif-Link5-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB08"
+msgstr "伸出援助之手，即使不是一个可以被保存。如果我们能够拯救尽可能多的。"
+
+msgid "DC-LongSerif-Link5-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB12"
+msgstr "...有了你，我可以在我的失败嘲笑。谢谢。"
+
+msgid "DC-LongSerif-Link5-JB13"
+msgstr "在佣兵业务关闭店铺，并与你周游也不是那么坏..."
+
+msgid "DC-LongSerif-Link5-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB16"
+msgstr "我不明白，要么...出于某种原因，我希望你能在这里。"
+
+msgid "DC-LongSerif-Link5-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Link5-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-Echo"
+msgstr "Combine the power!"
+
+msgid "DC-LongSerif-LinkFinisher-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB06"
+msgstr "这是我最好的！"
+
+msgid "DC-LongSerif-LinkFinisher-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB08"
+msgstr "那太好了，那个位置。请呆在那里。它来了！"
+
+msgid "DC-LongSerif-LinkFinisher-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB12"
+msgstr "如果你失败了，你将不会被原谅！ ！"
+
+msgid "DC-LongSerif-LinkFinisher-JB13"
+msgstr "这是结束，我们走吧！"
+
+msgid "DC-LongSerif-LinkFinisher-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB16"
+msgstr "我会念经，所以买的时候！"
+
+msgid "DC-LongSerif-LinkFinisher-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-LinkFinisher-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-Echo"
+msgstr "Firmly!"
+
+msgid "DC-LongSerif-NearDeath-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB06"
+msgstr "离开我......逃跑......"
+
+msgid "DC-LongSerif-NearDeath-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB08"
+msgstr "我告诉你，这是一个夸张..."
+
+msgid "DC-LongSerif-NearDeath-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB12"
+msgstr "不要玩弄我，这是不可能的，绝对不..."
+
+msgid "DC-LongSerif-NearDeath-JB13"
+msgstr "还是......工作尚未完成...！"
+
+msgid "DC-LongSerif-NearDeath-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB16"
+msgstr "害群之马有害群之马的骄傲......！"
+
+msgid "DC-LongSerif-NearDeath-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeath-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB06"
+msgstr "你还好吗！ ？让我看看伤口！"
+
+msgid "DC-LongSerif-NearDeathP-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB08"
+msgstr "这是没有预料到！"
+
+msgid "DC-LongSerif-NearDeathP-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB12"
+msgstr "最后再收拾一下，天啊！一点都不好！"
+
+msgid "DC-LongSerif-NearDeathP-JB13"
+msgstr "我将有麻烦，如果我你跌倒。请起立。"
+
+msgid "DC-LongSerif-NearDeathP-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB16"
+msgstr "还有谁在墙上？"
+
+msgid "DC-LongSerif-NearDeathP-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-NearDeathP-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-Echo"
+msgstr "A little after! Go!"
+
+msgid "DC-LongSerif-NearWin-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB06"
+msgstr "吉尔，现在在一起！让我们来完成它！"
+
+msgid "DC-LongSerif-NearWin-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB08"
+msgstr "所以，为了欺骗敌人，第一个欺骗你的盟友。"
+
+msgid "DC-LongSerif-NearWin-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB12"
+msgstr "我不会输！我不会失去，绝对不是！ ！"
+
+msgid "DC-LongSerif-NearWin-JB13"
+msgstr "我不会减轻，直到最后一刻。"
+
+msgid "DC-LongSerif-NearWin-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB16"
+msgstr "继续前进，奋斗，我会打破这一切。"
+
+msgid "DC-LongSerif-NearWin-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-NearWin-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-OuterSupport-Echo"
+msgstr "Use this power!"
+
+msgid "DC-LongSerif-Satan2-Echo"
+msgstr "How many times do, I get nervous before the final battle ..."
+
+msgid "DC-LongSerif-Satan2-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB06"
+msgstr "每个人都有未来的权利。我相信是这样。"
+
+msgid "DC-LongSerif-Satan2-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB08"
+msgstr "一个独特的机会青睐返回陛下亚瑟。我会做的。"
+
+msgid "DC-LongSerif-Satan2-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB12"
+msgstr "有绝对没有这样的事情。我知道这样的事情，但是..."
+
+msgid "DC-LongSerif-Satan2-JB13"
+msgstr "如果是工作，我要砍伐任何对手。即使是妖王..."
+
+msgid "DC-LongSerif-Satan2-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB16"
+msgstr "我不感兴趣的妖王，但死亡也令人担忧。"
+
+msgid "DC-LongSerif-Satan2-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Satan2-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-Echo"
+msgstr "The fate of being a bad idea seems to be the same no matter how round it goes."
+
+msgid "DC-LongSerif-Secret-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB06"
+msgstr "我不知道为什么我想过做这样的事情？奇怪。"
+
+msgid "DC-LongSerif-Secret-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB08"
+msgstr "至于欺骗，而肤浅的，我也熟悉..."
+
+msgid "DC-LongSerif-Secret-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB12"
+msgstr "要以这样的方式呈现出来，所以不冷静。"
+
+msgid "DC-LongSerif-Secret-JB13"
+msgstr "我不明白其中的含义。为什么这些人在这样的地方？"
+
+msgid "DC-LongSerif-Secret-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB16"
+msgstr "你不把工作做好。太不小心了。这样的工作，这是令人沮丧观看。"
+
+msgid "DC-LongSerif-Secret-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Secret-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-Village-Echo"
+msgstr "Good morning! Do our best today!"
+
+msgid "DC-LongSerif-Village-JB01"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB02"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB03"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB04"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB05"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB06"
+msgstr "我不擅长闷的情况。对不起，我有你的问候语。"
+
+msgid "DC-LongSerif-Village-JB07"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB08"
+msgstr "所以，我会走出去独自喝一杯，右道歉？"
+
+msgid "DC-LongSerif-Village-JB09"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB10"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB11"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB12"
+msgstr "同样的梦想，昨天和今天。和肯定从现在开始，永远..."
+
+msgid "DC-LongSerif-Village-JB13"
+msgstr "呃，这是什么，这......对水哦......？"
+
+msgid "DC-LongSerif-Village-JB14"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB15"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB16"
+msgstr "女巫不能采取一个愉快的散步。"
+
+msgid "DC-LongSerif-Village-JB17"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB18"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB19"
+msgstr ""
+
+msgid "DC-LongSerif-Village-JB20"
+msgstr ""
+
+msgid "DC-LongSerif-WinBy-ENDB22-JB10"
+msgstr "对抗没有人的监护人？我已经可以看到结果。"
+
+msgid "DC-LongSerif-WinBy-ENDR01-JB01"
+msgstr "大哥......我做到了......你能看到......？"
+
+msgid "DC-LongSerif-WinBy-ENLS01-Echo"
+msgstr "谢谢。真正的..."
+
+msgid "DC-LongSerif-WinBy-ENRB03-JB20"
+msgstr "我不知道如果有一天我就能打破这个诅咒的血了......"
+
+msgid "DC-LongSerif-WinBy-ENRB04-JB17"
+msgstr "她是我们的敌人，但其信念，值得尊重。让我们祈祷 ..."
+
+msgid "DC-LongSerif-WinBy-ENRB05-JB16"
+msgstr "右眼和右耳的感觉，我不知道如果我不能回来了..."
+
+msgid "DC-LongSerif-WinBy-ENRB06-JB14"
+msgstr "我有我自己杀了我的女儿。这是我作为一个父亲的使命。"
+
+msgid "DC-LongSerif-WinBy-ENRB07-JB05"
+msgstr "我们每个人都是上帝的不完全替代谁在天堂监禁。我和他。"
+
+msgid "DC-LongSerif-WinBy-ENRB08-JB15"
+msgstr "是的，没错，在实验室...但是，这将是800年前...？"
+
+msgid "DC-LongTouchToDelete"
+msgstr "长按删除"
+
+msgid "DC-MaterialAnalysis"
+msgstr "材料解析技能发动！这个道具没有被消耗。"
+
+msgid "DC-MaxNum"
+msgstr "已经到达上限。 （{0}）"
+
+msgid "DC-Minion-Use-DragonValley"
+msgstr "使魔将会替你寻找龙的住所。"
+
+msgid "DC-Minion-Use-Invasion"
+msgstr "使用使魔进行支援，不需要消耗天数就可以推动王国军的进攻。"
+
+msgid "DC-Minion-Use-Road"
+msgstr "使魔将会替你进行侦查，不需要消耗天数就能进入对应的区域"
+
+msgid "DC-Minion-Use-Secret"
+msgstr "消耗使魔进行调查，可以立刻阻止恶魔头目的诡计。"
+
+msgid "DC-Minion-Use-Treasure"
+msgstr "使魔按照藏宝图进行调查，不需要消耗天数就可以找到财宝的位置。"
+
+msgid "DC-MinSupRank"
+msgstr "所有的支援者等级达到{0}"
+
+msgid "DC-MissionAchive"
+msgstr "挑战达成！"
+
+msgid "DC-New-Character"
+msgstr "新的角色加入！"
+
+msgid "DC-News-DragonValley"
+msgstr "你发现了一个新的龙之巢穴。"
+
+msgid "DC-News-FieldSkillUsable"
+msgstr "【{0}】可以使用"
+
+msgid "DC-News-Find-AP"
+msgstr "发现了一个新的祠堂。"
+
+msgid "DC-News-FindInvasion"
+msgstr "王国军的进攻开始了。"
+
+msgid "DC-News-FindRival"
+msgstr "对手{0}的Find值上升"
+
+msgid "DC-News-Find-Village"
+msgstr "发现了一个新的村落。"
+
+msgid "DC-News-FinishSupQuest"
+msgstr "任务{0} - 【{1}】达成"
+
+msgid "DC-News-Rival"
+msgstr "恶魔头目被击败了。"
+
+msgid "DC-News-Road"
+msgstr "进入区域【{0}】。"
+
+msgid "DC-News-Secret"
+msgstr "诡计被阻止了。"
+
+msgid "DC-News-SecretAffected-Penalty"
+msgstr "在阻止该诡计之前，你将受到【{0}】的惩罚。"
+
+msgid "DC-News-SecretAffected-Satan"
+msgstr "魔王将会获得【{0}】直到你阻止了这个诡计。"
+
+msgid "DC-News-SecretStart"
+msgstr "{0}开始了新的诡计【{1}】。"
+
+msgid "DC-News-SupRankUp"
+msgstr "的等级上升了！"
+
+msgid "DC-News-Timeout-Dungeon"
+msgstr "{0}没有了怪物的身影。"
+
+msgid "DC-News-Timeout-Invasion"
+msgstr "王国军进攻失败了..."
+
+msgid "DC-News-Treaure"
+msgstr "通过藏宝图发现了财宝！"
+
+msgid "DC-News-Troop"
+msgstr "地下城【{0}】中配置了魔王军的精英。 （怪物等级和奖励都提高了！）"
+
+msgid "DC-New-SubQuest"
+msgstr "接受了的支线任务！【{0}】"
+
+msgid "DC-Next-GoldBoost"
+msgstr "下次冒险中获得的金币将会是平时的3倍。"
+
+msgid "DC-Note-Appear-TrueSatan"
+msgstr "与魔王决战时，魔王将会解放成为真・魔王"
+
+msgid "DC-Note-Clear-Infiniter"
+msgstr "无限回廊的层数将会通过补丁进行追加。"
+
+msgid "DC-NP01"
+msgstr "Valonights之王。隐藏自己的病情，王站在前线指挥帝国军的攻击。"
+
+msgid "DC-NP02"
+msgstr "仙灵比赛的佼佼者。尽管一直在努力保持人入侵他们的土地，以对抗全球危机打击仙灵，领导者已经开始打破墙壁。"
+
+msgid "DC-NP03"
+msgstr "问旅客：“你见过在她的背上背着一个巨大的袋子一个作家？”你总是会得到一个肯定的。从字面上看，这个小女孩的足迹遍布世界各地。"
+
+msgid "DC-NP04"
+msgstr "相信“混乱是世界规则”，这位高手云集众多强大的成员，形成了臭名昭著的海盗团“黑焰”。"
+
+msgid "DC-NP05"
+msgstr "阴影的这个主已经渗透，尽管他遇到危险的情况下，发现了许多秘密。他的下一个挑战是什么？世界毁灭和它背后的真相。"
+
+msgid "DC-NP06"
+msgstr "谁继承了千年古老的艺术，它允许其用户通过一个摇曳的火焰看到未来的一个年轻女孩。未来充满希望可以做它的方式进入她的眼睛？"
+
+msgid "DC-NP07"
+msgstr "一个显赫的人物谁改变了谁受到严重歧视的半身人的社会地位。在谈话中使用辉煌的技巧，他可以快速发现另一个人的真实意图。"
+
+msgid "DC-NP08"
+msgstr "长子“五个贤人”的魔法学校的大师。智者总是好奇，虽然总是像一个小男孩，他喜欢寻找未知数。"
+
+msgid "DC-NW0001"
+msgstr "公测火热进行中！"
+
+msgid "DC-NW0002"
+msgstr "2019.05.08__上线!"
+
+msgid "DC-NW0003"
+msgstr "起步冲刺活动进行中！"
+
+msgid "DC-NW0004"
+msgstr "翻译志愿者__征集中！"
+
+msgid "DC-Open"
+msgstr "进入区域：【{0}】"
+
+msgid "DC-OpenAllArea"
+msgstr "在一次冒险中，进入所有的区域。"
+
+msgid "DC-OpenAreaNum"
+msgstr "进入新的区域{0}次"
+
+msgid "DC-Open-Chest-Job"
+msgstr "新的冒险者登场了！"
+
+msgid "DC-Open-Chest-NPC"
+msgstr "新的支援者登场了！"
+
+msgid "DC-Open-Chest-Rival"
+msgstr "新的恶魔头目登场了！"
+
+msgid "DC-OpenVillage"
+msgstr "解放村落{0}次"
+
+msgid "DC-OutOfSeason"
+msgstr "该赛季已经结束了。"
+
+msgid "DC-PARAM-1"
+msgstr "影响ATK型技能和普通攻击的威力。"
+
+msgid "DC-PARAM-2"
+msgstr "影响Spl型技能的威力。"
+
+msgid "DC-PARAM-3"
+msgstr "影响最大HP。"
+
+msgid "DC-PARAM-4"
+msgstr "影响Brave值的获取"
+
+msgid "DC-Partner-State"
+msgstr "队友获得了{1} {0}次"
+
+msgid "DC-Play"
+msgstr "进行了{0}次冒险"
+
+msgid "DC-PlsInputName"
+msgstr "请输入你的名字。"
+
+msgid "DC-PrismOrb"
+msgstr "闪耀着五彩光芒的宝珠。可以用于购买任意商品。 （氪金通货）"
+
+msgid "DC-RandEvent"
+msgstr "遇到随机事件{0}次"
+
+msgid "DC-ReceiveGift"
+msgstr "接收了礼物！"
+
+msgid "DC-Recommend-Publish-BKCode"
+msgstr "发行备份码后，万一不小心弄丢了账号也能再次寻回。"
+
+msgid "DC-Result-Failed"
+msgstr "失败了。。。"
+
+msgid "DC-Result-Success"
+msgstr "成功了！"
+
+msgid "DC-RivalSlain1"
+msgstr "打倒恶魔头目【{0}】"
+
+msgid "DC-RivalSlain2"
+msgstr "打倒恶魔头目【{0}】{1}次"
+
+msgid "DC-RS0101"
+msgstr "居住地受到了断断续续的攻击。这些攻击将会影响市民给予我们的支援。"
+
+msgid "DC-RS0102"
+msgstr "魔王城附近守备森严。如果就这样直接进攻魔王城的话，一定会遭到激烈的抵抗的。"
+
+msgid "DC-RS0103"
+msgstr "魔王军向王国军发起了进攻。受到魔王军猛烈攻击的影响，王国军陷入了苦战。"
+
+msgid "DC-RS0201"
+msgstr "各种谣言正在被四处散播。这样下去市民们就要陷入恐慌了......必须快点解决这件事。"
+
+msgid "DC-RS0202"
+msgstr "恶魔们正在展开让魔王实力进一步增强的研究。面对更加强大的魔王，我们还有胜算吗？"
+
+msgid "DC-RS0203"
+msgstr "魔王的精锐部队进驻了各个地下城。地下城等级将会上升不少吧。"
+
+msgid "DC-RS0301"
+msgstr "最近街上经常有少女莫名失踪。一时间人人自危，大都躲在家里不敢出门。"
+
+msgid "DC-RS0302"
+msgstr "从各地的墓地传来了「死者一个人散步」的报告。可能是有谁在墓地里捣乱。"
+
+msgid "DC-RS0303"
+msgstr "这不是比喻。太阳不见了，世界被黑暗所笼罩。"
+
+msgid "DC-RS0401"
+msgstr "有人目击到了一些不该存在的东西。他们到底在寻求什么而四处彷徨呢？"
+
+msgid "DC-RS0402"
+msgstr "看见了一个有一颗黑痣的人的身影。到处都是，诅咒。陷入绝望的圣人，对无辜百姓施加了诅咒。"
+
+msgid "DC-RS0403"
+msgstr "最近感觉很奇怪。明明很早以前的事情我都能记得很清楚。但是回忆最近的事情时却感觉很模糊。是受到什么东西的影响了吗？"
+
+msgid "DC-RS0501"
+msgstr "人们多半陷入了恐慌状态。可能你已经注意到了。有一些魔物伪装成人类混在人群中，不停的煽动着。"
+
+msgid "DC-RS0502"
+msgstr "各地出现了小规模的魔物部队在打游击。放着不管的话会对战况产生不利影响。"
+
+msgid "DC-RS0503"
+msgstr "街上的人的样子很奇怪。他们仿佛在互相监视，害怕着那不存在的犯罪。"
+
+msgid "DC-RS0601"
+msgstr "家家户户门窗紧闭，街上都看不到人。即使这样，每天早上也一定会发现的。那些受到杀人魔残害的尸体。"
+
+msgid "DC-RS0602"
+msgstr "每晚，各个驻扎地都会受到神秘的袭击。士兵们完全抵挡不住，前线眼见就要崩溃了。"
+
+msgid "DC-RS0603"
+msgstr "由于受到魔物组成的游击队的袭击，到处都是受伤的人，医疗器具开始短缺了。"
+
+msgid "DC-RS0701"
+msgstr "僵尸和死灵四起，导致阵亡的将士也无法埋葬。圣所受到了污染，人人都陷入了悲伤。"
+
+msgid "DC-RS0702"
+msgstr "为了防止传染病的蔓延，这个街道被封锁了。货物流通受到了阻碍，市场价格恐怕要受到影响。"
+
+msgid "DC-RS0703"
+msgstr "曾经袭击过雷吉达尼亚全境的灾难，可能又要卷土重来了。"
+
+msgid "DC-RS0801"
+msgstr "古代兵器和回忆中的一样，从背部放射出耀眼的光线，将远处各地烧成了灰烬。"
+
+msgid "DC-RS0802"
+msgstr "动力源散发出的热浪蒸发了附近的河流，烧毁了四周的树木。很显然，附近的居民也受到了它的影响。"
+
+msgid "DC-RS0803"
+msgstr "有报告称，从各地的土地里发掘出了一些奇怪的装置。好像全部都根潘达斯奈基有关系。这个谜一样的存在越来越神秘了"
+
+msgid "DC-RV01"
+msgstr "魔王派出的魔界骑士。尽管他们对魔王有着绝对的忠诚，但却不懂得变通。"
+
+msgid "DC-RV02"
+msgstr "给魔王当助理的魔族管家。表面上那老好人的性格不过是演技，实际上他是一个十分神经质和执着的卑鄙阴谋家。"
+
+msgid "DC-RV03"
+msgstr "所有吸血鬼的始祖。复活于现代，正在找机会除掉魔王好让自己成为黑暗之王。"
+
+msgid "DC-RV04"
+msgstr "古代的圣人堕落后，由其诅咒一切生命的怨念变化而来。那强烈的怨念甚至可以颠覆世界。"
+
+msgid "DC-RV05"
+msgstr "从其他世界召唤而来的恶魔之王。虽然现在是魔王的部下，却没有任何的忠诚心。"
+
+msgid "DC-RV06"
+msgstr "「复活出带有自我意识的僵尸」这个实验失败的产物。和路德维希一起，为了寻找生前的记忆而四处彷徨。"
+
+msgid "DC-RV07"
+msgstr "无面的死神之王。预见到了世界的灭亡，为了将世上所有彷徨的灵魂回收至炼狱而降临。"
+
+msgid "DC-RV08"
+msgstr "从遗迹中挖掘出来的生物兵器，又一次活动了起来。如果让这个东西到外面去的话，不需要100天世界就毁灭了吧。"
+
+msgid "DC-Screen-Clear-Dungeons-InArea"
+msgstr "你已经称霸了这个区域的地下城！"
+
+msgid "DC-Screen-DragonValley"
+msgstr "发现了龙的巢穴【{0}】"
+
+msgid "DC-Screen-Dungeon"
+msgstr "通关了地下城【{0}】！"
+
+msgid "DC-Screen-EarnItem"
+msgstr "获得了{0}"
+
+msgid "DC-Screen-EarnItemNum"
+msgstr "获得了{1}个 {0}"
+
+msgid "DC-Screen-Event-AddHiddenInvasion"
+msgstr "未被发现的王国军进攻增加！"
+
+msgid "DC-Screen-Event-AddShop"
+msgstr "{0}的可交易货物增加了。"
+
+msgid "DC-Screen-Event-AddState"
+msgstr "队伍全员获得了『{0}』！"
+
+msgid "DC-Screen-Event-AddStateOnRival"
+msgstr "{0}受到了惩罚“{1}”！"
+
+msgid "DC-Screen-Event-AddStateOnSatan"
+msgstr "魔王受到了惩罚【{0}】！"
+
+msgid "DC-Screen-Event-AddSubQuest"
+msgstr "新的支线事件【{0}】追加！"
+
+msgid "DC-Screen-Event-Bounty0"
+msgstr "有情报显示，有危险的怪物正在肆虐。"
+
+msgid "DC-Screen-Event-Bounty1"
+msgstr "『賞金首』出现了！打败他获得金币吧！"
+
+msgid "DC-Screen-Event-DungeonChest0"
+msgstr "有危险的魔物潜伏在{0}"
+
+msgid "DC-Screen-Event-DungeonChest1"
+msgstr "{0}的等级提高了，追加了新的报酬！"
+
+msgid "DC-Screen-Event-GainAP0"
+msgstr "从路过的英雄那里请教了冒险者的心得。"
+
+msgid "DC-Screen-Event-GainAP1"
+msgstr "我方全员能力点提高了 {0}点！"
+
+msgid "DC-Screen-Event-GainGearLv0"
+msgstr "在路过的铁匠那里重塑了装备。"
+
+msgid "DC-Screen-Event-GainGearLv1"
+msgstr "所有装备等级+ {0}！"
+
+msgid "DC-Screen-Event-GainGearPrm0"
+msgstr "在路过的铁匠那里改良了武器。"
+
+msgid "DC-Screen-Event-GainLink0"
+msgstr "在满天星空的夜晚，你们互相诉说着自己的过去直到天亮。"
+
+msgid "DC-Screen-Event-GainLink1"
+msgstr "羁绊等级提高了！"
+
+msgid "DC-Screen-Event-GainMinion0"
+msgstr "你获得了精灵使的帮助。"
+
+msgid "DC-Screen-Event-GainMinion1"
+msgstr "获得了 {0}只使魔！"
+
+msgid "DC-Screen-Event-GainResist0"
+msgstr "从路过的药店那里获得了一剂良药。"
+
+msgid "DC-Screen-Event-GainResist1"
+msgstr "获得了10天的状态异常耐性！"
+
+msgid "DC-Screen-Event-GainRivalLv0"
+msgstr "在路上无意中发现{0}的活动痕迹。"
+
+msgid "DC-Screen-Event-GainRivalLv1"
+msgstr "对手{0}的Find值增加了！"
+
+msgid "DC-Screen-Event-GainSkillLv0"
+msgstr "你从路过的大佬那里请教了技能的奥秘。"
+
+msgid "DC-Screen-Event-GainSkillLv1"
+msgstr "所有技能等级+ {0}"
+
+msgid "DC-Screen-Event-GainSupLv0"
+msgstr "在路上偶然遇到了{0}。"
+
+msgid "DC-Screen-Event-GainSupLv1"
+msgstr "支援者{0}的等级提高了1级！"
+
+msgid "DC-Screen-Event-Gold0"
+msgstr "在路上见到了一个钱包。"
+
+msgid "DC-Screen-Event-Gold1"
+msgstr "获得了 {0}枚金币！"
+
+msgid "DC-Screen-Event-Heal0"
+msgstr "发现了回复之泉。"
+
+msgid "DC-Screen-Event-Heal1"
+msgstr "HP全回复，并且获得了10天内HP缓慢回复的状态！"
+
+msgid "DC-Screen-Event-Invasion0"
+msgstr "收到了王国军骁勇善战的消息。"
+
+msgid "DC-Screen-Event-Invasion1"
+msgstr "{0}处王国军进攻的进度上升了！"
+
+msgid "DC-Screen-Event-MaxBrave0"
+msgstr "在村子中受到了村民们热情的激励。"
+
+msgid "DC-Screen-Event-MaxBrave1"
+msgstr "Brave全回复！"
+
+msgid "DC-Screen-Event-MoreFind"
+msgstr "【{0}】的发现率上升！"
+
+msgid "DC-Screen-Event-PowerUp0"
+msgstr "诚心参拜了偏僻的祠堂，获得了加护"
+
+msgid "DC-Screen-Event-PowerUp1"
+msgstr "增加攻击POWER 5天了！"
+
+msgid "DC-Screen-Event-RandShop0"
+msgstr "遇到了一个行商。"
+
+msgid "DC-Screen-Event-RandShop1"
+msgstr "一个临时道具店开张了！"
+
+msgid "DC-Screen-Event-Road0"
+msgstr "歪打正着？迷路时不小心进入了新的区域。"
+
+msgid "DC-Screen-Event-Secret0"
+msgstr "完全无意的行为不小心阻止了诡计。"
+
+msgid "DC-Screen-Event-Secret1"
+msgstr "阻止了诡计【{0}】！"
+
+msgid "DC-Screen-Event-TakeDamage"
+msgstr "受到了伤害！"
+
+msgid "DC-Screen-Event-TreasureMap0"
+msgstr "发现了藏的很深的藏宝图！"
+
+msgid "DC-Screen-Event-TreasureMap1"
+msgstr "获得藏宝图！"
+
+msgid "DC-Screen-Event-Troop0"
+msgstr "获得了魔王军精锐配置在了某几个区域的情报"
+
+msgid "DC-Screen-Event-Troop1"
+msgstr "多个地下城的等级上升！"
+
+msgid "DC-Screen-FindInvasion"
+msgstr "王国军开始了对{0}的进攻"
+
+msgid "DC-Screen-FindRival"
+msgstr "发现了{0}的准确位置！决战的时候到了！"
+
+msgid "DC-Screen-Gain-AbiSet"
+msgstr "获得职业【{0}】！"
+
+msgid "DC-Screen-Invasion"
+msgstr "王国军进攻{0}成功了!"
+
+msgid "DC-Screen-KillRival"
+msgstr "{0}被击败了！"
+
+msgid "DC-Screen-ResetLineup"
+msgstr "{0}的商店又重新进货了！"
+
+msgid "DC-Screen-Road"
+msgstr "新的区域：【{0}】可以进入了"
+
+msgid "DC-Screen-Secret"
+msgstr "阻止了{0}的诡计【{1}】"
+
+msgid "DC-Screen-Village"
+msgstr "解放了{0}的村落，{1}的等级提高了！"
+
+msgid "DC-SE0001"
+msgstr "发现了宝箱。"
+
+msgid "DC-SE00011"
+msgstr "宝箱里有金币。"
+
+msgid "DC-SE00012"
+msgstr "有一个宝藏在里面！"
+
+msgid "DC-SE00013"
+msgstr "你没有打开宝箱，直接离去了。"
+
+msgid "DC-SE0001-Sel1"
+msgstr "强行开启"
+
+msgid "DC-SE0001-Sel2"
+msgstr "慎重开启"
+
+msgid "DC-SE0001-Sel3"
+msgstr "直接离开"
+
+msgid "DC-SE0002"
+msgstr ":@DC-SE0001"
+
+msgid "DC-SE00021"
+msgstr "有一个宝藏在里面！"
+
+msgid "DC-SE00022"
+msgstr "你将钥匙插进去的一瞬间，宝箱爆炸了！"
+
+msgid "DC-SE00023"
+msgstr ":@DC-SE00013"
+
+msgid "DC-SE0002-Sel1"
+msgstr "强行打开"
+
+msgid "DC-SE0002-Sel2"
+msgstr ":@DC-SE0001-Sel2"
+
+msgid "DC-SE0002-Sel3"
+msgstr ":@DC-SE0001-Sel3"
+
+msgid "DC-SE0003"
+msgstr "铁匠格雷纳斯__「…把装备给我看看。使用的时候有感觉到什么异常吗…？」"
+
+msgid "DC-SE00031"
+msgstr "铁匠格雷纳斯__「......别忘记做保养。装备也是有生命的，你偷懒，他们也会偷懒的。」"
+
+msgid "DC-SE00032"
+msgstr "铁匠格雷纳斯__「…这装备有问题。要是在关键时刻它掉了链子可是要命的。把它交给我，我来修好它」"
+
+msgid "DC-SE00033"
+msgstr "铁匠格雷纳斯__「…这真是太糟了。要修还不如重新做一件。你给我在那等着。」"
+
+msgid "DC-SE0003-Sel1"
+msgstr "上面有一些裂痕了"
+
+msgid "DC-SE0003-Sel2"
+msgstr "感觉不适合我自己"
+
+msgid "DC-SE0003-Sel3"
+msgstr "已经有破损了"
+
+msgid "DC-SE0004"
+msgstr "古英雄莱昂__「嘿，年轻人。你是在旅行吗？这里到处都是魔物，天空的颜色也怪怪的，这个世界真是变得越来越棘手了啊。」"
+
+msgid "DC-SE00041"
+msgstr "古英雄莱昂__「真是岁月不饶人啊。刚刚我去了一趟战场，却没能杀掉几只怪物。要在我年轻的时候，一个人就能把它们全部收拾掉呢。」"
+
+msgid "DC-SE00042"
+msgstr "古英雄莱昂__「陈词滥调狗也嫌啊。与其说那些无聊的事情，还不如搞点实在的。来，摆好架势，我们俩练练」"
+
+msgid "DC-SE00043"
+msgstr "古英雄莱昂__「你看起来很忙嘛，有工作是好事… 说起来，我过来的时候好像有看见炊烟，大概是有人居住的样子，去看看吧，说不定能遇见谁呢」"
+
+msgid "DC-SE0004-Sel1"
+msgstr "问问他最近怎么样"
+
+msgid "DC-SE0004-Sel2"
+msgstr "问问他过去的英雄战迹"
+
+msgid "DC-SE0004-Sel3"
+msgstr "就只说说闲话"
+
+msgid "DC-SE0005"
+msgstr "学徒苍井__「我听见了精灵们在骚动…你也感觉到什么了吗？」"
+
+msgid "DC-SE00051"
+msgstr "学徒苍井__「我感觉到有黑暗的力量在那片土地的深处蠢蠢欲动。也同时感觉了能阻止他的福音…」"
+
+msgid "DC-SE00052"
+msgstr "学徒苍井__「那是你自身的声音。听，那是在你身体里沉睡的那股力量在呼唤你」"
+
+msgid "DC-SE00053"
+msgstr "学徒苍井__「感觉到了吗？那是在你背后默默守护你的强大力量。作为使魔，他们一定会对你有帮助的」"
+
+msgid "DC-SE0005-Sel1"
+msgstr "感觉到远方有什么东西"
+
+msgid "DC-SE0005-Sel2"
+msgstr "感觉到体内有什么东西"
+
+msgid "DC-SE0005-Sel3"
+msgstr "感觉到周围有什么东西"
+
+msgid "DC-SE0006"
+msgstr "豪运的卡斯利克__「嘿，我有一些好东西，你要不要来看看？」"
+
+msgid "DC-SE00061"
+msgstr "豪运的卡斯利克__「说起来，最近又看到好多通缉令。感觉通缉令最近特别多呢。治安一差挣钱的机会也变多了呢，嘿嘿嘿…」"
+
+msgid "DC-SE00062"
+msgstr "豪运的卡斯利克__「你真有眼光！来来，看看这个怎么样？一定会有用的。你问有没有那个？我看看…」"
+
+msgid "DC-SE00063"
+msgstr "豪运的卡斯利克__「信不过我？！老子…不，我可是个诚实的商人。你看，这是我的小小心意。我不是个坏人吧？」"
+
+msgid "DC-SE0006-Sel1"
+msgstr "光聊聊天"
+
+msgid "DC-SE0006-Sel2"
+msgstr "务必给我看看"
+
+msgid "DC-SE0006-Sel3"
+msgstr "反正是些骗人的玩意呗？"
+
+msgid "DC-SE0007"
+msgstr "药师安东尼__「不小心带了太多行李上路了，能帮我背几个吗？我会给你谢礼的…」"
+
+msgid "DC-SE00071"
+msgstr "药师安东尼__「哇，你力气真大…这是我的小小心意，请务必收下」"
+
+msgid "DC-SE00072"
+msgstr "药师安东尼__「帮大忙了，这些药是给你的谢礼。那么，请多保重…」"
+
+msgid "DC-SE00073"
+msgstr "药师安东尼__「也是呢，真遗憾… 啊，那么请收下这些药。这是治愈疲劳的灵药。没关系的，我带的太多了想减少一些」"
+
+msgid "DC-SE0007-Sel1"
+msgstr "全部拿过来"
+
+msgid "DC-SE0007-Sel2"
+msgstr "帮他拿一半"
+
+msgid "DC-SE0007-Sel3"
+msgstr "对不起，我赶时间"
+
+msgid "DC-SE0008"
+msgstr "向导海伦__「你们怎么会到这种地方来…__哈哈，迷路了吧？」"
+
+msgid "DC-SE00081"
+msgstr "向导海伦__「哎呀呀。那一定很头痛吧。过来，这边这边！吃下这个打起精神来！」"
+
+msgid "DC-SE00082"
+msgstr "向导海伦__「还逞强！嘛，算了。带上这些小家伙吧，它们很熟悉这附近，一定会对你有帮助的。」"
+
+msgid "DC-SE00083"
+msgstr "向导海伦__「哦哦～感觉好帅气！有冒险家的感觉～。说起来，之前好像有冒险者在前面的山丘上藏了什么… 你看，就是这里，是地图！」"
+
+msgid "DC-SE0008-Sel1"
+msgstr "已经完全迷路了"
+
+msgid "DC-SE0008-Sel2"
+msgstr "我没有迷路"
+
+msgid "DC-SE0008-Sel3"
+msgstr "我就随便走走"
+
+msgid "DC-SE0009"
+msgstr "火枪手雷吉纳__「嗯！？__…什么嘛原来是冒险者。__这附近魔物很多，安静小心地原路返回吧。」"
+
+msgid "DC-SE00091"
+msgstr "火枪手雷吉纳__「我现在正在执行重要的任务，追踪危险的怪物…__麻烦你别来干扰我！」"
+
+msgid "DC-SE00092"
+msgstr "火枪手雷吉纳__「谢谢你。这附近很快就要打起来了，如果你碰到其他旅行者请通知他一声。」"
+
+msgid "DC-SE00093"
+msgstr "火枪手雷吉纳__「切。我可警告过你了！你要是被龙吃了我可不管！毕竟这附近可有人见过龙！」__即使离的很远了也还能听见他在嘟嘟囔囔些什么。"
+
+msgid "DC-SE0009-Sel1"
+msgstr "你在做什么？"
+
+msgid "DC-SE0009-Sel2"
+msgstr "好的，我这就走"
+
+msgid "DC-SE0009-Sel3"
+msgstr "我爱去哪去哪，别烦我"
+
+msgid "DC-SE0010"
+msgstr "小小之刃 汉克__「哟。你们看起来忙的要命啊。怎么样，要不要我帮忙？」"
+
+msgid "DC-SE00101"
+msgstr "小小刀刃 汉克__「嗯。。。找人，找东西，什么都干。必要的话，杀人也干。先干活后付款。」"
+
+msgid "DC-SE00102"
+msgstr "小小之刃 汉克__「哦？还真是强硬呢。我对这附近很熟。不然的话，我现在就来给你带路吧？」"
+
+msgid "DC-SE00103"
+msgstr "小小之刃 汉克__「…哈哈，那可真不错。正所谓风险越大回报越大呢。请务必让我帮忙。」"
+
+msgid "DC-SE0010-Sel1"
+msgstr "你能做什么？"
+
+msgid "DC-SE0010-Sel2"
+msgstr "不需要"
+
+msgid "DC-SE0010-Sel3"
+msgstr "你可能会死哦"
+
+msgid "DC-SER011"
+msgstr "魔王的先锋__「切，今天就到这里…！」__他看起来想逃跑！"
+
+msgid "DC-SER0111"
+msgstr "魔王的先锋__「纳尼？！」__先锋手中的剑折断了，一半的剑尖飞了出去。但是，他也顺势拉开了距离，逃掉了。"
+
+msgid "DC-SER0112"
+msgstr "魔王的先锋__「我…我一定要亲手杀了你这个混蛋！！一定！」__先锋愤怒的低吼着，紧握的双拳中渗出了鲜血，接着，他的身影凭空消失了"
+
+msgid "DC-SER0113"
+msgstr "先锋逃跑了，你还沉浸在自己胜利的喜悦中。"
+
+msgid "DC-SER011-Sel1"
+msgstr "追击"
+
+msgid "DC-SER011-Sel2"
+msgstr "挑衅"
+
+msgid "DC-SER011-Sel3"
+msgstr "穷寇莫追"
+
+msgid "DC-SER021"
+msgstr "魔王的亲信__「你真是一个令人不悦的家伙… 你到底为了什么如此拼命战斗？明明老老实实去死要轻松得多」"
+
+msgid "DC-SER0211"
+msgstr "魔王的亲信__「无聊！实在是无聊！我一定要让你知道，你们这种劣等种族是没有未来的！」"
+
+msgid "DC-SER0212"
+msgstr "魔王的亲信__「Heheeeee！好吧，接下来我会让你也感受到和我一样的焦躁…！」"
+
+msgid "DC-SER0213"
+msgstr "魔王的亲信__「哦？保持沉默是吗…不愧是身经百战的英雄，真冷静呢！越来越让人火大了！！！」"
+
+msgid "DC-SER021-Sel1"
+msgstr "为了人类的明天"
+
+msgid "DC-SER021-Sel2"
+msgstr "至少能让你火大"
+
+msgid "DC-SER021-Sel3"
+msgstr "什么都不说"
+
+msgid "DC-SER031"
+msgstr "吸血鬼领主__「原来如此。我对你很感兴趣。一个人类能拥有如此强大的力量，你想不想变的更强呢？成为我的眷属，这一切就都能实现了。」"
+
+msgid "DC-SER0311"
+msgstr "吸血鬼领主__「原来如此。果然我们之间的事情只能用力量来解决了呢…」"
+
+msgid "DC-SER0312"
+msgstr "吸血鬼领主__「你还真敢说啊。那么就让我见识一下你所拥有的力量吧」"
+
+msgid "DC-SER0313"
+msgstr "吸血鬼领主__「是吗。那么收下这个吧。加入我们的话，这种东西都不算什么。好好考虑考虑吧。」"
+
+msgid "DC-SER031-Sel1"
+msgstr "我是不会屈服的"
+
+msgid "DC-SER031-Sel2"
+msgstr "不用那样做我也能变强"
+
+msgid "DC-SER031-Sel3"
+msgstr "我的目的不是变强"
+
+msgid "DC-SER041"
+msgstr "伽拉泰亚__「唔… 我好恨啊… 人类… 为了一己私利背叛了我，还夺走了我的孩子… 为什么要守护那种生物…」"
+
+msgid "DC-SER0411"
+msgstr "伽拉泰亚__「不可原谅… 我绝对不会原谅的… 赌上我这条灵魂，也要永远地诅咒你们…！」"
+
+msgid "DC-SER0412"
+msgstr "伽拉泰亚__「…如果是这样的话，那我的怒火应该去往何处… 背叛我的那群人早就死光了…」"
+
+msgid "DC-SER0413"
+msgstr "伽拉泰亚__「是啊… 而且还曾是一个脆弱的人类… 没能保护自己的孩子… 没能遵守自己的誓约… 就像你们一样，太弱小了…」"
+
+msgid "DC-SER041-Sel1"
+msgstr "即使是这也我也要保护"
+
+msgid "DC-SER041-Sel2"
+msgstr "也有好的人类"
+
+msgid "DC-SER041-Sel3"
+msgstr "你也曾经是一名人类"
+
+msgid "DC-SER051"
+msgstr "巴风特__「哎呀，你们可真强的可以。如果是你们的话也许还真能打倒魔王。请务必将魔王，对… 将我的妨碍着们统统清除吧。」"
+
+msgid "DC-SER0511"
+msgstr "巴风特__「嘿嘿嘿，我就知道。你们不管发生了什么都一定会去做的。嘿嘿嘿…」"
+
+msgid "DC-SER0512"
+msgstr "巴风特__「我好怕怕啊。那你们可要好好加油啊，英雄大人。反正你们是不可能杀的了我的。不过尽管来试试看吧。」"
+
+msgid "DC-SER0513"
+msgstr "巴风特__「哦？你们想与恶魔做交易？有前途的小家伙… 好吧」"
+
+msgid "DC-SER051-Sel1"
+msgstr "不用你说我也会这么做的"
+
+msgid "DC-SER051-Sel2"
+msgstr "在那之前我们先杀了你"
+
+msgid "DC-SER051-Sel3"
+msgstr "我不做没好处的事情"
+
+msgid "DC-SER061"
+msgstr "凯瑟琳__「呜、咕…？ 这份、记忆、是… 父亲…？」__你在想什么事情吗？你现在可全身都是破绽。"
+
+msgid "DC-SER0611"
+msgstr "凯瑟琳__「我，不知道… 我什么都不知道，真是的…」__她一摇一晃的离开了。想要追上去，却被一旁念念有词的路德维希阻止了。"
+
+msgid "DC-SER0612"
+msgstr "凯瑟琳__「不… 我讨厌你，我不想想起来！全部… 全部都毁掉！你也是！父亲也是！全部！」"
+
+msgid "DC-SER0613"
+msgstr "挥出的武器无法碰到凯瑟琳。她立刻后跳，与你拉开了距离。__凯瑟琳__「反正… 你也是，敌人！！血液在沸腾… 与我也没什么不同」"
+
+msgid "DC-SER061-Sel1"
+msgstr "加油！想起来！"
+
+msgid "DC-SER061-Sel2"
+msgstr "保持谨慎，先看看情况"
+
+msgid "DC-SER061-Sel3"
+msgstr "趁现在攻击"
+
+msgid "DC-SER071"
+msgstr "塔那托斯刚刚访问过的村庄遗迹。__所有人毫无例外，全都没有头，也不流血。__这些尸体仿佛在诉说着这片土地上的悲剧。"
+
+msgid "DC-SER0711"
+msgstr "至少让他们的灵魂得以安眠。墓碑上的刻着的一句句话语，正是你发自内心的祈愿。"
+
+msgid "DC-SER0712"
+msgstr "虽然可能这样做看起来很绝情，很冷酷。但是我们自己剩下的时间也不多了。如果世界迎来终结的话，慈悲将没有任何意义。"
+
+msgid "DC-SER0713"
+msgstr "在调查中发现，村民家中的神像也全部被盗了。你们并不知道这到底意味着什么。"
+
+msgid "DC-SER071-Sel1"
+msgstr "吊唁村民"
+
+msgid "DC-SER071-Sel2"
+msgstr "不能在这里浪费时间"
+
+msgid "DC-SER071-Sel3"
+msgstr "调查一下有没有剩下什么"
+
+msgid "DC-SER081"
+msgstr ""
+"潘达斯奈基的封印被解除也只是时间的问题了。直面面对这个强大的存在是没有什么胜算的。在它还没有什么动静的现在，也许是找出打倒它的方法的唯一机会了。"
+
+msgid "DC-SER0811"
+msgstr "发现了一本古老的技术书。虽然能够解读的内容不多，但多少也能找到一点有用的信息吧。"
+
+msgid "DC-SER0812"
+msgstr "潘达斯奈基周围聚集了大量的精灵。这是他再次启动的征召，说明在不远的未来它可能就要复活了。"
+
+msgid "DC-SER0813"
+msgstr "对着它胸口下方的突起按了下去，突然周围喷出了黑色的蒸汽，感觉邪恶的气息变弱了一些。也许成功搞定了些什么也说不定。"
+
+msgid "DC-SER081-Sel1"
+msgstr "仔细调查周围"
+
+msgid "DC-SER081-Sel2"
+msgstr "检测封印状态"
+
+msgid "DC-SER081-Sel3"
+msgstr "随便摸摸它的身体"
+
+msgid "DC-Serif-NP01-1"
+msgstr "你们都是冒险家？我希望你可以用你的长处的人。"
+
+msgid "DC-Serif-NP01-2"
+msgstr "我们再见面。我听说你的成就。"
+
+msgid "DC-Serif-NP01-3"
+msgstr "即使是现在，我的人都在痛苦......我们必须战斗。"
+
+msgid "DC-Serif-NP01-4"
+msgstr "独自一人，没有一个人有力量。这是你谁给的权力的人。"
+
+msgid "DC-Serif-NP01-5"
+msgstr "你是唯一谁能够拯救世界。请战胜撒旦..."
+
+msgid "DC-Serif-NP02-1"
+msgstr "你觉得它难得一见的男性精灵？"
+
+msgid "DC-Serif-NP02-2"
+msgstr "我不是说我会信任你。"
+
+msgid "DC-Serif-NP02-3"
+msgstr "看来你做你的工作，呵呵。貌似我断定你错了。"
+
+msgid "DC-Serif-NP02-4"
+msgstr "如何？您有什么需要帮助？不要犹豫。"
+
+msgid "DC-Serif-NP02-5"
+msgstr "由于森林的代表，请允许我解释的背景，我们的救星。"
+
+msgid "DC-Serif-NP03-1"
+msgstr "欢迎！现在，这是一个陌生的脸。你来自哪里？"
+
+msgid "DC-Serif-NP03-2"
+msgstr "新项目刚进来！看一看！"
+
+msgid "DC-Serif-NP03-3"
+msgstr "啊，请不要担心！这个袋子将漂浮本身。这不是那么重，因为它看起来。"
+
+msgid "DC-Serif-NP03-4"
+msgstr "谢谢您的光顾！我将使它更便宜哦！"
+
+msgid "DC-Serif-NP03-5"
+msgstr "我将无法做任何企业，如果世界即将结束。我相信你！"
+
+msgid "DC-Serif-NP04-1"
+msgstr "你甚至不知道你在哪里？你有胆量！"
+
+msgid "DC-Serif-NP04-2"
+msgstr "我已经迈出了你的兴趣。鉴于你的胆量，我会允许你来来去去，只要你想。"
+
+msgid "DC-Serif-NP04-3"
+msgstr "有一个人知道你在说什么这是重要的。"
+
+msgid "DC-Serif-NP04-4"
+msgstr "太浪费了。你不是真的想坐我的船？"
+
+msgid "DC-Serif-NP04-5"
+msgstr "如果是你，小伙子，我们应该能够在任何地方旅行。"
+
+msgid "DC-Serif-NP05-1"
+msgstr "啧！安静了下来......不要发出任何声音了！"
+
+msgid "DC-Serif-NP05-2"
+msgstr "我会让它值得你的钱。只是不要试图砍价吧。"
+
+msgid "DC-Serif-NP05-3"
+msgstr "又是你…？好了，它不喜欢我对你很多东西。"
+
+msgid "DC-Serif-NP05-4"
+msgstr "把就行了你的性命也难保了，嗯？我知道，这很难。"
+
+msgid "DC-Serif-NP05-5"
+msgstr "TCH，只是这一次，“凯？说它是你的运气。"
+
+msgid "DC-Serif-NP06-1"
+msgstr "这是圣地。如果你没有在这里做的请离开。"
+
+msgid "DC-Serif-NP06-2"
+msgstr "我能感觉到世界颤抖......光消失之前..."
+
+msgid "DC-Serif-NP06-3"
+msgstr "我希望你能找到你相信什么？"
+
+msgid "DC-Serif-NP06-4"
+msgstr "我安心看到你身边......请不要消失......"
+
+msgid "DC-Serif-NP06-5"
+msgstr "... S，对不起...我睡着了......"
+
+msgid "DC-Serif-NP07-1"
+msgstr "很高兴认识你。这个名字是杰拉德。记住它。"
+
+msgid "DC-Serif-NP07-2"
+msgstr "你们是有趣的。不完全是。"
+
+msgid "DC-Serif-NP07-3"
+msgstr "现在，如何我尝试把一个小插曲在你的冒险变成一首歌？"
+
+msgid "DC-Serif-NP07-4"
+msgstr "你看，我正在写一部史诗的诗句。这是你的故事！我给你的第一个版本。"
+
+msgid "DC-Serif-NP07-5"
+msgstr "没有人知道什么样的未来在商店。塑造未来，用你的双手。"
+
+msgid "DC-Serif-NP08-1"
+msgstr "你是谁，小伙子？这所大学的学生呢？"
+
+msgid "DC-Serif-NP08-2"
+msgstr "不要告诉我在这里跳过工作的总统。"
+
+msgid "DC-Serif-NP08-3"
+msgstr "我不是间距时，间距不出来！真的！......你们不相信？"
+
+msgid "DC-Serif-NP08-4"
+msgstr "遇见你这样的小伙子也是我研究的一部分。"
+
+msgid "DC-Serif-NP08-5"
+msgstr "它是这样一个遗憾，我不能看到一个新的时代。但它足以是有帮助的。"
+
+msgid "DC-Serif-RV01-1"
+msgstr "你的生活是不够的！"
+
+msgid "DC-Serif-RV01-2"
+msgstr "你永远无法打败我......从来没有！"
+
+msgid "DC-Serif-RV01-3"
+msgstr "我承认，你有一些优势。"
+
+msgid "DC-Serif-RV01-4"
+msgstr "虽然不会有什么比现在这个结尾的权利，不受撒旦的生活变得更好，我不会轻举妄动。"
+
+msgid "DC-Serif-RV01-5"
+msgstr "请允许我对未来这么远表示祝贺。现在，让我们在这次大屠杀中沉醉。"
+
+msgid "DC-Serif-RV02-1"
+msgstr "Hihihi，我的名字是布提斯。记住它…"
+
+msgid "DC-Serif-RV02-2"
+msgstr "烦到你了吗？想要采取行动？ Hihihihi，认为我的赞美。"
+
+msgid "DC-Serif-RV02-3"
+msgstr "生气！感到悲痛！这是你的弱点！"
+
+msgid "DC-Serif-RV02-4"
+msgstr "我不能既主公这样的事情。死，NOW！"
+
+msgid "DC-Serif-RV02-5"
+msgstr "......你是有史以来送我这么远的第一个。不要以为你能活着回来！"
+
+msgid "DC-Serif-RV03-1"
+msgstr "因此，新的冒险再度来临。但是，你会遇到同样的目的..."
+
+msgid "DC-Serif-RV03-2"
+msgstr "好像你正试图想出一些招数。但是，千万不要以为你可以挥洒我们的工会。"
+
+msgid "DC-Serif-RV03-3"
+msgstr "现在，这似乎很难被击败......不，你很多是艰难的。"
+
+msgid "DC-Serif-RV03-4"
+msgstr "要正确地说，是你该死的人谁第一次入侵我们的土地。"
+
+msgid "DC-Serif-RV03-5"
+msgstr "欢迎来到我的城堡。让我欢迎你提供最好的菜......一个甜蜜死了！"
+
+msgid "DC-Serif-RV04-1"
+msgstr "AAH ...这么苦......一切......"
+
+msgid "DC-Serif-RV04-2"
+msgstr "返回......我的孩子......回我的孩子！"
+
+msgid "DC-Serif-RV04-3"
+msgstr "你为什么要保护人。有一天，他们也会背叛你..."
+
+msgid "DC-Serif-RV04-4"
+msgstr "我已经警告过你......愚蠢的人类，！"
+
+msgid "DC-Serif-RV04-5"
+msgstr "我要是遇见你越快......我不会有..."
+
+msgid "DC-Serif-RV05-1"
+msgstr "你在等什么？让我们打出来。"
+
+msgid "DC-Serif-RV05-2"
+msgstr "有很多令人兴奋的事情在那里。你在犹豫？"
+
+msgid "DC-Serif-RV05-3"
+msgstr "看来你与别人不同。我不能相信你会不会来诱惑屈服。"
+
+msgid "DC-Serif-RV05-4"
+msgstr "我知道了。它似乎不是在勾引你，这将是更多的乐趣，你推到愤怒..."
+
+msgid "DC-Serif-RV05-5"
+msgstr "我们必须保持最有趣的事情。现在，我们将开始？"
+
+msgid "DC-Serif-RV06-1"
+msgstr "哦，我发现了一个生动的血袋...♪"
+
+msgid "DC-Serif-RV06-2"
+msgstr "你这家伙，不像其他人，似乎有一些砂砾..."
+
+msgid "DC-Serif-RV06-3"
+msgstr "路德维希，这家伙......没有继续"
+
+msgid "DC-Serif-RV06-4"
+msgstr "这是什么？通过外观上看你们扔的第一拳..."
+
+msgid "DC-Serif-RV06-5"
+msgstr "我只是想知道我的过去！你为什么要干涉？"
+
+msgid "DC-Serif-RV07-1"
+msgstr "我要救死你们。"
+
+msgid "DC-Serif-RV07-2"
+msgstr "原始死亡，走向世界，因为它是..."
+
+msgid "DC-Serif-RV07-3"
+msgstr "丑陋狰狞......众神......你太..."
+
+msgid "DC-Serif-RV07-4"
+msgstr "在后院饲养牲畜，不要太自大......"
+
+msgid "DC-Serif-RV07-5"
+msgstr "要返回到神的世界，只为那...！"
+
+msgid "DC-Serif-RV08-1"
+msgstr "活力：节能15％满。"
+
+msgid "DC-Serif-RV08-2"
+msgstr "非暴力监控系统，运行..."
+
+msgid "DC-Serif-RV08-3"
+msgstr "请放心吧。对于那些谁没有犯暴力，暴力不会反对使用。"
+
+msgid "DC-Serif-RV08-4"
+msgstr "暴力的使用证实。目前调查行为的利弊？"
+
+msgid "DC-Serif-RV08-5"
+msgstr "由此看来，扫笼操作模式已经进入。这个社会会很快消失。"
+
+msgid "DC-SES011"
+msgstr "亚瑟__「真令人头疼… 我的兵力又不是无限的，这里也缺人那里也缺人。应该把军队优先投入到哪呢…」"
+
+msgid "DC-SES0111"
+msgstr "亚瑟__「原来如此。你说的有道理啊。。。谢谢你，我会考虑的」"
+
+msgid "DC-SES0112"
+msgstr "亚瑟__「对哦，我差点忘了还有龙的威胁… 谢谢，还好我先问了你。」"
+
+msgid "DC-SES0113"
+msgstr "亚瑟__「确实，我会尽快安排下去的。」"
+
+msgid "DC-SES011-Sel1"
+msgstr "为了黎明百姓，应该讨伐魔王军"
+
+msgid "DC-SES011-Sel2"
+msgstr "为了免除后顾之忧，应该先派兵讨伐恶龙"
+
+msgid "DC-SES011-Sel3"
+msgstr "兵力不够的时候，情报就是最关键的"
+
+msgid "DC-SES012"
+msgstr "亚瑟__「我已经活不长了… 不，我倒不是害怕死亡。只是我的儿子高文至今下落不明，我真担心这个国家的未来会如何 …我能将这个国家托付给你吗？」"
+
+msgid "DC-SES0121"
+msgstr "亚瑟__「真抱歉，什么都得靠你… 但如果是你的话，一定会引导这个国家走向光明吧。我相信你能行的。」"
+
+msgid "DC-SES0122"
+msgstr "亚瑟__「…呵呵，我都可以想象他听到了害羞的样子了… 也对，我还不能放弃希望。谢谢你…」"
+
+msgid "DC-SES0123"
+msgstr "亚瑟__「是吗… 我说了奇怪的话呢。你们只需要按照自己的方式来使这个国家变得越来越好就令我足以高兴了。」"
+
+msgid "DC-SES012-Sel1"
+msgstr "交给我吧，请一切放心"
+
+msgid "DC-SES012-Sel2"
+msgstr "高文大人才是你的正统继承人"
+
+msgid "DC-SES012-Sel3"
+msgstr "我们只不过是冒险者"
+
+msgid "DC-SES021"
+msgstr "马里奥__「这话有点难以启齿…唉,简单来说,就是我想跟某个女的分手。但是直接见面说有点…」"
+
+msgid "DC-SES0211"
+msgstr "马里奥__「抱歉。我倒也不是不想自己去，但是她现在可不是能好好交流的状态，你懂的…」"
+
+msgid "DC-SES0212"
+msgstr "马里奥__「啊，你想听？这可就说来话长了… 不过你还是不知道为妙…」"
+
+msgid "DC-SES0213"
+msgstr "马里奥__「你，你还真敢说…唉，不过也确实如你所说。我自己去吗… 啊，好沉重…」"
+
+msgid "DC-SES021-Sel1"
+msgstr "真拿你没办法…"
+
+msgid "DC-SES021-Sel2"
+msgstr "首先让我知道详细"
+
+msgid "DC-SES021-Sel3"
+msgstr "自己做"
+
+msgid "DC-SES022"
+msgstr "马里奥__“由人类发出的特使已通知我们派兵的请求。仙女有没有战斗力，所以它应该是指背部支撑......坦率地说，你有什么感想？”"
+
+msgid "DC-SES0221"
+msgstr "马里奥__“是的......我们已经限制了我们可以单独做，我会积极考虑。”"
+
+msgid "DC-SES0222"
+msgstr "马里奥__“......未来？哦，我们需要做思考未来的东西。谢谢你，我会重新考虑。”"
+
+msgid "DC-SES0223"
+msgstr "马里奥__“......嗯，是的，是的，我只是一个仙君，我会尽我所能地为我谢谢你。”"
+
+msgid "DC-SES022-Sel1"
+msgstr "这是合作时间"
+
+msgid "DC-SES022-Sel2"
+msgstr "只想到你的王国的未来"
+
+msgid "DC-SES022-Sel3"
+msgstr "我们只是冒险家"
+
+msgid "DC-SES031"
+msgstr "Rikka __“哇，goog时机！其实，有一个谈赚钱，对不对？”"
+
+msgid "DC-SES0311"
+msgstr "Rikka __“哦！这样想！？那么，请看看这个地图...”"
+
+msgid "DC-SES0312"
+msgstr "Rikka __“是啊！这很容易交谈，我有一个大订单，我想问一下你的股票！”"
+
+msgid "DC-SES0313"
+msgstr "Rikka __“没有可疑！相信我！啊，你看，它是由英国一个订单！”"
+
+msgid "DC-SES031-Sel1"
+msgstr "听起来不错！"
+
+msgid "DC-SES031-Sel2"
+msgstr "首先让我知道详细"
+
+msgid "DC-SES031-Sel3"
+msgstr "可疑..."
+
+msgid "DC-SES032"
+msgstr "Rikka __“呵呵，好久不见。我很抱歉，我不能去那里。其实，我要你的东西很重要。”"
+
+msgid "DC-SES0321"
+msgstr "Rikka __“哦，哦，停止盯着我，你过奖了。”"
+
+msgid "DC-SES0322"
+msgstr "Rikka __“哦，哦，是啊，是啊！这是正确的！看来我不能隐瞒你。”"
+
+msgid "DC-SES0323"
+msgstr "Rikka __“你明白了吗？......这是个人的原因，我父亲的纪念。我要你找东西，我早就失去了。你能做到吗？”"
+
+msgid "DC-SES032-Sel1"
+msgstr "请您谈谈什么"
+
+msgid "DC-SES032-Sel2"
+msgstr "相关业务的一个故事？"
+
+msgid "DC-SES032-Sel3"
+msgstr "这种情况与平时不同"
+
+msgid "DC-SES041"
+msgstr "ザビーネ__「船団が王国国境警備団と揉めて、港の外で足止めを食っている。商機を前に手をこまねいている暇はない。強硬に出るべきと思うか？」"
+
+msgid "DC-SES0411"
+msgstr "ザビーネ__「お前達ならそう言うと思ったよ。迷うなど、私らしくないな。いつも通り行くとしよう。私流でな！」"
+
+msgid "DC-SES0412"
+msgstr "ザビーネ__「プッ、ククク… お前達から、そんな案が出るとはな、いやすまない、つい笑ってしまったが、悪くない策だ。」"
+
+msgid "DC-SES0413"
+msgstr "ザビーネ__「そこまでしてもらえるのは、予想外だったな。借りを作らないのが黒火団の方針でね、報酬ははずもう」"
+
+msgid "DC-SES041-Sel1"
+msgstr "強硬に出るべき"
+
+msgid "DC-SES041-Sel2"
+msgstr "警備隊に金を握らせる"
+
+msgid "DC-SES041-Sel3"
+msgstr "自分達が仲介する"
+
+msgid "DC-SES042"
+msgstr "ザビーネ__「やぁ。しばらく会えなくなると思ってな、挨拶に来た。明後日には港を発ち、あちこち回ってくるつもりだ。」"
+
+msgid "DC-SES0421"
+msgstr "ザビーネ__「あぁ。危険な旅にはなるが、きっとそれ以上の宝を手に入れてきてやろう。これまでの礼に、土産も用意してやる。光栄に思えよ！」"
+
+msgid "DC-SES0422"
+msgstr "ザビーネ__「ハッハッハッ！ついにうちの船に乗る気になったか？でもな、それはダメだ。お前にはお前のやる事がある。それから目をそらすな、真っ直ぐ行け。私もそうするからな。」"
+
+msgid "DC-SES0423"
+msgstr "ザビーネ__「言うようになったな、コイツめ。見てろ、見たこともないような品を仕入れてきてやる。買うのはお前だ。わかったな？」"
+
+msgid "DC-SES042-Sel1"
+msgstr "お気をつけて、船長"
+
+msgid "DC-SES042-Sel2"
+msgstr "自分達も行きます"
+
+msgid "DC-SES042-Sel3"
+msgstr "お土産待ってます"
+
+msgid "DC-SES051"
+msgstr "ダーヴィン__「よう、旦那。単刀直入に聞こう、何を調べて欲しくて俺を雇った？」"
+
+msgid "DC-SES0511"
+msgstr "ダーヴィン__「いいぞ、任せてくれ。そうだな、この辺りだと、腕のいい職人なんかがいる。武具を見てもらえるだろう。どれ、すぐに案内しようか。」"
+
+msgid "DC-SES0512"
+msgstr "ダーヴィン__「危険な任務だな。だが、それだけの価値はある。いいだろう、調べがついたら知らせよう、きっと後悔させないぜ」"
+
+msgid "DC-SES0513"
+msgstr "ダーヴィン__「…なるほど、旦那の意図がわかりましたぜ。あくまで前に出て戦うのは自分達って事か。なら、俺ができる事は、支援って事だな。」"
+
+msgid "DC-SES051-Sel1"
+msgstr "優れた支援者の発掘"
+
+msgid "DC-SES051-Sel2"
+msgstr "魔王軍の動向"
+
+msgid "DC-SES051-Sel3"
+msgstr "調査は必要ない"
+
+msgid "DC-SES052"
+msgstr "ダーヴィン__「う、グッ… 旦那、ここにいたんですかい… 探したっての…」__腹部に深手を負いながらも、彼はあなた方に伝えたい事があるようだ。"
+
+msgid "DC-SES0521"
+msgstr "ダーヴィン__「お気遣いは結構、そういう仕事だ、旦那もそうだろ…？ いいか、魔王の弱点を突き止めた… おかげで取り巻きに追われてこのザマさ… なに、死にはせんさ、このくらい」"
+
+msgid "DC-SES0522"
+msgstr "ダーヴィン__「フフ、そんで2代目私立探偵ダーヴィンは旦那が務めてくれるかい？悪くねぇ冗談だ、旦那なら良い探偵になれますぜ…」"
+
+msgid "DC-SES0523"
+msgstr "ダーヴィン__「せっかちな旦那だ、タバコぐらい先に吸わせてくれ… この袋、持ってってくれ。苦労したんだ、うまく使ってくれよ。」"
+
+msgid "DC-SES052-Sel1"
+msgstr "大丈夫か？すぐに手当を"
+
+msgid "DC-SES052-Sel2"
+msgstr "お前はもう無茶はするな"
+
+msgid "DC-SES052-Sel3"
+msgstr "何があった？答えろ"
+
+msgid "DC-SES061"
+msgstr "アデラ__「未来を少し、お見せしましょう。さぁ、強く念じて、私の言う通りにしてください…」"
+
+msgid "DC-SES0611"
+msgstr "アデラ__「…ほんの少しだけ、あなた方にも、近い未来を見通す力が授かりました。この力を、きっと、人々のために役立ててくださいね。」"
+
+msgid "DC-SES0612"
+msgstr "アデラ__「…見えましたか？幾つかの山を超え、その先に、あなた方を導く霊のビジョンが見えます。必ず立ち寄ってください。」"
+
+msgid "DC-SES0613"
+msgstr "アデラ__「…明日のあなたは、今のあなたの何倍もの強さを持っていました。強い意志をお持ちなのですね。あなた方の未来に、幸あらんことを…」"
+
+msgid "DC-SES061-Sel1"
+msgstr "水晶に手をかざす"
+
+msgid "DC-SES061-Sel2"
+msgstr "手を組み強く念じる"
+
+msgid "DC-SES061-Sel3"
+msgstr "目を閉じ静かに祈る"
+
+msgid "DC-SES062"
+msgstr "アデラ__「率直にお聞きします。あなた方は… いえ、あなた方に寄り添うこの不思議な力は… もしやあなた方は、未来からの干渉を受けていらっしゃいませんか？」"
+
+msgid "DC-SES0621"
+msgstr "アデラ__「にわかには信じがたいですが、きっと本当の事なのでしょう。皆さんが世界のために戦ってくださっている事はよくわかりました。これからも、よろしくお願いいたします。」"
+
+msgid "DC-SES0622"
+msgstr "アデラ__「やはりそうですか… あなた方は、未来を変える使命を負った、言わば神のご意思の代弁者。未来を変える者に力を貸すのが、私達血族が帯びた使命です。」"
+
+msgid "DC-SES0623"
+msgstr "アデラ__「…隠す事情がおありですのね。わかりました。では、これは独り言です。多くの未来を見た者ならば、まだ見ぬ未来でも起きる事が予測できるでしょう。そう、彼女に伝えてあげて。」"
+
+msgid "DC-SES062-Sel1"
+msgstr "それとなく認める"
+
+msgid "DC-SES062-Sel2"
+msgstr "状況を詳細に教える"
+
+msgid "DC-SES062-Sel3"
+msgstr "嘘をついてはぐらかす"
+
+msgid "DC-SES071"
+msgstr "ジェラール__「ようこそ！今日来てもらったのは他でもない。君達にも、各国の要人が集まる茶会に出席してもらおうと思ってね。」"
+
+msgid "DC-SES0711"
+msgstr "ジェラール__「君らなら素直に受けてくれると思っていたよ。大事な会合だ。これからの国の行く末に関わる、大事な、ね。」"
+
+msgid "DC-SES0712"
+msgstr "ジェラール__「…君らの冒険のために、後援者を集めている。今日はその顔見せだ。なに、自然体でいいよ。彼らも君らに社交性を求めているわけではない。」"
+
+msgid "DC-SES0713"
+msgstr "ジェラール__「そうなのか、残念だなぁ… 君らの分の食事も用意させてあったのだがな。仕方がない、包んで持って行っていただくとしようか」"
+
+msgid "DC-SES071-Sel1"
+msgstr "わかりました、喜んで"
+
+msgid "DC-SES071-Sel2"
+msgstr "何のために？"
+
+msgid "DC-SES071-Sel3"
+msgstr "そんな暇はありません"
+
+msgid "DC-SES072"
+msgstr "ジェラール__「実に素晴らしい出来だ！君らの冒険の話を、詩にしたんだ。きっと後世の人々も、君らの活躍をこの詩を通して称賛し続けるだろう。」"
+
+msgid "DC-SES0721"
+msgstr "ジェラール__「常に先を見ているのだな。流石だ。それでは、この詩は完成したその日、お聞かせするとしよう。君達の目的が完遂され、一大叙事詩が完成するその日に。」"
+
+msgid "DC-SES0722"
+msgstr "ジェラール__「破滅の未来を避けるための旅だろう。知っているよ、私も。なに、今日は泊まっていくと良い。今晩は、是非話を聞かせてくれないか。隠れている、彼女の話もね。」"
+
+msgid "DC-SES0723"
+msgstr "ジェラール__「そうだろう！？それはとても良い事だ。自信を持って前に進み給え。自信は君らに結果をもたらす。そして結果がさらなる自信を与えるだろう。」"
+
+msgid "DC-SES072-Sel1"
+msgstr "冒険はまだ終わっていない"
+
+msgid "DC-SES072-Sel2"
+msgstr ""後世の人々"がいれば、の話だ"
+
+msgid "DC-SES072-Sel3"
+msgstr "悪い気はしない"
+
+msgid "DC-SES081"
+msgstr "ルハインツ__「ありゃ、見つかっちゃったかの… すまんが、多分しばらくしたらここに事務長が探しに来る。わしはあっち行ったと伝えてくれ… まだ帰りたくないんじゃよ」"
+
+msgid "DC-SES0811"
+msgstr "ルハインツ__「うぐ… お前さん達、足元見るタイプか…？ 仕方ないのう、後で良い事教えてあげるから！約束通り、頼んだぞ！」"
+
+msgid "DC-SES0812"
+msgstr "ルハインツ__「お、興味あるかの？実はな、この辺りの古跡を巡っておったんじゃ。仕事サボってな、ほっほっほっ。」"
+
+msgid "DC-SES0813"
+msgstr "ルハインツ__「おいおい、お前さん達まで来るのか。これは参ったな。じゃがまぁ、旅は道連れか。どれ、そこまで一緒に行くとするか。」"
+
+msgid "DC-SES081-Sel1"
+msgstr "タダで見逃せと？"
+
+msgid "DC-SES081-Sel2"
+msgstr "ここで何してるんですか"
+
+msgid "DC-SES081-Sel3"
+msgstr "面白そうだから自分も隠れる"
+
+msgid "DC-SES082"
+msgstr "ルハインツ__「フム… お前さん達は、天才だ。路傍に落ちた稀晶石のかけら。ほっとくのがもったいないタイプ。だから、正直色々と教えてやりたいのよ。」"
+
+msgid "DC-SES0821"
+msgstr "ルハインツ__「意外じゃな！素直に聞くとは。まぁいいか。それじゃあ始めるとするかの、世界に5人しかいない、大賢聖の授業を…」"
+
+msgid "DC-SES0822"
+msgstr "ルハインツ__「意外じゃな！素直に聞くとは。まぁいいか。それじゃあ始めるとするかの、世界に5人しかいない、大賢聖の授業を…」"
+
+msgid "DC-SES0823"
+msgstr "ルハインツ__「そうか。残念じゃが、大事なのはお前さん達自身の気持ちじゃからな。ワシは今まで通り、おせっかいな爺さんとして見守らせてもらうとするよ。」"
+
+msgid "DC-SES082-Sel1"
+msgstr "请教"
+
+msgid "DC-SES082-Sel2"
+msgstr "没有什么可以教"
+
+msgid "DC-SES082-Sel3"
+msgstr "我要坚强与我们自己的力量"
+
+msgid "DC-Shop-JB05"
+msgstr "死神的数字是看到的最后一个人的身影.__在女孩的死亡结束时，她退出了收割机的工作，并开始周游世界.__当她问发生了什么事，她只微笑黯然。"
+
+msgid "DC-Shop-Rest"
+msgstr "休息了一晚上，所有状态都得到了恢复！经过了1天"
+
+msgid "DC-SkillHiding"
+msgstr "-技能隐藏中-"
+
+msgid "DC-SkillNode-Acid"
+msgstr "装备劣化"
+
+msgid "DC-SkillNode-Attack"
+msgstr "攻击"
+
+msgid "DC-SkillNode-Brave-"
+msgstr "Brave减少"
+
+msgid "DC-SkillNode-Brave+"
+msgstr "Brave增加"
+
+msgid "DC-SkillNode-Brave++"
+msgstr "Brave增加"
+
+msgid "DC-SkillNode-CD-"
+msgstr "随机技能CD减少"
+
+msgid "DC-SkillNode-CD+"
+msgstr "随机技能CD增加"
+
+msgid "DC-SkillNode-CD+All"
+msgstr "所有技能CD增加"
+
+msgid "DC-SkillNode-CD-All"
+msgstr "所有技能CD减少"
+
+msgid "DC-SkillNode-Cure"
+msgstr "解除异常状态"
+
+msgid "DC-SkillNode-CureAll"
+msgstr "解除所有异常状态"
+
+msgid "DC-SkillNode-GainGold"
+msgstr "获得金币"
+
+msgid "DC-SkillNode-GainItem"
+msgstr "获得道具"
+
+msgid "DC-SkillNode-GainMinion"
+msgstr "获得使魔"
+
+msgid "DC-SkillNode-Heal"
+msgstr "HP回复"
+
+msgid "DC-SkillNode-HP-"
+msgstr "HP减少"
+
+msgid "DC-SkillNode-Passive*"
+msgstr "获得永久能力"
+
+msgid "DC-SkillNode-Passive+"
+msgstr "获得永久能力"
+
+msgid "DC-SkillNode-Refresh"
+msgstr "解除所有临时状态"
+
+msgid "DC-SkillNode-RemovePassive"
+msgstr "解除永久能力"
+
+msgid "DC-SkillNode-RemoveState"
+msgstr "解除状态"
+
+msgid "DC-SkillNode-Revive"
+msgstr "复活"
+
+msgid "DC-SkillNode-Shield-"
+msgstr "护盾减少"
+
+msgid "DC-SkillNode-Shield+"
+msgstr "获得护盾"
+
+msgid "DC-SkillNode-State*"
+msgstr "附加状态"
+
+msgid "DC-SkillNode-State+"
+msgstr "附加状态"
+
+msgid "DC-SkillNode-StateLast+"
+msgstr "延长持续回合"
+
+msgid "DC-SkillNode-Temp-"
+msgstr "解除状态"
+
+msgid "DC-SM0001"
+msgstr "威力增加"
+
+msgid "DC-SM0002"
+msgstr "有时不触发CD"
+
+msgid "DC-SM0003"
+msgstr "有时不消耗Brave"
+
+msgid "DC-SM0004"
+msgstr "吸收伤害"
+
+msgid "DC-SM0005"
+msgstr "使用时增加Brave"
+
+msgid "DC-SM0006"
+msgstr "必中"
+
+msgid "DC-SM0007"
+msgstr "无视防御"
+
+msgid "DC-SM0008"
+msgstr "效果增加1回合"
+
+msgid "DC-SM0009"
+msgstr "Quick化，回合内第1次行动不消耗回合"
+
+msgid "DC-SM0010"
+msgstr "打倒敌人时有时会提高额外的等级"
+
+msgid "DC-SM0011"
+msgstr "打倒敌人时减少技能CD"
+
+msgid "DC-SM0012"
+msgstr "使用时我方全员Brave增加"
+
+msgid "DC-SM0013"
+msgstr "有时会增加使用次数"
+
+msgid "DC-SM0014"
+msgstr "机会通过获得“隔离” / 2转动"
+
+msgid "DC-SM0015"
+msgstr "不再有CD，但是消耗的Brave增加"
+
+msgid "DC-Special-In-Chronochest"
+msgstr "※这里的角色__包含在时之宝箱里。__直接购买后会从时之宝箱中去除。__时之宝箱被全部开启的时候__是可以获得这里的角色的。"
+
+msgid "DC-StartAdventure"
+msgstr "开始新的冒险。"
+
+msgid "DC-StayTunedNextSeason"
+msgstr "下次活动预定将于{0}开始。敬请关注！"
+
+msgid "DC-STC001"
+msgstr "每次访问祠堂时，获得Brave回复/回合"
+
+msgid "DC-STC002"
+msgstr "每次消耗Brave时，会有几率重置所有技能CD（Brave越高几率越高）"
+
+msgid "DC-STC003"
+msgstr "使用基于Spl的技能时，会追加普通攻击"
+
+msgid "DC-STC004"
+msgstr "每当你进行普通攻击时，敌人身上的debuff会延长1回合"
+
+msgid "DC-STC005"
+msgstr "每当你击败一个boss时，HP和Brave全回复"
+
+msgid "DC-STC006"
+msgstr "每次攻击时有几率让对方即死（对方HP越少几率越高）"
+
+msgid "DC-STC007"
+msgstr "每次攻击时，回复队友的HP"
+
+msgid "DC-STC008"
+msgstr "每当你通关一个地牢时，发现该区域的所有资源点"
+
+msgid "DC-STC009"
+msgstr "每次购买道具时，有几率提高支援者的等级"
+
+msgid "DC-STC010"
+msgstr "遇到boss怪物时，全员Brave全回复"
+
+msgid "DC-STC011"
+msgstr "攻击时，对方身上的延迟伤害debuff回合减少"
+
+msgid "DC-STC012"
+msgstr "对动物系敌人造成的伤害+100%"
+
+msgid "DC-STC013"
+msgstr "造成冻结效果时，有一定几率其持续时间为永久"
+
+msgid "DC-STC014"
+msgstr "降低敌人初始Brave"
+
+msgid "DC-STC015"
+msgstr "给敌人造成烧伤时，自己的HP回复"
+
+msgid "DC-STC016"
+msgstr "每天开始时，【死亡】状态的队员会以最大HP复活"
+
+msgid "DC-STC017"
+msgstr "队友受到伤害时，攻击者会获得【触电】debuff"
+
+msgid "DC-STC018"
+msgstr "队友击晕的目标受到的伤害增加25%"
+
+msgid "DC-STC019"
+msgstr "每次逃跑后，队伍的HP和Brave全回复"
+
+msgid "DC-STC020"
+msgstr "获得消耗品时，总会多获得一个"
+
+msgid "DC-STC021"
+msgstr "当你访问村落时，装备的等级也会提高"
+
+msgid "DC-STC022"
+msgstr "材料不足时，装备零件的装配率提升"
+
+msgid "DC-STC023"
+msgstr "同时拥有护盾和召唤伤害时，本体不会受到伤害"
+
+msgid "DC-STC024"
+msgstr "每次击败恶魔头目后，专属装备的基础属性提升"
+
+msgid "DC-STC025"
+msgstr "ATK每回合都会增加（持续1天）"
+
+msgid "DC-STC026"
+msgstr "每次攻击时消耗25点Brave，必暴"
+
+msgid "DC-STC027"
+msgstr "最大HP*0.5，Spl*2"
+
+msgid "DC-STC028"
+msgstr "每当你恶魔头目时，所有的技能等级提升"
+
+msgid "DC-STC029"
+msgstr "攻击出血的目标时，会增加出血的伤害"
+
+msgid "DC-STC030"
+msgstr "受到大量伤害时，所有技能CD重置"
+
+msgid "DC-STC031"
+msgstr "你的毒不会被抵抗"
+
+msgid "DC-STC032"
+msgstr "访问村落时，能够发现其他的隐藏村落"
+
+msgid "DC-STC033"
+msgstr "每次访问村落时，等级+1"
+
+msgid "DC-STC034"
+msgstr "访问村落时，所有技能等级+1"
+
+msgid "DC-STC035"
+msgstr "攻击时有一定几率造成昏迷"
+
+msgid "DC-STC036"
+msgstr "Brave全满时，对自身造成的治疗量*2"
+
+msgid "DC-STG001"
+msgstr ":@DC-STG005"
+
+msgid "DC-STG002"
+msgstr ":@DC-STG006"
+
+msgid "DC-STG003"
+msgstr ":@DC-STG005"
+
+msgid "DC-STG004"
+msgstr ":@DC-STG006"
+
+msgid "DC-STG005"
+msgstr "增加/减少HP最大值。"
+
+msgid "DC-STG006"
+msgstr "增加/减少最大Brave值。"
+
+msgid "DC-STG007"
+msgstr ":@DC-STG005"
+
+msgid "DC-STG008"
+msgstr ":@DC-STG006"
+
+msgid "DC-STG009"
+msgstr ":@DC-STG013"
+
+msgid "DC-STG010"
+msgstr ":@DC-STG013"
+
+msgid "DC-STG011"
+msgstr ":@DC-STG013"
+
+msgid "DC-STG012"
+msgstr ":@DC-STG013"
+
+msgid "DC-STG013"
+msgstr "增加/减少基础属性。"
+
+msgid "DC-STG014"
+msgstr ":@DC-STG013"
+
+msgid "DC-STG015"
+msgstr ":@DC-STG013"
+
+msgid "DC-STG016"
+msgstr ":@DC-STG013"
+
+msgid "DC-STG017"
+msgstr ":@DC-STG019"
+
+msgid "DC-STG018"
+msgstr ":@DC-STG019"
+
+msgid "DC-STG019"
+msgstr "增加/减少普通攻击・Atk型技能的伤害。"
+
+msgid "DC-STG020"
+msgstr ":@DC-STG019"
+
+msgid "DC-STG021"
+msgstr ":@DC-STG023"
+
+msgid "DC-STG022"
+msgstr ":@DC-STG023"
+
+msgid "DC-STG023"
+msgstr "增加/减少Spl型技能的威力"
+
+msgid "DC-STG024"
+msgstr ":@DC-STG023"
+
+msgid "DC-STG025"
+msgstr "每回合结束时造成伤害"
+
+msgid "DC-STG026"
+msgstr "该状态消失时，造成伤害。"
+
+msgid "DC-STG027"
+msgstr "【持续】或【延迟】效果的威力*2"
+
+msgid "DC-STG028"
+msgstr "访问村落后，Brave回复到最大值的2倍"
+
+msgid "DC-STG029"
+msgstr ":@DC-STG030"
+
+msgid "DC-STG030"
+msgstr "每回合恢复HP"
+
+msgid "DC-STG031"
+msgstr ":@DC-STG032"
+
+msgid "DC-STG032"
+msgstr "每天恢复HP。"
+
+msgid "DC-STG034"
+msgstr "Brave值越高，与Atk相关的伤害越高"
+
+msgid "DC-STG035"
+msgstr "Brave值越高，与Spl相关的伤害越高"
+
+msgid "DC-STG036"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG037"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG038"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG039"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG040"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG041"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG042"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG043"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG045"
+msgstr "增加/减少从技能获得的护盾量。"
+
+msgid "DC-STG046"
+msgstr ":@DC-STG047"
+
+msgid "DC-STG047"
+msgstr "无视debuff效果的几率上升。"
+
+msgid "DC-STG048"
+msgstr ":@DC-STG215"
+
+msgid "DC-STG049"
+msgstr ":@DC-STG215"
+
+msgid "DC-STG050"
+msgstr ":@DC-STG215"
+
+msgid "DC-STG051"
+msgstr ":@DC-STG215"
+
+msgid "DC-STG052"
+msgstr ":@DC-STG053"
+
+msgid "DC-STG053"
+msgstr "增加/减少招架敌人攻击的几率。"
+
+msgid "DC-STG054"
+msgstr ":@DC-STG055"
+
+msgid "DC-STG055"
+msgstr "每次受到攻击时，对对方也造成伤害"
+
+msgid "DC-STG056"
+msgstr ":@DC-STG119"
+
+msgid "DC-STG057"
+msgstr ":@DC-STG119"
+
+msgid "DC-STG058"
+msgstr ":@DC-STG119"
+
+msgid "DC-STG059"
+msgstr ":@DC-STG119"
+
+msgid "DC-STG060"
+msgstr "增加/减少你造成的治疗量。"
+
+msgid "DC-STG061"
+msgstr ":@DC-STG060"
+
+msgid "DC-STG062"
+msgstr "受你治疗的对象还会提高回避率和暴击率"
+
+msgid "DC-STG063"
+msgstr ":@DC-STG064"
+
+msgid "DC-STG064"
+msgstr "增加/减少暴击几率。"
+
+msgid "DC-STG065"
+msgstr "增加/减少暴击伤害。"
+
+msgid "DC-STG066"
+msgstr ":@DC-STG067"
+
+msgid "DC-STG067"
+msgstr "你的行动结束后，对敌人造成追加伤害。"
+
+msgid "DC-STG068"
+msgstr ":@DC-STG186"
+
+msgid "DC-STG069"
+msgstr ":@DC-STG186"
+
+msgid "DC-STG070"
+msgstr ":@DC-STG186"
+
+msgid "DC-STG071"
+msgstr ":@DC-STG186"
+
+msgid "DC-STG072"
+msgstr "提高debuff的命中率"
+
+msgid "DC-STG073"
+msgstr "提高找到稀有道具的几率"
+
+msgid "DC-STG074"
+msgstr ":@DC-STG075"
+
+msgid "DC-STG075"
+msgstr "使用普通攻击・Atk型技能时HP回复。"
+
+msgid "DC-STG076"
+msgstr ":@DC-STG077"
+
+msgid "DC-STG077"
+msgstr "使用Spl型技能时HP回复。"
+
+msgid "DC-STG078"
+msgstr "访问村落时，获得一个随机的道具。"
+
+msgid "DC-STG079"
+msgstr "可以查看敌人下一个使用的技能和被动能力"
+
+msgid "DC-STG080"
+msgstr "无视敌人的减伤/护盾效果"
+
+msgid "DC-STG081"
+msgstr "HP为25%以下时，技能的威力*2"
+
+msgid "DC-STG082"
+msgstr "只能进行普通攻击，Atk*2"
+
+msgid "DC-STG083"
+msgstr "获得的金币增加"
+
+msgid "DC-STG084"
+msgstr "可以看到随机事件的位置。"
+
+msgid "DC-STG085"
+msgstr "交易时有5%的几率免单"
+
+msgid "DC-STG086"
+msgstr "可以从地下城boss，诡计boss，进攻boss，恶魔头目那里获得更高级别的装备"
+
+msgid "DC-STG087"
+msgstr "回合结束时有25%的几率CD-1"
+
+msgid "DC-STG088"
+msgstr "受到致命伤时，有时能以1点HP撑住（受到的伤害超过你的HP上限时几率更高）"
+
+msgid "DC-STG089"
+msgstr "访问村落时，你的随机一件装备属性提升"
+
+msgid "DC-STG090"
+msgstr "普通攻击优先攻击后卫"
+
+msgid "DC-STG091"
+msgstr "HP全满时受到的伤害降低50%。"
+
+msgid "DC-STG092"
+msgstr "提高普通攻击连击的几率。"
+
+msgid "DC-STG093"
+msgstr ":@DC-STG094"
+
+msgid "DC-STG094"
+msgstr "给敌人造成【延迟】伤害的效果量增加。"
+
+msgid "DC-STG095"
+msgstr "受到Atk型攻击时会承受额外的伤害"
+
+msgid "DC-STG096"
+msgstr "受到Spl型攻击时会承受额外的伤害"
+
+msgid "DC-STG097"
+msgstr "受到Spl型攻击时会承受额外的伤害"
+
+msgid "DC-STG098"
+msgstr "受到Atk型攻击时会承受额外的伤害"
+
+msgid "DC-STG099"
+msgstr "【烧伤】的威力增加。"
+
+msgid "DC-STG100"
+msgstr "【冻结】的威力增加"
+
+msgid "DC-STG101"
+msgstr "【触电】的威力增加"
+
+msgid "DC-STG102"
+msgstr "【出血】的威力增加"
+
+msgid "DC-STG103"
+msgstr "有25%的概率替代后卫承受伤害"
+
+msgid "DC-STG104"
+msgstr "队友【死亡】时，受到的伤害降低50%"
+
+msgid "DC-STG105"
+msgstr "【羁绊奥义】的使用条件大幅降低"
+
+msgid "DC-STG106"
+msgstr "当你拥有护盾时，单体Spl型技能会造成追加伤害"
+
+msgid "DC-STG107"
+msgstr "当你拥有护盾时，单体Spl型技能会造成追加伤害"
+
+msgid "DC-STG108"
+msgstr "根据自身的Brave值提高治疗量"
+
+msgid "DC-STG109"
+msgstr "目标HP为30%以下时治疗量*2"
+
+msgid "DC-STG110"
+msgstr "每当你的攻击增益“攻击的数量”。（+5％/ 10旋转）"
+
+msgid "DC-STG111"
+msgstr ":@DC-STG215"
+
+msgid "DC-STG112"
+msgstr ":@DC-STG215"
+
+msgid "DC-STG113"
+msgstr "连击次数上限提升。"
+
+msgid "DC-STG114"
+msgstr ":@DC-STG116"
+
+msgid "DC-STG115"
+msgstr ":@DC-STG116"
+
+msgid "DC-STG116"
+msgstr "增加/减少造成的伤害。"
+
+msgid "DC-STG117"
+msgstr ":@DC-STG116"
+
+msgid "DC-STG118"
+msgstr ":@DC-STG119"
+
+msgid "DC-STG119"
+msgstr "降低受到的伤害。"
+
+msgid "DC-STG120"
+msgstr "每天恢复Brave值。"
+
+msgid "DC-STG121"
+msgstr "每回合结束时回复Brave值。"
+
+msgid "DC-STG122"
+msgstr "与HP/Brave变动相关的效果无效。"
+
+msgid "DC-STG123"
+msgstr "状态正常结束时，对敌全体造成伤害。"
+
+msgid "DC-STG124"
+msgstr "对队友造成的伤害也会触发【反伤】"
+
+msgid "DC-STG125"
+msgstr "治疗队友时，也会治疗自身，效果为治疗量的25%"
+
+msgid "DC-STG126"
+msgstr "治疗队友时，还会顺便解除一个debuff"
+
+msgid "DC-STG127"
+msgstr "队友受到伤害时，自己的Brave+5"
+
+msgid "DC-STG128"
+msgstr "队友【死亡】时，Atk+50%"
+
+msgid "DC-STG129"
+msgstr "使用技能时，队友的Spl增加"
+
+msgid "DC-STG130"
+msgstr "队友【死亡】时，Brave+25/每回合"
+
+msgid "DC-STG131"
+msgstr "降低队友受到的伤害20%"
+
+msgid "DC-STG132"
+msgstr "队友受到伤害时，自己造成的伤害增加"
+
+msgid "DC-STG133"
+msgstr "打倒敌人时，我方全员Brave+10"
+
+msgid "DC-STG134"
+msgstr "队友不会陷入【昏迷】"
+
+msgid "DC-STG135"
+msgstr "队友获得护盾时，自身也会获得一个相当于他护盾量25%的护盾。"
+
+msgid "DC-STG136"
+msgstr "使用技能时，我方全员的影响力增加。"
+
+msgid "DC-STG137"
+msgstr "队友获得异常状态时，自身获得异常状态耐性"
+
+msgid "DC-STG138"
+msgstr "队友普通攻击时，自身获得连击+%"
+
+msgid "DC-STG139"
+msgstr "打倒敌人时，我方全员回复10%HP"
+
+msgid "DC-STG140"
+msgstr "队友成为敌人技能的目标时，队友获得回避"
+
+msgid "DC-STG141"
+msgstr "带有召唤伤害buff时，我方全员受到的伤害-10%"
+
+msgid "DC-STG142"
+msgstr "每次攻击时，追加毒/5回合效果"
+
+msgid "DC-STG143"
+msgstr "HP为0时也不会【死亡】"
+
+msgid "DC-STG144"
+msgstr "使用技能不消耗Brave"
+
+msgid "DC-STG145"
+msgstr "使用技能会自动多放一次，同时每回合CD-1"
+
+msgid "DC-STG146"
+msgstr "下一个使用的技能会消耗所有的Brave，增加技能威力"
+
+msgid "DC-STG147"
+msgstr "Spl型技能的效果发动2次"
+
+msgid "DC-STG148"
+msgstr "增加/减少受到的伤害"
+
+msgid "DC-STG149"
+msgstr "攻击时会追加【烧伤】效果"
+
+msgid "DC-STG150"
+msgstr "攻击时会追加【触电】效果"
+
+msgid "DC-STG151"
+msgstr "攻击时会追加【冻结】效果"
+
+msgid "DC-STG152"
+msgstr "攻击命中时，本回合伤害提升"
+
+msgid "DC-STG153"
+msgstr "访问村落时，可以获得回复道具"
+
+msgid "DC-STG154"
+msgstr "攻击时会获得Brave"
+
+msgid "DC-STG155"
+msgstr "拥有护盾时，受到的伤害-20%"
+
+msgid "DC-STG156"
+msgstr "行动结束时会对敌人造成额外伤害"
+
+msgid "DC-STG157"
+msgstr "受到伤害时获得Brave"
+
+msgid "DC-STG158"
+msgstr "击败敌人时获得Brave"
+
+msgid "DC-STG159"
+msgstr ":@DC-STG162"
+
+msgid "DC-STG160"
+msgstr ":@DC-STG162"
+
+msgid "DC-STG161"
+msgstr ":@DC-STG162"
+
+msgid "DC-STG162"
+msgstr "效果回合数延长。"
+
+msgid "DC-STG163"
+msgstr ":@DC-STG162"
+
+msgid "DC-STG164"
+msgstr ":@DC-STG162"
+
+msgid "DC-STG165"
+msgstr "每天恢复所有debuff。"
+
+msgid "DC-STG166"
+msgstr "消耗Brave时，攻击力提高/5回合"
+
+msgid "DC-STG167"
+msgstr "普通攻击后，获得【隔绝】/2回合"
+
+msgid "DC-STG168"
+msgstr "访问村落时，获得Brave/每天"
+
+msgid "DC-STG169"
+msgstr "击败恶魔头目时，羁绊等级和所有支援者等级+1"
+
+msgid "DC-STG170"
+msgstr "降低Brave消耗"
+
+msgid "DC-STG171"
+msgstr "通关地下城时获得的道具量增加"
+
+msgid "DC-STG172"
+msgstr ":@DC-STG173"
+
+msgid "DC-STG173"
+msgstr "击败敌人时HP回复"
+
+msgid "DC-STG174"
+msgstr "通关地下城时，使魔+1"
+
+msgid "DC-STG175"
+msgstr "通关街道时，HP/Brave全回复"
+
+msgid "DC-STG176"
+msgstr "使用消耗品时，有15%的几率不消耗该物品"
+
+msgid "DC-STG177"
+msgstr "施放技能时偶尔不需要消耗Brave"
+
+msgid "DC-STG178"
+msgstr "阻止诡计时可以获得更多的Find值"
+
+msgid "DC-STG179"
+msgstr ":@DC-STG180"
+
+msgid "DC-STG180"
+msgstr "战斗开始时获得护盾"
+
+msgid "DC-STG181"
+msgstr "施放debuff时有几率回合数+1"
+
+msgid "DC-STG182"
+msgstr "访问村落时，获得召唤伤害+%/5天"
+
+msgid "DC-STG183"
+msgstr "提高魔王城出现的敌人等级。"
+
+msgid "DC-STG184"
+msgstr ":@DC-STG186"
+
+msgid "DC-STG185"
+msgstr ":@DC-STG186"
+
+msgid "DC-STG186"
+msgstr "命中率"
+
+msgid "DC-STG187"
+msgstr ":@DC-STG186"
+
+msgid "DC-STG188"
+msgstr "对敌人造成【持续】伤害的伤害量增加"
+
+msgid "DC-STG191"
+msgstr "支援王国军的进攻时不会增加其进度。"
+
+msgid "DC-STG192"
+msgstr "无法访问村落。"
+
+#, fuzzy
+msgid "DC-STG193"
+msgstr "Increased inner level."
+
+msgid "DC-STG194"
+msgstr "地下城敌人等级上升。"
+
+msgid "DC-STG195"
+msgstr "无法进行交易。"
+
+msgid "DC-STG196"
+msgstr "无法操作，随机施放技能。"
+
+msgid "DC-STG197"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG198"
+msgstr "增加/减少受到的属性伤害。"
+
+msgid "DC-STG199"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG200"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG201"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG202"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG203"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG204"
+msgstr ":@DC-STG198"
+
+msgid "DC-STG205"
+msgstr "提高异常状态施放成功率"
+
+msgid "DC-STG206"
+msgstr ":@DC-STG205"
+
+msgid "DC-STG207"
+msgstr ":@DC-STG148"
+
+msgid "DC-STG208"
+msgstr ":@DC-STG148"
+
+msgid "DC-STG209"
+msgstr ":@DC-STG148"
+
+msgid "DC-STG210"
+msgstr ":@DC-STG148"
+
+msgid "DC-STG211"
+msgstr ":@DC-STG212"
+
+msgid "DC-STG212"
+msgstr "增加/减少技能CD"
+
+msgid "DC-STG213"
+msgstr "增加/减少Brave花费"
+
+msgid "DC-STG214"
+msgstr ":@DC-STG215"
+
+msgid "DC-STG215"
+msgstr "增加/减少回避率"
+
+msgid "DC-STG216"
+msgstr "【死亡】时，随机封印敌方的一个技能"
+
+msgid "DC-STG217"
+msgstr "使用技能后获得Brave"
+
+msgid "DC-STG218"
+msgstr "给普通攻击・Atk型技能附加属性"
+
+msgid "DC-STG219"
+msgstr ":@DC-STG218"
+
+msgid "DC-STG220"
+msgstr ":@DC-STG218"
+
+msgid "DC-STG221"
+msgstr ":@DC-STG218"
+
+msgid "DC-STG222"
+msgstr "叠加到100时【死亡】"
+
+msgid "DC-STG223"
+msgstr "受到攻击时，攻击者会受到【石化】效果（【石化】叠到100时会立刻【死亡】）"
+
+msgid "DC-STG224"
+msgstr "每回合减少Brave值"
+
+msgid "DC-STG225"
+msgstr "每天减少Brave值"
+
+msgid "DC-STG226"
+msgstr "陷入【死亡】时，立刻复活"
+
+msgid "DC-STG227"
+msgstr "无法行动"
+
+msgid "DC-STG228"
+msgstr "访问村落时，使魔+1"
+
+msgid "DC-STG229"
+msgstr "每回合对敌人造成【冻结】效果"
+
+msgid "DC-STG230"
+msgstr "更容易发现隐藏的地点"
+
+msgid "DC-STG231"
+msgstr "对龙系造成的伤害+100%"
+
+msgid "DC-STG232"
+msgstr "人物无法升级"
+
+msgid "DC-STG233"
+msgstr "对敌人施放的单体攻击将会攻击自己"
+
+msgid "DC-STG234"
+msgstr "战斗后，有时等级会额外+1"
+
+msgid "DC-STG240"
+msgstr "下一次与支援者的交易会免单"
+
+msgid "DC-STG241"
+msgstr "交易费用*2"
+
+msgid "DC-STG242"
+msgstr "人物等级更难上升了"
+
+msgid "DC-STG243"
+msgstr "消耗使魔，发现所有已进入区域内还未发现的祠堂"
+
+msgid "DC-STG244"
+msgstr "消耗使魔，短时间内获得召唤伤害的buff"
+
+msgid "DC-STG245"
+msgstr "消耗使魔，短时间内在战斗开始时获得护盾。"
+
+msgid "DC-STG246"
+msgstr "增加/减少特定地点的发现概率"
+
+msgid "DC-STG247"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG248"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG249"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG250"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG251"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG252"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG253"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG254"
+msgstr "攻击时追加【出血】效果"
+
+msgid "DC-STG255"
+msgstr "自身回复HP时，顺便解除一个debuff"
+
+msgid "DC-STG256"
+msgstr "打倒敌人时回复HP"
+
+msgid "DC-STG257"
+msgstr "打倒boss时回复Brave"
+
+msgid "DC-STG258"
+msgstr "增加“考虑伤害+”的目标来造成伤害"
+
+msgid "DC-STG259"
+msgstr "【混乱】【忘却】无效"
+
+msgid "DC-STG260"
+msgstr "每次进入祠堂后，所有技能等级+1"
+
+msgid "DC-STG261"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG262"
+msgstr ":@DC-STG246"
+
+msgid "DC-STG263"
+msgstr "降低仇恨"
+
+msgid "DC-STG264"
+msgstr "每天开始时会受到一次伤害"
+
+msgid "DC-STG265"
+msgstr "每天开始时会受到一次伤害"
+
+msgid "DC-STG266"
+msgstr "每回合开始时受到伤害"
+
+msgid "DC-STG267"
+msgstr "每回合开始时受到伤害"
+
+msgid "DC-STG268"
+msgstr "降低装备效果的能力无效"
+
+msgid "DC-STG269"
+msgstr "消耗使魔，HP/Brave全回复+异常状态全解除"
+
+msgid "DC-STG270"
+msgstr "所有技能升级"
+
+msgid "DC-STG271"
+msgstr "有一定几率技能不进入CD"
+
+msgid "DC-STG272"
+msgstr "使用的技能CD越长技能威力越高"
+
+msgid "DC-STG273"
+msgstr "增加/减少受到的治疗效果"
+
+msgid "DC-STG274"
+msgstr "增加/减少受到的治疗效果"
+
+msgid "DC-STG275"
+msgstr "通常攻击和技能有一定几率Quick化"
+
+msgid "DC-STG276"
+msgstr "治疗可以使HP突破上限（最大值为生命的200%）"
+
+msgid "DC-STG277"
+msgstr "每次攻击都能减少对方的Brave值"
+
+msgid "DC-STL001"
+msgstr "每次普通攻击时，获得【回避】效果/5回合"
+
+msgid "DC-STL002"
+msgstr "造成的【延迟】伤害效果持续回合数-1"
+
+msgid "DC-STL003"
+msgstr "造成伤害时，额外扣除敌方现有HP的1%"
+
+msgid "DC-STL004"
+msgstr "如果攻击未命中，则下一回合暴击率提高到100%"
+
+msgid "DC-STL005"
+msgstr "命中率*0.5，但造成的伤害*2"
+
+msgid "DC-STL006"
+msgstr "Brave不再自动增加，所有技能的CD-1/每回合"
+
+msgid "DC-STL007"
+msgstr "单体攻击的技能变为全体攻击"
+
+msgid "DC-STL008"
+msgstr "被施加Debuff时，获得每回合回复HP的效果"
+
+msgid "DC-STL009"
+msgstr "访问村落时，有时支援者的等级会额外+1"
+
+msgid "DC-STL010"
+msgstr "获得的【召唤伤害】效果持续时间*2"
+
+msgid "DC-STL011"
+msgstr "每回合，随机一个技能CD-1"
+
+msgid "DC-STL012"
+msgstr "暴击时，暴击率提升"
+
+msgid "DC-STL013"
+msgstr "通常攻击时追加【污染】效果"
+
+msgid "DC-STL014"
+msgstr "Brave在50以上时，获得量*2；Brave在50以下时，获得量*0.5"
+
+msgid "DC-STL015"
+msgstr "每回合，获得微量护盾"
+
+msgid "DC-STL016"
+msgstr "提高获得的装备品等级"
+
+msgid "DC-STL017"
+msgstr "消耗Brave时，获得回避"
+
+msgid "DC-STL018"
+msgstr "普通攻击有极低的几率立刻杀死敌人。（1%）"
+
+msgid "DC-STL019"
+msgstr "击败敌人时获得持续回复效果"
+
+msgid "DC-STL020"
+msgstr "队友【死亡】时，自己也不活了"
+
+msgid "DC-STL021"
+msgstr "通关区域内所有地下城时，能发现藏宝图"
+
+msgid "DC-STL022"
+msgstr "HP回复时，提高回复效果"
+
+msgid "DC-STL023"
+msgstr "施放【毒】效果的持续时间*2"
+
+msgid "DC-STL024"
+msgstr "战斗开始时，获得无敌/2回合"
+
+msgid "DC-STL025"
+msgstr "给敌人造成伤害时，也会对其追加【伤害降低】的debuff"
+
+msgid "DC-STL026"
+msgstr "对敌人施放debuff时不会被抵抗"
+
+msgid "DC-STL027"
+msgstr "【烧伤】・【冻结】・【触电】无效"
+
+msgid "DC-STL028"
+msgstr "击败敌人时，获得无敌（5回合）"
+
+msgid "DC-STL029"
+msgstr "战斗结束后护盾不会立即消失"
+
+msgid "DC-STL030"
+msgstr "穿上新装备时，随机一个技能等级+1"
+
+msgid "DC-STL031"
+msgstr "受到的所有debuff持续时间都会变为5回合"
+
+msgid "DC-STL032"
+msgstr "每天开始时，装备的等级有一定几率提高"
+
+msgid "DC-STL033"
+msgstr "造成的伤害与受到的伤害都*2"
+
+msgid "DC-STL034"
+msgstr "受到的伤害会直接返还给攻击者"
+
+msgid "DC-STL035"
+msgstr "受到伤害时，回复效果提高/1天"
+
+msgid "DC-STL036"
+msgstr "不会受到【持续伤害】效果"
+
+msgid "DC-STL037"
+msgstr "获得【召唤伤害】效果时，也会获得召唤伤害+%/5T"
+
+msgid "DC-STL038"
+msgstr "HP回复时，会清除所有debuff"
+
+msgid "DC-STL039"
+msgstr "队友【死亡】时，Brave全满"
+
+msgid "DC-STL040"
+msgstr "每回合都减少敌方全体Brave"
+
+msgid "DC-STL042"
+msgstr "陷入无法操作的状态时（昏迷，冻结等），不会再被施加其他异常状态"
+
+msgid "DC-STL043"
+msgstr "敌人治疗时反而会扣血"
+
+msgid "DC-STL044"
+msgstr "从古代系敌人那受到的伤害减半"
+
+msgid "DC-STL045"
+msgstr "敌全体HP每回合减少"
+
+msgid "DC-STL046"
+msgstr "敌人的【反伤】伤害将由敌人自己承担"
+
+msgid "DC-STL047"
+msgstr "HP每回合都会全满，但是最大HP变为1/4"
+
+msgid "DC-STL048"
+msgstr "获得的金币数量*2"
+
+msgid "DC-STL049"
+msgstr "Brave全满时，造成的伤害*2"
+
+msgid "DC-STL050"
+msgstr "自己被施加debuff时，敌全体也会获得同样的debuff"
+
+msgid "DC-STL051"
+msgstr "自身回复HP时，对敌全体造成等量的伤害"
+
+msgid "DC-STL052"
+msgstr "所有技能CD-1"
+
+msgid "DC-STL053"
+msgstr "使用Atk型技能时，会给敌全体造成额外的追加伤害"
+
+msgid "DC-STL054"
+msgstr "只有一个敌人时，全体攻击的效果*2"
+
+msgid "DC-STL055"
+msgstr "对敌人造成伤害时，追加易伤效果"
+
+msgid "DC-STL056"
+msgstr "使用Spl型技能时，会给敌全体造成额外的追加伤害"
+
+msgid "DC-STL057"
+msgstr "Brave不足10时，连击数+1"
+
+msgid "DC-STL058"
+msgstr "通常攻击时，获得招架/1T"
+
+msgid "DC-STL059"
+msgstr "给敌人造成伤害时，如果对方的HP超出了血量上限，则追加对方8%HP的伤害"
+
+msgid "DC-STL060"
+msgstr "HP回复/每回合，HP回复/每天的持续时间*2"
+
+msgid "DC-STL061"
+msgstr "对敌人施加【延迟】伤害效果时，追加【昏迷】效果"
+
+msgid "DC-STL062"
+msgstr "技能升级时，等级额外+1"
+
+msgid "DC-STL063"
+msgstr "通过普通攻击给予/受到的伤害都减半"
+
+msgid "DC-STL064"
+msgstr "掌握新技能时，技能等级+3"
+
+msgid "DC-STL065"
+msgstr "受到伤害的一半转化为【持续伤害】"
+
+msgid "DC-STL066"
+msgstr "勇敢的当您访问一个村庄会变成0"
+
+msgid "DC-STL067"
+msgstr "全属性耐性+25%"
+
+msgid "DC-STL068"
+msgstr "无视诡计的所有惩罚"
+
+msgid "DC-STL069"
+msgstr "受到伤害时，获得减伤效果"
+
+msgid "DC-STL070"
+msgstr "无视延长CD的效果"
+
+msgid "DC-STL071"
+msgstr "回避成功时，所有技能CD-1"
+
+msgid "DC-STL072"
+msgstr "治疗队友时，回复效果*2"
+
+msgid "DC-STL073"
+msgstr "普通攻击伤害+ 50％"
+
+msgid "DC-STL074"
+msgstr "羁绊等级Max时，Atk/Spl/Grd/Hrt+5"
+
+msgid "DC-STL075"
+msgstr "打倒敌人时，可以夺取敌人所有的buff（持续1天）"
+
+msgid "DC-STL076"
+msgstr "Brave低于25时，获得的Brave量*2"
+
+msgid "DC-STL077"
+msgstr "地图技能CD-2"
+
+msgid "DC-STL078"
+msgstr "获得的装备稀有度将会更高"
+
+msgid "DC-STL079"
+msgstr "战斗结束后，有时会获得一个随机的道具"
+
+msgid "DC-STL080"
+msgstr "Brave越高，受到的伤害越高"
+
+msgid "DC-STL081"
+msgstr "有一定几率免疫受到的伤害"
+
+msgid "DC-STL082"
+msgstr "debuff可以更快恢复"
+
+msgid "DC-STL083"
+msgstr "回合开始时，能以1点HP复活"
+
+msgid "DC-STL084"
+msgstr "获得的所有buff持续回合*2"
+
+msgid "DC-STL085"
+msgstr "每回合都能提高造成的伤害（1天）"
+
+msgid "DC-STL086"
+msgstr "获得的护盾量*2"
+
+msgid "DC-STL087"
+msgstr "攻击HP为16%以下的敌人时，可以使他立即死亡"
+
+msgid "DC-STL088"
+msgstr "你的治疗对自己将有3倍效果，但是不再能治疗队友"
+
+msgid "DC-STL089"
+msgstr "处于【混乱】状态时，Spl型技能的威力*3"
+
+msgid "DC-STL090"
+msgstr "支援者等级提升时，会直接提升到最大值"
+
+msgid "DC-STL091"
+msgstr "对神格系敌人造成的伤害*2"
+
+msgid "DC-STL092"
+msgstr "发现地点的概率提高到100%"
+
+msgid "DC-SupLvMax"
+msgstr "任意一名支援者的等级到达{0}"
+
+msgid "DC-SupLvMin"
+msgstr "所有支援者的等级到达{0}"
+
+msgid "DC-Tips-0"
+msgstr "你的金币可以带进下一次的冒险。在一次冒险结束时，剩余的所有道具都会自动换成金币。"
+
+msgid "DC-Tips-1"
+msgstr "等级越高，你击败敌人也会变得越容易。与boss敌人交战升级会更快。"
+
+msgid "DC-Tips-10"
+msgstr "访问村落可以提高支援者的等级，这样就可以从支援者那里购买更好的道具了。"
+
+msgid "DC-Tips-11"
+msgstr "支援者的等级提高，或者是恶魔头目的Find提高，都有几率触发一个可以获得大量奖赏的大型专有事件"
+
+msgid "DC-Tips-12"
+msgstr "魔王城和一些高难度地下城的等级会比普通地下城要高，并且他们的等级还会随着天数而提高。"
+
+msgid "DC-Tips-13"
+msgstr "探索过街道之后就可以进入一个新的区域了。区域中的地下城等级是根据天数来的。"
+
+msgid "DC-Tips-14"
+msgstr "王国军进攻成功时，所有恶魔头目的Find值都会上升。消耗使魔可以在1天内搞定该事件。"
+
+msgid "DC-Tips-15"
+msgstr "技能等级上升后，会提高触发『不消耗Brave』『不触发CD』『技能效果发动2次』效果的几率"
+
+msgid "DC-Tips-16"
+msgstr "你可以从战斗中逃跑，同时作为惩罚会直接跳过1天。即使你在混乱或者昏迷中也可以逃跑。"
+
+msgid "DC-Tips-17"
+msgstr "每个技能最多可以附加5个技能MOD。重复的MOD可以提高效果和触发几率。"
+
+msgid "DC-Tips-18"
+msgstr "装备零件所赋予装备的能力可以在装备等级提升后同步加强。"
+
+msgid "DC-Tips-19"
+msgstr "专属装备会根据角色的等级自动成长。专属装备虽然不能使用消耗品来强化，但是可以装配零件。"
+
+msgid "DC-Tips-2"
+msgstr "打倒悬赏怪物可以获得比普通地下城更多的金币。"
+
+msgid "DC-Tips-3"
+msgstr "通过消耗藏宝图和2个使魔可以发现宝藏。从宝藏中更容易获取传说中的装备。"
+
+msgid "DC-Tips-4"
+msgstr "在龙之巢穴中的龙身上有更高的几率掉落固定的传说装备。"
+
+msgid "DC-Tips-5"
+msgstr "你可以消耗使魔直接阻止诡计而不需要花费天数。"
+
+msgid "DC-Tips-6"
+msgstr "使唤使魔是不需要花费天数的。还有一些能力能够让使魔完成更多业务。"
+
+msgid "DC-Tips-7"
+msgstr "如果敌人变强了的话，就使用道具强化装备吧。"
+
+msgid "DC-Tips-8"
+msgstr "每个敌人都有他的弱点。弱点可以通过“观察”能力来确认。"
+
+msgid "DC-Tips-9"
+msgstr "从支援者那里可以购买道具。也可以选择回复HP和Brave的“住宿”。"
+
+msgid "DC-TradeWith"
+msgstr "交易{0}次"
+
+msgid "DC-Tutorial-Serif-Chara-0"
+msgstr "你可以花费1点能力点数来学习一项新的能力！能力点数可以从祠堂获得。"
+
+msgid "DC-Tutorial-Serif-Chara-1"
+msgstr "你不想快点使用能力点数吗？点击育成标签吧！"
+
+msgid "DC-Tutorial-Serif-Chara-2"
+msgstr "羁绊等级可以通过完成羁绊任务来提升，可以获得2人之间各种各样的羁绊能力！"
+
+msgid "DC-Tutorial-Serif-Chara-3"
+msgstr "我们也顺便一起看一下羁绊能力吧！点击羁绊标签！"
+
+msgid "DC-Tutorial-Serif-Main-0"
+msgstr "这里是住着元凶的最终目的地——魔王城。但是没有准备好可不能直接去挑战他！一开始是绝对打不过的。"
+
+msgid "DC-Tutorial-Serif-Main-1"
+msgstr "在世界各地都分布着地下城。首先在这里打黑除恶，提升自己的实力吧！"
+
+msgid "DC-Tutorial-Serif-Main-10"
+msgstr "现在终于可以和恶魔头目进行决战了！打倒他可以获得很丰富的报酬，但是他也很强，一切小心！"
+
+msgid "DC-Tutorial-Serif-Main-11"
+msgstr "时限将近了。终于到了要与魔王决战的时刻了。魔王虽然十分强大，但你们2人的话一定能够胜利的，我相信你们！"
+
+msgid "DC-Tutorial-Serif-Main-12"
+msgstr "遇到怪物了！总之先试着攻击他！你虽然有很多强大的技能，但是我们先试试普通攻击吧！"
+
+msgid "DC-Tutorial-Serif-Main-13"
+msgstr "你一副想要试试技能的样子呢？技能是需要消耗Brave的，使用过以后也会进入CD，受到限制的哟。Brave是会慢慢回复的。"
+
+msgid "DC-Tutorial-Serif-Main-14"
+msgstr "这次，不行了呢。。。但是绝对不要放弃！用我的力量无限回到100天之前，让我们一起改变未来吧！"
+
+msgid "DC-Tutorial-Serif-Main-15"
+msgstr ""
+"真的......真的非常谢谢你。为了通往这一个未来，我已经重复了上亿次了。如果不是你的话，现在已经...这个未来虽然已经容不下触犯了时空禁忌的我，但是，只"
+"要大家能够见到未来，我就感到非常幸福了哟。"
+
+msgid "DC-Tutorial-Serif-Main-16"
+msgstr ""
+"谢谢你，没事的。这一切，都是我自己的选择。但是，如果...如果是为了更快击倒魔王，给大家带来一个更美好的未来的话，我还可以再留下来一段时间...在这段时间"
+"里我还会继续和大家一起战斗的..."
+
+msgid "DC-Tutorial-Serif-Main-17"
+msgstr "Boss怪物来了！别大意！它比普通的怪物可要强得多！"
+
+msgid "DC-Tutorial-Serif-Main-18"
+msgstr "太棒了！获得了新的装备！又可以变得更强了！是换新装备还是使用旧装备，选择一个你想要的吧！"
+
+msgid "DC-Tutorial-Serif-Main-19"
+msgstr "你也可以更换想要新装备的角色哦！如果你觉得这件装备给后卫更合适的话，按下这个按钮！"
+
+msgid "DC-Tutorial-Serif-Main-2"
+msgstr "往街道前进的话就可以进入一个新的区域了。新的区域有可能可以发现新的地下城和各种各样的地点！"
+
+msgid "DC-Tutorial-Serif-Main-20"
+msgstr "获得能力点了？到角色详细界面里使用它吧！长按角色图标！"
+
+msgid "DC-Tutorial-Serif-Main-21"
+msgstr "地下城的进度提高了！努力使进度到达100%，通关地下城吧！"
+
+msgid "DC-Tutorial-Serif-Main-23"
+msgstr "你攒下了不少金币呢！在支援者那里可以购买道具，去看看吧。金币在冒险结束的时候还可以带到下一次冒险去哦"
+
+msgid "DC-Tutorial-Serif-Main-24"
+msgstr "小心！这是一个debuff（异常状态）！点击角色的HP上面的小图标可以确认你所有的debuff！"
+
+msgid "DC-Tutorial-Serif-Main-25"
+msgstr "发现了一个祠堂！这可是能获得能力点数的重要场所！发现了的话可别忘了去！"
+
+msgid "DC-Tutorial-Serif-Main-26"
+msgstr "啊，这里有人居住！访问村落可以提高对应支援者的等级，增加支援者的货物！有时也会触发支线事件。"
+
+msgid "DC-Tutorial-Serif-Main-28"
+msgstr "来了！羁绊奥义！在危急时刻可以使用的特殊必杀技！在1次战斗里也只能使用1次，所以注意你使用的时机！"
+
+msgid "DC-Tutorial-Serif-Main-3"
+msgstr "不好，你受伤了？！访问村落，或者在支援者那里住一晚上就可以状态全满了哦。"
+
+msgid "DC-Tutorial-Serif-Main-5"
+msgstr "通过有支援者的帮助，就可以交易更多的道具了！"
+
+msgid "DC-Tutorial-Serif-Main-6"
+msgstr "可恶的恶魔头目！放任不管的话他们就会来干扰我们的冒险了。阻止他们的诡计来寻找他们的蛛丝马迹吧！"
+
+msgid "DC-Tutorial-Serif-Main-7"
+msgstr "恶魔头目又来捣乱了！不阻止诡计的话受到惩罚的！赶紧阻止它！"
+
+msgid "DC-Tutorial-Serif-Main-8"
+msgstr "你可以进入恶魔头目所在的区域，通关恶魔头目所在区域的地下城，阻止它的诡计来寻找它的真身！"
+
+msgid "DC-Tutorial-Serif-Main-9"
+msgstr "王国军开始对魔王军发起进攻了！协助他们的进攻可以获得很多酬劳！但是如果放着不管的话一会他们就会消失，赶紧的！"
+
+msgid "DC-Tutorial-Serif-Prepare-0"
+msgstr "下次一定要找到不一样的未来！回到过去，努力寻找避免世界毁灭的未来吧！"
+
+msgid "DC-Tutorial-Serif-Prepare-1"
+msgstr "拜托了！请拯救这个世界吧！首先点击『开始冒险』！"
+
+msgid "DC-Tutorial-Serif-Prepare-2"
+msgstr "完成挑战，收集时之碎片吧！挑战内容可以在菜单中确认！"
+
+msgid "DC-Tutorial-Serif-Prepare-3"
+msgstr "成就就在这里！嘿嘿，明白了吗？"
+
+msgid "DC-Tutorial-Serif-Prepare-4"
+msgstr "在商店里可以解锁新的冒险者，购买便利的道具！还有使用时之碎片才能购买的商品，快看看吧！"
+
+msgid "DC-Tutorial-Serif-Prepare-5"
+msgstr "获得护符了？装备上__进行冒险的话，可以追加护符__对应的职业__哦！"
+
+msgid "DC-Tutorial-Serif-Prepare-6"
+msgstr "神谕虽然是消耗品，但是是可以在冒险开始时就获得额外加成的便利道具！"
+
+msgid "DC-Tutorial-Serif-Prepare-7-1"
+msgstr "在一次冒险中__打倒所有的恶魔头目__就能见识到魔王真正的力量了"
+
+msgid "DC-Tutorial-Serif-Prepare-7-2"
+msgstr "挑战更高难度的『無限回廊』"
+
+msgid "DC-TweetBody"
+msgstr "{0} #ending_days https://edrpg.page.link/nav"
+
+msgid "DC-UnderAdventure"
+msgstr "现在正在冒险中"
+
+msgid "DC-UseItem"
+msgstr "使用道具{0}次"
+
+msgid "DC-UseMinion"
+msgstr "使用使魔{0}次"
+
+msgid "NM-ABC00101"
+msgstr ":@NM-SK000001"
+
+msgid "NM-ABC00102"
+msgstr ":@NM-STG028"
+
+msgid "NM-ABC00103"
+msgstr ":@NM-SK000002"
+
+msgid "NM-ABC00104"
+msgstr ":@NM-STG231"
+
+msgid "NM-ABC00105"
+msgstr ":@NM-SK000003"
+
+msgid "NM-ABC00201"
+msgstr ":@NM-SK000004"
+
+msgid "NM-ABC00202"
+msgstr ":@NM-STG062"
+
+msgid "NM-ABC00203"
+msgstr ":@NM-SK000005"
+
+msgid "NM-ABC00204"
+msgstr ":@NM-STG027"
+
+msgid "NM-ABC00205"
+msgstr ":@NM-SK000006"
+
+msgid "NM-ABC00301"
+msgstr ":@NM-SK000007"
+
+msgid "NM-ABC00302"
+msgstr ":@NM-STC001"
+
+msgid "NM-ABC00303"
+msgstr ":@NM-SK000008"
+
+msgid "NM-ABC00304"
+msgstr ":@NM-STC002"
+
+msgid "NM-ABC00305"
+msgstr ":@NM-SK000009"
+
+msgid "NM-ABC00401"
+msgstr ":@NM-SK000010"
+
+msgid "NM-ABC00402"
+msgstr ":@NM-STC003"
+
+msgid "NM-ABC00403"
+msgstr ":@NM-SK000011"
+
+msgid "NM-ABC00404"
+msgstr ":@NM-STC004"
+
+msgid "NM-ABC00405"
+msgstr ":@NM-SK000012"
+
+msgid "NM-ABC00501"
+msgstr ":@NM-SK000013"
+
+msgid "NM-ABC00502"
+msgstr ":@NM-STC005"
+
+msgid "NM-ABC00503"
+msgstr ":@NM-SK000014"
+
+msgid "NM-ABC00504"
+msgstr ":@NM-STC006"
+
+msgid "NM-ABC00505"
+msgstr ":@NM-SK000015"
+
+msgid "NM-ABC00601"
+msgstr ":@NM-SK000016"
+
+msgid "NM-ABC00602"
+msgstr ":@NM-STC007"
+
+msgid "NM-ABC00603"
+msgstr ":@NM-SK000017"
+
+msgid "NM-ABC00604"
+msgstr ":@NM-STC008"
+
+msgid "NM-ABC00605"
+msgstr ":@NM-SK000018"
+
+msgid "NM-ABC00701"
+msgstr ":@NM-SK000019"
+
+msgid "NM-ABC00702"
+msgstr ":@NM-STC009"
+
+msgid "NM-ABC00703"
+msgstr ":@NM-SK000020"
+
+msgid "NM-ABC00704"
+msgstr ":@NM-STC010"
+
+msgid "NM-ABC00705"
+msgstr ":@NM-SK000021"
+
+msgid "NM-ABC00801"
+msgstr ":@NM-SK000022"
+
+msgid "NM-ABC00802"
+msgstr ":@NM-STC011"
+
+msgid "NM-ABC00803"
+msgstr ":@NM-SK000023"
+
+msgid "NM-ABC00804"
+msgstr ":@NM-STC012"
+
+msgid "NM-ABC00805"
+msgstr ":@NM-SK000024"
+
+msgid "NM-ABC00901"
+msgstr ":@NM-SK000025"
+
+msgid "NM-ABC00902"
+msgstr ":@NM-STC013"
+
+msgid "NM-ABC00903"
+msgstr ":@NM-SK000026"
+
+msgid "NM-ABC00904"
+msgstr ":@NM-STC014"
+
+msgid "NM-ABC00905"
+msgstr ":@NM-SK000027"
+
+msgid "NM-ABC01001"
+msgstr ":@NM-SK000028"
+
+msgid "NM-ABC01002"
+msgstr ":@NM-STC015"
+
+msgid "NM-ABC01003"
+msgstr ":@NM-SK000029"
+
+msgid "NM-ABC01004"
+msgstr ":@NM-STC016"
+
+msgid "NM-ABC01005"
+msgstr ":@NM-SK000030"
+
+msgid "NM-ABC01101"
+msgstr ":@NM-SK000031"
+
+msgid "NM-ABC01102"
+msgstr ":@NM-STC017"
+
+msgid "NM-ABC01103"
+msgstr ":@NM-SK000032"
+
+msgid "NM-ABC01104"
+msgstr ":@NM-STC018"
+
+msgid "NM-ABC01105"
+msgstr ":@NM-SK000033"
+
+msgid "NM-ABC01201"
+msgstr ":@NM-SK000034"
+
+msgid "NM-ABC01202"
+msgstr ":@NM-STC019"
+
+msgid "NM-ABC01203"
+msgstr ":@NM-SK000035"
+
+msgid "NM-ABC01204"
+msgstr ":@NM-STC020"
+
+msgid "NM-ABC01205"
+msgstr ":@NM-SK000036"
+
+msgid "NM-ABC01301"
+msgstr ":@NM-SK000037"
+
+msgid "NM-ABC01302"
+msgstr ":@NM-STC021"
+
+msgid "NM-ABC01303"
+msgstr ":@NM-SK000038"
+
+msgid "NM-ABC01304"
+msgstr ":@NM-STC022"
+
+msgid "NM-ABC01305"
+msgstr ":@NM-SK000039"
+
+msgid "NM-ABC01401"
+msgstr ":@NM-SK000040"
+
+msgid "NM-ABC01402"
+msgstr ":@NM-STC023"
+
+msgid "NM-ABC01403"
+msgstr ":@NM-SK000041"
+
+msgid "NM-ABC01404"
+msgstr ":@NM-STC024"
+
+msgid "NM-ABC01405"
+msgstr ":@NM-SK000042"
+
+msgid "NM-ABC01501"
+msgstr ":@NM-STC025"
+
+msgid "NM-ABC01502"
+msgstr ":@NM-SK000043"
+
+msgid "NM-ABC01503"
+msgstr ":@NM-SK000044"
+
+msgid "NM-ABC01504"
+msgstr ":@NM-SK000045"
+
+msgid "NM-ABC01505"
+msgstr ":@NM-STC026"
+
+msgid "NM-ABC01601"
+msgstr ":@NM-SK000046"
+
+msgid "NM-ABC01602"
+msgstr ":@NM-STC027"
+
+msgid "NM-ABC01603"
+msgstr ":@NM-SK000047"
+
+msgid "NM-ABC01604"
+msgstr ":@NM-STC028"
+
+msgid "NM-ABC01605"
+msgstr ":@NM-SK000048"
+
+msgid "NM-ABC01701"
+msgstr ":@NM-SK000049"
+
+msgid "NM-ABC01702"
+msgstr ":@NM-STC029"
+
+msgid "NM-ABC01703"
+msgstr ":@NM-SK000050"
+
+msgid "NM-ABC01704"
+msgstr ":@NM-STC030"
+
+msgid "NM-ABC01705"
+msgstr ":@NM-SK000051"
+
+msgid "NM-ABC01801"
+msgstr ":@NM-SK000052"
+
+msgid "NM-ABC01802"
+msgstr ":@NM-STC031"
+
+msgid "NM-ABC01803"
+msgstr ":@NM-SK000053"
+
+msgid "NM-ABC01804"
+msgstr ":@NM-STC032"
+
+msgid "NM-ABC01805"
+msgstr ":@NM-SK000054"
+
+msgid "NM-ABC01901"
+msgstr ":@NM-SK000055"
+
+msgid "NM-ABC01902"
+msgstr ":@NM-STC033"
+
+msgid "NM-ABC01903"
+msgstr ":@NM-SK000056"
+
+msgid "NM-ABC01904"
+msgstr ":@NM-STC034"
+
+msgid "NM-ABC01905"
+msgstr ":@NM-SK000057"
+
+msgid "NM-ABC02001"
+msgstr ":@NM-SK000058"
+
+msgid "NM-ABC02002"
+msgstr ":@NM-STC035"
+
+msgid "NM-ABC02003"
+msgstr ":@NM-SK000059"
+
+msgid "NM-ABC02004"
+msgstr ":@NM-STC036"
+
+msgid "NM-ABC02005"
+msgstr ":@NM-SK000060"
+
+msgid "NM-AbilityPoint"
+msgstr "能力点"
+
+msgid "NM-ABJ00101"
+msgstr ":@NM-SK000061"
+
+msgid "NM-ABJ00102"
+msgstr ":@NM-STG034"
+
+msgid "NM-ABJ00103"
+msgstr ":@NM-SK000062"
+
+msgid "NM-ABJ00104"
+msgstr ":@NM-STG110"
+
+msgid "NM-ABJ00105"
+msgstr ":@NM-SK000063"
+
+msgid "NM-ABJ00201"
+msgstr ":@NM-SK000064"
+
+msgid "NM-ABJ00202"
+msgstr ":@NM-STG109"
+
+msgid "NM-ABJ00203"
+msgstr ":@NM-SK000065"
+
+msgid "NM-ABJ00204"
+msgstr ":@NM-STG108"
+
+msgid "NM-ABJ00205"
+msgstr ":@NM-SK000066"
+
+msgid "NM-ABJ00301"
+msgstr ":@NM-SK000067"
+
+msgid "NM-ABJ00302"
+msgstr ":@NM-STG154"
+
+msgid "NM-ABJ00303"
+msgstr ":@NM-SK000068"
+
+msgid "NM-ABJ00304"
+msgstr ":@NM-STG155"
+
+msgid "NM-ABJ00305"
+msgstr ":@NM-SK000069"
+
+msgid "NM-ABJ00401"
+msgstr ":@NM-SK000070"
+
+msgid "NM-ABJ00402"
+msgstr "杂技演员"
+
+msgid "NM-ABJ00403"
+msgstr ":@NM-SK000071"
+
+msgid "NM-ABJ00404"
+msgstr ":@NM-STG087"
+
+msgid "NM-ABJ00405"
+msgstr ":@NM-SK000072"
+
+msgid "NM-ABJ00501"
+msgstr ":@NM-SK000073"
+
+msgid "NM-ABJ00502"
+msgstr ":@NM-STG079"
+
+msgid "NM-ABJ00503"
+msgstr ":@NM-SK000074"
+
+msgid "NM-ABJ00504"
+msgstr ":@NM-STG026"
+
+msgid "NM-ABJ00505"
+msgstr ":@NM-SK000075"
+
+msgid "NM-ABJ00601"
+msgstr ":@NM-SK000076"
+
+msgid "NM-ABJ00602"
+msgstr ":@NM-STG174"
+
+msgid "NM-ABJ00603"
+msgstr ":@NM-SK000077"
+
+msgid "NM-ABJ00604"
+msgstr ":@NM-STG243"
+
+msgid "NM-ABJ00605"
+msgstr ":@NM-SK000078"
+
+msgid "NM-ABJ00701"
+msgstr ":@NM-STG082"
+
+msgid "NM-ABJ00702"
+msgstr ":@NM-SK000079"
+
+msgid "NM-ABJ00703"
+msgstr ":@NM-SK000080"
+
+msgid "NM-ABJ00704"
+msgstr ":@NM-SK000081"
+
+msgid "NM-ABJ00705"
+msgstr ":@NM-STG165"
+
+msgid "NM-ABJ00801"
+msgstr ":@NM-SK000082"
+
+msgid "NM-ABJ00802"
+msgstr ":@NM-STG153"
+
+msgid "NM-ABJ00803"
+msgstr ":@NM-SK000083"
+
+msgid "NM-ABJ00804"
+msgstr ":@NM-STG175"
+
+msgid "NM-ABJ00805"
+msgstr ":@NM-SK000084"
+
+msgid "NM-ABJ00901"
+msgstr ":@NM-SK000085"
+
+msgid "NM-ABJ00902"
+msgstr ":@NM-STG091"
+
+msgid "NM-ABJ00903"
+msgstr ":@NM-SK000086"
+
+msgid "NM-ABJ00904"
+msgstr ":@NM-STG157"
+
+msgid "NM-ABJ00905"
+msgstr ":@NM-SK000087"
+
+msgid "NM-ABJ01001"
+msgstr ":@NM-SK000088"
+
+msgid "NM-ABJ01002"
+msgstr ":@NM-STG088"
+
+msgid "NM-ABJ01003"
+msgstr ":@NM-SK000089"
+
+msgid "NM-ABJ01004"
+msgstr ":@NM-STG002"
+
+msgid "NM-ABJ01005"
+msgstr ":@NM-SK000090"
+
+msgid "NM-ABJ01101"
+msgstr ":@NM-SK000091"
+
+msgid "NM-ABJ01102"
+msgstr ":@NM-STG181"
+
+msgid "NM-ABJ01103"
+msgstr ":@NM-SK000092"
+
+msgid "NM-ABJ01104"
+msgstr ":@NM-STG166"
+
+msgid "NM-ABJ01105"
+msgstr ":@NM-SK000093"
+
+msgid "NM-ABJ01201"
+msgstr ":@NM-SK000094"
+
+msgid "NM-ABJ01202"
+msgstr ":@NM-STG228"
+
+msgid "NM-ABJ01203"
+msgstr ":@NM-SK000095"
+
+msgid "NM-ABJ01204"
+msgstr ":@NM-STG162"
+
+msgid "NM-ABJ01205"
+msgstr ":@NM-SK000096"
+
+msgid "NM-ABJ01301"
+msgstr ":@NM-SK000097"
+
+msgid "NM-ABJ01302"
+msgstr ":@NM-STG078"
+
+msgid "NM-ABJ01303"
+msgstr ":@NM-SK000098"
+
+msgid "NM-ABJ01304"
+msgstr ":@NM-STG176"
+
+msgid "NM-ABJ01305"
+msgstr ":@NM-SK000099"
+
+msgid "NM-ABJ01401"
+msgstr ":@NM-SK000100"
+
+msgid "NM-ABJ01402"
+msgstr ":@NM-STG089"
+
+msgid "NM-ABJ01403"
+msgstr ":@NM-SK000101"
+
+msgid "NM-ABJ01404"
+msgstr ":@NM-STG171"
+
+msgid "NM-ABJ01405"
+msgstr ":@NM-SK000102"
+
+msgid "NM-ABJ01501"
+msgstr ":@NM-SK000103"
+
+msgid "NM-ABJ01502"
+msgstr "聚气"
+
+msgid "NM-ABJ01503"
+msgstr ":@NM-SK000104"
+
+msgid "NM-ABJ01504"
+msgstr "查克拉"
+
+msgid "NM-ABJ01505"
+msgstr ":@NM-SK000105"
+
+msgid "NM-ABJ01601"
+msgstr ":@NM-SK000106"
+
+msgid "NM-ABJ01602"
+msgstr ":@NM-STG065"
+
+msgid "NM-ABJ01603"
+msgstr ":@NM-SK000107"
+
+msgid "NM-ABJ01604"
+msgstr "练气"
+
+msgid "NM-ABJ01605"
+msgstr ":@NM-SK000108"
+
+msgid "NM-ABJ01701"
+msgstr ":@NM-SK000109"
+
+msgid "NM-ABJ01702"
+msgstr ":@NM-STG080"
+
+msgid "NM-ABJ01703"
+msgstr ":@NM-SK000110"
+
+msgid "NM-ABJ01704"
+msgstr ":@NM-STG167"
+
+msgid "NM-ABJ01705"
+msgstr ":@NM-SK000111"
+
+msgid "NM-ABJ01801"
+msgstr ":@NM-SK000112"
+
+msgid "NM-ABJ01802"
+msgstr ":@NM-STG168"
+
+msgid "NM-ABJ01803"
+msgstr ":@NM-SK000113"
+
+msgid "NM-ABJ01804"
+msgstr ":@NM-STG169"
+
+msgid "NM-ABJ01805"
+msgstr ":@NM-SK000114"
+
+msgid "NM-ABJ01901"
+msgstr ":@NM-SK000115"
+
+msgid "NM-ABJ01902"
+msgstr ":@NM-STG035"
+
+msgid "NM-ABJ01903"
+msgstr ":@NM-SK000116"
+
+msgid "NM-ABJ01904"
+msgstr ":@NM-STG170"
+
+msgid "NM-ABJ01905"
+msgstr ":@NM-SK000117"
+
+msgid "NM-ABJ02001"
+msgstr ":@NM-SK000118"
+
+msgid "NM-ABJ02002"
+msgstr ":@NM-STG081"
+
+msgid "NM-ABJ02003"
+msgstr ":@NM-SK000119"
+
+msgid "NM-ABJ02004"
+msgstr ":@NM-STG086"
+
+msgid "NM-ABJ02005"
+msgstr ":@NM-SK000120"
+
+msgid "NM-ABJ02101"
+msgstr ":@NM-SK000121"
+
+msgid "NM-ABJ02102"
+msgstr ":@NM-STG083"
+
+msgid "NM-ABJ02103"
+msgstr ":@NM-SK000122"
+
+msgid "NM-ABJ02104"
+msgstr ":@NM-STG085"
+
+msgid "NM-ABJ02105"
+msgstr ":@NM-SK000123"
+
+msgid "NM-ABJ02201"
+msgstr ":@NM-SK000124"
+
+msgid "NM-ABJ02202"
+msgstr ":@NM-STG074"
+
+msgid "NM-ABJ02203"
+msgstr ":@NM-SK000125"
+
+msgid "NM-ABJ02204"
+msgstr ":@NM-STG269"
+
+msgid "NM-ABJ02205"
+msgstr ":@NM-SK000126"
+
+msgid "NM-ABJ02301"
+msgstr ":@NM-SK000127"
+
+msgid "NM-ABJ02302"
+msgstr ":@NM-STG159"
+
+msgid "NM-ABJ02303"
+msgstr ":@NM-SK000128"
+
+msgid "NM-ABJ02304"
+msgstr ":@NM-STG099"
+
+msgid "NM-ABJ02305"
+msgstr ":@NM-SK000129"
+
+msgid "NM-ABJ02401"
+msgstr ":@NM-SK000130"
+
+msgid "NM-ABJ02402"
+msgstr ":@NM-STG160"
+
+msgid "NM-ABJ02403"
+msgstr ":@NM-SK000131"
+
+msgid "NM-ABJ02404"
+msgstr ":@NM-STG100"
+
+msgid "NM-ABJ02405"
+msgstr ":@NM-SK000132"
+
+msgid "NM-ABJ02501"
+msgstr ":@NM-SK000133"
+
+msgid "NM-ABJ02502"
+msgstr ":@NM-STG161"
+
+msgid "NM-ABJ02503"
+msgstr ":@NM-SK000134"
+
+msgid "NM-ABJ02504"
+msgstr ":@NM-STG101"
+
+msgid "NM-ABJ02505"
+msgstr ":@NM-SK000135"
+
+msgid "NM-ABJ02601"
+msgstr ":@NM-SK000136"
+
+msgid "NM-ABJ02602"
+msgstr ":@NM-STG163"
+
+msgid "NM-ABJ02603"
+msgstr ":@NM-SK000137"
+
+msgid "NM-ABJ02604"
+msgstr ":@NM-STG025"
+
+msgid "NM-ABJ02605"
+msgstr ":@NM-SK000138"
+
+msgid "NM-ABJ02701"
+msgstr ":@NM-SK000139"
+
+msgid "NM-ABJ02702"
+msgstr ":@NM-STG084"
+
+msgid "NM-ABJ02703"
+msgstr ":@NM-SK000140"
+
+msgid "NM-ABJ02704"
+msgstr ":@NM-STG178"
+
+msgid "NM-ABJ02705"
+msgstr ":@NM-SK000141"
+
+msgid "NM-ABJ02801"
+msgstr ":@NM-SK000142"
+
+msgid "NM-ABJ02802"
+msgstr ":@NM-STG177"
+
+msgid "NM-ABJ02803"
+msgstr ":@NM-SK000143"
+
+msgid "NM-ABJ02804"
+msgstr ":@NM-STG076"
+
+msgid "NM-ABJ02805"
+msgstr ":@NM-SK000144"
+
+msgid "NM-ABJ02901"
+msgstr ":@NM-SK000145"
+
+msgid "NM-ABJ02902"
+msgstr ":@NM-STG244"
+
+msgid "NM-ABJ02903"
+msgstr ":@NM-SK000146"
+
+msgid "NM-ABJ02904"
+msgstr ":@NM-STG158"
+
+msgid "NM-ABJ02905"
+msgstr ":@NM-SK000147"
+
+msgid "NM-ABJ03001"
+msgstr ":@NM-SK000148"
+
+msgid "NM-ABJ03002"
+msgstr ":@NM-STG164"
+
+msgid "NM-ABJ03003"
+msgstr ":@NM-SK000149"
+
+msgid "NM-ABJ03004"
+msgstr ":@NM-STG245"
+
+msgid "NM-ABJ03005"
+msgstr ":@NM-SK000150"
+
+msgid "NM-ABL00001"
+msgstr ":@NM-STG103"
+
+msgid "NM-ABL00002"
+msgstr ":@NM-STG104"
+
+msgid "NM-ABL00003"
+msgstr ":@NM-STG124"
+
+msgid "NM-ABL00004"
+msgstr ":@NM-STG125"
+
+msgid "NM-ABL00005"
+msgstr ":@NM-STG126"
+
+msgid "NM-ABL00006"
+msgstr ":@NM-STG127"
+
+msgid "NM-ABL00007"
+msgstr ":@NM-STG128"
+
+msgid "NM-ABL00008"
+msgstr ":@NM-STG129"
+
+msgid "NM-ABL00009"
+msgstr ":@NM-STG130"
+
+msgid "NM-ABL00010"
+msgstr ":@NM-STG131"
+
+msgid "NM-ABL00011"
+msgstr ":@NM-STG132"
+
+msgid "NM-ABL00012"
+msgstr ":@NM-STG133"
+
+msgid "NM-ABL00013"
+msgstr ":@NM-STG134"
+
+msgid "NM-ABL00014"
+msgstr ":@NM-STG135"
+
+msgid "NM-ABL00015"
+msgstr ":@NM-STG136"
+
+msgid "NM-ABL00016"
+msgstr ":@NM-STG137"
+
+msgid "NM-ABL00017"
+msgstr ":@NM-STG138"
+
+msgid "NM-ABL00018"
+msgstr ":@NM-STG139"
+
+msgid "NM-ABL00019"
+msgstr ":@NM-STG140"
+
+msgid "NM-ABL00020"
+msgstr ":@NM-STG141"
+
+msgid "NM-ABL99999"
+msgstr ":@NM-STG105"
+
+msgid "NM-About-Beta-URL"
+msgstr "关于公测"
+
+msgid "NM-About-Chrono"
+msgstr "关于时之碎片/宝箱"
+
+msgid "NM-About-Payment"
+msgstr "关于购买七彩宝珠"
+
+msgid "NM-ABP00001"
+msgstr "Atk+3"
+
+msgid "NM-ABP00002"
+msgstr "Spl+3"
+
+msgid "NM-ABP00003"
+msgstr "Grd+3"
+
+msgid "NM-ABP00004"
+msgstr "Hrt+3"
+
+msgid "NM-ABP00005"
+msgstr "Lv+5"
+
+msgid "NM-ABP00006"
+msgstr ":@NM-STG092"
+
+msgid "NM-ABP00007"
+msgstr ":@NM-STG170"
+
+msgid "NM-ABP00008"
+msgstr ":@NM-STG025"
+
+msgid "NM-ABP00009"
+msgstr ":@NM-STG093"
+
+msgid "NM-ABP00010"
+msgstr ":@NM-STG099"
+
+msgid "NM-ABP00011"
+msgstr ":@NM-STG100"
+
+msgid "NM-ABP00012"
+msgstr ":@NM-STG101"
+
+msgid "NM-ABP00013"
+msgstr ":@NM-STG102"
+
+msgid "NM-ABP00014"
+msgstr ":@NM-STG106"
+
+msgid "NM-ABP00015"
+msgstr ":@NM-STG054"
+
+msgid "NM-ABP00016"
+msgstr ":@NM-STG001"
+
+msgid "NM-ABP00017"
+msgstr ":@NM-STG045"
+
+msgid "NM-ABP00018"
+msgstr ":@NM-STG118"
+
+msgid "NM-ABP00019"
+msgstr ":@NM-STG111"
+
+msgid "NM-ABP00020"
+msgstr "招架"
+
+msgid "NM-ABP00021"
+msgstr ":@NM-STG073"
+
+msgid "NM-ABP00022"
+msgstr ":@NM-STG234"
+
+msgid "NM-ABP00023"
+msgstr ":@NM-STG031"
+
+msgid "NM-ABP00024"
+msgstr ":@NM-STG120"
+
+msgid "NM-ABP00025"
+msgstr ":@NM-STG046"
+
+msgid "NM-ABP00026"
+msgstr ":@NM-SKP00001"
+
+msgid "NM-ABP00027"
+msgstr ":@NM-SKP00002"
+
+msgid "NM-ABP00028"
+msgstr ":@NM-SKP00003"
+
+msgid "NM-ABP00029"
+msgstr ":@NM-SKP00004"
+
+msgid "NM-ABP00030"
+msgstr ":@NM-SKP00005"
+
+msgid "NM-ABP00031"
+msgstr ":@NM-STG017"
+
+msgid "NM-ABP00032"
+msgstr ":@NM-STG021"
+
+msgid "NM-ABP00033"
+msgstr ":@NM-STG272"
+
+msgid "NM-ABP00034"
+msgstr ":@NM-STG157"
+
+msgid "NM-ABP00035"
+msgstr ":@NM-STG275"
+
+msgid "NM-ABP00036"
+msgstr ":@NM-STG074"
+
+msgid "NM-ABP00037"
+msgstr ":@NM-STG274"
+
+msgid "NM-ABP00038"
+msgstr ":@NM-STG088"
+
+msgid "NM-ABP00039"
+msgstr ":@NM-STG276"
+
+msgid "NM-ABP00040"
+msgstr ":@NM-STG277"
+
+msgid "NM-ABS01001"
+msgstr ":@NM-STG111"
+
+msgid "NM-ABS01002"
+msgstr ":@NM-STG066"
+
+msgid "NM-ABS01003"
+msgstr ":@NM-STG230"
+
+msgid "NM-ABS01004"
+msgstr ":@NM-STG092"
+
+msgid "NM-ABS01005"
+msgstr "实地调查"
+
+msgid "NM-ABS01006"
+msgstr ":@NM-STG247"
+
+msgid "NM-ABS01007"
+msgstr ":@NM-STG021"
+
+msgid "NM-ABS01008"
+msgstr ":@NM-STG058"
+
+msgid "NM-ABS01009"
+msgstr ":@NM-STG263"
+
+msgid "NM-ABS01010"
+msgstr "考察与研究"
+
+msgid "NM-ABS01011"
+msgstr ":@NM-STG233"
+
+msgid "NM-ABS01012"
+msgstr ":@NM-STG250"
+
+msgid "NM-ABS01013"
+msgstr ":@NM-STG063"
+
+msgid "NM-ABS01014"
+msgstr ":@NM-STG114"
+
+msgid "NM-ABS01015"
+msgstr ":@NM-SKP00008"
+
+msgid "NM-ABS01016"
+msgstr ":@NM-STG001"
+
+msgid "NM-ABS01017"
+msgstr ":@NM-STG054"
+
+msgid "NM-ABS01018"
+msgstr ":@NM-STG046"
+
+msgid "NM-ABS01019"
+msgstr ":@NM-STL082"
+
+msgid "NM-ABS01020"
+msgstr "改良"
+
+msgid "NM-ABSC0001"
+msgstr "亚历克斯"
+
+msgid "NM-ABSC0002"
+msgstr "卡密拉"
+
+msgid "NM-ABSC0003"
+msgstr "希莉露"
+
+msgid "NM-ABSC0004"
+msgstr "伊欧娜"
+
+msgid "NM-ABSC0005"
+msgstr "露克雷琪亚"
+
+msgid "NM-ABSC0006"
+msgstr "莫妮卡"
+
+msgid "NM-ABSC0007"
+msgstr "卡雅"
+
+msgid "NM-ABSC0008"
+msgstr "罗宾"
+
+msgid "NM-ABSC0009"
+msgstr "冬"
+
+msgid "NM-ABSC0010"
+msgstr "阿隆索"
+
+msgid "NM-ABSC0011"
+msgstr "海尔米娜"
+
+msgid "NM-ABSC0012"
+msgstr "佐菲"
+
+msgid "NM-ABSC0013"
+msgstr "哈基姆"
+
+msgid "NM-ABSC0014"
+msgstr "基安"
+
+msgid "NM-ABSC0015"
+msgstr "奥格斯特"
+
+msgid "NM-ABSC0016"
+msgstr "玛莉亚"
+
+msgid "NM-ABSC0017"
+msgstr "马伊特"
+
+msgid "NM-ABSC0018"
+msgstr "伽普"
+
+msgid "NM-ABSC0019"
+msgstr "鲁夫莱希特"
+
+msgid "NM-ABSC0020"
+msgstr "伊莎贝拉"
+
+msgid "NM-ABSJ0001"
+msgstr "剑士"
+
+msgid "NM-ABSJ0002"
+msgstr "治疗师"
+
+msgid "NM-ABSJ0003"
+msgstr "魔法师"
+
+msgid "NM-ABSJ0004"
+msgstr "盗贼"
+
+msgid "NM-ABSJ0005"
+msgstr "猎人"
+
+msgid "NM-ABSJ0006"
+msgstr "巫师"
+
+msgid "NM-ABSJ0007"
+msgstr "斗士"
+
+msgid "NM-ABSJ0008"
+msgstr "旅者"
+
+msgid "NM-ABSJ0009"
+msgstr "骑士"
+
+msgid "NM-ABSJ0010"
+msgstr "战士"
+
+msgid "NM-ABSJ0011"
+msgstr "魔剑士"
+
+msgid "NM-ABSJ0012"
+msgstr "吸血鬼"
+
+msgid "NM-ABSJ0013"
+msgstr "学者"
+
+msgid "NM-ABSJ0014"
+msgstr "海盗"
+
+msgid "NM-ABSJ0015"
+msgstr "格斗家"
+
+msgid "NM-ABSJ0016"
+msgstr "武士"
+
+msgid "NM-ABSJ0017"
+msgstr "狙击手"
+
+msgid "NM-ABSJ0018"
+msgstr "诗人"
+
+msgid "NM-ABSJ0019"
+msgstr "贤者"
+
+msgid "NM-ABSJ0020"
+msgstr "佣兵"
+
+msgid "NM-ABSJ0021"
+msgstr "赏金猎人"
+
+msgid "NM-ABSJ0022"
+msgstr "死神"
+
+msgid "NM-ABSJ0023"
+msgstr "炎术士"
+
+msgid "NM-ABSJ0024"
+msgstr "灵术士"
+
+msgid "NM-ABSJ0025"
+msgstr "天术士"
+
+msgid "NM-ABSJ0026"
+msgstr "地术士"
+
+msgid "NM-ABSJ0027"
+msgstr "隐秘"
+
+msgid "NM-ABSJ0028"
+msgstr "魔女"
+
+msgid "NM-ABSJ0029"
+msgstr "尸术师"
+
+msgid "NM-ABSJ0030"
+msgstr "召唤师"
+
+msgid "NM-ABSP0001"
+msgstr "基础属性"
+
+msgid "NM-ABSP0002"
+msgstr "攻击1"
+
+msgid "NM-ABSP0003"
+msgstr "攻击2"
+
+msgid "NM-ABSP0004"
+msgstr "防御"
+
+msgid "NM-ABSP0005"
+msgstr "效果"
+
+msgid "NM-ABSP0006"
+msgstr "技能"
+
+msgid "NM-ABSP0007"
+msgstr "攻击3"
+
+msgid "NM-ABSP0008"
+msgstr "防御2"
+
+msgid "NM-ABSS0001"
+msgstr "私家侦探"
+
+msgid "NM-ABSS0002"
+msgstr "大贤圣"
+
+msgid "NM-ABSS0003"
+msgstr "杀人魔"
+
+msgid "NM-ABSS0004"
+msgstr "技师"
+
+msgid "NM-ACHIVEMENT"
+msgstr "统计"
+
+msgid "NM-AM0001"
+msgstr ":@NM-ABSJ0001"
+
+msgid "NM-AM0002"
+msgstr ":@NM-ABSJ0002"
+
+msgid "NM-AM0003"
+msgstr ":@NM-ABSJ0003"
+
+msgid "NM-AM0004"
+msgstr ":@NM-ABSJ0004"
+
+msgid "NM-AM0005"
+msgstr ":@NM-ABSJ0005"
+
+msgid "NM-AM0006"
+msgstr ":@NM-ABSJ0006"
+
+msgid "NM-AM0007"
+msgstr ":@NM-ABSJ0007"
+
+msgid "NM-AM0008"
+msgstr ":@NM-ABSJ0008"
+
+msgid "NM-AM0009"
+msgstr ":@NM-ABSJ0009"
+
+msgid "NM-AM0010"
+msgstr ":@NM-ABSJ0010"
+
+msgid "NM-AM0011"
+msgstr ":@NM-ABSJ0011"
+
+msgid "NM-AM0012"
+msgstr ":@NM-ABSJ0012"
+
+msgid "NM-AM0013"
+msgstr ":@NM-ABSJ0013"
+
+msgid "NM-AM0014"
+msgstr ":@NM-ABSJ0014"
+
+msgid "NM-AM0015"
+msgstr ":@NM-ABSJ0015"
+
+msgid "NM-AM0016"
+msgstr ":@NM-ABSJ0016"
+
+msgid "NM-AM0017"
+msgstr ":@NM-ABSJ0017"
+
+msgid "NM-AM0018"
+msgstr ":@NM-ABSJ0018"
+
+msgid "NM-AM0019"
+msgstr ":@NM-ABSJ0019"
+
+msgid "NM-AM0020"
+msgstr ":@NM-ABSJ0020"
+
+msgid "NM-AM0021"
+msgstr ":@NM-ABSJ0021"
+
+msgid "NM-AM0022"
+msgstr ":@NM-ABSJ0022"
+
+msgid "NM-AM0023"
+msgstr ":@NM-ABSJ0023"
+
+msgid "NM-AM0024"
+msgstr ":@NM-ABSJ0024"
+
+msgid "NM-AM0025"
+msgstr ":@NM-ABSJ0025"
+
+msgid "NM-AM0026"
+msgstr ":@NM-ABSJ0026"
+
+msgid "NM-AM0027"
+msgstr ":@NM-ABSJ0027"
+
+msgid "NM-AM0028"
+msgstr ":@NM-ABSJ0028"
+
+msgid "NM-AM0029"
+msgstr ":@NM-ABSJ0029"
+
+msgid "NM-AM0030"
+msgstr ":@NM-ABSJ0030"
+
+msgid "NM-Amulet"
+msgstr "护符"
+
+msgid "NM-AR01"
+msgstr "瓦隆奈特"
+
+msgid "NM-AR02"
+msgstr "达鲁姆丁"
+
+msgid "NM-AR03"
+msgstr "欧坚达尔格"
+
+msgid "NM-AR04"
+msgstr "汀别尔克"
+
+msgid "NM-AR05"
+msgstr "休太伊姆"
+
+msgid "NM-AR06"
+msgstr "古贝尔格"
+
+msgid "NM-AR07"
+msgstr "海尼兹"
+
+msgid "NM-AR08"
+msgstr "费尔塔乌"
+
+msgid "NM-AR09"
+msgstr "佐涅贝格"
+
+msgid "NM-AR10"
+msgstr "加尔普斯特"
+
+msgid "NM-AR11"
+msgstr "梅尔法"
+
+msgid "NM-AR12"
+msgstr "尊盖拉"
+
+msgid "NM-AR13"
+msgstr "哈姆海姆"
+
+msgid "NM-AR14"
+msgstr "基崔西"
+
+msgid "NM-AR15"
+msgstr "费尔巴赫"
+
+msgid "NM-AR16"
+msgstr "坚贝尔格"
+
+msgid "NM-BeforeStone"
+msgstr "秘石"
+
+msgid "NM-BOSS"
+msgstr "Boss"
+
+msgid "NM-Bounty-Sheet"
+msgstr "通缉令"
+
+msgid "NM-Btn-CanISaveYou"
+msgstr "我可以拯救你吗？"
+
+msgid "NM-Btn-ChangePickGear"
+msgstr "更换新装备"
+
+msgid "NM-Btn-Chest-About"
+msgstr ""
+"时之碎片可以通过完成挑战等方式获取。__注意，时之碎片是无法通过氪金购买的。__宝箱池可以被重置（并且补充其中所有内容）。__冒险者/支援者/恶魔头目，一"
+"旦抽出就会被排除，即使重置也不会再次被抽到。"
+
+msgid "NM-Btn-Chest-Help"
+msgstr "帮助"
+
+msgid "NM-Btn-Chest-Inside"
+msgstr "查看奖池"
+
+msgid "NM-Btn-Chest-Reset"
+msgstr "重置奖池"
+
+msgid "NM-Btn-EventMissions"
+msgstr "查看挑战"
+
+msgid "NM-Btn-EventShop"
+msgstr "打开商店"
+
+msgid "NM-Btn-FinishAdventure"
+msgstr "冒险结束"
+
+msgid "NM-Btn-KeepNowGear"
+msgstr "使用旧装备"
+
+msgid "NM-Btn-Publish"
+msgstr "生成"
+
+msgid "NM-Btn-Remove"
+msgstr "移除"
+
+msgid "NM-Btn-SamePoint"
+msgstr "上一个地点"
+
+msgid "NM-Btn-ShareResult"
+msgstr "分享结果"
+
+msgid "NM-CCB01"
+msgstr "时之宝箱"
+
+msgid "NM-CCB02"
+msgstr "活动宝箱『～』"
+
+msgid "NM-CCE01"
+msgstr "开服冲刺宝箱"
+
+msgid "NM-CCE02"
+msgstr "活动宝箱『～』"
+
+msgid "NM-CharaShort"
+msgstr "角色"
+
+msgid "NM-Chest"
+msgstr "宝箱"
+
+msgid "NM-ChronoShard"
+msgstr "时之碎片"
+
+msgid "NM-ClearRate"
+msgstr "攻略进度"
+
+msgid "NM-CondRelease"
+msgstr "解锁"
+
+msgid "NM-Conquer"
+msgstr "通关"
+
+msgid "NM-CONQUEST-NUM"
+msgstr "通关"
+
+msgid "NM-Consumable"
+msgstr "消耗品"
+
+msgid "NM-DG0001"
+msgstr "冒险者之森"
+
+msgid "NM-DG0002"
+msgstr "魔王城堡"
+
+msgid "NM-DG0003"
+msgstr "哥布林的村落"
+
+msgid "NM-DG0004"
+msgstr "险峻的峡谷"
+
+msgid "NM-DG0005"
+msgstr "地下迷宫"
+
+msgid "NM-DG0006"
+msgstr "巨人之山"
+
+msgid "NM-DG0007"
+msgstr "悲剧洞穴"
+
+msgid "NM-DG0008"
+msgstr "黑暗森林"
+
+msgid "NM-DG0009"
+msgstr "大沼泽地"
+
+msgid "NM-DG0010"
+msgstr "肮脏的街道"
+
+msgid "NM-DG0011"
+msgstr "蛇女之巢"
+
+msgid "NM-DG0012"
+msgstr "风鸣谷"
+
+msgid "NM-DG0013"
+msgstr "苍空之塔"
+
+msgid "NM-DG0014"
+msgstr "研究所遗迹"
+
+msgid "NM-DG0015"
+msgstr "水神神社"
+
+msgid "NM-DG0016"
+msgstr "被封印的祠堂"
+
+msgid "NM-DG0017"
+msgstr "海盗藏身处"
+
+msgid "NM-DG0018"
+msgstr "水滴洞窟"
+
+msgid "NM-DG0019"
+msgstr "黑龙巢穴"
+
+msgid "NM-DG0020"
+msgstr "死亡沼泽"
+
+msgid "NM-DG0021"
+msgstr "残虐的爪痕"
+
+msgid "NM-DG0022"
+msgstr "白龙巢穴"
+
+msgid "NM-DG0023"
+msgstr "王家陵墓"
+
+msgid "NM-DG0024"
+msgstr "永冻洞窟"
+
+msgid "NM-DG0025"
+msgstr "尸龙巢穴"
+
+msgid "NM-DG0026"
+msgstr "凤凰火山"
+
+msgid "NM-DG0027"
+msgstr "哀怨洞窟"
+
+msgid "NM-DG0028"
+msgstr "金龙巢穴"
+
+msgid "NM-DG0029"
+msgstr "风之神殿"
+
+msgid "NM-DG0030"
+msgstr "神灵之森"
+
+msgid "NM-DG0031"
+msgstr "火龙巢穴"
+
+msgid "NM-DG0032"
+msgstr "瘴气洞窟"
+
+msgid "NM-DG0033"
+msgstr "炼狱之塔"
+
+msgid "NM-DG0034"
+msgstr "龙火的世外桃源"
+
+msgid "NM-DG0035"
+msgstr "毒龙巢穴"
+
+msgid "NM-DG0036"
+msgstr "大教堂遗迹"
+
+msgid "NM-DG0037"
+msgstr "狂月之岬"
+
+msgid "NM-DG0038"
+msgstr "圣龙巢穴"
+
+msgid "NM-DG0039"
+msgstr "古代森林"
+
+msgid "NM-DG0040"
+msgstr "无限回廊"
+
+msgid "NM-DG0041"
+msgstr "深海回廊"
+
+msgid "NM-DG0042"
+msgstr "苍龙巢穴"
+
+msgid "NM-DG0043"
+msgstr "活祭召唤地"
+
+msgid "NM-Dict"
+msgstr "图鉴"
+
+msgid "NM-Disappear"
+msgstr "消失"
+
+msgid "NM-Done"
+msgstr "完成"
+
+msgid "NM-DragonValley"
+msgstr "龙的巢穴"
+
+msgid "NM-DragonValleyCommon"
+msgstr "龙的巢穴"
+
+msgid "NM-DUNGEON"
+msgstr "地下城"
+
+msgid "NM-Earn"
+msgstr "赚"
+
+msgid "NM-Earn"
+msgstr "获得"
+
+msgid "NM-Echo"
+msgstr "古代守护者 艾可"
+
+msgid "NM-EN0001"
+msgstr "哥布林"
+
+msgid "NM-EN0002"
+msgstr "曼德拉草"
+
+msgid "NM-EN0003"
+msgstr "蜘蛛"
+
+msgid "NM-EN0004"
+msgstr "僵尸"
+
+msgid "NM-EN0005"
+msgstr "史莱姆"
+
+msgid "NM-EN0006"
+msgstr "野生蟒蛇"
+
+msgid "NM-EN0007"
+msgstr "章鱼"
+
+msgid "NM-EN0008"
+msgstr "骷髅"
+
+msgid "NM-EN0009"
+msgstr "巨狼"
+
+msgid "NM-EN0010"
+msgstr "吸血蝙蝠"
+
+msgid "NM-EN0011"
+msgstr "幽灵"
+
+msgid "NM-EN0012"
+msgstr "毒咬"
+
+msgid "NM-EN0013"
+msgstr "石像鬼"
+
+msgid "NM-EN0014"
+msgstr "盗墓者"
+
+msgid "NM-EN0015"
+msgstr "Ermark Low"
+
+msgid "NM-EN0016"
+msgstr "红帽子"
+
+msgid "NM-EN0017"
+msgstr "拉米亚"
+
+msgid "NM-EN0018"
+msgstr "蠕虫"
+
+msgid "NM-EN0019"
+msgstr "毒蜥"
+
+msgid "NM-EN0020"
+msgstr "蜥蜴人"
+
+msgid "NM-EN0021"
+msgstr "邪眼"
+
+msgid "NM-EN0022"
+msgstr "地狱猎犬"
+
+msgid "NM-EN0023"
+msgstr "蜘蛛女王"
+
+msgid "NM-EN0024"
+msgstr "哈比"
+
+msgid "NM-EN0025"
+msgstr "鱼人"
+
+msgid "NM-EN0026"
+msgstr "赛吉兽"
+
+msgid "NM-EN0027"
+msgstr "幼龙"
+
+msgid "NM-EN0028"
+msgstr "兽人"
+
+msgid "NM-EN0029"
+msgstr "掘墓者"
+
+msgid "NM-EN0030"
+msgstr "美杜莎"
+
+msgid "NM-EN0031"
+msgstr "半人马"
+
+msgid "NM-EN0032"
+msgstr "蛇鸡兽"
+
+msgid "NM-EN0033"
+msgstr "恶魔"
+
+msgid "NM-EN0034"
+msgstr "树人"
+
+msgid "NM-EN0035"
+msgstr "山羊恶魔"
+
+msgid "NM-EN0036"
+msgstr "女妖"
+
+msgid "NM-EN0037"
+msgstr "恶灵"
+
+msgid "NM-EN0038"
+msgstr "狼人"
+
+msgid "NM-EN0039"
+msgstr "兽人首领"
+
+msgid "NM-EN0040"
+msgstr "奇美拉"
+
+msgid "NM-EN0041"
+msgstr "无头骑士"
+
+msgid "NM-EN0042"
+msgstr "无名邪教徒"
+
+msgid "NM-EN0043"
+msgstr "暴食恶魔"
+
+msgid "NM-EN0044"
+msgstr "枭怪"
+
+msgid "NM-EN0045"
+msgstr "独角兽"
+
+msgid "NM-EN0046"
+msgstr "梦魇"
+
+msgid "NM-EN0047"
+msgstr "天马"
+
+msgid "NM-EN0048"
+msgstr "高阶恶魔"
+
+msgid "NM-EN0049"
+msgstr "梦魔"
+
+msgid "NM-EN0050"
+msgstr "吸血鬼"
+
+msgid "NM-EN0051"
+msgstr "海蛇"
+
+msgid "NM-EN0052"
+msgstr "杀手螳螂"
+
+msgid "NM-EN0053"
+msgstr "电弧法师"
+
+msgid "NM-EN0054"
+msgstr "沙罗曼蛇"
+
+msgid "NM-EN0055"
+msgstr "葛罗姆"
+
+msgid "NM-EN0056"
+msgstr "希尔芙"
+
+msgid "NM-EN0057"
+msgstr "温蒂妮"
+
+msgid "NM-EN0058"
+msgstr "远古魔像"
+
+msgid "NM-EN0059"
+msgstr "谜"
+
+msgid "NM-EN0060"
+msgstr "高级恶魔"
+
+msgid "NM-EN0061"
+msgstr "混沌"
+
+msgid "NM-EN0062"
+msgstr "贝希摩斯"
+
+msgid "NM-EN0063"
+msgstr "帕祖祖"
+
+msgid "NM-EN0064"
+msgstr "灵魂化身"
+
+msgid "NM-EN0065"
+msgstr "塞伊格亞"
+
+msgid "NM-EN0066"
+msgstr "鹰身女王"
+
+msgid "NM-EN0067"
+msgstr "恶魔领主"
+
+msgid "NM-EN0068"
+msgstr "金属狙击者"
+
+msgid "NM-EN0069"
+msgstr "耶梦加得"
+
+msgid "NM-EN0070"
+msgstr "杀手小丑"
+
+msgid "NM-EN0071"
+msgstr "魔音海妖"
+
+msgid "NM-EN0072"
+msgstr "僵尸美杜莎"
+
+msgid "NM-EN0073"
+msgstr "蝎狮"
+
+msgid "NM-EN0074"
+msgstr "蠕虫"
+
+msgid "NM-EN0075"
+msgstr "精灵龙"
+
+msgid "NM-EN0076"
+msgstr "深潜者"
+
+msgid "NM-EN0077"
+msgstr "幻影"
+
+msgid "NM-EN0078"
+msgstr "小妖"
+
+msgid "NM-EN0079"
+msgstr "灵体魔像"
+
+msgid "NM-EN0080"
+msgstr "北极熊"
+
+msgid "NM-ENDB01"
+msgstr "狮鹫"
+
+msgid "NM-ENDB02"
+msgstr "地精萨满"
+
+msgid "NM-ENDB03"
+msgstr "巨大山精"
+
+msgid "NM-ENDB04"
+msgstr "米诺陶斯"
+
+msgid "NM-ENDB05"
+msgstr "独眼巨人"
+
+msgid "NM-ENDB06"
+msgstr "斯库拉"
+
+msgid "NM-ENDB07"
+msgstr "阿娜温"
+
+msgid "NM-ENDB08"
+msgstr "戈耳工"
+
+msgid "NM-ENDB09"
+msgstr "杰柯尔与海德"
+
+msgid "NM-ENDB10"
+msgstr "蛇人女皇"
+
+msgid "NM-ENDB11"
+msgstr "迦楼罗"
+
+msgid "NM-ENDB12"
+msgstr "风神,雷神"
+
+msgid "NM-ENDB13"
+msgstr "人造人"
+
+msgid "NM-ENDB14"
+msgstr "克拉肯"
+
+msgid "NM-ENDB15"
+msgstr "九尾狐"
+
+msgid "NM-ENDB16"
+msgstr "白银号的亡灵"
+
+msgid "NM-ENDB17"
+msgstr "海女"
+
+msgid "NM-ENDB18"
+msgstr "死亡"
+
+msgid "NM-ENDB19"
+msgstr "渴求者"
+
+msgid "NM-ENDB20"
+msgstr "古老国王"
+
+msgid "NM-ENDB21"
+msgstr "温迪戈"
+
+msgid "NM-ENDB22"
+msgstr "菲尼克斯"
+
+msgid "NM-ENDB23"
+msgstr "姦姦蛇螺"
+
+msgid "NM-ENDB24"
+msgstr "羽蛇神"
+
+msgid "NM-ENDB25"
+msgstr "刀灵鬼"
+
+msgid "NM-ENDB26"
+msgstr "八歧大蛇"
+
+msgid "NM-ENDB27"
+msgstr "切尔西"
+
+msgid "NM-ENDB28"
+msgstr "黑暗潜行者"
+
+msgid "NM-ENDB29"
+msgstr "骇人恐怖"
+
+msgid "NM-ENDB30"
+msgstr "三头青冠龙"
+
+msgid "NM-ENDB31"
+msgstr "利维坦"
+
+msgid "NM-ENDB32"
+msgstr "恶魔领主"
+
+msgid "NM-ENDR01"
+msgstr "黑龙 提亚马特"
+
+msgid "NM-ENDR02"
+msgstr "白龙 娅丝蒂芙"
+
+msgid "NM-ENDR03"
+msgstr "尸骸龙 扎哈克"
+
+msgid "NM-ENDR04"
+msgstr "金龙 库耶列布希"
+
+msgid "NM-ENDR05"
+msgstr "火龙 林德虫"
+
+msgid "NM-ENDR06"
+msgstr "毒龙 尼德霍格"
+
+msgid "NM-ENDR07"
+msgstr "圣龙 康娜卡姆依"
+
+msgid "NM-ENDR08"
+msgstr "苍龙 法夫纳"
+
+msgid "NM-ENIB01"
+msgstr "维埃拉"
+
+msgid "NM-ENIB02"
+msgstr "波塞冬"
+
+msgid "NM-ENIB03"
+msgstr "卡尔奎"
+
+msgid "NM-ENIB04"
+msgstr "象头神"
+
+msgid "NM-ENIB05"
+msgstr "哈迪斯"
+
+msgid "NM-ENIB06"
+msgstr "恐怖深渊"
+
+msgid "NM-ENIB07"
+msgstr "克苏鲁"
+
+msgid "NM-ENIB08"
+msgstr "四王灵"
+
+msgid "NM-ENIB09"
+msgstr "弑神的芬里尔"
+
+msgid "NM-ENIB10"
+msgstr "神龙 俱利伽罗"
+
+msgid "NM-ENLS01"
+msgstr "魔王"
+
+msgid "NM-ENRB01"
+msgstr "魔王的先锋"
+
+msgid "NM-ENRB02"
+msgstr "魔王的亲信"
+
+msgid "NM-ENRB03"
+msgstr "吸血鬼领主"
+
+msgid "NM-ENRB04"
+msgstr "伽拉泰亚"
+
+msgid "NM-ENRB05"
+msgstr "巴风特"
+
+msgid "NM-ENRB06"
+msgstr "凯瑟琳"
+
+msgid "NM-ENRB07"
+msgstr "塔纳托斯"
+
+msgid "NM-ENRB08"
+msgstr "潘达斯奈基"
+
+msgid "NM-EnterArea"
+msgstr "进入"
+
+msgid "NM-EQ-Parts"
+msgstr "装备零件"
+
+msgid "NM-Equipments"
+msgstr "装备"
+
+msgid "NM-Event"
+msgstr "事件"
+
+msgid "NM-Failed"
+msgstr "失败"
+
+msgid "NM-Find"
+msgstr "发现"
+
+msgid "NM-Gear-Pos-0"
+msgstr "武器"
+
+msgid "NM-Gear-Pos-1"
+msgstr "盔甲"
+
+msgid "NM-Gear-Pos-2"
+msgstr "饰品"
+
+msgid "NM-Gift"
+msgstr "礼物"
+
+msgid "NM-Gold"
+msgstr "金币"
+
+msgid "NM-GRA001"
+msgstr "衣服"
+
+msgid "NM-GRA002"
+msgstr "法衣"
+
+msgid "NM-GRA003"
+msgstr "皮革铠"
+
+msgid "NM-GRA004"
+msgstr "护胸"
+
+msgid "NM-GRA005"
+msgstr "盔甲"
+
+msgid "NM-GRA006"
+msgstr "袈裟"
+
+msgid "NM-GRA007"
+msgstr "全身甲"
+
+msgid "NM-GRA008"
+msgstr "外套"
+
+msgid "NM-GRA009"
+msgstr "装束"
+
+msgid "NM-GRA010"
+msgstr "礼服"
+
+msgid "NM-GRAL16"
+msgstr "牌"
+
+msgid "NM-GRAL17"
+msgstr "知识的权威"
+
+msgid "NM-GRAL18"
+msgstr "贝希摩斯的皮"
+
+msgid "NM-GRAL19"
+msgstr "普鲁托"
+
+msgid "NM-GRAL20"
+msgstr "龙鳞"
+
+msgid "NM-GRAL21"
+msgstr "王者"
+
+msgid "NM-GRAL22"
+msgstr "大将军"
+
+msgid "NM-GRAL23"
+msgstr "五右卫门"
+
+msgid "NM-GRAL24"
+msgstr "影"
+
+msgid "NM-GRAL25"
+msgstr "大祭司"
+
+msgid "NM-GRBL01"
+msgstr "狮鹫信件"
+
+msgid "NM-GRBL02"
+msgstr "巫师之杖"
+
+msgid "NM-GRBL03"
+msgstr "巨锤"
+
+msgid "NM-GRBL04"
+msgstr "巨斧"
+
+msgid "NM-GRBL05"
+msgstr "独眼"
+
+msgid "NM-GRBL06"
+msgstr "绝望"
+
+msgid "NM-GRBL07"
+msgstr "树灵的大弓"
+
+msgid "NM-GRBL08"
+msgstr "戈耳工之皮"
+
+msgid "NM-GRBL09"
+msgstr "正式"
+
+msgid "NM-GRBL10"
+msgstr "女王的扇子"
+
+msgid "NM-GRBL11"
+msgstr "乘风"
+
+msgid "NM-GRBL12"
+msgstr "闪电之矛"
+
+msgid "NM-GRBL13"
+msgstr "人造的"
+
+msgid "NM-GRBL14"
+msgstr "潮"
+
+msgid "NM-GRBL15"
+msgstr "阴阳师"
+
+msgid "NM-GRBL16"
+msgstr "海盗船长"
+
+msgid "NM-GRBL17"
+msgstr "雾霞"
+
+msgid "NM-GRBL18"
+msgstr "死神之镰"
+
+msgid "NM-GRBL19"
+msgstr "血手"
+
+msgid "NM-GRBL20"
+msgstr "被诅咒的随葬品"
+
+msgid "NM-GRBL21"
+msgstr "极地"
+
+msgid "NM-GRBL22"
+msgstr "新生"
+
+msgid "NM-GRBL23"
+msgstr "蛇毒"
+
+msgid "NM-GRBL24"
+msgstr "隐匿"
+
+msgid "NM-GRBL25"
+msgstr "七星剑"
+
+msgid "NM-GRBL26"
+msgstr "草薙剑"
+
+msgid "NM-GRBL27"
+msgstr "龙之盾"
+
+msgid "NM-GRBL28"
+msgstr "暗杀者"
+
+msgid "NM-GRBL29"
+msgstr "无名"
+
+msgid "NM-GRBL30"
+msgstr "古代"
+
+msgid "NM-GRBL31"
+msgstr "大海"
+
+msgid "NM-GRBL32"
+msgstr "魔界"
+
+msgid "NM-GRBL33"
+msgstr "血刃"
+
+msgid "NM-GRBL34"
+msgstr "邪眼"
+
+msgid "NM-GRBL35"
+msgstr "德古拉"
+
+msgid "NM-GRBL36"
+msgstr "圣遗物"
+
+msgid "NM-GRBL37"
+msgstr "祭仪"
+
+msgid "NM-GRBL38"
+msgstr "断头台"
+
+msgid "NM-GRBL39"
+msgstr "死亡警告"
+
+msgid "NM-GRBL40"
+msgstr "大马士革"
+
+msgid "NM-GRBL41"
+msgstr "赎罪"
+
+msgid "NM-GRBL42"
+msgstr "断头台"
+
+msgid "NM-GRBL43"
+msgstr "地狱"
+
+msgid "NM-GRBL44"
+msgstr "大马士革"
+
+msgid "NM-GRBL45"
+msgstr "救济之线"
+
+msgid "NM-GRBL46"
+msgstr "起源"
+
+msgid "NM-GRBL47"
+msgstr "金剛杵"
+
+msgid "NM-GRBL48"
+msgstr "象牙"
+
+msgid "NM-GRBL49"
+msgstr "四季"
+
+msgid "NM-GRBL50"
+msgstr "利己"
+
+msgid "NM-GRBL51"
+msgstr "邪神像"
+
+msgid "NM-GRBL52"
+msgstr "霸权"
+
+msgid "NM-GRBL53"
+msgstr "神断"
+
+msgid "NM-GRBL54"
+msgstr "神界"
+
+msgid "NM-GRDL01"
+msgstr "提亚马特"
+
+msgid "NM-GRDL02"
+msgstr "阿斯帝格"
+
+msgid "NM-GRDL03"
+msgstr "撒哈克"
+
+msgid "NM-GRDL04"
+msgstr "库耶列布希"
+
+msgid "NM-GRDL05"
+msgstr "林德虫"
+
+msgid "NM-GRDL06"
+msgstr "尼德霍格"
+
+msgid "NM-GRDL07"
+msgstr "康娜卡姆依"
+
+msgid "NM-GRDL08"
+msgstr "法夫纳"
+
+msgid "NM-GRJD01"
+msgstr "哥哥的遗物"
+
+msgid "NM-GRJD02"
+msgstr "旧塔罗牌"
+
+msgid "NM-GRJD03"
+msgstr "永恒的箭袋"
+
+msgid "NM-GRJD04"
+msgstr "憧憬的花环"
+
+msgid "NM-GRJD05"
+msgstr "祖传丝带"
+
+msgid "NM-GRJD06"
+msgstr "最亲密的朋友，大鹰吉尔"
+
+msgid "NM-GRJD07"
+msgstr "红色正义之证"
+
+msgid "NM-GRJD08"
+msgstr "被托付的披风"
+
+msgid "NM-GRJD09"
+msgstr "冰冷的心脏"
+
+msgid "NM-GRJD10"
+msgstr "凤凰"
+
+msgid "NM-GRJD11"
+msgstr "飞行扫帚"
+
+msgid "NM-GRJD12"
+msgstr "偷来的金币袋"
+
+msgid "NM-GRJD13"
+msgstr "伙伴贾拉"
+
+msgid "NM-GRJD14"
+msgstr "解剖器具"
+
+msgid "NM-GRJD15"
+msgstr "被撕碎的铁轮"
+
+msgid "NM-GRJD16"
+msgstr "魔晶札"
+
+msgid "NM-GRJD17"
+msgstr "失意的铁面"
+
+msgid "NM-GRJD18"
+msgstr "祖灵的面具"
+
+msgid "NM-GRJD19"
+msgstr "被使用过的书"
+
+msgid "NM-GRJD20"
+msgstr "不吉之血"
+
+msgid "NM-GRO001"
+msgstr "腰带"
+
+msgid "NM-GRO002"
+msgstr "指环"
+
+msgid "NM-GRO003"
+msgstr "项链"
+
+msgid "NM-GRO004"
+msgstr "帽子"
+
+msgid "NM-GRO005"
+msgstr "盔甲"
+
+msgid "NM-GRO006"
+msgstr "靴子"
+
+msgid "NM-GRO007"
+msgstr "手套"
+
+msgid "NM-GRO008"
+msgstr "手臂甲"
+
+msgid "NM-GRO009"
+msgstr "盾"
+
+msgid "NM-GRO010"
+msgstr "头盔"
+
+msgid "NM-GROL16"
+msgstr "黑"
+
+msgid "NM-GROL17"
+msgstr "诺言"
+
+msgid "NM-GROL18"
+msgstr "五份回忆"
+
+msgid "NM-GROL19"
+msgstr "精神统一"
+
+msgid "NM-GROL20"
+msgstr "千里行军"
+
+msgid "NM-GROL21"
+msgstr "祝福"
+
+msgid "NM-GROL22"
+msgstr "大盗贼"
+
+msgid "NM-GROL23"
+msgstr "奥格"
+
+msgid "NM-GROL24"
+msgstr "Aegis"
+
+msgid "NM-GROL25"
+msgstr "龙骑士"
+
+msgid "NM-GROL26"
+msgstr "王家之剑"
+
+msgid "NM-GROL27"
+msgstr "墨丘利的节杖"
+
+msgid "NM-GROL28"
+msgstr "船长"
+
+msgid "NM-GROL29"
+msgstr "工作任务"
+
+msgid "NM-GROL30"
+msgstr "魂"
+
+msgid "NM-GROL31"
+msgstr "新绿"
+
+msgid "NM-Growup"
+msgstr "育成"
+
+msgid "NM-GRW001"
+msgstr "剑"
+
+msgid "NM-GRW002"
+msgstr "斧"
+
+msgid "NM-GRW003"
+msgstr "枪"
+
+msgid "NM-GRW004"
+msgstr "杖"
+
+msgid "NM-GRW005"
+msgstr "短剑"
+
+msgid "NM-GRW006"
+msgstr "刀"
+
+msgid "NM-GRW007"
+msgstr "镰"
+
+msgid "NM-GRW008"
+msgstr "弓"
+
+msgid "NM-GRW009"
+msgstr "锤"
+
+msgid "NM-GRW010"
+msgstr "扇"
+
+msgid "NM-GRWL16"
+msgstr "克"
+
+msgid "NM-GRWL17"
+msgstr "大蛇"
+
+msgid "NM-GRWL18"
+msgstr "布里欧纳克"
+
+msgid "NM-GRWL19"
+msgstr "奥伯伦"
+
+msgid "NM-GRWL20"
+msgstr "风切"
+
+msgid "NM-GRWL21"
+msgstr "国守"
+
+msgid "NM-GRWL22"
+msgstr "死神之镰"
+
+msgid "NM-GRWL23"
+msgstr "尤克特拉希尔"
+
+msgid "NM-GRWL24"
+msgstr "泰坦尼克"
+
+msgid "NM-GRWL25"
+msgstr "军师"
+
+msgid "NM-Help"
+msgstr "帮助"
+
+msgid "NM-Invasion"
+msgstr "进攻"
+
+msgid "NM-ITAD01"
+msgstr "金币Boost"
+
+msgid "NM-ITAD04"
+msgstr "空白神谕"
+
+msgid "NM-ITAD05"
+msgstr "廷克锤"
+
+msgid "NM-ITAP01"
+msgstr "回忆的碎片"
+
+msgid "NM-ITAP02"
+msgstr "回忆的宝玉"
+
+msgid "NM-ITAP03"
+msgstr "回忆的结晶"
+
+msgid "NM-ITAS01"
+msgstr "免费角色兑换券"
+
+msgid "NM-Item"
+msgstr "道具"
+
+msgid "NM-ITPA01"
+msgstr "耐火药水"
+
+msgid "NM-ITPA02"
+msgstr "耐地药水"
+
+msgid "NM-ITPA03"
+msgstr "耐天药水"
+
+msgid "NM-ITPA04"
+msgstr "耐灵药水"
+
+msgid "NM-ITPA05"
+msgstr "韧性药水"
+
+msgid "NM-ITPA06"
+msgstr "精神药水"
+
+msgid "NM-ITPA07"
+msgstr "幸运护符"
+
+msgid "NM-ITPA08"
+msgstr "力之灵药"
+
+msgid "NM-ITPA09"
+msgstr "古老的石板"
+
+msgid "NM-ITPR01"
+msgstr "时间齿轮"
+
+msgid "NM-ITPR02"
+msgstr "变幻之沙"
+
+msgid "NM-ITPS01"
+msgstr "魔晶石"
+
+msgid "NM-ITPS02"
+msgstr "希晶石"
+
+msgid "NM-ITPS03"
+msgstr "幻晶石"
+
+msgid "NM-ITPS04"
+msgstr "锻矿石"
+
+msgid "NM-ITPS05"
+msgstr "技能书"
+
+msgid "NM-ITPS06"
+msgstr "人造人的幼体"
+
+msgid "NM-ITPS07"
+msgstr "古之棺"
+
+msgid "NM-ITPS08"
+msgstr "美味的餐点"
+
+msgid "NM-ITPS09"
+msgstr "药瓶"
+
+msgid "NM-ITPS10"
+msgstr "魔法地图"
+
+msgid "NM-ITPS11"
+msgstr "强化材料"
+
+msgid "NM-ITPS12"
+msgstr "抢来的指南书"
+
+msgid "NM-ITPS13"
+msgstr "备用武具"
+
+msgid "NM-ITPS14"
+msgstr "力之酒"
+
+msgid "NM-ITPS15"
+msgstr "幸运护身符"
+
+msgid "NM-ITPS16"
+msgstr "古代钱币"
+
+msgid "NM-ITPS17"
+msgstr "占星盘"
+
+msgid "NM-ITPS18"
+msgstr "变形石"
+
+msgid "NM-ITPS19"
+msgstr "融晶石"
+
+msgid "NM-ITPS20"
+msgstr "钢片"
+
+msgid "NM-ITPS21"
+msgstr "士气的旗帜"
+
+msgid "NM-ITPS22"
+msgstr "金块"
+
+msgid "NM-ITPS23"
+msgstr "觉醒石"
+
+msgid "NM-ITPS24"
+msgstr "模构铁"
+
+msgid "NM-ITPS25"
+msgstr "思念的碎片"
+
+msgid "NM-ITPS26"
+msgstr "导向枝"
+
+msgid "NM-ITPS27"
+msgstr "熔晶石"
+
+msgid "NM-ITPS28"
+msgstr "奥里哈钢"
+
+msgid "NM-ITPS29"
+msgstr "细微的痕迹"
+
+msgid "NM-ITPS30"
+msgstr "介绍信"
+
+msgid "NM-ITPS31"
+msgstr "剑士指南"
+
+msgid "NM-ITPS32"
+msgstr "治疗师指南"
+
+msgid "NM-ITPS33"
+msgstr "魔法师指南"
+
+msgid "NM-ITPS34"
+msgstr "盗贼指南"
+
+msgid "NM-ITPS35"
+msgstr "猎人指南"
+
+msgid "NM-ITPS36"
+msgstr "巫师指南"
+
+msgid "NM-ITPS37"
+msgstr "斗士指南"
+
+msgid "NM-ITPS38"
+msgstr "旅者指南"
+
+msgid "NM-ITPS39"
+msgstr "骑士指南"
+
+msgid "NM-ITPS40"
+msgstr "战士指南"
+
+msgid "NM-ITPS41"
+msgstr "魔剑士指南"
+
+msgid "NM-ITPS42"
+msgstr "吸血鬼指南"
+
+msgid "NM-ITPS43"
+msgstr "学者指南"
+
+msgid "NM-ITPS44"
+msgstr "海盗指南"
+
+msgid "NM-ITPS45"
+msgstr "格斗家指南"
+
+msgid "NM-ITPS46"
+msgstr "武士指南"
+
+msgid "NM-ITPS47"
+msgstr "狙击手指南"
+
+msgid "NM-ITPS48"
+msgstr "诗人指南"
+
+msgid "NM-ITPS49"
+msgstr "贤者指南"
+
+msgid "NM-ITPS50"
+msgstr "佣兵指南"
+
+msgid "NM-ITPS51"
+msgstr "赏金猎人指南"
+
+msgid "NM-ITPS52"
+msgstr "死神指南"
+
+msgid "NM-ITPS53"
+msgstr "炎术士指南"
+
+msgid "NM-ITPS54"
+msgstr "灵术士指南"
+
+msgid "NM-ITPS55"
+msgstr "天术士指南"
+
+msgid "NM-ITPS56"
+msgstr "地术士指南"
+
+msgid "NM-ITPS57"
+msgstr "隐秘指南"
+
+msgid "NM-ITPS58"
+msgstr "魔女指南"
+
+msgid "NM-ITPS59"
+msgstr "尸术师指南"
+
+msgid "NM-ITPS60"
+msgstr "召唤师指南"
+
+msgid "NM-ITPS61"
+msgstr "藏宝图"
+
+msgid "NM-ITPS65"
+msgstr "成长之证"
+
+msgid "NM-ITSS00"
+msgstr "测试活动交换券"
+
+msgid "NM-ITSS01"
+msgstr "起源之花"
+
+msgid "NM-JB01"
+msgstr "冒险者 亚历克斯"
+
+msgid "NM-JB02"
+msgstr "观星魔女 卡密拉"
+
+msgid "NM-JB03"
+msgstr "大贤者的孙女 希莉露"
+
+msgid "NM-JB04"
+msgstr "魔法剑士 伊欧娜"
+
+msgid "NM-JB05"
+msgstr "孤独的死神  露克雷琪亚"
+
+msgid "NM-JB06"
+msgstr "飞鹰剑士 莫妮卡"
+
+msgid "NM-JB07"
+msgstr "大怪盗 卡雅"
+
+msgid "NM-JB08"
+msgstr "人民的英雄 罗宾"
+
+msgid "NM-JB09"
+msgstr "雪女 冬"
+
+msgid "NM-JB10"
+msgstr "不死鸟 阿隆索"
+
+msgid "NM-JB11"
+msgstr "幻惑的 海尔米娜"
+
+msgid "NM-JB12"
+msgstr "盗贼剑士 佐菲"
+
+msgid "NM-JB13"
+msgstr "砂砾之剑 哈基姆"
+
+msgid "NM-JB14"
+msgstr "亵渎死亡者 基安"
+
+msgid "NM-JB15"
+msgstr "热血的猛牛 奥格斯特"
+
+msgid "NM-JB16"
+msgstr "漆黑魔女 玛莉亚"
+
+msgid "NM-JB17"
+msgstr "堕落者 马伊特"
+
+msgid "NM-JB18"
+msgstr "密林的司祭 伽普"
+
+msgid "NM-JB19"
+msgstr "年轻的召唤士 鲁夫莱希特"
+
+msgid "NM-JB20"
+msgstr "被诅咒的少女 伊莎贝拉"
+
+msgid "NM-KILL-NUM"
+msgstr "击败"
+
+msgid "NM-LegendaryItem"
+msgstr "传说装备"
+
+msgid "NM-Level"
+msgstr "等级"
+
+msgid "NM-LimitTime"
+msgstr "期限"
+
+msgid "NM-Link"
+msgstr "羁绊"
+
+msgid "NM-LinkLevelQuest"
+msgstr "羁绊任务"
+
+msgid "NM-Main"
+msgstr "主要"
+
+msgid "NM-Max"
+msgstr "最大"
+
+msgid "NM-MONSTER"
+msgstr "怪物"
+
+msgid "NM-Multiple-Num"
+msgstr "次数"
+
+msgid "NM-NP01"
+msgstr "圣剑王 亚瑟"
+
+msgid "NM-NP02"
+msgstr "妖精王 马里奥"
+
+msgid "NM-NP03"
+msgstr "旅途中的万事屋 莉卡"
+
+msgid "NM-NP04"
+msgstr "黑火团长 扎比尼"
+
+msgid "NM-NP05"
+msgstr "私人侦探 达尔文"
+
+msgid "NM-NP06"
+msgstr "火之巫女 阿德拉"
+
+msgid "NM-NP07"
+msgstr "树荫下的绅士 杰拉鲁"
+
+msgid "NM-NP08"
+msgstr "绝世大贤圣 海因茨勒"
+
+msgid "NM-Once-Only"
+msgstr "每个账号只能1次"
+
+msgid "NM-OPEN-ALL-AREA"
+msgstr "全区域解锁"
+
+msgid "NM-OPEN-AREA"
+msgstr "区域解放"
+
+msgid "NM-OpeningRoad"
+msgstr "踏破"
+
+msgid "NM-OR0001"
+msgstr "战士"
+
+msgid "NM-OR0002"
+msgstr "魔法师"
+
+msgid "NM-OR0003"
+msgstr "护卫"
+
+msgid "NM-OR0004"
+msgstr "勇敢"
+
+msgid "NM-OR0005"
+msgstr "魔剑士"
+
+msgid "NM-OR0006"
+msgstr "重战士"
+
+msgid "NM-OR0007"
+msgstr "圣骑士"
+
+msgid "NM-OR0008"
+msgstr "学问"
+
+msgid "NM-OR0009"
+msgstr "贤者"
+
+msgid "NM-OR0010"
+msgstr "守护者"
+
+msgid "NM-OR0011"
+msgstr "健康"
+
+msgid "NM-OR0012"
+msgstr "热情"
+
+msgid "NM-OR0013"
+msgstr "牧师"
+
+msgid "NM-OR0014"
+msgstr "理智"
+
+msgid "NM-OR0015"
+msgstr "名家"
+
+msgid "NM-Oracle"
+msgstr "神谕"
+
+msgid "NM-Orb"
+msgstr "宝珠"
+
+msgid "NM-Passive"
+msgstr "被动"
+
+msgid "NM-Place-AP"
+msgstr "祠堂"
+
+msgid "NM-Place-Bounty"
+msgstr "悬赏怪物"
+
+msgid "NM-Place-Camp"
+msgstr "营地"
+
+msgid "NM-Place-Invasion"
+msgstr "进攻"
+
+msgid "NM-Place-Minion"
+msgstr "灵脉"
+
+msgid "NM-Place-RandShop"
+msgstr "商店"
+
+msgid "NM-Place-Rest"
+msgstr "营地"
+
+msgid "NM-Place-Road"
+msgstr "街道"
+
+msgid "NM-Place-Secret"
+msgstr "诡计"
+
+msgid "NM-Place-Treasure"
+msgstr "宝藏"
+
+msgid "NM-Place-Village"
+msgstr "村落"
+
+msgid "NM-PlayNum"
+msgstr "游玩次数"
+
+msgid "NM-Potential"
+msgstr "潜能"
+
+msgid "NM-PreSetRegisterNum"
+msgstr "Set登录数"
+
+msgid "NM-PrismOrb"
+msgstr "七彩宝珠"
+
+msgid "NM-Ranking"
+msgstr "排行"
+
+msgid "NM-Ranking-Infinite"
+msgstr "无限回廊"
+
+msgid "NM-Ranking-Satan"
+msgstr "通关天数"
+
+msgid "NM-Ranking-TrueSatan"
+msgstr "通关天数（真）"
+
+msgid "NM-Recommend"
+msgstr "推荐"
+
+msgid "NM-Reward"
+msgstr "报酬"
+
+msgid "NM-RS0101"
+msgstr "居住地的袭击"
+
+msgid "NM-RS0102"
+msgstr "魔王的护卫"
+
+msgid "NM-RS0103"
+msgstr "与王国军的冲突"
+
+msgid "NM-RS0201"
+msgstr "散布谣言"
+
+msgid "NM-RS0202"
+msgstr "强化研究"
+
+msgid "NM-RS0203"
+msgstr "精英军编成"
+
+msgid "NM-RS0301"
+msgstr "绑架处女"
+
+msgid "NM-RS0302"
+msgstr "死者苏生"
+
+msgid "NM-RS0303"
+msgstr "黑色帷幕"
+
+msgid "NM-RS0401"
+msgstr "幽灵徘徊"
+
+msgid "NM-RS0402"
+msgstr "诅咒蔓延"
+
+msgid "NM-RS0403"
+msgstr "夺取记忆"
+
+msgid "NM-RS0501"
+msgstr "煽动恐惧"
+
+msgid "NM-RS0502"
+msgstr "游击部队"
+
+msgid "NM-RS0503"
+msgstr "离间之计"
+
+msgid "NM-RS0601"
+msgstr "神出鬼没的歹徒"
+
+msgid "NM-RS0602"
+msgstr "杀戮之夜"
+
+msgid "NM-RS0603"
+msgstr "医疗器具不足"
+
+msgid "NM-RS0701"
+msgstr "镇压坟墓"
+
+msgid "NM-RS0702"
+msgstr "街道封锁"
+
+msgid "NM-RS0703"
+msgstr "黑死病的蔓延"
+
+msgid "NM-RS0801"
+msgstr "光线的扩散"
+
+msgid "NM-RS0802"
+msgstr "高温蒸发"
+
+msgid "NM-RS0803"
+msgstr "混沌坩埚"
+
+msgid "NM-RV01"
+msgstr "魔王的先锋"
+
+msgid "NM-RV02"
+msgstr "魔王的亲信"
+
+msgid "NM-RV03"
+msgstr "吸血鬼领主"
+
+msgid "NM-RV04"
+msgstr "加拉蒂亚"
+
+msgid "NM-RV05"
+msgstr "鲍芙默"
+
+msgid "NM-RV06"
+msgstr "凯瑟琳"
+
+msgid "NM-RV07"
+msgstr "托斯"
+
+msgid "NM-RV08"
+msgstr "潘达斯奈基"
+
+msgid "NMS-CCB01"
+msgstr "新的可能性"
+
+msgid "NMS-CCB02"
+msgstr "活动宝箱『～』"
+
+msgid "NMS-CCE01"
+msgstr "加速你的冒险！"
+
+msgid "NMS-CCE02"
+msgstr "活动宝箱 『～』"
+
+msgid "NM-SE0001"
+msgstr "获得装备"
+
+msgid "NM-SE0002"
+msgstr "获得材料"
+
+msgid "NM-SE0003"
+msgstr "HP回复"
+
+msgid "NM-SE0004"
+msgstr "装备升级"
+
+msgid "NM-SE0005"
+msgstr "一时之间异常状态无效"
+
+msgid "NM-SE0006"
+msgstr "Brave回复"
+
+msgid "NM-SE0007"
+msgstr "使魔+1"
+
+msgid "NM-SE0008"
+msgstr "羁绊+1"
+
+msgid "NM-SE0009"
+msgstr "随机支援者Lv+1"
+
+msgid "NM-SE0010"
+msgstr "随机恶魔头目Lv+1"
+
+msgid "NM-SE0011"
+msgstr "获得金币"
+
+msgid "NM-SE0012"
+msgstr "技能等级+1"
+
+msgid "NM-SE0013"
+msgstr "能力点+1"
+
+msgid "NM-SE0014"
+msgstr "发现护符"
+
+msgid "NM-SE0015"
+msgstr "发现神谕"
+
+msgid "NM-SE0016"
+msgstr "随机装备Atk+"
+
+msgid "NM-SE0017"
+msgstr "随机装备Spl+"
+
+msgid "NM-SE0018"
+msgstr "随机装备Grd+"
+
+msgid "NM-SE0019"
+msgstr "随机装备Hrt+"
+
+msgid "NM-SE0020"
+msgstr "下一场战斗中战斗力大幅强化"
+
+msgid "NM-SE0021"
+msgstr "发现藏宝图"
+
+msgid "NM-SE0022"
+msgstr "地下城强化"
+
+msgid "NM-SE0023"
+msgstr "1个诡计无效化"
+
+msgid "NM-SE0024"
+msgstr "王国军进攻进度"
+
+msgid "NM-SE0025"
+msgstr "随机商店"
+
+msgid "NM-SE0026"
+msgstr "悬赏怪物出现"
+
+msgid "NM-SE0027"
+msgstr "区域解放"
+
+msgid "NM-SE0028"
+msgstr "精锐配备"
+
+msgid "NM-Season"
+msgstr "季节"
+
+msgid "NM-Secret"
+msgstr "诡计"
+
+msgid "NM-Shop-Rest"
+msgstr "住宿"
+
+msgid "NM-ShopStock-0"
+msgstr "缺货"
+
+msgid "NM-ShopStock-Inf"
+msgstr "无上限"
+
+msgid "NM-Shortest-Days"
+msgstr "最短天数"
+
+msgid "NM-Shrine"
+msgstr "祠堂"
+
+msgid "NM-SK000000"
+msgstr "攻击"
+
+msgid "NM-SK000001"
+msgstr "鼓励"
+
+msgid "NM-SK000002"
+msgstr "复仇"
+
+msgid "NM-SK000003"
+msgstr "直刺"
+
+msgid "NM-SK000004"
+msgstr "星光射线"
+
+msgid "NM-SK000005"
+msgstr "占星"
+
+msgid "NM-SK000006"
+msgstr "再生"
+
+msgid "NM-SK000007"
+msgstr "直线射击"
+
+msgid "NM-SK000008"
+msgstr "痕迹追踪"
+
+msgid "NM-SK000009"
+msgstr "自然的恩惠"
+
+msgid "NM-SK000010"
+msgstr "集中"
+
+msgid "NM-SK000011"
+msgstr "迷惑"
+
+msgid "NM-SK000012"
+msgstr "终结之剑"
+
+msgid "NM-SK000013"
+msgstr "恶魔契约"
+
+msgid "NM-SK000014"
+msgstr "催眠"
+
+msgid "NM-SK000015"
+msgstr "暗杀"
+
+msgid "NM-SK000016"
+msgstr "鹰击"
+
+msgid "NM-SK000017"
+msgstr "盘旋"
+
+msgid "NM-SK000018"
+msgstr "鹰眼"
+
+msgid "NM-SK000019"
+msgstr "潜入"
+
+msgid "NM-SK000020"
+msgstr "三连飞刀"
+
+msgid "NM-SK000021"
+msgstr "逃单技巧"
+
+msgid "NM-SK000022"
+msgstr "事前准备"
+
+msgid "NM-SK000023"
+msgstr "义勇军"
+
+msgid "NM-SK000024"
+msgstr "战争天才"
+
+msgid "NM-SK000025"
+msgstr "寒冰掌"
+
+msgid "NM-SK000026"
+msgstr "吹雪"
+
+msgid "NM-SK000027"
+msgstr "唤冬"
+
+msgid "NM-SK000028"
+msgstr "生命之火"
+
+msgid "NM-SK000029"
+msgstr "火焰之躯"
+
+msgid "NM-SK000030"
+msgstr "涅槃重生"
+
+msgid "NM-SK000031"
+msgstr "海尔米娜・记号"
+
+msgid "NM-SK000032"
+msgstr "诱惑"
+
+msgid "NM-SK000033"
+msgstr "欲望之舞"
+
+msgid "NM-SK000034"
+msgstr "出血刺击"
+
+msgid "NM-SK000035"
+msgstr "神偷妙计"
+
+msgid "NM-SK000036"
+msgstr "三连速击"
+
+msgid "NM-SK000037"
+msgstr "二刀拔刀"
+
+msgid "NM-SK000038"
+msgstr "开刃"
+
+msgid "NM-SK000039"
+msgstr "剑舞"
+
+msgid "NM-SK000040"
+msgstr "黑暗球"
+
+msgid "NM-SK000041"
+msgstr "鬼灵召唤"
+
+msgid "NM-SK000042"
+msgstr "集结军团"
+
+msgid "NM-SK000043"
+msgstr "愤怒"
+
+msgid "NM-SK000044"
+msgstr "超再生"
+
+msgid "NM-SK000045"
+msgstr "闪回"
+
+msgid "NM-SK000046"
+msgstr "能量弹"
+
+msgid "NM-SK000047"
+msgstr "冥想"
+
+msgid "NM-SK000048"
+msgstr "能量聚合"
+
+msgid "NM-SK000049"
+msgstr "残忍打击"
+
+msgid "NM-SK000050"
+msgstr "偏斜"
+
+msgid "NM-SK000051"
+msgstr "血色旋风"
+
+msgid "NM-SK000052"
+msgstr "毒藤"
+
+msgid "NM-SK000053"
+msgstr "毒刃"
+
+msgid "NM-SK000054"
+msgstr "地震"
+
+msgid "NM-SK000055"
+msgstr "刻印召唤"
+
+msgid "NM-SK000056"
+msgstr "墙壁召唤"
+
+msgid "NM-SK000057"
+msgstr "无咏唱召唤"
+
+msgid "NM-SK000058"
+msgstr "吸血"
+
+msgid "NM-SK000059"
+msgstr "放血"
+
+msgid "NM-SK000060"
+msgstr "血之觉醒"
+
+msgid "NM-SK000061"
+msgstr "双重刺击"
+
+msgid "NM-SK000062"
+msgstr "剑闪"
+
+msgid "NM-SK000063"
+msgstr "磨刀"
+
+msgid "NM-SK000064"
+msgstr "治疗"
+
+msgid "NM-SK000065"
+msgstr "清除"
+
+msgid "NM-SK000066"
+msgstr "高阶治疗"
+
+msgid "NM-SK000067"
+msgstr "能量球"
+
+msgid "NM-SK000068"
+msgstr "魔法盾"
+
+msgid "NM-SK000069"
+msgstr "能量漩涡"
+
+msgid "NM-SK000070"
+msgstr "后撤步"
+
+msgid "NM-SK000071"
+msgstr "寻宝"
+
+#, fuzzy
+msgid "NM-SK000072"
+msgstr "快速平局"
+
+msgid "NM-SK000073"
+msgstr "捕熊陷阱"
+
+msgid "NM-SK000074"
+msgstr "三连射击"
+
+msgid "NM-SK000075"
+msgstr "细工流流"
+
+msgid "NM-SK000076"
+msgstr "配毒"
+
+msgid "NM-SK000077"
+msgstr "魔法地雷"
+
+msgid "NM-SK000078"
+msgstr "爱的供养"
+
+msgid "NM-SK000079"
+msgstr "不惜身命"
+
+msgid "NM-SK000080"
+msgstr "心头灭却"
+
+msgid "NM-SK000081"
+msgstr "不挠不屈"
+
+msgid "NM-SK000082"
+msgstr "急救措施"
+
+msgid "NM-SK000083"
+msgstr "急速"
+
+msgid "NM-SK000084"
+msgstr "不馁之心"
+
+msgid "NM-SK000085"
+msgstr "保护"
+
+msgid "NM-SK000086"
+msgstr "正当防卫"
+
+msgid "NM-SK000087"
+msgstr "方阵"
+
+msgid "NM-SK000088"
+msgstr "守护"
+
+msgid "NM-SK000089"
+msgstr "战吼"
+
+msgid "NM-SK000090"
+msgstr "反击"
+
+msgid "NM-SK000091"
+msgstr "能量射击"
+
+msgid "NM-SK000092"
+msgstr "魔法剑"
+
+msgid "NM-SK000093"
+msgstr "集中元素"
+
+msgid "NM-SK000094"
+msgstr "吸血牙"
+
+msgid "NM-SK000095"
+msgstr "眷属化"
+
+msgid "NM-SK000096"
+msgstr "吸血者"
+
+msgid "NM-SK000097"
+msgstr "遮蔽物"
+
+msgid "NM-SK000098"
+msgstr "野战治疗"
+
+msgid "NM-SK000099"
+msgstr "战地分析"
+
+msgid "NM-SK000100"
+msgstr "炸药"
+
+msgid "NM-SK000101"
+msgstr "空枪"
+
+msgid "NM-SK000102"
+msgstr "齐射"
+
+msgid "NM-SK000103"
+msgstr "扫堂腿"
+
+msgid "NM-SK000104"
+msgstr "灵气射击"
+
+msgid "NM-SK000105"
+msgstr "内劲"
+
+msgid "NM-SK000106"
+msgstr "居合"
+
+msgid "NM-SK000107"
+msgstr "见切"
+
+msgid "NM-SK000108"
+msgstr "正眼架势"
+
+msgid "NM-SK000109"
+msgstr "瞄准"
+
+msgid "NM-SK000110"
+msgstr "铁丝陷阱"
+
+msgid "NM-SK000111"
+msgstr "爆头"
+
+msgid "NM-SK000112"
+msgstr "命之诗"
+
+msgid "NM-SK000113"
+msgstr "战之诗"
+
+msgid "NM-SK000114"
+msgstr "魂之诗"
+
+msgid "NM-SK000115"
+msgstr "溢出"
+
+msgid "NM-SK000116"
+msgstr "二重咏唱"
+
+msgid "NM-SK000117"
+msgstr "重力碾压"
+
+msgid "NM-SK000118"
+msgstr "切割机"
+
+msgid "NM-SK000119"
+msgstr "破盾"
+
+msgid "NM-SK000120"
+msgstr "恶棍"
+
+msgid "NM-SK000121"
+msgstr "隐藏的獠牙"
+
+msgid "NM-SK000122"
+msgstr "商谈"
+
+msgid "NM-SK000123"
+msgstr "悬赏情报"
+
+msgid "NM-SK000124"
+msgstr "恶魔的一击"
+
+msgid "NM-SK000125"
+msgstr "祭品"
+
+msgid "NM-SK000126"
+msgstr "遁入虚空"
+
+msgid "NM-SK000127"
+msgstr "火球"
+
+msgid "NM-SK000128"
+msgstr "燃烧"
+
+msgid "NM-SK000129"
+msgstr "火墙"
+
+msgid "NM-SK000130"
+msgstr "冰针"
+
+msgid "NM-SK000131"
+msgstr "血液冻结"
+
+msgid "NM-SK000132"
+msgstr "暴风雪"
+
+msgid "NM-SK000133"
+msgstr "闪电球"
+
+msgid "NM-SK000134"
+msgstr "电火花"
+
+msgid "NM-SK000135"
+msgstr "雷云"
+
+msgid "NM-SK000136"
+msgstr "毒气"
+
+msgid "NM-SK000137"
+msgstr "转移"
+
+msgid "NM-SK000138"
+msgstr "毒爆"
+
+msgid "NM-SK000139"
+msgstr "隐藏"
+
+msgid "NM-SK000140"
+msgstr "飞刀"
+
+msgid "NM-SK000141"
+msgstr "致命陷阱"
+
+msgid "NM-SK000142"
+msgstr "风切"
+
+msgid "NM-SK000143"
+msgstr "力场"
+
+msgid "NM-SK000144"
+msgstr "雷咒"
+
+msgid "NM-SK000145"
+msgstr "尸仆"
+
+msgid "NM-SK000146"
+msgstr "骨仆"
+
+msgid "NM-SK000147"
+msgstr "骨槌"
+
+msgid "NM-SK000148"
+msgstr "使魔召唤"
+
+msgid "NM-SK000149"
+msgstr "龙召唤"
+
+msgid "NM-SK000150"
+msgstr "恶魔召唤"
+
+msgid "NM-SKEB0001"
+msgstr "骤风"
+
+msgid "NM-SKEB0002"
+msgstr "火焰风暴"
+
+msgid "NM-SKEB0003"
+msgstr "痛击"
+
+msgid "NM-SKEB0004"
+msgstr "猛殴"
+
+msgid "NM-SKEB0005"
+msgstr "捏碎"
+
+msgid "NM-SKEB0006"
+msgstr "全都消失吧"
+
+msgid "NM-SKEB0007"
+msgstr "毒叶缠绕"
+
+msgid "NM-SKEB0008"
+msgstr "石化凝视"
+
+msgid "NM-SKEB0009"
+msgstr "无尽噩梦"
+
+msgid "NM-SKEB0010"
+msgstr "捆绑"
+
+msgid "NM-SKEB0011"
+msgstr "抓斗"
+
+msgid "NM-SKEB0012"
+msgstr "雷雨"
+
+msgid "NM-SKEB0013"
+msgstr "聖魔之怒"
+
+msgid "NM-SKEB0014"
+msgstr "蛸足"
+
+msgid "NM-SKEB0015"
+msgstr "猛毒石砾"
+
+msgid "NM-SKEB0016"
+msgstr "沉没"
+
+msgid "NM-SKEB0017"
+msgstr "死亡之拥"
+
+msgid "NM-SKEB0018"
+msgstr "死神之镰"
+
+msgid "NM-SKEB0019"
+msgstr "致命冲锋"
+
+msgid "NM-SKEB0020"
+msgstr "王室诅咒"
+
+msgid "NM-SKEB0021"
+msgstr "钻石星辰"
+
+msgid "NM-SKEB0022"
+msgstr "复活"
+
+msgid "NM-SKEB0023"
+msgstr "致命猛毒"
+
+msgid "NM-SKEB0024"
+msgstr "太阳风"
+
+msgid "NM-SKEB0025"
+msgstr "请神『剑圣』"
+
+msgid "NM-SKEB0026"
+msgstr "生吞"
+
+msgid "NM-SKEB0027"
+msgstr "龙之俯冲"
+
+msgid "NM-SKEB0028"
+msgstr "遁入黑暗"
+
+msgid "NM-SKEB0029"
+msgstr "发狂"
+
+msgid "NM-SKEB0030"
+msgstr "死亡之咬"
+
+msgid "NM-SKEB0031"
+msgstr "退潮的寂静"
+
+msgid "NM-SKEB0032"
+msgstr "恶魔低语"
+
+msgid "NM-SKEB0033"
+msgstr "漆黑剑"
+
+msgid "NM-SKEB0034"
+msgstr "生命吸取"
+
+msgid "NM-SKEB0035"
+msgstr "变形"
+
+msgid "NM-SKEB0036"
+msgstr "邪圣的镇魂曲"
+
+msgid "NM-SKEB0037"
+msgstr "堕落的诱惑"
+
+msgid "NM-SKEB0038"
+msgstr "上！路德维希！"
+
+msgid "NM-SKEB0039"
+msgstr "收割生命"
+
+msgid "NM-SKEB0040"
+msgstr "激光风暴"
+
+msgid "NM-SKEB0045"
+msgstr "腐化吐息"
+
+msgid "NM-SKEB0046"
+msgstr "白色吐息"
+
+msgid "NM-SKEB0047"
+msgstr "不死的胎动"
+
+msgid "NM-SKEB0048"
+msgstr "龙之血"
+
+msgid "NM-SKEB0049"
+msgstr "深红吐息"
+
+msgid "NM-SKEB0050"
+msgstr "毒液喷吐"
+
+msgid "NM-SKEB0051"
+msgstr "天堂冲击波"
+
+msgid "NM-SKEB0052"
+msgstr "招雷"
+
+msgid "NM-SKEB0053"
+msgstr "日食"
+
+msgid "NM-SKEB0054"
+msgstr "蛛网监牢"
+
+msgid "NM-SKEB0055"
+msgstr "大海啸"
+
+msgid "NM-SKEB0056"
+msgstr "毁灭之光"
+
+msgid "NM-SKEB0057"
+msgstr "阿库夏"
+
+msgid "NM-SKEB0058"
+msgstr "死之裁决"
+
+msgid "NM-SKEB0059"
+msgstr "尖刺堡垒"
+
+msgid "NM-SKEB0060"
+msgstr "冥界的呼声"
+
+msgid "NM-SKEB0061"
+msgstr "冥界大军"
+
+msgid "NM-SKEB0062"
+msgstr "格莱普尼尔"
+
+msgid "NM-SKEB0063"
+msgstr "神界的威光"
+
+msgid "NM-SKEC0001"
+msgstr "远古治愈"
+
+msgid "NM-SKEC0002"
+msgstr "妖精屏障"
+
+msgid "NM-SKEC0003"
+msgstr "妖精的欢呼"
+
+msgid "NM-SKEN0001"
+msgstr "水枪"
+
+msgid "NM-SKEN0002"
+msgstr "俯冲"
+
+msgid "NM-SKEN0003"
+msgstr "爪"
+
+msgid "NM-SKEN0004"
+msgstr "角"
+
+msgid "NM-SKEN0005"
+msgstr "尾击"
+
+msgid "NM-SKEN0006"
+msgstr "奔踏"
+
+msgid "NM-SKEN0007"
+msgstr "卷起"
+
+msgid "NM-SKEN0008"
+msgstr "诱惑"
+
+msgid "NM-SKEN0009"
+msgstr "切割"
+
+msgid "NM-SKEN0010"
+msgstr "撞击"
+
+msgid "NM-SKEN0011"
+msgstr "火焰吐息"
+
+msgid "NM-SKEN0012"
+msgstr "猛毒吐息"
+
+msgid "NM-SKEN0013"
+msgstr "雷霆吐息"
+
+msgid "NM-SKEN0014"
+msgstr "冰霜吐息"
+
+msgid "NM-SKEN0015"
+msgstr "毒击"
+
+msgid "NM-SKEN0016"
+msgstr "邪眼"
+
+msgid "NM-SKEN0017"
+msgstr "毒蔓"
+
+msgid "NM-SKEN0018"
+msgstr "咬碎"
+
+msgid "NM-SKEN0019"
+msgstr "强击"
+
+msgid "NM-SKEN0020"
+msgstr "恶梦"
+
+msgid "NM-SKEN0021"
+msgstr "自我修复"
+
+msgid "NM-SKEN0022"
+msgstr "自我再生"
+
+msgid "NM-SKEN0023"
+msgstr "粘液"
+
+msgid "NM-SKEN0024"
+msgstr "飞行"
+
+msgid "NM-SKEN0025"
+msgstr "流血"
+
+msgid "NM-SKEN0026"
+msgstr "下潜"
+
+msgid "NM-SKEN0027"
+msgstr "诅咒"
+
+msgid "NM-SKEN0028"
+msgstr "念力"
+
+msgid "NM-SKEN0029"
+msgstr "牙"
+
+msgid "NM-SKEN0030"
+msgstr "火球"
+
+msgid "NM-SKEN0031"
+msgstr "火墙"
+
+msgid "NM-SKEN0032"
+msgstr ":@NM-SK000130"
+
+msgid "NM-SKEN0033"
+msgstr "暴风雪"
+
+msgid "NM-SKEN0034"
+msgstr "闪电球"
+
+msgid "NM-SKEN0035"
+msgstr "雷云"
+
+msgid "NM-SKEN0036"
+msgstr "毒气"
+
+msgid "NM-SKEN0037"
+msgstr "毒爆"
+
+msgid "NM-SKEN0038"
+msgstr "恐怖"
+
+msgid "NM-SKEN0039"
+msgstr "强酸"
+
+msgid "NM-SKEN0040"
+msgstr "酸性吐息"
+
+msgid "NM-SKEN0041"
+msgstr "护盾"
+
+msgid "NM-SKEN0042"
+msgstr "防御阵"
+
+msgid "NM-SKEN0043"
+msgstr "忘却"
+
+msgid "NM-SKEN0044"
+msgstr "失忆"
+
+msgid "NM-SKEN0045"
+msgstr "战吼"
+
+msgid "NM-SKEN0046"
+msgstr "保护"
+
+msgid "NM-SKEN0047"
+msgstr "守护"
+
+msgid "NM-SKEN0048"
+msgstr "怨恨"
+
+msgid "NM-SKEN0049"
+msgstr "怀恨在心"
+
+msgid "NM-SKEN0050"
+msgstr "污泥"
+
+msgid "NM-SKEN0051"
+msgstr "染病"
+
+msgid "NM-SKEN0052"
+msgstr "魔物召唤"
+
+msgid "NM-SKEN0053"
+msgstr "恶魔召唤"
+
+msgid "NM-SKEN0054"
+msgstr "隐刃"
+
+msgid "NM-SKEN0055"
+msgstr "反伤"
+
+msgid "NM-SKEN0056"
+msgstr "见切"
+
+msgid "NM-SKEN0057"
+msgstr "倦怠"
+
+msgid "NM-SKEN0058"
+msgstr "猛毒"
+
+msgid "NM-SKEN0059"
+msgstr "缓慢"
+
+msgid "NM-SKEN0060"
+msgstr "沉重"
+
+msgid "NM-SKEN0061"
+msgstr "缠绕"
+
+msgid "NM-SKEN0062"
+msgstr "削击"
+
+msgid "NM-SKEN0063"
+msgstr "消失"
+
+msgid "NM-SKEN0064"
+msgstr "能量四射"
+
+msgid "NM-SKEN0065"
+msgstr "死亡"
+
+msgid "NM-SKEN0066"
+msgstr "眼睛对眼睛"
+
+msgid "NM-SKEN0067"
+msgstr "化脓"
+
+msgid "NM-SKEN0068"
+msgstr "锯齿"
+
+msgid "NM-Skill"
+msgstr "技能"
+
+msgid "NM-Skill-Header-Battle"
+msgstr "战斗"
+
+msgid "NM-Skill-Header-Field"
+msgstr "地图"
+
+msgid "NM-SkillMod"
+msgstr "技能模块"
+
+msgid "NM-SkillNode-Param-AddAP"
+msgstr "获得能力点"
+
+msgid "NM-SkillNode-Param-AddMinion"
+msgstr "获得使魔"
+
+msgid "NM-SkillNode-Param-AddRandomEvent"
+msgstr "随机事件追加"
+
+msgid "NM-SkillNode-Param-DragonValley"
+msgstr "发现龙之巢穴。"
+
+msgid "NM-SkillNode-Param-DupGear"
+msgstr "复制装备"
+
+msgid "NM-SkillNode-Param-DupOracle"
+msgstr "复制神谕"
+
+msgid "NM-SkillNode-Param-FindBounty"
+msgstr "发现悬赏怪物"
+
+msgid "NM-SkillNode-Param-FindHiddens"
+msgstr "寻找隐藏的{0}"
+
+msgid "NM-SkillNode-Param-FindHiddenVillage"
+msgstr "发现隐藏的村落"
+
+msgid "NM-SkillNode-Param-FindRival"
+msgstr "恶魔头目的Find值上升"
+
+msgid "NM-SkillNode-Param-GainGold"
+msgstr "获得金币"
+
+msgid "NM-SkillNode-Param-GainLevel"
+msgstr "角色升级"
+
+msgid "NM-SkillNode-Param-GainLinkLv"
+msgstr "羁绊等级上升"
+
+msgid "NM-SkillNode-Param-GainRandGear"
+msgstr "获得随机装备"
+
+msgid "NM-SkillNode-Param-GainRandLegendGear"
+msgstr "获得传说装备"
+
+msgid "NM-SkillNode-Param-GainRandomItem"
+msgstr "获得随机道具"
+
+msgid "NM-SkillNode-Param-GainSupRank"
+msgstr "支援者等级上升"
+
+msgid "NM-SkillNode-Param-GearAdd2"
+msgstr "装备的词条增加（最多2条）"
+
+msgid "NM-SkillNode-Param-GearAdd4"
+msgstr "装备的词条增加（最多4条）"
+
+msgid "NM-SkillNode-Param-GearAddRand"
+msgstr "装备的词条增加（数量随机）"
+
+msgid "NM-SkillNode-Param-GearLvAdd"
+msgstr "装备等级提升"
+
+msgid "NM-SkillNode-Param-GearRndPrmAdd"
+msgstr "装备的随机属性上升"
+
+msgid "NM-SkillNode-Param-GoldBoost"
+msgstr "金币获取量3倍"
+
+msgid "NM-SkillNode-Param-Invasion"
+msgstr "王国军的进攻进展顺利"
+
+msgid "NM-SkillNode-Param-KillRival"
+msgstr "立即击败一名恶魔头目"
+
+msgid "NM-SkillNode-Param-OpenRoad"
+msgstr "选择一条街道，进入该区域"
+
+msgid "NM-SkillNode-Param-OpenShop"
+msgstr "发现道具商店"
+
+msgid "NM-SkillNode-Param-ProgInvasion"
+msgstr "所有的王国军进攻都取得了成果"
+
+msgid "NM-SkillNode-Param-RandAbiSet"
+msgstr "获得随机的职业"
+
+msgid "NM-SkillNode-Param-RerollGear"
+msgstr "装备的词条重roll"
+
+msgid "NM-SkillNode-Param-Road"
+msgstr "选择一条街道，进入该区域"
+
+msgid "NM-SkillNode-Param-SalvageAmulet"
+msgstr "摧毁不需要的护符，将其转换为10个时之碎片"
+
+msgid "NM-SkillNode-Param-Secret"
+msgstr "阻止诡计"
+
+msgid "NM-SkillNode-Param-SkillLvAdd"
+msgstr "技能等级上升"
+
+msgid "NM-SkillNode-Param-TreasureMap"
+msgstr "发现宝藏"
+
+msgid "NM-SkillNode-Param-VolunteerArmy"
+msgstr "稍许干扰了所有进行中的诡计"
+
+msgid "NM-SkillNode-Relate-Atk"
+msgstr "Atk"
+
+msgid "NM-SkillNode-Relate-Brave"
+msgstr "使用者的Brave"
+
+msgid "NM-SkillNode-Relate-Day"
+msgstr "经过天数"
+
+msgid "NM-SkillNode-Relate-Grd"
+msgstr "Grd"
+
+msgid "NM-SkillNode-Relate-HP"
+msgstr "目标的HP"
+
+msgid "NM-SkillNode-Relate-Hrt"
+msgstr "Hrt"
+
+msgid "NM-SkillNode-RelateIs"
+msgstr "基于"
+
+msgid "NM-SkillNode-Relate-Level"
+msgstr "使用者的等级"
+
+msgid "NM-SkillNode-Relate-MaxHP"
+msgstr "目标最大HP"
+
+msgid "NM-SkillNode-Relate-PartyAtk"
+msgstr "队伍Atk总和"
+
+msgid "NM-SkillNode-Relate-PartyGrd"
+msgstr "队伍Grd总和"
+
+msgid "NM-SkillNode-Relate-PartyHrt"
+msgstr "队伍Hrt总和"
+
+msgid "NM-SkillNode-Relate-PartySpl"
+msgstr "队伍Spl总和"
+
+msgid "NM-SkillNode-Relate-SelfHP"
+msgstr "使用者的HP"
+
+msgid "NM-SkillNode-Relate-SelfMaxHP"
+msgstr "使用者的最大HP"
+
+msgid "NM-SkillNode-Relate-SelfShield"
+msgstr "使用者的护盾"
+
+msgid "NM-SkillNode-Relate-Shield"
+msgstr "护盾"
+
+msgid "NM-SkillNode-Relate-Spl"
+msgstr "Spl"
+
+msgid "NM-SkillNode-Target-AllEnemy"
+msgstr "全体敌人"
+
+msgid "NM-SkillNode-Target-DeadParty"
+msgstr "【死亡】的队友"
+
+msgid "NM-SkillNode-Target-LastTarget"
+msgstr "上一个目标"
+
+msgid "NM-SkillNode-Target-OppoBack"
+msgstr "后排敌人"
+
+msgid "NM-SkillNode-Target-OppoFront"
+msgstr "前排敌人"
+
+msgid "NM-SkillNode-Target-Partner"
+msgstr "队友"
+
+msgid "NM-SkillNode-Target-Party"
+msgstr "队伍全员"
+
+msgid "NM-SkillNode-Target-PartyBack"
+msgstr "我方后排"
+
+msgid "NM-SkillNode-Target-PartyFront"
+msgstr "我方前排"
+
+msgid "NM-SkillNode-Target-Random"
+msgstr "随机敌人"
+
+msgid "NM-SkillNode-Target-Self"
+msgstr "自身"
+
+msgid "NM-SkillNode-Target-TargetPos"
+msgstr "武器相关"
+
+msgid "NM-SKLK0001"
+msgstr "怒击"
+
+msgid "NM-SKLK0002"
+msgstr "爆冲"
+
+msgid "NM-SKLK0003"
+msgstr "占星家"
+
+msgid "NM-SKLK0004"
+msgstr "神圣吐息"
+
+msgid "NM-SKLK0005"
+msgstr "千手"
+
+msgid "NM-SKLK0006"
+msgstr "灾难"
+
+msgid "NM-SKLK0007"
+msgstr "英雄史诗"
+
+msgid "NM-SKLK0008"
+msgstr "陨石雨"
+
+msgid "NM-SKLK0009"
+msgstr "所罗门王之钥"
+
+msgid "NM-SKLK0010"
+msgstr "无敌"
+
+msgid "NM-SKP00001"
+msgstr "强击"
+
+msgid "NM-SKP00002"
+msgstr "集中"
+
+msgid "NM-SKP00003"
+msgstr "研究"
+
+msgid "NM-SKP00004"
+msgstr "野营"
+
+msgid "NM-SKP00005"
+msgstr "交易"
+
+msgid "NM-SKP00006"
+msgstr "实地调查"
+
+msgid "NM-SKP00007"
+msgstr "考察与研究"
+
+msgid "NM-SKP00008"
+msgstr "划伤"
+
+msgid "NM-SKP00009"
+msgstr "改良"
+
+msgid "NM-Slain"
+msgstr "击败"
+
+msgid "NM-SM0001"
+msgstr "强化"
+
+msgid "NM-SM0002"
+msgstr "缩短"
+
+msgid "NM-SM0003"
+msgstr "效率"
+
+msgid "NM-SM0004"
+msgstr "吸收"
+
+msgid "NM-SM0005"
+msgstr "勇气"
+
+msgid "NM-SM0006"
+msgstr "狙击"
+
+msgid "NM-SM0007"
+msgstr "贯通"
+
+msgid "NM-SM0008"
+msgstr "延长"
+
+msgid "NM-SM0009"
+msgstr "瞬间"
+
+msgid "NM-SM0010"
+msgstr "成长"
+
+msgid "NM-SM0011"
+msgstr "准备"
+
+msgid "NM-SM0012"
+msgstr "士气"
+
+msgid "NM-SM0013"
+msgstr "多段"
+
+msgid "NM-SM0014"
+msgstr "隔绝"
+
+msgid "NM-SM0015"
+msgstr "热情"
+
+msgid "NM-Special"
+msgstr "特别"
+
+msgid "NM-SpecialCategory"
+msgstr "活动"
+
+msgid "NM-State"
+msgstr "状态"
+
+msgid "NM-STC001"
+msgstr "森之声"
+
+msgid "NM-STC002"
+msgstr "接连不断"
+
+msgid "NM-STC003"
+msgstr "法术推进器"
+
+msgid "NM-STC004"
+msgstr "被诅咒的剑束缚"
+
+msgid "NM-STC005"
+msgstr "收割灵魂"
+
+msgid "NM-STC006"
+msgstr "死相"
+
+msgid "NM-STC007"
+msgstr "常备绷带"
+
+msgid "NM-STC008"
+msgstr "广域探索"
+
+msgid "NM-STC009"
+msgstr "义贼的举止"
+
+msgid "NM-STC010"
+msgstr "华丽登场"
+
+msgid "NM-STC011"
+msgstr "循循善诱"
+
+msgid "NM-STC012"
+msgstr "野兽猎人"
+
+msgid "NM-STC013"
+msgstr "永久冻结"
+
+msgid "NM-STC014"
+msgstr "非人的美貌"
+
+msgid "NM-STC015"
+msgstr "燃烧的心脏"
+
+msgid "NM-STC016"
+msgstr "苏生之炎"
+
+msgid "NM-STC017"
+msgstr "带电"
+
+msgid "NM-STC018"
+msgstr "美人计"
+
+msgid "NM-STC019"
+msgstr "强健"
+
+msgid "NM-STC020"
+msgstr "欺骗"
+
+msgid "NM-STC021"
+msgstr "保养"
+
+msgid "NM-STC022"
+msgstr "佣兵的眼力"
+
+msgid "NM-STC023"
+msgstr "肉盾"
+
+msgid "NM-STC024"
+msgstr "悔恨的日子"
+
+msgid "NM-STC025"
+msgstr "挡不住的激情"
+
+msgid "NM-STC026"
+msgstr "愤怒之拳"
+
+msgid "NM-STC027"
+msgstr "根源魔力"
+
+msgid "NM-STC028"
+msgstr "实验的魔导研究"
+
+msgid "NM-STC029"
+msgstr "瞄准伤口"
+
+msgid "NM-STC030"
+msgstr "疼痛的快感"
+
+msgid "NM-STC031"
+msgstr "品种改良"
+
+msgid "NM-STC032"
+msgstr "求神问路"
+
+msgid "NM-STC033"
+msgstr "预习复习"
+
+msgid "NM-STC034"
+msgstr "天才的研究"
+
+msgid "NM-STC035"
+msgstr "魅惑"
+
+msgid "NM-STC036"
+msgstr "无法抑制的冲动"
+
+msgid "NM-STG001"
+msgstr "最大HP"
+
+msgid "NM-STG002"
+msgstr "最大Brave"
+
+msgid "NM-STG003"
+msgstr ":@NM-STG001"
+
+msgid "NM-STG004"
+msgstr ":@NM-STG002"
+
+msgid "NM-STG005"
+msgstr ":@NM-STG001"
+
+msgid "NM-STG006"
+msgstr ":@NM-STG002"
+
+msgid "NM-STG007"
+msgstr ":@NM-STG001"
+
+msgid "NM-STG008"
+msgstr ":@NM-STG002"
+
+msgid "NM-STG009"
+msgstr "攻击"
+
+msgid "NM-STG010"
+msgstr "法术"
+
+msgid "NM-STG011"
+msgstr "防御"
+
+msgid "NM-STG012"
+msgstr "生命"
+
+msgid "NM-STG013"
+msgstr ":@NM-STG009"
+
+msgid "NM-STG014"
+msgstr "法术"
+
+msgid "NM-STG015"
+msgstr "防御"
+
+msgid "NM-STG016"
+msgstr "生命"
+
+msgid "NM-STG017"
+msgstr "攻击伤害"
+
+msgid "NM-STG018"
+msgstr ":@NM-STG017"
+
+msgid "NM-STG019"
+msgstr ":@NM-STG017"
+
+msgid "NM-STG020"
+msgstr ":@NM-STG017"
+
+msgid "NM-STG021"
+msgstr "法术伤害"
+
+msgid "NM-STG022"
+msgstr ":@NM-STG021"
+
+msgid "NM-STG023"
+msgstr ":@NM-STG021"
+
+msgid "NM-STG024"
+msgstr ":@NM-STG021"
+
+msgid "NM-STG025"
+msgstr "持续伤害"
+
+msgid "NM-STG026"
+msgstr "延迟伤害"
+
+msgid "NM-STG027"
+msgstr "预言家"
+
+msgid "NM-STG028"
+msgstr "沸腾的勇气"
+
+msgid "NM-STG029"
+msgstr "HP回复/回合"
+
+msgid "NM-STG030"
+msgstr ":@NM-STG029"
+
+msgid "NM-STG031"
+msgstr "HP回复/天"
+
+msgid "NM-STG032"
+msgstr ":@NM-STG031"
+
+msgid "NM-STG034"
+msgstr "攻击Boost"
+
+msgid "NM-STG035"
+msgstr "法术Boost"
+
+msgid "NM-STG036"
+msgstr "火耐性"
+
+msgid "NM-STG037"
+msgstr "地耐性"
+
+msgid "NM-STG038"
+msgstr "天耐性"
+
+msgid "NM-STG039"
+msgstr "灵耐性"
+
+msgid "NM-STG040"
+msgstr ":@NM-STG036"
+
+msgid "NM-STG041"
+msgstr ":@NM-STG037"
+
+msgid "NM-STG042"
+msgstr ":@NM-STG038"
+
+msgid "NM-STG043"
+msgstr ":@NM-STG039"
+
+msgid "NM-STG045"
+msgstr "获得护盾"
+
+msgid "NM-STG046"
+msgstr "状态异常耐性"
+
+msgid "NM-STG047"
+msgstr ":@NM-STG046"
+
+msgid "NM-STG048"
+msgstr "物理回避"
+
+msgid "NM-STG049"
+msgstr ":@NM-STG048"
+
+msgid "NM-STG050"
+msgstr "魔法回避"
+
+msgid "NM-STG051"
+msgstr ":@NM-STG050"
+
+msgid "NM-STG052"
+msgstr "招架"
+
+msgid "NM-STG053"
+msgstr ":@NM-STG052"
+
+msgid "NM-STG054"
+msgstr "反伤"
+
+msgid "NM-STG055"
+msgstr ":@NM-STG054"
+
+msgid "NM-STG056"
+msgstr "攻击降低"
+
+msgid "NM-STG057"
+msgstr ":@NM-STG056"
+
+msgid "NM-STG058"
+msgstr "法术降低"
+
+msgid "NM-STG059"
+msgstr ":@NM-STG058"
+
+msgid "NM-STG060"
+msgstr "回复效果"
+
+msgid "NM-STG061"
+msgstr ":@NM-STG060"
+
+msgid "NM-STG062"
+msgstr "预知未来"
+
+msgid "NM-STG063"
+msgstr "暴击"
+
+msgid "NM-STG064"
+msgstr ":@NM-STG063"
+
+msgid "NM-STG065"
+msgstr "暴击伤害"
+
+msgid "NM-STG066"
+msgstr "追击"
+
+msgid "NM-STG067"
+msgstr ":@NM-STG066"
+
+msgid "NM-STG068"
+msgstr "攻击命中"
+
+msgid "NM-STG069"
+msgstr ":@NM-STG068"
+
+msgid "NM-STG070"
+msgstr "法术命中"
+
+msgid "NM-STG071"
+msgstr "法术命中"
+
+msgid "NM-STG072"
+msgstr "影响力"
+
+msgid "NM-STG073"
+msgstr "运气"
+
+msgid "NM-STG074"
+msgstr "HP回复/攻击"
+
+msgid "NM-STG075"
+msgstr ":@NM-STG074"
+
+msgid "NM-STG076"
+msgstr "HP回复/法术"
+
+msgid "NM-STG077"
+msgstr ":@NM-STG076"
+
+msgid "NM-STG078"
+msgstr "炼金术"
+
+msgid "NM-STG079"
+msgstr "观察"
+
+msgid "NM-STG080"
+msgstr "贯通"
+
+msgid "NM-STG081"
+msgstr "穷途之鼠"
+
+msgid "NM-STG082"
+msgstr "狂战士"
+
+msgid "NM-STG083"
+msgstr "强欲"
+
+msgid "NM-STG084"
+msgstr "调查"
+
+msgid "NM-STG085"
+msgstr "砍价"
+
+msgid "NM-STG086"
+msgstr "Boss奖励"
+
+msgid "NM-STG087"
+msgstr "妙计"
+
+msgid "NM-STG088"
+msgstr "毅力"
+
+msgid "NM-STG089"
+msgstr "镀金"
+
+msgid "NM-STG090"
+msgstr "隔空攻击"
+
+msgid "NM-STG091"
+msgstr "神圣加护"
+
+msgid "NM-STG092"
+msgstr "连击"
+
+msgid "NM-STG093"
+msgstr "延迟伤害威力"
+
+msgid "NM-STG094"
+msgstr ":@NM-STG093"
+
+msgid "NM-STG095"
+msgstr "烧伤"
+
+msgid "NM-STG096"
+msgstr "冻结"
+
+msgid "NM-STG097"
+msgstr "触电"
+
+msgid "NM-STG098"
+msgstr "出血"
+
+msgid "NM-STG099"
+msgstr "烧伤伤害"
+
+msgid "NM-STG100"
+msgstr "冻结伤害"
+
+msgid "NM-STG101"
+msgstr "触电伤害"
+
+msgid "NM-STG102"
+msgstr "出血伤害"
+
+msgid "NM-STG103"
+msgstr "庇护"
+
+msgid "NM-STG104"
+msgstr "笑到最后"
+
+msgid "NM-STG105"
+msgstr "羁绊连携"
+
+msgid "NM-STG106"
+msgstr "召唤伤害"
+
+msgid "NM-STG107"
+msgstr ":@NM-STG106"
+
+msgid "NM-STG108"
+msgstr "治疗Boost"
+
+msgid "NM-STG109"
+msgstr "危机回复"
+
+msgid "NM-STG110"
+msgstr "剑戟"
+
+msgid "NM-STG111"
+msgstr "回避"
+
+msgid "NM-STG112"
+msgstr ":@NM-STG111"
+
+msgid "NM-STG113"
+msgstr "连击最大次数"
+
+msgid "NM-STG114"
+msgstr "造成的伤害"
+
+msgid "NM-STG115"
+msgstr ":@NM-STG114"
+
+msgid "NM-STG116"
+msgstr ":@NM-STG114"
+
+msgid "NM-STG117"
+msgstr ":@NM-STG114"
+
+msgid "NM-STG118"
+msgstr "减伤"
+
+msgid "NM-STG119"
+msgstr ":@NM-STG118"
+
+msgid "NM-STG120"
+msgstr "Brave回复/天"
+
+msgid "NM-STG121"
+msgstr "Brave回复/回合"
+
+msgid "NM-STG122"
+msgstr "隔绝"
+
+msgid "NM-STG123"
+msgstr "延迟攻击"
+
+msgid "NM-STG124"
+msgstr "尖刺领域"
+
+msgid "NM-STG125"
+msgstr "治疗链"
+
+msgid "NM-STG126"
+msgstr "慈爱"
+
+msgid "NM-STG127"
+msgstr "庇护精神"
+
+msgid "NM-STG128"
+msgstr "大怒"
+
+msgid "NM-STG129"
+msgstr "菲尔灵"
+
+msgid "NM-STG130"
+msgstr "孤高"
+
+msgid "NM-STG131"
+msgstr "铁壁"
+
+msgid "NM-STG132"
+msgstr "激情"
+
+msgid "NM-STG133"
+msgstr "灵魂领域"
+
+msgid "NM-STG134"
+msgstr "备份"
+
+msgid "NM-STG135"
+msgstr "连接盾"
+
+msgid "NM-STG136"
+msgstr "策略"
+
+msgid "NM-STG137"
+msgstr "重蹈覆辙"
+
+msgid "NM-STG138"
+msgstr "双人剑舞"
+
+msgid "NM-STG139"
+msgstr "食人族"
+
+msgid "NM-STG140"
+msgstr "佯攻"
+
+msgid "NM-STG141"
+msgstr "爪牙覆盖"
+
+msgid "NM-STG142"
+msgstr "毒击"
+
+msgid "NM-STG143"
+msgstr "无敌"
+
+msgid "NM-STG144"
+msgstr "不消耗Brave"
+
+msgid "NM-STG145"
+msgstr "千手"
+
+msgid "NM-STG146"
+msgstr "溢出"
+
+msgid "NM-STG147"
+msgstr "二重咏唱"
+
+msgid "NM-STG148"
+msgstr "受到伤害"
+
+msgid "NM-STG149"
+msgstr "火焰剑"
+
+msgid "NM-STG150"
+msgstr "闪电剑"
+
+msgid "NM-STG151"
+msgstr "冻结剑"
+
+msgid "NM-STG152"
+msgstr "正眼架势"
+
+msgid "NM-STG153"
+msgstr "好厨艺"
+
+msgid "NM-STG154"
+msgstr "Brave充能"
+
+msgid "NM-STG155"
+msgstr "坚硬护盾"
+
+msgid "NM-STG156"
+msgstr "瘴气"
+
+msgid "NM-STG157"
+msgstr "忍耐"
+
+msgid "NM-STG158"
+msgstr "灵魂收割"
+
+msgid "NM-STG159"
+msgstr "延长：烧伤"
+
+msgid "NM-STG160"
+msgstr "延长：冻结"
+
+msgid "NM-STG161"
+msgstr "延长：触电"
+
+msgid "NM-STG162"
+msgstr "延长：出血"
+
+msgid "NM-STG163"
+msgstr "延长：毒"
+
+msgid "NM-STG164"
+msgstr "延长：召唤伤害"
+
+msgid "NM-STG165"
+msgstr "健壮"
+
+msgid "NM-STG166"
+msgstr "剑术强化"
+
+msgid "NM-STG167"
+msgstr "边打边退"
+
+msgid "NM-STG168"
+msgstr "回忆录"
+
+msgid "NM-STG169"
+msgstr "史诗"
+
+msgid "NM-STG170"
+msgstr "魔力节约"
+
+msgid "NM-STG171"
+msgstr "掠夺"
+
+msgid "NM-STG172"
+msgstr "HP回复/击败"
+
+msgid "NM-STG173"
+msgstr ":@NM-STG172"
+
+msgid "NM-STG174"
+msgstr "触媒"
+
+msgid "NM-STG175"
+msgstr "健步"
+
+msgid "NM-STG176"
+msgstr "材料分析"
+
+msgid "NM-STG177"
+msgstr "护身符"
+
+msgid "NM-STG178"
+msgstr "尾行"
+
+msgid "NM-STG179"
+msgstr "战斗开始时护盾"
+
+msgid "NM-STG180"
+msgstr ":@NM-STG179"
+
+msgid "NM-STG181"
+msgstr "debuff延长"
+
+msgid "NM-STG182"
+msgstr "坟墓暴露"
+
+msgid "NM-STG183"
+msgstr "魔王的警卫"
+
+msgid "NM-STG184"
+msgstr "命中"
+
+msgid "NM-STG185"
+msgstr ":@NM-STG184"
+
+msgid "NM-STG186"
+msgstr ":@NM-STG184"
+
+msgid "NM-STG187"
+msgstr ":@NM-STG184"
+
+msgid "NM-STG188"
+msgstr "持续伤害"
+
+msgid "NM-STG189"
+msgstr "露营无法使用"
+
+msgid "NM-STG191"
+msgstr "王国军进攻 无法取得成果"
+
+msgid "NM-STG192"
+msgstr "村落无法访问"
+
+msgid "NM-STG193"
+msgstr "内部等级"
+
+msgid "NM-STG194"
+msgstr "地下城等级上升"
+
+msgid "NM-STG195"
+msgstr "无法交易"
+
+msgid "NM-STG196"
+msgstr "混乱"
+
+msgid "NM-STG197"
+msgstr "火耐性"
+
+msgid "NM-STG198"
+msgstr ":@NM-STG197"
+
+msgid "NM-STG199"
+msgstr "地耐性"
+
+msgid "NM-STG200"
+msgstr ":@NM-STG199"
+
+msgid "NM-STG201"
+msgstr "天耐性"
+
+msgid "NM-STG202"
+msgstr ":@NM-STG201"
+
+msgid "NM-STG203"
+msgstr "灵耐性"
+
+msgid "NM-STG204"
+msgstr ":@NM-STG203"
+
+msgid "NM-STG205"
+msgstr "污染"
+
+msgid "NM-STG206"
+msgstr ":@NM-STG205"
+
+msgid "NM-STG207"
+msgstr "被攻击伤害增加"
+
+msgid "NM-STG208"
+msgstr "被攻击伤害增加"
+
+msgid "NM-STG209"
+msgstr "被法术伤害增加"
+
+msgid "NM-STG210"
+msgstr "被法术伤害增加"
+
+msgid "NM-STG211"
+msgstr "CD"
+
+msgid "NM-STG212"
+msgstr ":@NM-STG211"
+
+msgid "NM-STG213"
+msgstr "Brave消费"
+
+msgid "NM-STG214"
+msgstr "回避"
+
+msgid "NM-STG215"
+msgstr ":@NM-STG214"
+
+msgid "NM-STG216"
+msgstr "怨恨"
+
+msgid "NM-STG217"
+msgstr "法术充能"
+
+msgid "NM-STG218"
+msgstr "火攻击"
+
+msgid "NM-STG219"
+msgstr "地攻击"
+
+msgid "NM-STG220"
+msgstr "天攻击"
+
+msgid "NM-STG221"
+msgstr "灵攻击"
+
+msgid "NM-STG222"
+msgstr "石化"
+
+msgid "NM-STG223"
+msgstr "邪眼"
+
+msgid "NM-STG224"
+msgstr "Brave丧失/回合"
+
+msgid "NM-STG225"
+msgstr "Brave丧失/天"
+
+msgid "NM-STG226"
+msgstr "复活"
+
+msgid "NM-STG227"
+msgstr "昏迷"
+
+msgid "NM-STG228"
+msgstr "蝙蝠仆从"
+
+msgid "NM-STG229"
+msgstr "唤冬"
+
+msgid "NM-STG230"
+msgstr "求贤若渴"
+
+msgid "NM-STG231"
+msgstr "屠龙者"
+
+msgid "NM-STG232"
+msgstr "无法升级"
+
+msgid "NM-STG233"
+msgstr "敌意"
+
+msgid "NM-STG234"
+msgstr "成长性"
+
+msgid "NM-STG235"
+msgstr "专属装备Atk"
+
+msgid "NM-STG236"
+msgstr "专属装备Spl"
+
+msgid "NM-STG237"
+msgstr "专属装备Grd"
+
+msgid "NM-STG238"
+msgstr "专属装备Hrt"
+
+msgid "NM-STG239"
+msgstr "初始等级"
+
+msgid "NM-STG240"
+msgstr "盗窃手段"
+
+msgid "NM-STG241"
+msgstr "交易费用*2"
+
+msgid "NM-STG242"
+msgstr "忘却"
+
+msgid "NM-STG243"
+msgstr "祖先的指引"
+
+msgid "NM-STG244"
+msgstr "尸体收集"
+
+msgid "NM-STG245"
+msgstr "结界设置"
+
+msgid "NM-STG246"
+msgstr "发现率：村落"
+
+msgid "NM-STG247"
+msgstr "发现率：祠堂"
+
+msgid "NM-STG248"
+msgstr ":@NM-STG246"
+
+msgid "NM-STG249"
+msgstr ":@NM-STG247"
+
+msgid "NM-STG250"
+msgstr "发现率：王国军进攻"
+
+msgid "NM-STG251"
+msgstr ":@NM-STG250"
+
+msgid "NM-STG252"
+msgstr "发现率：诡计"
+
+msgid "NM-STG253"
+msgstr "发现率：诡计"
+
+msgid "NM-STG254"
+msgstr "出血剑"
+
+msgid "NM-STG255"
+msgstr "诅咒的消散"
+
+msgid "NM-STG256"
+msgstr "骨肉的享受"
+
+msgid "NM-STG257"
+msgstr "榨取灵魂"
+
+msgid "NM-STG258"
+msgstr "冷静沉着"
+
+msgid "NM-STG259"
+msgstr "向导之眼"
+
+msgid "NM-STG260"
+msgstr "解读古文书"
+
+msgid "NM-STG261"
+msgstr "发现率：龙之巢穴"
+
+msgid "NM-STG262"
+msgstr ":@NM-STG261"
+
+msgid "NM-STG263"
+msgstr "存在感"
+
+msgid "NM-STG264"
+msgstr "受到伤害/天"
+
+msgid "NM-STG265"
+msgstr "受到伤害/天"
+
+msgid "NM-STG266"
+msgstr "受到伤害/回合"
+
+msgid "NM-STG267"
+msgstr "受到伤害/回合"
+
+msgid "NM-STG268"
+msgstr "装备保护"
+
+msgid "NM-STG269"
+msgstr "食灵"
+
+msgid "NM-STG270"
+msgstr "所有技能等级提升"
+
+msgid "NM-STG271"
+msgstr "无视CD"
+
+msgid "NM-STG272"
+msgstr "大招强化"
+
+msgid "NM-STG273"
+msgstr "活力"
+
+msgid "NM-STG274"
+msgstr "活力"
+
+msgid "NM-STG275"
+msgstr "Quick"
+
+msgid "NM-STG276"
+msgstr "过量治疗"
+
+msgid "NM-STG277"
+msgstr "捕手"
+
+msgid "NM-STL001"
+msgstr "飞跃"
+
+msgid "NM-STL002"
+msgstr "供奉祭品"
+
+msgid "NM-STL003"
+msgstr "压死"
+
+msgid "NM-STL004"
+msgstr "完全充能"
+
+msgid "NM-STL005"
+msgstr "牛劲儿"
+
+msgid "NM-STL006"
+msgstr "看清"
+
+msgid "NM-STL007"
+msgstr "扩散攻击"
+
+msgid "NM-STL008"
+msgstr "再生细胞"
+
+msgid "NM-STL009"
+msgstr "社交界"
+
+msgid "NM-STL010"
+msgstr "绝对命令"
+
+msgid "NM-STL011"
+msgstr "神速"
+
+msgid "NM-STL012"
+msgstr "电光"
+
+msgid "NM-STL013"
+msgstr "怪异光线"
+
+msgid "NM-STL014"
+msgstr "潮流"
+
+msgid "NM-STL015"
+msgstr "式神"
+
+msgid "NM-STL016"
+msgstr "篡夺品"
+
+msgid "NM-STL017"
+msgstr "雾体"
+
+msgid "NM-STL018"
+msgstr "死神的一击"
+
+msgid "NM-STL019"
+msgstr "血肉吞噬者"
+
+msgid "NM-STL020"
+msgstr "旅伴的诅咒"
+
+msgid "NM-STL021"
+msgstr "探险队"
+
+msgid "NM-STL022"
+msgstr "超回复"
+
+msgid "NM-STL023"
+msgstr "毒药大师"
+
+msgid "NM-STL024"
+msgstr "透明"
+
+msgid "NM-STL025"
+msgstr "诅咒"
+
+msgid "NM-STL026"
+msgstr "神通力"
+
+msgid "NM-STL027"
+msgstr "龙鳞"
+
+msgid "NM-STL028"
+msgstr "夜行"
+
+msgid "NM-STL029"
+msgstr "护盾维持"
+
+msgid "NM-STL030"
+msgstr "古代知识"
+
+msgid "NM-STL031"
+msgstr "消散"
+
+msgid "NM-STL032"
+msgstr "变形"
+
+msgid "NM-STL033"
+msgstr "嗜血者"
+
+msgid "NM-STL034"
+msgstr "以眼还眼"
+
+msgid "NM-STL035"
+msgstr "血之喜悦"
+
+msgid "NM-STL036"
+msgstr "不净之血"
+
+msgid "NM-STL037"
+msgstr "召唤魔法阵"
+
+msgid "NM-STL038"
+msgstr "天使的宠爱"
+
+msgid "NM-STL039"
+msgstr "死亡之触"
+
+msgid "NM-STL040"
+msgstr "难闻的气味"
+
+msgid "NM-STL041"
+msgstr "断罪"
+
+msgid "NM-STL042"
+msgstr "狂意高涨"
+
+msgid "NM-STL043"
+msgstr "地狱的业火"
+
+msgid "NM-STL044"
+msgstr "古金属的防护"
+
+msgid "NM-STL045"
+msgstr "腐败"
+
+msgid "NM-STL046"
+msgstr "镜面"
+
+msgid "NM-STL047"
+msgstr "神秘胎动"
+
+msgid "NM-STL048"
+msgstr "奢侈"
+
+msgid "NM-STL049"
+msgstr "龙吼"
+
+msgid "NM-STL050"
+msgstr "感染"
+
+msgid "NM-STL051"
+msgstr "天启"
+
+msgid "NM-STL052"
+msgstr "疾风迅雷"
+
+msgid "NM-STL053"
+msgstr "龙之吐息"
+
+msgid "NM-STL054"
+msgstr "多数"
+
+msgid "NM-STL055"
+msgstr "破碎"
+
+msgid "NM-STL056"
+msgstr "魔弹的追击"
+
+msgid "NM-STL057"
+msgstr "瞬斩"
+
+msgid "NM-STL058"
+msgstr "守护的太刀"
+
+msgid "NM-STL059"
+msgstr "斩首"
+
+msgid "NM-STL060"
+msgstr "治愈的加护"
+
+msgid "NM-STL061"
+msgstr "大地的龟裂"
+
+msgid "NM-STL062"
+msgstr "理解力"
+
+msgid "NM-STL063"
+msgstr "威严"
+
+msgid "NM-STL064"
+msgstr "睿智"
+
+msgid "NM-STL065"
+msgstr "强韧"
+
+msgid "NM-STL066"
+msgstr "冥府的契约"
+
+msgid "NM-STL067"
+msgstr "龙耐性"
+
+msgid "NM-STL068"
+msgstr "王道"
+
+msgid "NM-STL069"
+msgstr "坚牢"
+
+msgid "NM-STL070"
+msgstr "韦驮天"
+
+msgid "NM-STL071"
+msgstr "一阵之风"
+
+msgid "NM-STL072"
+msgstr "治疗大师"
+
+msgid "NM-STL073"
+msgstr "武术达人"
+
+msgid "NM-STL074"
+msgstr "羁绊与契约"
+
+msgid "NM-STL075"
+msgstr "夺取记忆"
+
+msgid "NM-STL076"
+msgstr "过集中"
+
+msgid "NM-STL077"
+msgstr "不竭后劲"
+
+msgid "NM-STL078"
+msgstr "被眷顾之人"
+
+msgid "NM-STL079"
+msgstr "秘密的手段"
+
+msgid "NM-STL080"
+msgstr "暴走的抑制"
+
+msgid "NM-STL081"
+msgstr "完全防御"
+
+msgid "NM-STL082"
+msgstr "倔强"
+
+msgid "NM-STL083"
+msgstr "神佑"
+
+msgid "NM-STL084"
+msgstr "生命之谜"
+
+msgid "NM-STL085"
+msgstr "三叉龙"
+
+msgid "NM-STL086"
+msgstr "不可侵犯"
+
+msgid "NM-STL087"
+msgstr "死之王"
+
+msgid "NM-STL088"
+msgstr "利己主义"
+
+msgid "NM-STL089"
+msgstr "狂信"
+
+msgid "NM-STL090"
+msgstr "霸道迈进"
+
+msgid "NM-STL091"
+msgstr "弑神者"
+
+msgid "NM-STL092"
+msgstr "千里眼"
+
+msgid "NM-StopSecret"
+msgstr "阻止"
+
+msgid "NM-SubQuest"
+msgstr "任务"
+
+msgid "NM-Success"
+msgstr "成功"
+
+msgid "NM-SuccessRate"
+msgstr "成功率"
+
+msgid "NM-Support"
+msgstr "支援"
+
+msgid "NM-Supporter-Trade"
+msgstr "交易"
+
+msgid "NM-Total"
+msgstr "累计"
+
+msgid "NM-Treasure"
+msgstr "宝藏"
+
+msgid "NM-Troop"
+msgstr "配备"
+
+msgid "NM-True-Satan"
+msgstr "真・魔王"
+
+msgid "NM-Understood"
+msgstr "明白"
+
+msgid "NM-Usable"
+msgstr "使用可能"
+
+msgid "NM-UseNextSkill"
+msgstr "下次使用的技能（预测）"
+
+msgid "NM-Village"
+msgstr "村落"
+
+msgid "NM-Weekly"
+msgstr "每周"
+
+msgid "ShortName-JB01"
+msgstr "亚历克斯"
+
+msgid "ShortName-JB02"
+msgstr "卡密拉"
+
+msgid "ShortName-JB03"
+msgstr "希莉露"
+
+msgid "ShortName-JB04"
+msgstr "伊欧娜"
+
+msgid "ShortName-JB05"
+msgstr "露克雷琪亚"
+
+msgid "ShortName-JB06"
+msgstr "莫妮卡"
+
+msgid "ShortName-JB07"
+msgstr "卡雅"
+
+msgid "ShortName-JB08"
+msgstr "罗宾"
+
+msgid "ShortName-JB09"
+msgstr "冬"
+
+msgid "ShortName-JB10"
+msgstr "阿隆索"
+
+msgid "ShortName-JB11"
+msgstr "海尔米娜"
+
+msgid "ShortName-JB12"
+msgstr "佐菲"
+
+msgid "ShortName-JB13"
+msgstr "哈基姆"
+
+msgid "ShortName-JB14"
+msgstr "基安"
+
+msgid "ShortName-JB15"
+msgstr "奥格斯特"
+
+msgid "ShortName-JB16"
+msgstr "玛莉亚"
+
+msgid "ShortName-JB17"
+msgstr "马伊特"
+
+msgid "ShortName-JB18"
+msgstr "伽普"
+
+msgid "ShortName-JB19"
+msgstr "鲁夫莱希特"
+
+msgid "ShortName-JB20"
+msgstr "伊莎贝拉"
+
+msgid "ShortName-NP01"
+msgstr "Arthur"
+
+msgid "ShortName-NP02"
+msgstr "Mario "
+
+msgid "ShortName-NP03"
+msgstr "Rikka "
+
+msgid "ShortName-NP04"
+msgstr "Sabine"
+
+msgid "ShortName-NP05"
+msgstr "Davin "
+
+msgid "ShortName-NP06"
+msgstr "Adela "
+
+msgid "ShortName-NP07"
+msgstr "Gerard"
+
+msgid "ShortName-NP08"
+msgstr "Leheinz"
+
+msgid "TEXT_MSG_FAILED_PURCHASE"
+msgstr "购入开始时失败了 （{0}）"
+
+msgid "TEXT_PURCHASE_HISTORY"
+msgstr "购入宝珠：　{0}__获得宝珠：　{1}__消费宝珠：　{2}"
+
+msgid "WD-Area-Cleared"
+msgstr "制霸！！"
+
+msgid "WD-Btn-Abandon"
+msgstr "放弃本次冒险"
+
+msgid "WD-Btn-BattleLog"
+msgstr "战斗记录"
+
+msgid "WD-Btn-ChallengeBounty"
+msgstr "击败悬赏怪物"
+
+msgid "WD-Btn-ChallengeDungeon"
+msgstr "挑战地下城"
+
+msgid "WD-Btn-ChallengeInvasion"
+msgstr "支援王国军的进攻"
+
+msgid "WD-Btn-ChallengeRoad"
+msgstr "探索街道"
+
+msgid "WD-Btn-ChallengeSecret"
+msgstr "阻止诡计"
+
+msgid "WD-Btn-ChallengeTreasure"
+msgstr "与看守宝藏的魔物交战"
+
+msgid "WD-Btn-ChallengeVillage"
+msgstr "访问村落"
+
+msgid "WD-Btn-Config"
+msgstr "设定"
+
+msgid "WD-Btn-Log"
+msgstr "日志"
+
+msgid "WD-Btn-Mission"
+msgstr "挑战"
+
+msgid "WD-CastSet"
+msgstr "配角设定"
+
+msgid "WD-ChangeChara"
+msgstr "更改角色"
+
+msgid "WD-Consumed"
+msgstr "消费"
+
+msgid "WD-Escape"
+msgstr "逃跑"
+
+msgid "WD-GearPos0"
+msgstr "武器"
+
+msgid "WD-GearPos1"
+msgstr "防具"
+
+msgid "WD-GearPos2"
+msgstr "装饰"
+
+msgid "WD-GearPos3"
+msgstr "专属"
+
+msgid "WD-Items"
+msgstr ":@NM-Item"
+
+msgid "WD-Locked-Short"
+msgstr "未开放"
+
+msgid "WD-Menu"
+msgstr "菜单"
+
+msgid "WD-Minions"
+msgstr "使魔"
+
+msgid "WD-ProgressNext"
+msgstr "下一个"
+
+msgid "WD-Random"
+msgstr "随机"
+
+msgid "WD-Repeatable"
+msgstr "可重复"
+
+msgid "WD-Search"
+msgstr "搜索"
+
+msgid "WD-SetLoad"
+msgstr "读取配置"
+
+msgid "WD-SetSave"
+msgstr "保存配置"
+
+msgid "WD-ShopItem-Job"
+msgstr "冒险者"
+
+msgid "WD-ShopItem-NPC"
+msgstr "支援者"
+
+msgid "WD-ShopItem-Rival"
+msgstr "恶魔头目"
+
+msgid "WD-StartAdventure"
+msgstr "开始冒险"
+
+msgid "WD-State-Last-Act"
+msgstr "行动"
+
+msgid "WD-State-Last-Day"
+msgstr "天"
+
+msgid "WD-State-Last-Death"
+msgstr "死亡"
+
+msgid "WD-State-Last-Turn"
+msgstr "回合"
+
+msgid "WD-Unlocked-Short"
+msgstr "已解锁"
+
+msgid "WD-Used"
+msgstr "使用"
+
+msgid "WORD_IAP_CURRENCY"
+msgstr ":@NM-PrismOrb"
+
+msgid "DC-Cfm-ChangeBattleSpeed"
+msgstr "如果战斗显示是你太快，你可以改变战斗速度。"
+
+msgid "WD-Btn-ChangeSpeed"
+msgstr "让它慢"
+
+msgid "WD-Btn-KeepSpeed"
+msgstr "保持速度"
+

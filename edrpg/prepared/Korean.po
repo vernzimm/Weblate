@@ -1,0 +1,234 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-23 11:11+0000\n"
+"PO-Revision-Date: 2019-05-23 11:11+0000\n"
+"Last-Translator: Windseeker <letheian17@gmail.com>\n"
+"Language-Team: Korean <http://translate.nussygame.com/projects/edrpg/"
+"edrpg-prepared/ko/>\n"
+"Language: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.3\n"
+
+msgid "DC-Cfm-AgreeEULA"
+msgstr "소프트웨어 이용 허락 계약에 동의하신 후 서비스를 이용하시기 바랍니다.__미성년자의 경우 법정대리인의 동의가 필요합니다."
+
+msgid "DC-Plz-Wait-Do-It"
+msgstr "조금 있다 다시 실행해주세요."
+
+msgid "DC-Prologue"
+msgstr ""
+"『세계의 붕괴』 이후, 모든 것이 끝을 맞이해, 인류는 명을 다했다. ____홀로 살아남은 오랜 고대의 수호자 에코는, 그 영원한 생명을 "
+"바쳐, 무모한 싸움에 몸을 던진다.____그것은 마치 지평선까지 펼쳐진 사막에서 단 한 알의 다이아몬드를 찾는 것과 같은 "
+"어리석음.____그럼에도 소녀는 포기하지 않는다.____모든 운명을 이겨내고, 인류가 살아남는 \"희망의 미래\"를 찾아서 ..."
+
+msgid "Desc-INI-LPT-001"
+msgstr "mogera.jp 유저 계정으로 로그인하십시오."
+
+msgid "Desc-INI-MNT-001"
+msgstr "현재 게임 점검 중입니다."
+
+msgid "Desc-INI-WBI-001"
+msgstr ":@Desc-INI-LPT-001"
+
+msgid "Desc-INI-WBU-001"
+msgstr "올바른 URL로부터 게임에 접속해주세요."
+
+msgid "NM-BattleSpeed:0"
+msgstr "보통"
+
+msgid "NM-BattleSpeed:1"
+msgstr "느리게"
+
+msgid "NM-BattleSpeed:-1"
+msgstr "빠르게"
+
+msgid "TEXT_CONFIRM_DOWNLOAD_DATA"
+msgstr "기기에 저장된 세이브를 서버에 저장된 세이브로 덮어씌우시겠습니까?"
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr "Opening URL…__{0}__{1}"
+
+msgid "TEXT_CONFIRM_UPLOAD_DATA"
+msgstr "기기의 세이브 데이터를 서버에 업로드합니다(기존 서버 세이브를 덮어씌우게 됩니다)."
+
+msgid "TEXT_GUIDE_CONTACT"
+msgstr "문제가 개선되지 않는 경우, UserID를 포함하여 아래의 주소로 연락해 주십시오."
+
+msgid "TEXT_MSG_AFTER_CLEAR_CACHE"
+msgstr "캐시가 성공적으로 삭제되었습니다."
+
+msgid "TEXT_MSG_FAIL_CONNECT"
+msgstr "게임 서버 접속에 실패했습니다."
+
+msgid "TEXT_MSG_FAIL_GET_DATA"
+msgstr "데이터를 가져오는 데 실패했습니다."
+
+msgid "TEXT_MSG_FAIL_GET_SERVER_DATA"
+msgstr "서버 데이터를 가져오는 데 실패했습니다."
+
+msgid "TEXT_MSG_FAIL_SAVE_DATA"
+msgstr "데이터 저장에 실패했습니다."
+
+msgid "TEXT_MSG_FAIL_SEND_DATA"
+msgstr "데이터 송신에 실패했습니다."
+
+msgid "TEXT_MSG_INPUT_NAME"
+msgstr "이름을 입력해 주세요."
+
+msgid "TEXT_MSG_SEND_BUG_REPORT"
+msgstr ""
+"발생한 문제에 대해서, 자세한 설명을 적어 주십시오. __(※버그 리포트에 대해서는 개별적인 응답을 드리지 않습니다. __개별적인 응답이 "
+"필요하신 경우, 지원 페이지로부터 직접 질문해주시기 바랍니다.)"
+
+msgid "TEXT_MSG_SUCCESS_DOWNLOAD"
+msgstr "다운로드에 성공했습니다!"
+
+msgid "TEXT_MSG_SUCCESS_PUBLISH_BKCODE"
+msgstr "백업 코드 발급에 성공했습니다!__이제 이 코드로 계정을 복구할 수 있습니다.__코드를 복사해 안전한 곳에 보관해주세요."
+
+msgid "TEXT_MSG_SUCCESS_SEND"
+msgstr "전송 완료!"
+
+msgid "TEXT_MSG_SUCCESS_UPLOAD"
+msgstr "업로드 완료!"
+
+msgid "TEXT_MSG_USE_BKCODE"
+msgstr "백업코드를 입력해주세요."
+
+msgid "TEXT_MSG_USE_BKCODE_SUCCESS"
+msgstr "계정이 성공적으로 복원되었습니다!"
+
+msgid "WD-Btn-Agreement"
+msgstr "동의"
+
+msgid "WD-Btn-OpenURL"
+msgstr "URL 연결"
+
+msgid "WD-Version"
+msgstr "Version"
+
+msgid "WORD_BATTLE_SPEED"
+msgstr "전투 속도"
+
+msgid "WORD_BTN_CLEAR_CACHE"
+msgstr "캐시 데이터 삭제"
+
+msgid "WORD_BTN_CONFIG_LONG"
+msgstr "설정"
+
+msgid "WORD_BTN_DOWNLOAD"
+msgstr "다운로드"
+
+msgid "WORD_BTN_LOGIN"
+msgstr "로그인"
+
+msgid "WORD_BTN_MENU"
+msgstr "메뉴"
+
+msgid "WORD_BTN_NEWS"
+msgstr "공지"
+
+msgid "WORD_BTN_PROLOGUE"
+msgstr "프롤로그"
+
+msgid "WORD_BTN_PUBLISH_BACKUP_CODE"
+msgstr "백업 코드 발행"
+
+msgid "WORD_BTN_RESTART_GAME"
+msgstr "게임 재실행"
+
+msgid "WORD_BTN_RESTORE_DATA"
+msgstr "데이터 복구"
+
+msgid "WORD_BTN_SEND_BUG_REPORT"
+msgstr "버그 신고"
+
+msgid "WORD_BTN_SPECIAL_THANKS"
+msgstr "Special Thanks"
+
+msgid "WORD_BTN_SUPPORT"
+msgstr "지원/질문"
+
+msgid "WORD_BTN_UPLOAD"
+msgstr "업로드"
+
+msgid "WORD_BTN_USE_BACKUP_CODE"
+msgstr "백업 코드 사용"
+
+msgid "WORD_CANCEL"
+msgstr "취소"
+
+msgid "WORD_CLEAR_NUM"
+msgstr "클리어 횟수"
+
+msgid "WORD_CLOSE"
+msgstr "닫기"
+
+msgid "WORD_CONFIRM"
+msgstr "확인"
+
+msgid "WORD_CURRENCY_CREDIT"
+msgstr "Gem"
+
+msgid "WORD_EULA"
+msgstr "최종 사용자 라이선스 계약"
+
+msgid "WORD_HEADER_DISP_NAME"
+msgstr "표시명"
+
+msgid "WORD_HEADER_OPEN_URL"
+msgstr "URL을 엽니다"
+
+msgid "WORD_HEADER_VIBE_DEVICE"
+msgstr "단말 진동"
+
+msgid "WORD_HEADER_VIBE_SCREEN"
+msgstr "화면 진동"
+
+msgid "WORD_HEADER_VIBRATION"
+msgstr "진동"
+
+msgid "WORD_LOADING_PURCHASE"
+msgstr "구매중..."
+
+msgid "WORD_OK"
+msgstr "확인"
+
+msgid "WORD_PURCHASE"
+msgstr "구입"
+
+msgid "WORD_QUALITY"
+msgstr "품질"
+
+msgid "WORD_QUALITY_0"
+msgstr "표준"
+
+msgid "WORD_QUALITY_1"
+msgstr "낮음"
+
+msgid "WORD_QUALITY_-1"
+msgstr "높음"
+
+msgid "WORD_TOUCH_TO_START"
+msgstr "TOUCH TO START"
+
+msgid "TEXT_MSG_FAIL_NETWORK"
+msgstr "네트워크에 연결하지 못했습니다."
+
+msgid "Desc-INI-GLI-001"
+msgstr ":@TEXT_MSG_FAIL_CONNECT"
+
+msgid "Desc-INI-PLY-001"
+msgstr "새 버전이 출시되었습니다. 업그레이드하십시오."
+
+msgid "Desc-INI-MNT-001"
+msgstr "현재 서버 점검중입니다."
+
+msgid "DC-Alt-OfflineMode"
+msgstr ""
+"오프라인 모드에서 시작합니다. __ * 서버 저장 이용 불가 __ * 인앱 구매 불가 __ * 랭킹 등의 네트워크 기능 사용 불가"
