@@ -8,13 +8,13 @@ msgid "DC-Prologue"
 msgstr ""
 
 msgid "Desc-INI-LPT-001"
-msgstr ""
+msgstr "mogera.jp"
 
 msgid "Desc-INI-MNT-001"
 msgstr ""
 
 msgid "Desc-INI-WBI-001"
-msgstr ""
+msgstr ":@Desc-INI-LPT-001"
 
 msgid "Desc-INI-WBU-001"
 msgstr ""
@@ -128,7 +128,7 @@ msgid "WORD_BTN_SEND_BUG_REPORT"
 msgstr ""
 
 msgid "WORD_BTN_SPECIAL_THANKS"
-msgstr ""
+msgstr "Special Thanks"
 
 msgid "WORD_BTN_SUPPORT"
 msgstr ""
@@ -152,7 +152,7 @@ msgid "WORD_CONFIRM"
 msgstr ""
 
 msgid "WORD_CURRENCY_CREDIT"
-msgstr ""
+msgstr "Gem"
 
 msgid "WORD_EULA"
 msgstr ""
@@ -176,7 +176,7 @@ msgid "WORD_LOADING_PURCHASE"
 msgstr ""
 
 msgid "WORD_OK"
-msgstr ""
+msgstr "OK"
 
 msgid "WORD_PURCHASE"
 msgstr ""
@@ -194,13 +194,13 @@ msgid "WORD_QUALITY_-1"
 msgstr ""
 
 msgid "WORD_TOUCH_TO_START"
-msgstr ""
+msgstr "TOUCH TO START"
 
 msgid "TEXT_MSG_FAIL_NETWORK"
 msgstr ""
 
 msgid "Desc-INI-GLI-001"
-msgstr ""
+msgstr ":@TEXT_MSG_FAIL_CONNECT"
 
 msgid "Desc-INI-PLY-001"
 msgstr ""

@@ -866,7 +866,7 @@ msgid "DC-Help-Village"
 msgstr ""
 
 msgid "DC-IAP-Thanks"
-msgstr ""
+msgstr "__https://nussygame.kayako.com/"
 
 msgid "DC-Invasion-LastDay-0"
 msgstr ""
@@ -890,7 +890,7 @@ msgid "DC-ITAD04"
 msgstr ""
 
 msgid "DC-ITAD05"
-msgstr ""
+msgstr ":@NM-SkillNode-Param-SalvageAmulet"
 
 msgid "DC-ITAP01"
 msgstr ""
@@ -1022,91 +1022,91 @@ msgid "DC-ITPS31"
 msgstr ""
 
 msgid "DC-ITPS32"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS33"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS34"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS35"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS36"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS37"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS38"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS39"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS40"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS41"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS42"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS43"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS44"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS45"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS46"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS47"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS48"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS49"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS50"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS51"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS52"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS53"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS54"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS55"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS56"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS57"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS58"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS59"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS60"
-msgstr ""
+msgstr ":@DC-ITPS31"
 
 msgid "DC-ITPS61"
 msgstr ""
@@ -1127,7 +1127,7 @@ msgid "DC-ITSS00"
 msgstr ""
 
 msgid "DC-ITSS01"
-msgstr ""
+msgstr ":@DC-ITSS00"
 
 msgid "DC-JB01"
 msgstr ""
@@ -1235,13 +1235,13 @@ msgid "DC-Log-Event"
 msgstr ""
 
 msgid "DC-Log-Infinite"
-msgstr ""
+msgstr ":@DC-Log-Dungeon"
 
 msgid "DC-Log-Invasion"
 msgstr ""
 
 msgid "DC-Log-PvP"
-msgstr ""
+msgstr ":@DC-Log-Dungeon"
 
 msgid "DC-Log-Rival"
 msgstr ""
@@ -2948,7 +2948,7 @@ msgid "DC-SE0001-Sel3"
 msgstr ""
 
 msgid "DC-SE0002"
-msgstr ""
+msgstr ":@DC-SE0001"
 
 msgid "DC-SE00021"
 msgstr ""
@@ -2957,16 +2957,16 @@ msgid "DC-SE00022"
 msgstr ""
 
 msgid "DC-SE00023"
-msgstr ""
+msgstr ":@DC-SE00013"
 
 msgid "DC-SE0002-Sel1"
 msgstr ""
 
 msgid "DC-SE0002-Sel2"
-msgstr ""
+msgstr ":@DC-SE0001-Sel2"
 
 msgid "DC-SE0002-Sel3"
-msgstr ""
+msgstr ":@DC-SE0001-Sel3"
 
 msgid "DC-SE0003"
 msgstr ""
@@ -4136,16 +4136,16 @@ msgid "DC-STC036"
 msgstr ""
 
 msgid "DC-STG001"
-msgstr ""
+msgstr ":@DC-STG005"
 
 msgid "DC-STG002"
-msgstr ""
+msgstr ":@DC-STG006"
 
 msgid "DC-STG003"
-msgstr ""
+msgstr ":@DC-STG005"
 
 msgid "DC-STG004"
-msgstr ""
+msgstr ":@DC-STG006"
 
 msgid "DC-STG005"
 msgstr ""
@@ -4154,58 +4154,58 @@ msgid "DC-STG006"
 msgstr ""
 
 msgid "DC-STG007"
-msgstr ""
+msgstr ":@DC-STG005"
 
 msgid "DC-STG008"
-msgstr ""
+msgstr ":@DC-STG006"
 
 msgid "DC-STG009"
-msgstr ""
+msgstr ":@DC-STG013"
 
 msgid "DC-STG010"
-msgstr ""
+msgstr ":@DC-STG013"
 
 msgid "DC-STG011"
-msgstr ""
+msgstr ":@DC-STG013"
 
 msgid "DC-STG012"
-msgstr ""
+msgstr ":@DC-STG013"
 
 msgid "DC-STG013"
 msgstr ""
 
 msgid "DC-STG014"
-msgstr ""
+msgstr ":@DC-STG013"
 
 msgid "DC-STG015"
-msgstr ""
+msgstr ":@DC-STG013"
 
 msgid "DC-STG016"
-msgstr ""
+msgstr ":@DC-STG013"
 
 msgid "DC-STG017"
-msgstr ""
+msgstr ":@DC-STG019"
 
 msgid "DC-STG018"
-msgstr ""
+msgstr ":@DC-STG019"
 
 msgid "DC-STG019"
 msgstr ""
 
 msgid "DC-STG020"
-msgstr ""
+msgstr ":@DC-STG019"
 
 msgid "DC-STG021"
-msgstr ""
+msgstr ":@DC-STG023"
 
 msgid "DC-STG022"
-msgstr ""
+msgstr ":@DC-STG023"
 
 msgid "DC-STG023"
 msgstr ""
 
 msgid "DC-STG024"
-msgstr ""
+msgstr ":@DC-STG023"
 
 msgid "DC-STG025"
 msgstr ""
@@ -4220,13 +4220,13 @@ msgid "DC-STG028"
 msgstr ""
 
 msgid "DC-STG029"
-msgstr ""
+msgstr ":@DC-STG030"
 
 msgid "DC-STG030"
 msgstr ""
 
 msgid "DC-STG031"
-msgstr ""
+msgstr ":@DC-STG032"
 
 msgid "DC-STG032"
 msgstr ""
@@ -4238,85 +4238,85 @@ msgid "DC-STG035"
 msgstr ""
 
 msgid "DC-STG036"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG037"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG038"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG039"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG040"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG041"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG042"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG043"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG045"
 msgstr ""
 
 msgid "DC-STG046"
-msgstr ""
+msgstr ":@DC-STG047"
 
 msgid "DC-STG047"
 msgstr ""
 
 msgid "DC-STG048"
-msgstr ""
+msgstr ":@DC-STG215"
 
 msgid "DC-STG049"
-msgstr ""
+msgstr ":@DC-STG215"
 
 msgid "DC-STG050"
-msgstr ""
+msgstr ":@DC-STG215"
 
 msgid "DC-STG051"
-msgstr ""
+msgstr ":@DC-STG215"
 
 msgid "DC-STG052"
-msgstr ""
+msgstr ":@DC-STG053"
 
 msgid "DC-STG053"
 msgstr ""
 
 msgid "DC-STG054"
-msgstr ""
+msgstr ":@DC-STG055"
 
 msgid "DC-STG055"
 msgstr ""
 
 msgid "DC-STG056"
-msgstr ""
+msgstr ":@DC-STG119"
 
 msgid "DC-STG057"
-msgstr ""
+msgstr ":@DC-STG119"
 
 msgid "DC-STG058"
-msgstr ""
+msgstr ":@DC-STG119"
 
 msgid "DC-STG059"
-msgstr ""
+msgstr ":@DC-STG119"
 
 msgid "DC-STG060"
 msgstr ""
 
 msgid "DC-STG061"
-msgstr ""
+msgstr ":@DC-STG060"
 
 msgid "DC-STG062"
 msgstr ""
 
 msgid "DC-STG063"
-msgstr ""
+msgstr ":@DC-STG064"
 
 msgid "DC-STG064"
 msgstr ""
@@ -4325,22 +4325,22 @@ msgid "DC-STG065"
 msgstr ""
 
 msgid "DC-STG066"
-msgstr ""
+msgstr ":@DC-STG067"
 
 msgid "DC-STG067"
 msgstr ""
 
 msgid "DC-STG068"
-msgstr ""
+msgstr ":@DC-STG186"
 
 msgid "DC-STG069"
-msgstr ""
+msgstr ":@DC-STG186"
 
 msgid "DC-STG070"
-msgstr ""
+msgstr ":@DC-STG186"
 
 msgid "DC-STG071"
-msgstr ""
+msgstr ":@DC-STG186"
 
 msgid "DC-STG072"
 msgstr ""
@@ -4349,13 +4349,13 @@ msgid "DC-STG073"
 msgstr ""
 
 msgid "DC-STG074"
-msgstr ""
+msgstr ":@DC-STG075"
 
 msgid "DC-STG075"
 msgstr ""
 
 msgid "DC-STG076"
-msgstr ""
+msgstr ":@DC-STG077"
 
 msgid "DC-STG077"
 msgstr ""
@@ -4406,7 +4406,7 @@ msgid "DC-STG092"
 msgstr ""
 
 msgid "DC-STG093"
-msgstr ""
+msgstr ":@DC-STG094"
 
 msgid "DC-STG094"
 msgstr ""
@@ -4460,28 +4460,28 @@ msgid "DC-STG110"
 msgstr ""
 
 msgid "DC-STG111"
-msgstr ""
+msgstr ":@DC-STG215"
 
 msgid "DC-STG112"
-msgstr ""
+msgstr ":@DC-STG215"
 
 msgid "DC-STG113"
 msgstr ""
 
 msgid "DC-STG114"
-msgstr ""
+msgstr ":@DC-STG116"
 
 msgid "DC-STG115"
-msgstr ""
+msgstr ":@DC-STG116"
 
 msgid "DC-STG116"
 msgstr ""
 
 msgid "DC-STG117"
-msgstr ""
+msgstr ":@DC-STG116"
 
 msgid "DC-STG118"
-msgstr ""
+msgstr ":@DC-STG119"
 
 msgid "DC-STG119"
 msgstr ""
@@ -4604,22 +4604,22 @@ msgid "DC-STG158"
 msgstr ""
 
 msgid "DC-STG159"
-msgstr ""
+msgstr ":@DC-STG162"
 
 msgid "DC-STG160"
-msgstr ""
+msgstr ":@DC-STG162"
 
 msgid "DC-STG161"
-msgstr ""
+msgstr ":@DC-STG162"
 
 msgid "DC-STG162"
 msgstr ""
 
 msgid "DC-STG163"
-msgstr ""
+msgstr ":@DC-STG162"
 
 msgid "DC-STG164"
-msgstr ""
+msgstr ":@DC-STG162"
 
 msgid "DC-STG165"
 msgstr ""
@@ -4643,7 +4643,7 @@ msgid "DC-STG171"
 msgstr ""
 
 msgid "DC-STG172"
-msgstr ""
+msgstr ":@DC-STG173"
 
 msgid "DC-STG173"
 msgstr ""
@@ -4664,7 +4664,7 @@ msgid "DC-STG178"
 msgstr ""
 
 msgid "DC-STG179"
-msgstr ""
+msgstr ":@DC-STG180"
 
 msgid "DC-STG180"
 msgstr ""
@@ -4679,16 +4679,16 @@ msgid "DC-STG183"
 msgstr ""
 
 msgid "DC-STG184"
-msgstr ""
+msgstr ":@DC-STG186"
 
 msgid "DC-STG185"
-msgstr ""
+msgstr ":@DC-STG186"
 
 msgid "DC-STG186"
 msgstr ""
 
 msgid "DC-STG187"
-msgstr ""
+msgstr ":@DC-STG186"
 
 msgid "DC-STG188"
 msgstr ""
@@ -4712,49 +4712,49 @@ msgid "DC-STG196"
 msgstr ""
 
 msgid "DC-STG197"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG198"
 msgstr ""
 
 msgid "DC-STG199"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG200"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG201"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG202"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG203"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG204"
-msgstr ""
+msgstr ":@DC-STG198"
 
 msgid "DC-STG205"
 msgstr ""
 
 msgid "DC-STG206"
-msgstr ""
+msgstr ":@DC-STG205"
 
 msgid "DC-STG207"
-msgstr ""
+msgstr ":@DC-STG148"
 
 msgid "DC-STG208"
-msgstr ""
+msgstr ":@DC-STG148"
 
 msgid "DC-STG209"
-msgstr ""
+msgstr ":@DC-STG148"
 
 msgid "DC-STG210"
-msgstr ""
+msgstr ":@DC-STG148"
 
 msgid "DC-STG211"
-msgstr ""
+msgstr ":@DC-STG212"
 
 msgid "DC-STG212"
 msgstr ""
@@ -4763,7 +4763,7 @@ msgid "DC-STG213"
 msgstr ""
 
 msgid "DC-STG214"
-msgstr ""
+msgstr ":@DC-STG215"
 
 msgid "DC-STG215"
 msgstr ""
@@ -4778,13 +4778,13 @@ msgid "DC-STG218"
 msgstr ""
 
 msgid "DC-STG219"
-msgstr ""
+msgstr ":@DC-STG218"
 
 msgid "DC-STG220"
-msgstr ""
+msgstr ":@DC-STG218"
 
 msgid "DC-STG221"
-msgstr ""
+msgstr ":@DC-STG218"
 
 msgid "DC-STG222"
 msgstr ""
@@ -4847,25 +4847,25 @@ msgid "DC-STG246"
 msgstr ""
 
 msgid "DC-STG247"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG248"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG249"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG250"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG251"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG252"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG253"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG254"
 msgstr ""
@@ -4889,10 +4889,10 @@ msgid "DC-STG260"
 msgstr ""
 
 msgid "DC-STG261"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG262"
-msgstr ""
+msgstr ":@DC-STG246"
 
 msgid "DC-STG263"
 msgstr ""
@@ -5399,7 +5399,7 @@ msgid "DC-Tutorial-Serif-Prepare-7-2"
 msgstr ""
 
 msgid "DC-TweetBody"
-msgstr ""
+msgstr "{0} #ending_days https://edrpg.page.link/nav"
 
 msgid "DC-UnderAdventure"
 msgstr ""
@@ -5411,820 +5411,820 @@ msgid "DC-UseMinion"
 msgstr ""
 
 msgid "NM-ABC00101"
-msgstr ""
+msgstr ":@NM-SK000001"
 
 msgid "NM-ABC00102"
-msgstr ""
+msgstr ":@NM-STG028"
 
 msgid "NM-ABC00103"
-msgstr ""
+msgstr ":@NM-SK000002"
 
 msgid "NM-ABC00104"
-msgstr ""
+msgstr ":@NM-STG231"
 
 msgid "NM-ABC00105"
-msgstr ""
+msgstr ":@NM-SK000003"
 
 msgid "NM-ABC00201"
-msgstr ""
+msgstr ":@NM-SK000004"
 
 msgid "NM-ABC00202"
-msgstr ""
+msgstr ":@NM-STG062"
 
 msgid "NM-ABC00203"
-msgstr ""
+msgstr ":@NM-SK000005"
 
 msgid "NM-ABC00204"
-msgstr ""
+msgstr ":@NM-STG027"
 
 msgid "NM-ABC00205"
-msgstr ""
+msgstr ":@NM-SK000006"
 
 msgid "NM-ABC00301"
-msgstr ""
+msgstr ":@NM-SK000007"
 
 msgid "NM-ABC00302"
-msgstr ""
+msgstr ":@NM-STC001"
 
 msgid "NM-ABC00303"
-msgstr ""
+msgstr ":@NM-SK000008"
 
 msgid "NM-ABC00304"
-msgstr ""
+msgstr ":@NM-STC002"
 
 msgid "NM-ABC00305"
-msgstr ""
+msgstr ":@NM-SK000009"
 
 msgid "NM-ABC00401"
-msgstr ""
+msgstr ":@NM-SK000010"
 
 msgid "NM-ABC00402"
-msgstr ""
+msgstr ":@NM-STC003"
 
 msgid "NM-ABC00403"
-msgstr ""
+msgstr ":@NM-SK000011"
 
 msgid "NM-ABC00404"
-msgstr ""
+msgstr ":@NM-STC004"
 
 msgid "NM-ABC00405"
-msgstr ""
+msgstr ":@NM-SK000012"
 
 msgid "NM-ABC00501"
-msgstr ""
+msgstr ":@NM-SK000013"
 
 msgid "NM-ABC00502"
-msgstr ""
+msgstr ":@NM-STC005"
 
 msgid "NM-ABC00503"
-msgstr ""
+msgstr ":@NM-SK000014"
 
 msgid "NM-ABC00504"
-msgstr ""
+msgstr ":@NM-STC006"
 
 msgid "NM-ABC00505"
-msgstr ""
+msgstr ":@NM-SK000015"
 
 msgid "NM-ABC00601"
-msgstr ""
+msgstr ":@NM-SK000016"
 
 msgid "NM-ABC00602"
-msgstr ""
+msgstr ":@NM-STC007"
 
 msgid "NM-ABC00603"
-msgstr ""
+msgstr ":@NM-SK000017"
 
 msgid "NM-ABC00604"
-msgstr ""
+msgstr ":@NM-STC008"
 
 msgid "NM-ABC00605"
-msgstr ""
+msgstr ":@NM-SK000018"
 
 msgid "NM-ABC00701"
-msgstr ""
+msgstr ":@NM-SK000019"
 
 msgid "NM-ABC00702"
-msgstr ""
+msgstr ":@NM-STC009"
 
 msgid "NM-ABC00703"
-msgstr ""
+msgstr ":@NM-SK000020"
 
 msgid "NM-ABC00704"
-msgstr ""
+msgstr ":@NM-STC010"
 
 msgid "NM-ABC00705"
-msgstr ""
+msgstr ":@NM-SK000021"
 
 msgid "NM-ABC00801"
-msgstr ""
+msgstr ":@NM-SK000022"
 
 msgid "NM-ABC00802"
-msgstr ""
+msgstr ":@NM-STC011"
 
 msgid "NM-ABC00803"
-msgstr ""
+msgstr ":@NM-SK000023"
 
 msgid "NM-ABC00804"
-msgstr ""
+msgstr ":@NM-STC012"
 
 msgid "NM-ABC00805"
-msgstr ""
+msgstr ":@NM-SK000024"
 
 msgid "NM-ABC00901"
-msgstr ""
+msgstr ":@NM-SK000025"
 
 msgid "NM-ABC00902"
-msgstr ""
+msgstr ":@NM-STC013"
 
 msgid "NM-ABC00903"
-msgstr ""
+msgstr ":@NM-SK000026"
 
 msgid "NM-ABC00904"
-msgstr ""
+msgstr ":@NM-STC014"
 
 msgid "NM-ABC00905"
-msgstr ""
+msgstr ":@NM-SK000027"
 
 msgid "NM-ABC01001"
-msgstr ""
+msgstr ":@NM-SK000028"
 
 msgid "NM-ABC01002"
-msgstr ""
+msgstr ":@NM-STC015"
 
 msgid "NM-ABC01003"
-msgstr ""
+msgstr ":@NM-SK000029"
 
 msgid "NM-ABC01004"
-msgstr ""
+msgstr ":@NM-STC016"
 
 msgid "NM-ABC01005"
-msgstr ""
+msgstr ":@NM-SK000030"
 
 msgid "NM-ABC01101"
-msgstr ""
+msgstr ":@NM-SK000031"
 
 msgid "NM-ABC01102"
-msgstr ""
+msgstr ":@NM-STC017"
 
 msgid "NM-ABC01103"
-msgstr ""
+msgstr ":@NM-SK000032"
 
 msgid "NM-ABC01104"
-msgstr ""
+msgstr ":@NM-STC018"
 
 msgid "NM-ABC01105"
-msgstr ""
+msgstr ":@NM-SK000033"
 
 msgid "NM-ABC01201"
-msgstr ""
+msgstr ":@NM-SK000034"
 
 msgid "NM-ABC01202"
-msgstr ""
+msgstr ":@NM-STC019"
 
 msgid "NM-ABC01203"
-msgstr ""
+msgstr ":@NM-SK000035"
 
 msgid "NM-ABC01204"
-msgstr ""
+msgstr ":@NM-STC020"
 
 msgid "NM-ABC01205"
-msgstr ""
+msgstr ":@NM-SK000036"
 
 msgid "NM-ABC01301"
-msgstr ""
+msgstr ":@NM-SK000037"
 
 msgid "NM-ABC01302"
-msgstr ""
+msgstr ":@NM-STC021"
 
 msgid "NM-ABC01303"
-msgstr ""
+msgstr ":@NM-SK000038"
 
 msgid "NM-ABC01304"
-msgstr ""
+msgstr ":@NM-STC022"
 
 msgid "NM-ABC01305"
-msgstr ""
+msgstr ":@NM-SK000039"
 
 msgid "NM-ABC01401"
-msgstr ""
+msgstr ":@NM-SK000040"
 
 msgid "NM-ABC01402"
-msgstr ""
+msgstr ":@NM-STC023"
 
 msgid "NM-ABC01403"
-msgstr ""
+msgstr ":@NM-SK000041"
 
 msgid "NM-ABC01404"
-msgstr ""
+msgstr ":@NM-STC024"
 
 msgid "NM-ABC01405"
-msgstr ""
+msgstr ":@NM-SK000042"
 
 msgid "NM-ABC01501"
-msgstr ""
+msgstr ":@NM-STC025"
 
 msgid "NM-ABC01502"
-msgstr ""
+msgstr ":@NM-SK000043"
 
 msgid "NM-ABC01503"
-msgstr ""
+msgstr ":@NM-SK000044"
 
 msgid "NM-ABC01504"
-msgstr ""
+msgstr ":@NM-SK000045"
 
 msgid "NM-ABC01505"
-msgstr ""
+msgstr ":@NM-STC026"
 
 msgid "NM-ABC01601"
-msgstr ""
+msgstr ":@NM-SK000046"
 
 msgid "NM-ABC01602"
-msgstr ""
+msgstr ":@NM-STC027"
 
 msgid "NM-ABC01603"
-msgstr ""
+msgstr ":@NM-SK000047"
 
 msgid "NM-ABC01604"
-msgstr ""
+msgstr ":@NM-STC028"
 
 msgid "NM-ABC01605"
-msgstr ""
+msgstr ":@NM-SK000048"
 
 msgid "NM-ABC01701"
-msgstr ""
+msgstr ":@NM-SK000049"
 
 msgid "NM-ABC01702"
-msgstr ""
+msgstr ":@NM-STC029"
 
 msgid "NM-ABC01703"
-msgstr ""
+msgstr ":@NM-SK000050"
 
 msgid "NM-ABC01704"
-msgstr ""
+msgstr ":@NM-STC030"
 
 msgid "NM-ABC01705"
-msgstr ""
+msgstr ":@NM-SK000051"
 
 msgid "NM-ABC01801"
-msgstr ""
+msgstr ":@NM-SK000052"
 
 msgid "NM-ABC01802"
-msgstr ""
+msgstr ":@NM-STC031"
 
 msgid "NM-ABC01803"
-msgstr ""
+msgstr ":@NM-SK000053"
 
 msgid "NM-ABC01804"
-msgstr ""
+msgstr ":@NM-STC032"
 
 msgid "NM-ABC01805"
-msgstr ""
+msgstr ":@NM-SK000054"
 
 msgid "NM-ABC01901"
-msgstr ""
+msgstr ":@NM-SK000055"
 
 msgid "NM-ABC01902"
-msgstr ""
+msgstr ":@NM-STC033"
 
 msgid "NM-ABC01903"
-msgstr ""
+msgstr ":@NM-SK000056"
 
 msgid "NM-ABC01904"
-msgstr ""
+msgstr ":@NM-STC034"
 
 msgid "NM-ABC01905"
-msgstr ""
+msgstr ":@NM-SK000057"
 
 msgid "NM-ABC02001"
-msgstr ""
+msgstr ":@NM-SK000058"
 
 msgid "NM-ABC02002"
-msgstr ""
+msgstr ":@NM-STC035"
 
 msgid "NM-ABC02003"
-msgstr ""
+msgstr ":@NM-SK000059"
 
 msgid "NM-ABC02004"
-msgstr ""
+msgstr ":@NM-STC036"
 
 msgid "NM-ABC02005"
-msgstr ""
+msgstr ":@NM-SK000060"
 
 msgid "NM-AbilityPoint"
 msgstr ""
 
 msgid "NM-ABJ00101"
-msgstr ""
+msgstr ":@NM-SK000061"
 
 msgid "NM-ABJ00102"
-msgstr ""
+msgstr ":@NM-STG034"
 
 msgid "NM-ABJ00103"
-msgstr ""
+msgstr ":@NM-SK000062"
 
 msgid "NM-ABJ00104"
-msgstr ""
+msgstr ":@NM-STG110"
 
 msgid "NM-ABJ00105"
-msgstr ""
+msgstr ":@NM-SK000063"
 
 msgid "NM-ABJ00201"
-msgstr ""
+msgstr ":@NM-SK000064"
 
 msgid "NM-ABJ00202"
-msgstr ""
+msgstr ":@NM-STG109"
 
 msgid "NM-ABJ00203"
-msgstr ""
+msgstr ":@NM-SK000065"
 
 msgid "NM-ABJ00204"
-msgstr ""
+msgstr ":@NM-STG108"
 
 msgid "NM-ABJ00205"
-msgstr ""
+msgstr ":@NM-SK000066"
 
 msgid "NM-ABJ00301"
-msgstr ""
+msgstr ":@NM-SK000067"
 
 msgid "NM-ABJ00302"
-msgstr ""
+msgstr ":@NM-STG154"
 
 msgid "NM-ABJ00303"
-msgstr ""
+msgstr ":@NM-SK000068"
 
 msgid "NM-ABJ00304"
-msgstr ""
+msgstr ":@NM-STG155"
 
 msgid "NM-ABJ00305"
-msgstr ""
+msgstr ":@NM-SK000069"
 
 msgid "NM-ABJ00401"
-msgstr ""
+msgstr ":@NM-SK000070"
 
 msgid "NM-ABJ00402"
 msgstr ""
 
 msgid "NM-ABJ00403"
-msgstr ""
+msgstr ":@NM-SK000071"
 
 msgid "NM-ABJ00404"
-msgstr ""
+msgstr ":@NM-STG087"
 
 msgid "NM-ABJ00405"
-msgstr ""
+msgstr ":@NM-SK000072"
 
 msgid "NM-ABJ00501"
-msgstr ""
+msgstr ":@NM-SK000073"
 
 msgid "NM-ABJ00502"
-msgstr ""
+msgstr ":@NM-STG079"
 
 msgid "NM-ABJ00503"
-msgstr ""
+msgstr ":@NM-SK000074"
 
 msgid "NM-ABJ00504"
-msgstr ""
+msgstr ":@NM-STG026"
 
 msgid "NM-ABJ00505"
-msgstr ""
+msgstr ":@NM-SK000075"
 
 msgid "NM-ABJ00601"
-msgstr ""
+msgstr ":@NM-SK000076"
 
 msgid "NM-ABJ00602"
-msgstr ""
+msgstr ":@NM-STG174"
 
 msgid "NM-ABJ00603"
-msgstr ""
+msgstr ":@NM-SK000077"
 
 msgid "NM-ABJ00604"
-msgstr ""
+msgstr ":@NM-STG243"
 
 msgid "NM-ABJ00605"
-msgstr ""
+msgstr ":@NM-SK000078"
 
 msgid "NM-ABJ00701"
-msgstr ""
+msgstr ":@NM-STG082"
 
 msgid "NM-ABJ00702"
-msgstr ""
+msgstr ":@NM-SK000079"
 
 msgid "NM-ABJ00703"
-msgstr ""
+msgstr ":@NM-SK000080"
 
 msgid "NM-ABJ00704"
-msgstr ""
+msgstr ":@NM-SK000081"
 
 msgid "NM-ABJ00705"
-msgstr ""
+msgstr ":@NM-STG165"
 
 msgid "NM-ABJ00801"
-msgstr ""
+msgstr ":@NM-SK000082"
 
 msgid "NM-ABJ00802"
-msgstr ""
+msgstr ":@NM-STG153"
 
 msgid "NM-ABJ00803"
-msgstr ""
+msgstr ":@NM-SK000083"
 
 msgid "NM-ABJ00804"
-msgstr ""
+msgstr ":@NM-STG175"
 
 msgid "NM-ABJ00805"
-msgstr ""
+msgstr ":@NM-SK000084"
 
 msgid "NM-ABJ00901"
-msgstr ""
+msgstr ":@NM-SK000085"
 
 msgid "NM-ABJ00902"
-msgstr ""
+msgstr ":@NM-STG091"
 
 msgid "NM-ABJ00903"
-msgstr ""
+msgstr ":@NM-SK000086"
 
 msgid "NM-ABJ00904"
-msgstr ""
+msgstr ":@NM-STG157"
 
 msgid "NM-ABJ00905"
-msgstr ""
+msgstr ":@NM-SK000087"
 
 msgid "NM-ABJ01001"
-msgstr ""
+msgstr ":@NM-SK000088"
 
 msgid "NM-ABJ01002"
-msgstr ""
+msgstr ":@NM-STG088"
 
 msgid "NM-ABJ01003"
-msgstr ""
+msgstr ":@NM-SK000089"
 
 msgid "NM-ABJ01004"
-msgstr ""
+msgstr ":@NM-STG002"
 
 msgid "NM-ABJ01005"
-msgstr ""
+msgstr ":@NM-SK000090"
 
 msgid "NM-ABJ01101"
-msgstr ""
+msgstr ":@NM-SK000091"
 
 msgid "NM-ABJ01102"
-msgstr ""
+msgstr ":@NM-STG181"
 
 msgid "NM-ABJ01103"
-msgstr ""
+msgstr ":@NM-SK000092"
 
 msgid "NM-ABJ01104"
-msgstr ""
+msgstr ":@NM-STG166"
 
 msgid "NM-ABJ01105"
-msgstr ""
+msgstr ":@NM-SK000093"
 
 msgid "NM-ABJ01201"
-msgstr ""
+msgstr ":@NM-SK000094"
 
 msgid "NM-ABJ01202"
-msgstr ""
+msgstr ":@NM-STG228"
 
 msgid "NM-ABJ01203"
-msgstr ""
+msgstr ":@NM-SK000095"
 
 msgid "NM-ABJ01204"
-msgstr ""
+msgstr ":@NM-STG162"
 
 msgid "NM-ABJ01205"
-msgstr ""
+msgstr ":@NM-SK000096"
 
 msgid "NM-ABJ01301"
-msgstr ""
+msgstr ":@NM-SK000097"
 
 msgid "NM-ABJ01302"
-msgstr ""
+msgstr ":@NM-STG078"
 
 msgid "NM-ABJ01303"
-msgstr ""
+msgstr ":@NM-SK000098"
 
 msgid "NM-ABJ01304"
-msgstr ""
+msgstr ":@NM-STG176"
 
 msgid "NM-ABJ01305"
-msgstr ""
+msgstr ":@NM-SK000099"
 
 msgid "NM-ABJ01401"
-msgstr ""
+msgstr ":@NM-SK000100"
 
 msgid "NM-ABJ01402"
-msgstr ""
+msgstr ":@NM-STG089"
 
 msgid "NM-ABJ01403"
-msgstr ""
+msgstr ":@NM-SK000101"
 
 msgid "NM-ABJ01404"
-msgstr ""
+msgstr ":@NM-STG171"
 
 msgid "NM-ABJ01405"
-msgstr ""
+msgstr ":@NM-SK000102"
 
 msgid "NM-ABJ01501"
-msgstr ""
+msgstr ":@NM-SK000103"
 
 msgid "NM-ABJ01502"
 msgstr ""
 
 msgid "NM-ABJ01503"
-msgstr ""
+msgstr ":@NM-SK000104"
 
 msgid "NM-ABJ01504"
 msgstr ""
 
 msgid "NM-ABJ01505"
-msgstr ""
+msgstr ":@NM-SK000105"
 
 msgid "NM-ABJ01601"
-msgstr ""
+msgstr ":@NM-SK000106"
 
 msgid "NM-ABJ01602"
-msgstr ""
+msgstr ":@NM-STG065"
 
 msgid "NM-ABJ01603"
-msgstr ""
+msgstr ":@NM-SK000107"
 
 msgid "NM-ABJ01604"
 msgstr ""
 
 msgid "NM-ABJ01605"
-msgstr ""
+msgstr ":@NM-SK000108"
 
 msgid "NM-ABJ01701"
-msgstr ""
+msgstr ":@NM-SK000109"
 
 msgid "NM-ABJ01702"
-msgstr ""
+msgstr ":@NM-STG080"
 
 msgid "NM-ABJ01703"
-msgstr ""
+msgstr ":@NM-SK000110"
 
 msgid "NM-ABJ01704"
-msgstr ""
+msgstr ":@NM-STG167"
 
 msgid "NM-ABJ01705"
-msgstr ""
+msgstr ":@NM-SK000111"
 
 msgid "NM-ABJ01801"
-msgstr ""
+msgstr ":@NM-SK000112"
 
 msgid "NM-ABJ01802"
-msgstr ""
+msgstr ":@NM-STG168"
 
 msgid "NM-ABJ01803"
-msgstr ""
+msgstr ":@NM-SK000113"
 
 msgid "NM-ABJ01804"
-msgstr ""
+msgstr ":@NM-STG169"
 
 msgid "NM-ABJ01805"
-msgstr ""
+msgstr ":@NM-SK000114"
 
 msgid "NM-ABJ01901"
-msgstr ""
+msgstr ":@NM-SK000115"
 
 msgid "NM-ABJ01902"
-msgstr ""
+msgstr ":@NM-STG035"
 
 msgid "NM-ABJ01903"
-msgstr ""
+msgstr ":@NM-SK000116"
 
 msgid "NM-ABJ01904"
-msgstr ""
+msgstr ":@NM-STG170"
 
 msgid "NM-ABJ01905"
-msgstr ""
+msgstr ":@NM-SK000117"
 
 msgid "NM-ABJ02001"
-msgstr ""
+msgstr ":@NM-SK000118"
 
 msgid "NM-ABJ02002"
-msgstr ""
+msgstr ":@NM-STG081"
 
 msgid "NM-ABJ02003"
-msgstr ""
+msgstr ":@NM-SK000119"
 
 msgid "NM-ABJ02004"
-msgstr ""
+msgstr ":@NM-STG086"
 
 msgid "NM-ABJ02005"
-msgstr ""
+msgstr ":@NM-SK000120"
 
 msgid "NM-ABJ02101"
-msgstr ""
+msgstr ":@NM-SK000121"
 
 msgid "NM-ABJ02102"
-msgstr ""
+msgstr ":@NM-STG083"
 
 msgid "NM-ABJ02103"
-msgstr ""
+msgstr ":@NM-SK000122"
 
 msgid "NM-ABJ02104"
-msgstr ""
+msgstr ":@NM-STG085"
 
 msgid "NM-ABJ02105"
-msgstr ""
+msgstr ":@NM-SK000123"
 
 msgid "NM-ABJ02201"
-msgstr ""
+msgstr ":@NM-SK000124"
 
 msgid "NM-ABJ02202"
-msgstr ""
+msgstr ":@NM-STG074"
 
 msgid "NM-ABJ02203"
-msgstr ""
+msgstr ":@NM-SK000125"
 
 msgid "NM-ABJ02204"
-msgstr ""
+msgstr ":@NM-STG269"
 
 msgid "NM-ABJ02205"
-msgstr ""
+msgstr ":@NM-SK000126"
 
 msgid "NM-ABJ02301"
-msgstr ""
+msgstr ":@NM-SK000127"
 
 msgid "NM-ABJ02302"
-msgstr ""
+msgstr ":@NM-STG159"
 
 msgid "NM-ABJ02303"
-msgstr ""
+msgstr ":@NM-SK000128"
 
 msgid "NM-ABJ02304"
-msgstr ""
+msgstr ":@NM-STG099"
 
 msgid "NM-ABJ02305"
-msgstr ""
+msgstr ":@NM-SK000129"
 
 msgid "NM-ABJ02401"
-msgstr ""
+msgstr ":@NM-SK000130"
 
 msgid "NM-ABJ02402"
-msgstr ""
+msgstr ":@NM-STG160"
 
 msgid "NM-ABJ02403"
-msgstr ""
+msgstr ":@NM-SK000131"
 
 msgid "NM-ABJ02404"
-msgstr ""
+msgstr ":@NM-STG100"
 
 msgid "NM-ABJ02405"
-msgstr ""
+msgstr ":@NM-SK000132"
 
 msgid "NM-ABJ02501"
-msgstr ""
+msgstr ":@NM-SK000133"
 
 msgid "NM-ABJ02502"
-msgstr ""
+msgstr ":@NM-STG161"
 
 msgid "NM-ABJ02503"
-msgstr ""
+msgstr ":@NM-SK000134"
 
 msgid "NM-ABJ02504"
-msgstr ""
+msgstr ":@NM-STG101"
 
 msgid "NM-ABJ02505"
-msgstr ""
+msgstr ":@NM-SK000135"
 
 msgid "NM-ABJ02601"
-msgstr ""
+msgstr ":@NM-SK000136"
 
 msgid "NM-ABJ02602"
-msgstr ""
+msgstr ":@NM-STG163"
 
 msgid "NM-ABJ02603"
-msgstr ""
+msgstr ":@NM-SK000137"
 
 msgid "NM-ABJ02604"
-msgstr ""
+msgstr ":@NM-STG025"
 
 msgid "NM-ABJ02605"
-msgstr ""
+msgstr ":@NM-SK000138"
 
 msgid "NM-ABJ02701"
-msgstr ""
+msgstr ":@NM-SK000139"
 
 msgid "NM-ABJ02702"
-msgstr ""
+msgstr ":@NM-STG084"
 
 msgid "NM-ABJ02703"
-msgstr ""
+msgstr ":@NM-SK000140"
 
 msgid "NM-ABJ02704"
-msgstr ""
+msgstr ":@NM-STG178"
 
 msgid "NM-ABJ02705"
-msgstr ""
+msgstr ":@NM-SK000141"
 
 msgid "NM-ABJ02801"
-msgstr ""
+msgstr ":@NM-SK000142"
 
 msgid "NM-ABJ02802"
-msgstr ""
+msgstr ":@NM-STG177"
 
 msgid "NM-ABJ02803"
-msgstr ""
+msgstr ":@NM-SK000143"
 
 msgid "NM-ABJ02804"
-msgstr ""
+msgstr ":@NM-STG076"
 
 msgid "NM-ABJ02805"
-msgstr ""
+msgstr ":@NM-SK000144"
 
 msgid "NM-ABJ02901"
-msgstr ""
+msgstr ":@NM-SK000145"
 
 msgid "NM-ABJ02902"
-msgstr ""
+msgstr ":@NM-STG244"
 
 msgid "NM-ABJ02903"
-msgstr ""
+msgstr ":@NM-SK000146"
 
 msgid "NM-ABJ02904"
-msgstr ""
+msgstr ":@NM-STG158"
 
 msgid "NM-ABJ02905"
-msgstr ""
+msgstr ":@NM-SK000147"
 
 msgid "NM-ABJ03001"
-msgstr ""
+msgstr ":@NM-SK000148"
 
 msgid "NM-ABJ03002"
-msgstr ""
+msgstr ":@NM-STG164"
 
 msgid "NM-ABJ03003"
-msgstr ""
+msgstr ":@NM-SK000149"
 
 msgid "NM-ABJ03004"
-msgstr ""
+msgstr ":@NM-STG245"
 
 msgid "NM-ABJ03005"
-msgstr ""
+msgstr ":@NM-SK000150"
 
 msgid "NM-ABL00001"
-msgstr ""
+msgstr ":@NM-STG103"
 
 msgid "NM-ABL00002"
-msgstr ""
+msgstr ":@NM-STG104"
 
 msgid "NM-ABL00003"
-msgstr ""
+msgstr ":@NM-STG124"
 
 msgid "NM-ABL00004"
-msgstr ""
+msgstr ":@NM-STG125"
 
 msgid "NM-ABL00005"
-msgstr ""
+msgstr ":@NM-STG126"
 
 msgid "NM-ABL00006"
-msgstr ""
+msgstr ":@NM-STG127"
 
 msgid "NM-ABL00007"
-msgstr ""
+msgstr ":@NM-STG128"
 
 msgid "NM-ABL00008"
-msgstr ""
+msgstr ":@NM-STG129"
 
 msgid "NM-ABL00009"
-msgstr ""
+msgstr ":@NM-STG130"
 
 msgid "NM-ABL00010"
-msgstr ""
+msgstr ":@NM-STG131"
 
 msgid "NM-ABL00011"
-msgstr ""
+msgstr ":@NM-STG132"
 
 msgid "NM-ABL00012"
-msgstr ""
+msgstr ":@NM-STG133"
 
 msgid "NM-ABL00013"
-msgstr ""
+msgstr ":@NM-STG134"
 
 msgid "NM-ABL00014"
-msgstr ""
+msgstr ":@NM-STG135"
 
 msgid "NM-ABL00015"
-msgstr ""
+msgstr ":@NM-STG136"
 
 msgid "NM-ABL00016"
-msgstr ""
+msgstr ":@NM-STG137"
 
 msgid "NM-ABL00017"
-msgstr ""
+msgstr ":@NM-STG138"
 
 msgid "NM-ABL00018"
-msgstr ""
+msgstr ":@NM-STG139"
 
 msgid "NM-ABL00019"
-msgstr ""
+msgstr ":@NM-STG140"
 
 msgid "NM-ABL00020"
-msgstr ""
+msgstr ":@NM-STG141"
 
 msgid "NM-ABL99999"
-msgstr ""
+msgstr ":@NM-STG105"
 
 msgid "NM-About-Beta-URL"
 msgstr ""
@@ -6236,181 +6236,181 @@ msgid "NM-About-Payment"
 msgstr ""
 
 msgid "NM-ABP00001"
-msgstr ""
+msgstr "Atk+3"
 
 msgid "NM-ABP00002"
-msgstr ""
+msgstr "Spl+3"
 
 msgid "NM-ABP00003"
-msgstr ""
+msgstr "Grd+3"
 
 msgid "NM-ABP00004"
-msgstr ""
+msgstr "Hrt+3"
 
 msgid "NM-ABP00005"
-msgstr ""
+msgstr "Lv+5"
 
 msgid "NM-ABP00006"
-msgstr ""
+msgstr ":@NM-STG092"
 
 msgid "NM-ABP00007"
-msgstr ""
+msgstr ":@NM-STG170"
 
 msgid "NM-ABP00008"
-msgstr ""
+msgstr ":@NM-STG025"
 
 msgid "NM-ABP00009"
-msgstr ""
+msgstr ":@NM-STG093"
 
 msgid "NM-ABP00010"
-msgstr ""
+msgstr ":@NM-STG099"
 
 msgid "NM-ABP00011"
-msgstr ""
+msgstr ":@NM-STG100"
 
 msgid "NM-ABP00012"
-msgstr ""
+msgstr ":@NM-STG101"
 
 msgid "NM-ABP00013"
-msgstr ""
+msgstr ":@NM-STG102"
 
 msgid "NM-ABP00014"
-msgstr ""
+msgstr ":@NM-STG106"
 
 msgid "NM-ABP00015"
-msgstr ""
+msgstr ":@NM-STG054"
 
 msgid "NM-ABP00016"
-msgstr ""
+msgstr ":@NM-STG001"
 
 msgid "NM-ABP00017"
-msgstr ""
+msgstr ":@NM-STG045"
 
 msgid "NM-ABP00018"
-msgstr ""
+msgstr ":@NM-STG118"
 
 msgid "NM-ABP00019"
-msgstr ""
+msgstr ":@NM-STG111"
 
 msgid "NM-ABP00020"
 msgstr ""
 
 msgid "NM-ABP00021"
-msgstr ""
+msgstr ":@NM-STG073"
 
 msgid "NM-ABP00022"
-msgstr ""
+msgstr ":@NM-STG234"
 
 msgid "NM-ABP00023"
-msgstr ""
+msgstr ":@NM-STG031"
 
 msgid "NM-ABP00024"
-msgstr ""
+msgstr ":@NM-STG120"
 
 msgid "NM-ABP00025"
-msgstr ""
+msgstr ":@NM-STG046"
 
 msgid "NM-ABP00026"
-msgstr ""
+msgstr ":@NM-SKP00001"
 
 msgid "NM-ABP00027"
-msgstr ""
+msgstr ":@NM-SKP00002"
 
 msgid "NM-ABP00028"
-msgstr ""
+msgstr ":@NM-SKP00003"
 
 msgid "NM-ABP00029"
-msgstr ""
+msgstr ":@NM-SKP00004"
 
 msgid "NM-ABP00030"
-msgstr ""
+msgstr ":@NM-SKP00005"
 
 msgid "NM-ABP00031"
-msgstr ""
+msgstr ":@NM-STG017"
 
 msgid "NM-ABP00032"
-msgstr ""
+msgstr ":@NM-STG021"
 
 msgid "NM-ABP00033"
-msgstr ""
+msgstr ":@NM-STG272"
 
 msgid "NM-ABP00034"
-msgstr ""
+msgstr ":@NM-STG157"
 
 msgid "NM-ABP00035"
-msgstr ""
+msgstr ":@NM-STG275"
 
 msgid "NM-ABP00036"
-msgstr ""
+msgstr ":@NM-STG074"
 
 msgid "NM-ABP00037"
-msgstr ""
+msgstr ":@NM-STG274"
 
 msgid "NM-ABP00038"
-msgstr ""
+msgstr ":@NM-STG088"
 
 msgid "NM-ABP00039"
-msgstr ""
+msgstr ":@NM-STG276"
 
 msgid "NM-ABP00040"
-msgstr ""
+msgstr ":@NM-STG277"
 
 msgid "NM-ABS01001"
-msgstr ""
+msgstr ":@NM-STG111"
 
 msgid "NM-ABS01002"
-msgstr ""
+msgstr ":@NM-STG066"
 
 msgid "NM-ABS01003"
-msgstr ""
+msgstr ":@NM-STG230"
 
 msgid "NM-ABS01004"
-msgstr ""
+msgstr ":@NM-STG092"
 
 msgid "NM-ABS01005"
 msgstr ""
 
 msgid "NM-ABS01006"
-msgstr ""
+msgstr ":@NM-STG247"
 
 msgid "NM-ABS01007"
-msgstr ""
+msgstr ":@NM-STG021"
 
 msgid "NM-ABS01008"
-msgstr ""
+msgstr ":@NM-STG058"
 
 msgid "NM-ABS01009"
-msgstr ""
+msgstr ":@NM-STG263"
 
 msgid "NM-ABS01010"
 msgstr ""
 
 msgid "NM-ABS01011"
-msgstr ""
+msgstr ":@NM-STG233"
 
 msgid "NM-ABS01012"
-msgstr ""
+msgstr ":@NM-STG250"
 
 msgid "NM-ABS01013"
-msgstr ""
+msgstr ":@NM-STG063"
 
 msgid "NM-ABS01014"
-msgstr ""
+msgstr ":@NM-STG114"
 
 msgid "NM-ABS01015"
-msgstr ""
+msgstr ":@NM-SKP00008"
 
 msgid "NM-ABS01016"
-msgstr ""
+msgstr ":@NM-STG001"
 
 msgid "NM-ABS01017"
-msgstr ""
+msgstr ":@NM-STG054"
 
 msgid "NM-ABS01018"
-msgstr ""
+msgstr ":@NM-STG046"
 
 msgid "NM-ABS01019"
-msgstr ""
+msgstr ":@NM-STL082"
 
 msgid "NM-ABS01020"
 msgstr ""
@@ -6605,94 +6605,94 @@ msgid "NM-ACHIVEMENT"
 msgstr ""
 
 msgid "NM-AM0001"
-msgstr ""
+msgstr ":@NM-ABSJ0001"
 
 msgid "NM-AM0002"
-msgstr ""
+msgstr ":@NM-ABSJ0002"
 
 msgid "NM-AM0003"
-msgstr ""
+msgstr ":@NM-ABSJ0003"
 
 msgid "NM-AM0004"
-msgstr ""
+msgstr ":@NM-ABSJ0004"
 
 msgid "NM-AM0005"
-msgstr ""
+msgstr ":@NM-ABSJ0005"
 
 msgid "NM-AM0006"
-msgstr ""
+msgstr ":@NM-ABSJ0006"
 
 msgid "NM-AM0007"
-msgstr ""
+msgstr ":@NM-ABSJ0007"
 
 msgid "NM-AM0008"
-msgstr ""
+msgstr ":@NM-ABSJ0008"
 
 msgid "NM-AM0009"
-msgstr ""
+msgstr ":@NM-ABSJ0009"
 
 msgid "NM-AM0010"
-msgstr ""
+msgstr ":@NM-ABSJ0010"
 
 msgid "NM-AM0011"
-msgstr ""
+msgstr ":@NM-ABSJ0011"
 
 msgid "NM-AM0012"
-msgstr ""
+msgstr ":@NM-ABSJ0012"
 
 msgid "NM-AM0013"
-msgstr ""
+msgstr ":@NM-ABSJ0013"
 
 msgid "NM-AM0014"
-msgstr ""
+msgstr ":@NM-ABSJ0014"
 
 msgid "NM-AM0015"
-msgstr ""
+msgstr ":@NM-ABSJ0015"
 
 msgid "NM-AM0016"
-msgstr ""
+msgstr ":@NM-ABSJ0016"
 
 msgid "NM-AM0017"
-msgstr ""
+msgstr ":@NM-ABSJ0017"
 
 msgid "NM-AM0018"
-msgstr ""
+msgstr ":@NM-ABSJ0018"
 
 msgid "NM-AM0019"
-msgstr ""
+msgstr ":@NM-ABSJ0019"
 
 msgid "NM-AM0020"
-msgstr ""
+msgstr ":@NM-ABSJ0020"
 
 msgid "NM-AM0021"
-msgstr ""
+msgstr ":@NM-ABSJ0021"
 
 msgid "NM-AM0022"
-msgstr ""
+msgstr ":@NM-ABSJ0022"
 
 msgid "NM-AM0023"
-msgstr ""
+msgstr ":@NM-ABSJ0023"
 
 msgid "NM-AM0024"
-msgstr ""
+msgstr ":@NM-ABSJ0024"
 
 msgid "NM-AM0025"
-msgstr ""
+msgstr ":@NM-ABSJ0025"
 
 msgid "NM-AM0026"
-msgstr ""
+msgstr ":@NM-ABSJ0026"
 
 msgid "NM-AM0027"
-msgstr ""
+msgstr ":@NM-ABSJ0027"
 
 msgid "NM-AM0028"
-msgstr ""
+msgstr ":@NM-ABSJ0028"
 
 msgid "NM-AM0029"
-msgstr ""
+msgstr ":@NM-ABSJ0029"
 
 msgid "NM-AM0030"
-msgstr ""
+msgstr ":@NM-ABSJ0030"
 
 msgid "NM-Amulet"
 msgstr ""
@@ -9329,7 +9329,7 @@ msgid "NM-SKEN0031"
 msgstr ""
 
 msgid "NM-SKEN0032"
-msgstr ""
+msgstr ":@NM-SK000130"
 
 msgid "NM-SKEN0033"
 msgstr ""
@@ -9560,7 +9560,7 @@ msgid "NM-SkillNode-Param-VolunteerArmy"
 msgstr ""
 
 msgid "NM-SkillNode-Relate-Atk"
-msgstr ""
+msgstr "Atk"
 
 msgid "NM-SkillNode-Relate-Brave"
 msgstr ""
@@ -9569,13 +9569,13 @@ msgid "NM-SkillNode-Relate-Day"
 msgstr ""
 
 msgid "NM-SkillNode-Relate-Grd"
-msgstr ""
+msgstr "Grd"
 
 msgid "NM-SkillNode-Relate-HP"
 msgstr ""
 
 msgid "NM-SkillNode-Relate-Hrt"
-msgstr ""
+msgstr "Hrt"
 
 msgid "NM-SkillNode-RelateIs"
 msgstr ""
@@ -9611,7 +9611,7 @@ msgid "NM-SkillNode-Relate-Shield"
 msgstr ""
 
 msgid "NM-SkillNode-Relate-Spl"
-msgstr ""
+msgstr "Spl"
 
 msgid "NM-SkillNode-Target-AllEnemy"
 msgstr ""
@@ -9878,22 +9878,22 @@ msgid "NM-STG002"
 msgstr ""
 
 msgid "NM-STG003"
-msgstr ""
+msgstr ":@NM-STG001"
 
 msgid "NM-STG004"
-msgstr ""
+msgstr ":@NM-STG002"
 
 msgid "NM-STG005"
-msgstr ""
+msgstr ":@NM-STG001"
 
 msgid "NM-STG006"
-msgstr ""
+msgstr ":@NM-STG002"
 
 msgid "NM-STG007"
-msgstr ""
+msgstr ":@NM-STG001"
 
 msgid "NM-STG008"
-msgstr ""
+msgstr ":@NM-STG002"
 
 msgid "NM-STG009"
 msgstr ""
@@ -9908,7 +9908,7 @@ msgid "NM-STG012"
 msgstr ""
 
 msgid "NM-STG013"
-msgstr ""
+msgstr ":@NM-STG009"
 
 msgid "NM-STG014"
 msgstr ""
@@ -9923,25 +9923,25 @@ msgid "NM-STG017"
 msgstr ""
 
 msgid "NM-STG018"
-msgstr ""
+msgstr ":@NM-STG017"
 
 msgid "NM-STG019"
-msgstr ""
+msgstr ":@NM-STG017"
 
 msgid "NM-STG020"
-msgstr ""
+msgstr ":@NM-STG017"
 
 msgid "NM-STG021"
 msgstr ""
 
 msgid "NM-STG022"
-msgstr ""
+msgstr ":@NM-STG021"
 
 msgid "NM-STG023"
-msgstr ""
+msgstr ":@NM-STG021"
 
 msgid "NM-STG024"
-msgstr ""
+msgstr ":@NM-STG021"
 
 msgid "NM-STG025"
 msgstr ""
@@ -9959,13 +9959,13 @@ msgid "NM-STG029"
 msgstr ""
 
 msgid "NM-STG030"
-msgstr ""
+msgstr ":@NM-STG029"
 
 msgid "NM-STG031"
 msgstr ""
 
 msgid "NM-STG032"
-msgstr ""
+msgstr ":@NM-STG031"
 
 msgid "NM-STG034"
 msgstr ""
@@ -9986,16 +9986,16 @@ msgid "NM-STG039"
 msgstr ""
 
 msgid "NM-STG040"
-msgstr ""
+msgstr ":@NM-STG036"
 
 msgid "NM-STG041"
-msgstr ""
+msgstr ":@NM-STG037"
 
 msgid "NM-STG042"
-msgstr ""
+msgstr ":@NM-STG038"
 
 msgid "NM-STG043"
-msgstr ""
+msgstr ":@NM-STG039"
 
 msgid "NM-STG045"
 msgstr ""
@@ -10004,49 +10004,49 @@ msgid "NM-STG046"
 msgstr ""
 
 msgid "NM-STG047"
-msgstr ""
+msgstr ":@NM-STG046"
 
 msgid "NM-STG048"
 msgstr ""
 
 msgid "NM-STG049"
-msgstr ""
+msgstr ":@NM-STG048"
 
 msgid "NM-STG050"
 msgstr ""
 
 msgid "NM-STG051"
-msgstr ""
+msgstr ":@NM-STG050"
 
 msgid "NM-STG052"
 msgstr ""
 
 msgid "NM-STG053"
-msgstr ""
+msgstr ":@NM-STG052"
 
 msgid "NM-STG054"
 msgstr ""
 
 msgid "NM-STG055"
-msgstr ""
+msgstr ":@NM-STG054"
 
 msgid "NM-STG056"
 msgstr ""
 
 msgid "NM-STG057"
-msgstr ""
+msgstr ":@NM-STG056"
 
 msgid "NM-STG058"
 msgstr ""
 
 msgid "NM-STG059"
-msgstr ""
+msgstr ":@NM-STG058"
 
 msgid "NM-STG060"
 msgstr ""
 
 msgid "NM-STG061"
-msgstr ""
+msgstr ":@NM-STG060"
 
 msgid "NM-STG062"
 msgstr ""
@@ -10055,7 +10055,7 @@ msgid "NM-STG063"
 msgstr ""
 
 msgid "NM-STG064"
-msgstr ""
+msgstr ":@NM-STG063"
 
 msgid "NM-STG065"
 msgstr ""
@@ -10064,13 +10064,13 @@ msgid "NM-STG066"
 msgstr ""
 
 msgid "NM-STG067"
-msgstr ""
+msgstr ":@NM-STG066"
 
 msgid "NM-STG068"
 msgstr ""
 
 msgid "NM-STG069"
-msgstr ""
+msgstr ":@NM-STG068"
 
 msgid "NM-STG070"
 msgstr ""
@@ -10088,13 +10088,13 @@ msgid "NM-STG074"
 msgstr ""
 
 msgid "NM-STG075"
-msgstr ""
+msgstr ":@NM-STG074"
 
 msgid "NM-STG076"
 msgstr ""
 
 msgid "NM-STG077"
-msgstr ""
+msgstr ":@NM-STG076"
 
 msgid "NM-STG078"
 msgstr ""
@@ -10145,7 +10145,7 @@ msgid "NM-STG093"
 msgstr ""
 
 msgid "NM-STG094"
-msgstr ""
+msgstr ":@NM-STG093"
 
 msgid "NM-STG095"
 msgstr ""
@@ -10184,7 +10184,7 @@ msgid "NM-STG106"
 msgstr ""
 
 msgid "NM-STG107"
-msgstr ""
+msgstr ":@NM-STG106"
 
 msgid "NM-STG108"
 msgstr ""
@@ -10199,7 +10199,7 @@ msgid "NM-STG111"
 msgstr ""
 
 msgid "NM-STG112"
-msgstr ""
+msgstr ":@NM-STG111"
 
 msgid "NM-STG113"
 msgstr ""
@@ -10208,19 +10208,19 @@ msgid "NM-STG114"
 msgstr ""
 
 msgid "NM-STG115"
-msgstr ""
+msgstr ":@NM-STG114"
 
 msgid "NM-STG116"
-msgstr ""
+msgstr ":@NM-STG114"
 
 msgid "NM-STG117"
-msgstr ""
+msgstr ":@NM-STG114"
 
 msgid "NM-STG118"
 msgstr ""
 
 msgid "NM-STG119"
-msgstr ""
+msgstr ":@NM-STG118"
 
 msgid "NM-STG120"
 msgstr ""
@@ -10382,7 +10382,7 @@ msgid "NM-STG172"
 msgstr ""
 
 msgid "NM-STG173"
-msgstr ""
+msgstr ":@NM-STG172"
 
 msgid "NM-STG174"
 msgstr ""
@@ -10403,7 +10403,7 @@ msgid "NM-STG179"
 msgstr ""
 
 msgid "NM-STG180"
-msgstr ""
+msgstr ":@NM-STG179"
 
 msgid "NM-STG181"
 msgstr ""
@@ -10418,13 +10418,13 @@ msgid "NM-STG184"
 msgstr ""
 
 msgid "NM-STG185"
-msgstr ""
+msgstr ":@NM-STG184"
 
 msgid "NM-STG186"
-msgstr ""
+msgstr ":@NM-STG184"
 
 msgid "NM-STG187"
-msgstr ""
+msgstr ":@NM-STG184"
 
 msgid "NM-STG188"
 msgstr ""
@@ -10454,31 +10454,31 @@ msgid "NM-STG197"
 msgstr ""
 
 msgid "NM-STG198"
-msgstr ""
+msgstr ":@NM-STG197"
 
 msgid "NM-STG199"
 msgstr ""
 
 msgid "NM-STG200"
-msgstr ""
+msgstr ":@NM-STG199"
 
 msgid "NM-STG201"
 msgstr ""
 
 msgid "NM-STG202"
-msgstr ""
+msgstr ":@NM-STG201"
 
 msgid "NM-STG203"
 msgstr ""
 
 msgid "NM-STG204"
-msgstr ""
+msgstr ":@NM-STG203"
 
 msgid "NM-STG205"
 msgstr ""
 
 msgid "NM-STG206"
-msgstr ""
+msgstr ":@NM-STG205"
 
 msgid "NM-STG207"
 msgstr ""
@@ -10496,7 +10496,7 @@ msgid "NM-STG211"
 msgstr ""
 
 msgid "NM-STG212"
-msgstr ""
+msgstr ":@NM-STG211"
 
 msgid "NM-STG213"
 msgstr ""
@@ -10505,7 +10505,7 @@ msgid "NM-STG214"
 msgstr ""
 
 msgid "NM-STG215"
-msgstr ""
+msgstr ":@NM-STG214"
 
 msgid "NM-STG216"
 msgstr ""
@@ -10604,16 +10604,16 @@ msgid "NM-STG247"
 msgstr ""
 
 msgid "NM-STG248"
-msgstr ""
+msgstr ":@NM-STG246"
 
 msgid "NM-STG249"
-msgstr ""
+msgstr ":@NM-STG247"
 
 msgid "NM-STG250"
 msgstr ""
 
 msgid "NM-STG251"
-msgstr ""
+msgstr ":@NM-STG250"
 
 msgid "NM-STG252"
 msgstr ""
@@ -10646,7 +10646,7 @@ msgid "NM-STG261"
 msgstr ""
 
 msgid "NM-STG262"
-msgstr ""
+msgstr ":@NM-STG261"
 
 msgid "NM-STG263"
 msgstr ""
@@ -11168,7 +11168,7 @@ msgid "WD-GearPos3"
 msgstr ""
 
 msgid "WD-Items"
-msgstr ""
+msgstr ":@NM-Item"
 
 msgid "WD-Locked-Short"
 msgstr ""
@@ -11228,16 +11228,16 @@ msgid "WD-Used"
 msgstr ""
 
 msgid "WORD_IAP_CURRENCY"
-msgstr ""
+msgstr ":@NM-PrismOrb"
 
 msgid "WD-Btn-Wiki"
 msgstr ""
 
 msgid "URL-Wiki"
-msgstr ""
+msgstr "https://wikiwiki.jp/endingdays/"
 
 msgid "WD-Btn-Discord"
-msgstr ""
+msgstr "Discord"
 
 msgid "WD-Btn-ReturnToPrepare"
 msgstr ""
@@ -11249,7 +11249,7 @@ msgid "DC-NW0005"
 msgstr ""
 
 msgid "URL-Survey"
-msgstr ""
+msgstr "https://docs.google.com/forms/d/e/1FAIpQLSf2m-QQb64U7c0UlxKBDji3GpdfS1dXlC7bbzHIM-OwO4NBIQ/viewform"
 
 msgid "DC-NW0006"
 msgstr ""
@@ -11267,10 +11267,10 @@ msgid "DC-STG278"
 msgstr ""
 
 msgid "NM-STG152A"
-msgstr ""
+msgstr ":@NM-STG151"
 
 msgid "DC-STG152A"
-msgstr ""
+msgstr ":@DC-STG151"
 
 msgid "DC-Cfm-ChangeBattleSpeed"
 msgstr ""
