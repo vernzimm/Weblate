@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-30 22:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.1\n"
+
+msgid "DC-Cfm-AgreeEULA"
+msgstr ""
+
+msgid "DC-Plz-Wait-Do-It"
+msgstr ""
+
+msgid "DC-Prologue"
+msgstr ""
+
+msgid "Desc-INI-LPT-001"
+msgstr ""
+
+msgid "Desc-INI-MNT-001"
+msgstr ""
+
+msgid "Desc-INI-WBI-001"
+msgstr ""
+
+msgid "Desc-INI-WBU-001"
+msgstr ""
+
+msgid "NM-BattleSpeed:0"
+msgstr ""
+
+msgid "NM-BattleSpeed:1"
+msgstr ""
+
+msgid "NM-BattleSpeed:-1"
+msgstr ""
+
+msgid "TEXT_CONFIRM_DOWNLOAD_DATA"
+msgstr ""
+
+msgid "TEXT_CONFIRM_OPEN_URL"
+msgstr ""
+
+msgid "TEXT_CONFIRM_UPLOAD_DATA"
+msgstr ""
+
+msgid "TEXT_GUIDE_CONTACT"
+msgstr ""
+
+msgid "TEXT_MSG_AFTER_CLEAR_CACHE"
+msgstr ""
+
+msgid "TEXT_MSG_FAIL_CONNECT"
+msgstr ""
+
+msgid "TEXT_MSG_FAIL_GET_DATA"
+msgstr ""
+
+msgid "TEXT_MSG_FAIL_GET_SERVER_DATA"
+msgstr ""
+
+msgid "TEXT_MSG_FAIL_SAVE_DATA"
+msgstr ""
+
+msgid "TEXT_MSG_FAIL_SEND_DATA"
+msgstr ""
+
+msgid "TEXT_MSG_INPUT_NAME"
+msgstr ""
+
+msgid "TEXT_MSG_SEND_BUG_REPORT"
+msgstr ""
+
+msgid "TEXT_MSG_SUCCESS_DOWNLOAD"
+msgstr ""
+
+msgid "TEXT_MSG_SUCCESS_PUBLISH_BKCODE"
+msgstr ""
+
+msgid "TEXT_MSG_SUCCESS_SEND"
+msgstr ""
+
+msgid "TEXT_MSG_SUCCESS_UPLOAD"
+msgstr ""
+
+msgid "TEXT_MSG_USE_BKCODE"
+msgstr ""
+
+msgid "TEXT_MSG_USE_BKCODE_SUCCESS"
+msgstr ""
+
+msgid "WD-Btn-Agreement"
+msgstr ""
+
+msgid "WD-Btn-OpenURL"
+msgstr ""
+
+msgid "WD-Version"
+msgstr ""
+
+msgid "WORD_BATTLE_SPEED"
+msgstr ""
+
+msgid "WORD_BTN_CLEAR_CACHE"
+msgstr ""
+
+msgid "WORD_BTN_CONFIG_LONG"
+msgstr ""
+
+msgid "WORD_BTN_DOWNLOAD"
+msgstr ""
+
+msgid "WORD_BTN_LOGIN"
+msgstr ""
+
+msgid "WORD_BTN_MENU"
+msgstr ""
+
+msgid "WORD_BTN_NEWS"
+msgstr ""
+
+msgid "WORD_BTN_PROLOGUE"
+msgstr ""
+
+msgid "WORD_BTN_PUBLISH_BACKUP_CODE"
+msgstr ""
+
+msgid "WORD_BTN_RESTART_GAME"
+msgstr ""
+
+msgid "WORD_BTN_RESTORE_DATA"
+msgstr ""
+
+msgid "WORD_BTN_SEND_BUG_REPORT"
+msgstr ""
+
+msgid "WORD_BTN_SPECIAL_THANKS"
+msgstr ""
+
+msgid "WORD_BTN_SUPPORT"
+msgstr ""
+
+msgid "WORD_BTN_UPLOAD"
+msgstr ""
+
+msgid "WORD_BTN_USE_BACKUP_CODE"
+msgstr ""
+
+msgid "WORD_CANCEL"
+msgstr ""
+
+msgid "WORD_CLEAR_NUM"
+msgstr ""
+
+msgid "WORD_CLOSE"
+msgstr ""
+
+msgid "WORD_CONFIRM"
+msgstr ""
+
+msgid "WORD_CURRENCY_CREDIT"
+msgstr ""
+
+msgid "WORD_EULA"
+msgstr ""
+
+msgid "WORD_HEADER_DISP_NAME"
+msgstr ""
+
+msgid "WORD_HEADER_OPEN_URL"
+msgstr ""
+
+msgid "WORD_HEADER_VIBE_DEVICE"
+msgstr ""
+
+msgid "WORD_HEADER_VIBE_SCREEN"
+msgstr ""
+
+msgid "WORD_HEADER_VIBRATION"
+msgstr ""
+
+msgid "WORD_LOADING_PURCHASE"
+msgstr ""
+
+msgid "WORD_OK"
+msgstr ""
+
+msgid "WORD_PURCHASE"
+msgstr ""
+
+msgid "WORD_QUALITY"
+msgstr ""
+
+msgid "WORD_QUALITY_0"
+msgstr ""
+
+msgid "WORD_QUALITY_1"
+msgstr ""
+
+msgid "WORD_QUALITY_-1"
+msgstr ""
+
+msgid "WORD_TOUCH_TO_START"
+msgstr ""
+
+msgid "TEXT_MSG_FAIL_NETWORK"
+msgstr ""
+
+msgid "Desc-INI-GLI-001"
+msgstr ""
+
+msgid "Desc-INI-PLY-001"
+msgstr ""
+
+msgid "Desc-INI-MNT-001"
+msgstr ""
+
+msgid "DC-Alt-OfflineMode"
+msgstr ""
