@@ -1,0 +1,13 @@
+Glossary
+	The glossary helps to keep specific translations the same, such as names of characters or items. If we decide to translate "見習い聖司アオイ" as "Aoi, the Apprentice Saint" for one translation, the next time a translation comes up that contains "見習い聖司アオイ", the glossary will show the name you assigned previously. That way we don't forget and call her "Aoi, the Novice Saint" instead.
+
+Suggest
+	If you are not sure about a translation or don't want to change someone else's translation, you can "suggest" an edit by editing the text and clicking "Suggest" instead of "Save". You may also want to leave a comment.
+
+Needs Editing
+	If you find a string that is very hard, and you don't know how to fix it, or maybe it is in a language you don't know, click on the "Needs editing" box and click "Save". This is a flag for someone else to look at it. You may also leave a comment.
+	
+Comment
+	This is the best way to communicate about a specific string or translation. Please view them and use them.
+	
+	One important item! The item called "Scope" in the "New Comment" box will set who can see your comment. If you use the first setting "Translation comment...", you comment will only be visible on that translation *in your language*. That means that if I comment on the Portuguese translation of "DC-GRAL16", my comment will only be visible for Portuguese "DC-GRAL16", not Korean "DC-GRAL16". If the comment is for all languages, change "Scope" to "Source string comment...". Now if I go to Portuguese "DC-GRAL16" or Korean "DC-GRAL16", I will see my comment in both.
