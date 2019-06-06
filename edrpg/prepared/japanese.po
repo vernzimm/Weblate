@@ -1,213 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-06 20:46+0000\n"
+"PO-Revision-Date: 2019-06-06 20:46+0000\n"
+"Last-Translator: Weblate Admin <weblate@example.com>\n"
+"Language-Team: Japanese <http://192.168.99.100/projects/test/prepared/ja/>\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.6.1\n"
+
+#, fuzzy
 msgid "DC-Cfm-AgreeEULA"
 msgstr "ソフトウェア利用許諾契約に同意してからサービスをご利用ください。__未成年の方は、法定代理人の同意が必要です。"
 
+#, fuzzy
 msgid "DC-Plz-Wait-Do-It"
 msgstr "時間を置いて実行してください。"
 
+#, fuzzy
 msgid "DC-Prologue"
-msgstr "『世界の崩壊』の後、全てが終わり、人類は絶えた。____ただ一人生き延びた古代の守護者エコは、その永遠の命を糧に、無謀な戦いに身を投じる。____それは、地平線まで続く砂漠から、一粒のダイヤを拾い上げるがごとき愚行。____それでも少女は諦めない。____全ての運命に抗い、人類が残された”希望の未来”を探して…"
+msgstr ""
+"『世界の崩壊』の後、全てが終わり、人類は絶えた。____ただ一人生き延びた古代の守護者エコは、その永遠の命を糧に、無謀な戦いに身を投じる。____それは、"
+"地平線まで続く砂漠から、一粒のダイヤを拾い上げるがごとき愚行。____それでも少女は諦めない。____全ての運命に抗い、人類が残された”希望の未来”を探し"
+"て…"
 
+#, fuzzy
 msgid "Desc-INI-LPT-001"
 msgstr "mogera.jpのユーザアカウントにログインしてください。"
 
 msgid "Desc-INI-MNT-001"
 msgstr "現在、ゲームサーバのメンテナンス中です。"
 
+#, fuzzy
 msgid "Desc-INI-WBI-001"
 msgstr ":@Desc-INI-LPT-001"
 
+#, fuzzy
 msgid "Desc-INI-WBU-001"
 msgstr "正しいURLからゲームにアクセスしてください。"
 
+#, fuzzy
 msgid "NM-BattleSpeed:0"
 msgstr "普通"
 
+#, fuzzy
 msgid "NM-BattleSpeed:1"
 msgstr "ゆっくり"
 
+#, fuzzy
 msgid "NM-BattleSpeed:-1"
 msgstr "速い"
 
+#, fuzzy
 msgid "TEXT_CONFIRM_DOWNLOAD_DATA"
 msgstr "サーバセーブをダウンロードします。よろしいですか？"
 
+#, fuzzy
 msgid "TEXT_CONFIRM_OPEN_URL"
 msgstr "URLを開きます。__{0}__{1}"
 
+#, fuzzy
 msgid "TEXT_CONFIRM_UPLOAD_DATA"
 msgstr "ローカルセーブをサーバにアップロードします。よろしいですか？"
 
+#, fuzzy
 msgid "TEXT_GUIDE_CONTACT"
 msgstr "問題が改善しない場合は、UserIDを添えて以下までご連絡ください。"
 
+#, fuzzy
 msgid "TEXT_MSG_AFTER_CLEAR_CACHE"
 msgstr "キャッシュを削除しました。"
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_CONNECT"
 msgstr "ゲームサーバへの接続に失敗しました。"
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_GET_DATA"
 msgstr "データの取得に失敗しました。"
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_GET_SERVER_DATA"
 msgstr "サーバデータの取得に失敗しました。"
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_SAVE_DATA"
 msgstr "データの保存に失敗しました。"
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_SEND_DATA"
 msgstr "データの送信に失敗しました。"
 
+#, fuzzy
 msgid "TEXT_MSG_INPUT_NAME"
 msgstr "名前を入力してください。"
 
+#, fuzzy
 msgid "TEXT_MSG_SEND_BUG_REPORT"
-msgstr "発生している問題について、詳細にお書きください。__(※バグレポートには個別に返信が送られません。__個別に返信が必要な場合は、サポートから直接お問い合わせください。)"
+msgstr ""
+"発生している問題について、詳細にお書きください。__(※バグレポートには個別に返信が送られません。__個別に返信が必要な場合は、サポートから直接お問い合わ"
+"せください。)"
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_DOWNLOAD"
 msgstr "ダウンロードしました！"
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_PUBLISH_BKCODE"
 msgstr "バックアップコードを発行しました！__このコードからアカウントの復元が可能です。__このコードをコピーして、お手元で大事に保管してください。"
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_SEND"
 msgstr "送信しました！"
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_UPLOAD"
 msgstr "アップロードしました！"
 
+#, fuzzy
 msgid "TEXT_MSG_USE_BKCODE"
 msgstr "バックアップコードを入力してください。"
 
+#, fuzzy
 msgid "TEXT_MSG_USE_BKCODE_SUCCESS"
 msgstr "バックアップコードからアカウントを復元しました。"
 
+#, fuzzy
 msgid "WD-Btn-Agreement"
 msgstr "同意する"
 
+#, fuzzy
 msgid "WD-Btn-OpenURL"
 msgstr "URLを開く"
 
+#, fuzzy
 msgid "WD-Version"
 msgstr "バージョン"
 
+#, fuzzy
 msgid "WORD_BATTLE_SPEED"
 msgstr "バトルスピード"
 
+#, fuzzy
 msgid "WORD_BTN_CLEAR_CACHE"
 msgstr "キャッシュクリア"
 
+#, fuzzy
 msgid "WORD_BTN_CONFIG_LONG"
 msgstr "設定変更"
 
+#, fuzzy
 msgid "WORD_BTN_DOWNLOAD"
 msgstr "ダウンロード"
 
+#, fuzzy
 msgid "WORD_BTN_LOGIN"
 msgstr "ログイン"
 
+#, fuzzy
 msgid "WORD_BTN_MENU"
 msgstr "メニュー"
 
+#, fuzzy
 msgid "WORD_BTN_NEWS"
 msgstr "お知らせ"
 
+#, fuzzy
 msgid "WORD_BTN_PROLOGUE"
 msgstr "プロローグ"
 
+#, fuzzy
 msgid "WORD_BTN_PUBLISH_BACKUP_CODE"
 msgstr "バックアップコードの発行"
 
+#, fuzzy
 msgid "WORD_BTN_RESTART_GAME"
 msgstr "再起動する"
 
+#, fuzzy
 msgid "WORD_BTN_RESTORE_DATA"
 msgstr "データ復元"
 
+#, fuzzy
 msgid "WORD_BTN_SEND_BUG_REPORT"
 msgstr "バグレポートの送信"
 
+#, fuzzy
 msgid "WORD_BTN_SPECIAL_THANKS"
 msgstr "Special Thanks"
 
+#, fuzzy
 msgid "WORD_BTN_SUPPORT"
 msgstr "サポート/お問い合わせ"
 
+#, fuzzy
 msgid "WORD_BTN_UPLOAD"
 msgstr "アップロード"
 
+#, fuzzy
 msgid "WORD_BTN_USE_BACKUP_CODE"
 msgstr "バックアップコードの使用"
 
+#, fuzzy
 msgid "WORD_CANCEL"
 msgstr "キャンセル"
 
+#, fuzzy
 msgid "WORD_CLEAR_NUM"
 msgstr "クリアした数"
 
+#, fuzzy
 msgid "WORD_CLOSE"
 msgstr "閉じる"
 
+#, fuzzy
 msgid "WORD_CONFIRM"
 msgstr "確認"
 
+#, fuzzy
 msgid "WORD_CURRENCY_CREDIT"
 msgstr "Gem"
 
+#, fuzzy
 msgid "WORD_EULA"
 msgstr "ソフトウェア利用許諾契約"
 
+#, fuzzy
 msgid "WORD_HEADER_DISP_NAME"
 msgstr "表示名"
 
+#, fuzzy
 msgid "WORD_HEADER_OPEN_URL"
 msgstr "URLを開きます"
 
+#, fuzzy
 msgid "WORD_HEADER_VIBE_DEVICE"
 msgstr "端末の振動"
 
+#, fuzzy
 msgid "WORD_HEADER_VIBE_SCREEN"
 msgstr "画面の振動"
 
+#, fuzzy
 msgid "WORD_HEADER_VIBRATION"
 msgstr "振動"
 
+#, fuzzy
 msgid "WORD_LOADING_PURCHASE"
 msgstr "購入中…"
 
+#, fuzzy
 msgid "WORD_OK"
 msgstr "OK"
 
+#, fuzzy
 msgid "WORD_PURCHASE"
 msgstr "購入する"
 
+#, fuzzy
 msgid "WORD_QUALITY"
 msgstr "品質"
 
+#, fuzzy
 msgid "WORD_QUALITY_0"
 msgstr "標準"
 
+#, fuzzy
 msgid "WORD_QUALITY_1"
 msgstr "快適"
 
+#, fuzzy
 msgid "WORD_QUALITY_-1"
 msgstr "綺麗"
 
+#, fuzzy
 msgid "WORD_TOUCH_TO_START"
 msgstr "TOUCH TO START"
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_NETWORK"
 msgstr "ネットワーク接続に失敗しました。"
 
+#, fuzzy
 msgid "Desc-INI-GLI-001"
 msgstr ":@TEXT_MSG_FAIL_CONNECT"
 
+#, fuzzy
 msgid "Desc-INI-PLY-001"
 msgstr "新しいバージョンがリリースされました。バージョンアップしてください。"
 
+#, fuzzy
 msgid "Desc-INI-MNT-001"
 msgstr "現在、ゲームサーバのメンテナンス中です。"
 
+#, fuzzy
 msgid "DC-Alt-OfflineMode"
-msgstr "オフラインモードで開始します。__・サーバセーブが利用できません。__・アプリ内課金が利用できません。__・ランキング等のネットワーク機能が利用できません。"
-
+msgstr ""
+"オフラインモードで開始します。__・サーバセーブが利用できません。__・アプリ内課金が利用できません。__・ランキング等のネットワーク機能が利用できません"
+"。"
