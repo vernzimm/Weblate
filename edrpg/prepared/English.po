@@ -3,236 +3,310 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-20 05:01+0000\n"
-"PO-Revision-Date: 2019-05-23 11:11+0000\n"
-"Last-Translator: Cirr <cirrusfruits@gmail.com>\n"
-"Language-Team: English <http://translate.nussygame.com/projects/edrpg/"
-"edrpg-prepared/en/>\n"
+"PO-Revision-Date: 2019-06-06 20:55+0000\n"
+"Last-Translator: Weblate Admin <weblate@example.com>\n"
+"Language-Team: English <http://192.168.99.100/projects/test/prepared/en/>\n"
 "Language: English\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.3\n"
+"X-Generator: Weblate 3.6.1\n"
 
+#, fuzzy
 msgid "DC-Cfm-AgreeEULA"
-msgstr "Please use the service after accepting End-User license agreements.__If you are a minor, you need the consent of a legal representative."
+msgstr ""
+"Please use the service after accepting End-User license agreements.__If you "
+"are a minor, you need the consent of a legal representative."
 
+#, fuzzy
 msgid "DC-Plz-Wait-Do-It"
 msgstr "Please try again after a while."
 
+#, fuzzy
 msgid "DC-Prologue"
-msgstr "『世界の崩壊』の後、全てが終わり、人類は絶えた。____ただ一人生き延びた古代の守護者エコは、その永遠の命を糧に、無謀な戦いに身を投じる。____それは、地平線まで続く砂漠から、一粒のダイヤを拾い上げるがごとき愚行。____それでも少女は諦めない。____全ての運命に抗い、人類が残された”希望の未来”を探して…"
+msgstr ""
+"『世界の崩壊』の後、全てが終わり、人類は絶えた。____ただ一人生き延びた古代の守護者エコは、その永遠の命を糧に、無謀な戦いに身を投じる。____それは、"
+"地平線まで続く砂漠から、一粒のダイヤを拾い上げるがごとき愚行。____それでも少女は諦めない。____全ての運命に抗い、人類が残された”希望の未来”を探し"
+"て…"
 
+#, fuzzy
 msgid "Desc-INI-LPT-001"
 msgstr "Please login with a mogera.jp account."
 
 msgid "Desc-INI-MNT-001"
 msgstr "Game server is currently undergoing maintenance."
 
+#, fuzzy
 msgid "Desc-INI-WBI-001"
 msgstr ":@Desc-INI-LPT-001"
 
+#, fuzzy
 msgid "Desc-INI-WBU-001"
 msgstr "Please access correct game URL."
 
+#, fuzzy
 msgid "NM-BattleSpeed:0"
 msgstr "Normal"
 
+#, fuzzy
 msgid "NM-BattleSpeed:1"
 msgstr "Slow"
 
+#, fuzzy
 msgid "NM-BattleSpeed:-1"
 msgstr "Quick"
 
+#, fuzzy
 msgid "TEXT_CONFIRM_DOWNLOAD_DATA"
 msgstr ""
 "Are you sure you wish to download your server save data? This will overwrite "
 "your client save data!"
 
+#, fuzzy
 msgid "TEXT_CONFIRM_OPEN_URL"
 msgstr "Opening URL…__{0}__{1}"
 
+#, fuzzy
 msgid "TEXT_CONFIRM_UPLOAD_DATA"
 msgstr ""
 "Are you sure you wish to upload your local save data? This will overwrite "
 "your server save data!"
 
+#, fuzzy
 msgid "TEXT_GUIDE_CONTACT"
 msgstr "If problems still persist, please contact me with your UserID."
 
+#, fuzzy
 msgid "TEXT_MSG_AFTER_CLEAR_CACHE"
 msgstr "Cache cleared successfully."
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_CONNECT"
 msgstr "Failed to connect to game server."
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_GET_DATA"
 msgstr "Failed to get data."
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_GET_SERVER_DATA"
 msgstr "Failed to get server data."
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_SAVE_DATA"
 msgstr "Failed to save data."
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_SEND_DATA"
 msgstr "Failed to get server data."
 
+#, fuzzy
 msgid "TEXT_MSG_INPUT_NAME"
 msgstr "Please input your name."
 
+#, fuzzy
 msgid "TEXT_MSG_SEND_BUG_REPORT"
 msgstr ""
 "Please describe the problems you have encountered in detail. __(Bug reports "
 "are not sent individually. __If you require an individual reply, please "
 "contact us via support.)"
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_DOWNLOAD"
 msgstr "Download successful!"
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_PUBLISH_BKCODE"
 msgstr ""
 "Backup code published successfully!__You can restore your account with this "
 "code.__Please copy this code and keep it safe."
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_SEND"
 msgstr "Sent successfully!"
 
+#, fuzzy
 msgid "TEXT_MSG_SUCCESS_UPLOAD"
 msgstr "Upload successful!"
 
+#, fuzzy
 msgid "TEXT_MSG_USE_BKCODE"
 msgstr "Please input your backup code."
 
+#, fuzzy
 msgid "TEXT_MSG_USE_BKCODE_SUCCESS"
 msgstr "Account restored successfully!"
 
+#, fuzzy
 msgid "WD-Btn-Agreement"
 msgstr "I Agree"
 
+#, fuzzy
 msgid "WD-Btn-OpenURL"
 msgstr "Open URL"
 
+#, fuzzy
 msgid "WD-Version"
 msgstr "Version"
 
+#, fuzzy
 msgid "WORD_BATTLE_SPEED"
 msgstr "Battle Speed"
 
+#, fuzzy
 msgid "WORD_BTN_CLEAR_CACHE"
 msgstr "Clear Cache"
 
+#, fuzzy
 msgid "WORD_BTN_CONFIG_LONG"
 msgstr "Configuration"
 
+#, fuzzy
 msgid "WORD_BTN_DOWNLOAD"
 msgstr "Download"
 
+#, fuzzy
 msgid "WORD_BTN_LOGIN"
 msgstr "Login"
 
+#, fuzzy
 msgid "WORD_BTN_MENU"
 msgstr "Menu"
 
+#, fuzzy
 msgid "WORD_BTN_NEWS"
 msgstr "News"
 
+#, fuzzy
 msgid "WORD_BTN_PROLOGUE"
 msgstr "Prologue"
 
+#, fuzzy
 msgid "WORD_BTN_PUBLISH_BACKUP_CODE"
 msgstr "Publish Backup Code"
 
+#, fuzzy
 msgid "WORD_BTN_RESTART_GAME"
 msgstr "Restart game"
 
+#, fuzzy
 msgid "WORD_BTN_RESTORE_DATA"
 msgstr "Restore data"
 
+#, fuzzy
 msgid "WORD_BTN_SEND_BUG_REPORT"
 msgstr "Report a bug"
 
+#, fuzzy
 msgid "WORD_BTN_SPECIAL_THANKS"
 msgstr "Special Thanks"
 
+#, fuzzy
 msgid "WORD_BTN_SUPPORT"
 msgstr "Support"
 
+#, fuzzy
 msgid "WORD_BTN_UPLOAD"
 msgstr "Upload"
 
+#, fuzzy
 msgid "WORD_BTN_USE_BACKUP_CODE"
 msgstr "Use Backup Code"
 
+#, fuzzy
 msgid "WORD_CANCEL"
 msgstr "Cancel"
 
+#, fuzzy
 msgid "WORD_CLEAR_NUM"
 msgstr "Cleared"
 
+#, fuzzy
 msgid "WORD_CLOSE"
 msgstr "Close"
 
+#, fuzzy
 msgid "WORD_CONFIRM"
 msgstr "Confirm"
 
+#, fuzzy
 msgid "WORD_CURRENCY_CREDIT"
 msgstr "Gem"
 
+#, fuzzy
 msgid "WORD_EULA"
 msgstr "End-user license agreement"
 
+#, fuzzy
 msgid "WORD_HEADER_DISP_NAME"
 msgstr "Display Name"
 
+#, fuzzy
 msgid "WORD_HEADER_OPEN_URL"
 msgstr "Open URL"
 
+#, fuzzy
 msgid "WORD_HEADER_VIBE_DEVICE"
 msgstr "Device"
 
+#, fuzzy
 msgid "WORD_HEADER_VIBE_SCREEN"
 msgstr "Screen"
 
+#, fuzzy
 msgid "WORD_HEADER_VIBRATION"
 msgstr "Vibration"
 
+#, fuzzy
 msgid "WORD_LOADING_PURCHASE"
 msgstr "Purchasing..."
 
+#, fuzzy
 msgid "WORD_OK"
 msgstr "OK"
 
+#, fuzzy
 msgid "WORD_PURCHASE"
 msgstr "Purchase"
 
+#, fuzzy
 msgid "WORD_QUALITY"
 msgstr "Quality"
 
+#, fuzzy
 msgid "WORD_QUALITY_0"
 msgstr "Good"
 
+#, fuzzy
 msgid "WORD_QUALITY_1"
 msgstr "Comfortable"
 
+#, fuzzy
 msgid "WORD_QUALITY_-1"
 msgstr "Beautiful"
 
+#, fuzzy
 msgid "WORD_TOUCH_TO_START"
 msgstr "TOUCH TO START"
 
+#, fuzzy
 msgid "TEXT_MSG_FAIL_NETWORK"
 msgstr "Failed to connect to the network."
 
+#, fuzzy
 msgid "Desc-INI-GLI-001"
 msgstr ":@TEXT_MSG_FAIL_CONNECT"
 
+#, fuzzy
 msgid "Desc-INI-PLY-001"
 msgstr "A new version has been released. Please update."
 
+#, fuzzy
 msgid "Desc-INI-MNT-001"
 msgstr "We are currently maintaining the game server."
 
+#, fuzzy
 msgid "DC-Alt-OfflineMode"
 msgstr ""
 "Start in offline mode. __* Server save not available. __* In-app purchases "
